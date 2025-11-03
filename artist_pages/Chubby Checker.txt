@@ -1,0 +1,687 @@
+{{short description|American singer (born 1941)}}
+{{BLP sources|date=July 2023}}
+{{Use mdy dates|date=January 2022}}
+{{infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name              = Chubby Checker
+| image             = WIKI CHUBBY CHECKER 1.jpg
+| caption           = Chubby Checker in 2005
+| birth_name        = Ernest Evans
+| alias             = 
+| birth_date        = {{birth date and age|1941|10|3}}
+| birth_place       = [[Spring Gully, South Carolina]], U.S.
+| origin            = [[Philadelphia, Pennsylvania]], U.S.
+| genre             = [[Rock and roll]]
+| occupation        = {{flatlist|
+* Singer
+* dancer
+}}
+| years_active      = 1960–present
+| label             = {{flatlist|
+* [[Cameo-Parkway Records|Parkway]]
+* [[MCA Records|MCA]]
+}}
+| spouse            = {{marriage|[[Catharina Lodders]]|1964}}
+| website           = {{URL|chubbychecker.com}}
+}}
+
+'''Ernest Evans''' (born October 3, 1941), known professionally as '''Chubby Checker''', is an American [[rock and roll]] singer and dancer. He is known for popularizing many dance styles, including [[Twist (dance)|the Twist]], with his 1960 hit cover of [[Hank Ballard]] & [[The Midnighters]]' R&B song "[[The Twist (song)|The Twist]]", and the [[pony (dance)|Pony]], with his 1961 cover of the song "[[Pony Time]]". His biggest UK hit, "[[Let's Twist Again]]", was released one year later (in 1962). That year, he also popularized the song "[[Limbo Rock]]", a previous-year instrumental hit by [[the Champs]] to which he added lyrics and its trademark [[Limbo (dance)|Limbo dance]]. He also introduced other dance styles, such as [[The Fly (Chubby Checker song)|the Fly]]. In September 2008, "The Twist" topped ''[[Billboard (magazine)|Billboard]]''{{'}}s list of the most popular [[single (music)|singles]] to have appeared in the [[Billboard Hot 100|Hot 100]] since its debut in 1960, an honor it maintained in an August 2013 update of the list.<ref>{{cite magazine|url=http://www.billboard.com/articles/list/2155531/the-hot-100-all-time-top-songs|title=Hot 100 55th Anniversary: The All-Time Top 100 Songs|magazine=Billboard|access-date=26 October 2017|archive-date=July 26, 2013|archive-url=https://web.archive.org/web/20130726075338/http://www.billboard.com/articles/list/2155531/the-hot-100-all-time-top-songs|url-status=live}}</ref> In 2014, Checker was inducted into the [[National Rhythm & Blues Hall of Fame]], and he was selected for induction into the [[Rock and Roll Hall of Fame]] in 2025.<ref name="rr25">{{cite web |title=The Rock & Roll Hall of Fame Foundation unveils electrifying class of 2025 inductees |url=https://rockhall.com/press-release/the-rock-roll-hall-of-fame-foundation-unveils-electrifying-class-of-2025-inductees/ |website=Rock & Roll Hall of Fame |access-date=28 April 2025}}</ref>
+
+==Early life==
+Checker was born Ernest Evans in [[Spring Gully, South Carolina]].<ref>{{cite book|first=Benjamin V|last=Franklin|title=An Encyclopedia of South Carolina Jazz and Blues Musicians|url=https://books.google.com/books?id=jsnYCwAAQBAJ&pg=PT147|date=30 May 2016|publisher=[[University of South Carolina Press]]|location=Columbia, South Carolina|isbn=978-1-61117-622-3|page=147}}</ref> He was raised in [[the projects]] of [[South Philadelphia]], where he lived with his parents, Raymond and Eartle Evans,<ref>UPI Telephoto (NAP 122601), December 1963.</ref> and two brothers.<ref name= Chubby>{{cite web|url=http://www.chubbychecker.com/bio.asp|title=The Official Site|website=ChubbyChecker.com|access-date=2015-08-18|archive-date=May 30, 2023|archive-url=https://web.archive.org/web/20230530044750/https://www.chubbychecker.com/bio.asp|url-status=dead}}</ref> By age eleven, Evans formed a street-corner harmony group. By the time he entered high school, Ernest had learned to play the piano a little at [[Settlement Music School]]. He entertained his classmates by performing vocal impressions of popular entertainers of the day, such as [[Jerry Lee Lewis]], [[Elvis Presley]] and [[Fats Domino]].<ref>{{cite web|title=Chubby Checker |url=https://www.biography.com/musician/chubby-checker|website=biography.com|access-date=17 June 2019}}</ref> One of his classmates and friends at [[South Philadelphia High School]] was Fabian Forte, who would become a popular performer of the late 1950s and early 1960s as [[Fabian Forte|Fabian]].<ref name= Chubby />
+
+After school Evans would entertain customers at his various jobs, including Fresh Farm Poultry in the [[Italian Market, Philadelphia|Italian Market]] on Ninth Street and at the Produce Market, with songs and jokes. It was his boss at the Produce Market, Anthony Tambone, who gave Evans the nickname "Chubby". The owner of Fresh Farm Poultry, Henry Colt, was so impressed by the boy's performances for the customers that he, along with his colleague and friend Kal Mann, who worked as a songwriter for [[Cameo-Parkway Records]],<ref>{{cite web|url=http://www.classicbands.com/ChubbyCheckerInterview.html |title=Interview With Chubby Checker|website= Classicbands.com|date=1961-02-01|access-date=2015-08-18}}</ref> arranged for young Chubby to do a private recording for ''[[American Bandstand]]'' host [[Dick Clark]]. After hearing Chubby's Fats Domino impression, Clark's wife Barbara suggested that Chubby be called "Chubby [[Checkers|Checker]]" in homage to him.<ref>{{cite web|url=http://www.classicbands.com/checker.html|title=Chubby Checker|website=Classicbands.com|date=1958-11-11|access-date=2015-08-18|archive-date=May 11, 2012|archive-url=https://web.archive.org/web/20120511001542/http://www.classicbands.com/checker.html|url-status=live}}</ref><ref>{{Cite web|url=https://americansongwriter.com/the-story-behind-how-the-twist-creator-chubby-checker-got-his-name/|title=The Story Behind How "The Twist" Creator Chubby Checker Got His Name|first=Tina|last=Benitez-Eves|date=February 2, 2023|website=American Songwriter}}</ref>
+
+==Career==
+===1950s–1960s===
+[[File:Chubby Checker 1964.jpg|thumb|Chubby Checker performing in 1964]]
+In December 1958, Checker privately recorded a novelty single for Clark in which the singer portrayed a school teacher with an unruly classroom of musical performers. The premise allowed Checker to imitate such acts as [[Fats Domino]], [[The Coasters]], [[Elvis Presley]], [[Cozy Cole]], and [[The Chipmunks]], each singing "[[Mary Had a Little Lamb]]". Clark sent the song out as his Christmas greeting, and it received such good response that Cameo-Parkway signed Checker to a recording contract.<ref>{{cite book|last=Dawson|first=Jim|url=http://archive.org/details/twiststoryofsong0000daws|title=The twist : the story of the song that changed the world|date=1995|publisher=[[Faber and Faber]]|location=Boston, Massachusetts|others=Internet Archive|isbn=978-0-571-19852-8|pages=[https://archive.org/details/twiststoryofsong0000daws/page/30/mode/2up 30-31]}}</ref> Titled "[[The Class (song)|The Class]]", the single became Checker's first release, charting at No. 38 in the spring of 1959.<ref name=":0">{{cite magazine|title=Chubby Checker|url=https://www.billboard.com/artist/chubby-checker/|access-date=January 16, 2022|magazine=[[Billboard (magazine)|Billboard]]|language=en-US}}</ref>
+
+Checker introduced his version of "The Twist" at the age of 18 in July 1960 in [[Wildwood, New Jersey]] at the Rainbow Club. "The Twist" went on to top the [[Billboard Hot 100|''Billboard'' Hot 100]] not just once in 1960, but yet again in a separate chart run in late 1961. The first success was attributed to teens, and the unprecedented second number-one Billboard ranking was driven by older audiences following a spirited live performance<ref>{{cite AV media|date=October 22, 1961|title=Chubby Checker "The Twist & Let's Twist Again" on The Ed Sullivan Show|language=English |url=https://www.youtube.com/watch?v=QDGprGUreOc|publisher=The Ed Sullivan Show via YouTube|access-date=March 13, 2022}}</ref> of the song by Checker on [[The Ed Sullivan Show]], seen by over 10 million viewers.<ref>{{cite web|last=Dawson|first=Jim|date=2012|title="The Twist"—Chubby Checker (1960)|url=https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TheTwist.pdf|url-status=live|website=[[Library of Congress]]|archive-url=https://web.archive.org/web/20201017102507/https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TheTwist.pdf|archive-date=October 17, 2020 }}</ref> ([[Bing Crosby]]'s "[[White Christmas (song)|White Christmas]]" had also achieved number one twice on ''Billboard''{{'}}s earlier chart.)
+
+"[[The Twist (song)|The Twist]]" had previously peaked at No. 16 on the ''[[Billboard (magazine)|Billboard]]'' rhythm and blues chart, in the 1959 version recorded by its author, [[Hank Ballard]], whose band The Midnighters first performed the dance on stage. Checker's "Twist", however, was a nationwide smash, aided by his many appearances on Dick Clark's ''[[American Bandstand]]'', the top 10 ''American Bandstand'' ranking of the song, and the teenagers on the show who enjoyed dancing the Twist. The song was so ubiquitous that Checker felt that his critics thought he could only succeed as a dance demonstrator. Checker later lamented: ""The Twist" really ruined my life. I was on my way to becoming a big nightclub performer, and "The Twist" just wiped it out&nbsp;... It got so out of proportion. No one ever believes I have talent."<ref>{{cite book|title=The Twist: The Story of the Song and Dance That Changed the World|last=Dawson|first=Jim|publisher=[[Faber & Faber]]|year=1995|isbn=9780571198528|location=Boston, Massachusetts|pages=[https://archive.org/details/twiststoryofsong0000daws/page/26 26]|url=https://archive.org/details/twiststoryofsong0000daws/page/26}}</ref> By 1965 alone, "The Twist" had sold over 15 million copies, and was awarded multiple [[music recording sales certification|gold discs]] by the [[Recording Industry Association of America|RIAA]].<ref name="The Book of Golden Discs">{{cite book|first=Joseph|last=Murrells|year=1978|title=The Book of Golden Discs|edition=2nd|publisher=Barrie and Jenkins Ltd|location=London, England|pages=[https://archive.org/details/bookofgoldendisc00murr/page/122 122–3]|isbn=0-214-20512-6|url=https://archive.org/details/bookofgoldendisc00murr/page/122}}</ref>
+
+Despite Checker's initial disapproval, he found follow-up success with a succession of up-tempo dance tracks, including "The Hucklebuck" (No. 14), "[[The Fly (Chubby Checker song)|The Fly]]" (No. 7), "Dance the Mess Around" (No. 24), and "[[Pony Time]]", which became his second No. 1 single.<ref name=":0" /> Checker's follow-up "twist" single, "[[Let's Twist Again]]", won the 1962 [[Grammy Award for Best Rock and Roll Recording]].<ref>{{cite magazine|last=Unterberger|first=Andrew|date=January 26, 2018|title=60 Grammys, 60 Moments: The Greatest Moment From Every Grammys Ceremony So Far|url=https://www.billboard.com/music/awards/greatest-grammy-moments-60-years-8095834/|url-status=live|access-date=January 16, 2022|magazine=[[Billboard (magazine)|Billboard]]|language=en-US|archive-url=https://web.archive.org/web/20220116055342/https://www.billboard.com/music/awards/greatest-grammy-moments-60-years-8095834/|archive-date=January 16, 2022}}</ref> A 1962 duet with [[Dee Dee Sharp]], "Slow Twistin'", reached No. 3 on the national charts. Other substantial hits included "[[Dancin' Party]]", "[[Popeye the Hitchhiker]]", "[[Twenty Miles]]", "[[Birdland (Chubby Checker song)|Birdland]]", "[[Loddy Lo]]", and a Christmas duet with [[Bobby Rydell]], "[[Jingle Bell Rock]]". "[[Limbo Rock]]" reached No. 2 on 22–29 December 1962, becoming Checker's last top ten hit. Checker continued to have top 40 singles until 1965, his last being "[[Let's Do the Freddie]]" (No. 40), a variation on [[Freddie and the Dreamers]]' dance tune "Do the Freddie", with new melody and lyrics. Changes in public tastes, owing mostly to the [[British Invasion]] and [[Music history of the United States in the 1960s#Rock|counterculture era]], ended his hit-making career. He spent much of the rest of the 1960s touring and recording in Europe.
+
+===1970s–1990s===
+"The Twist" was recorded for [[Cameo-Parkway Records]] and along with the label's other material, became unavailable after the early 1970s because of the company's internal legal disputes. For decades, almost all compilations of Checker's hits consisted of re-recordings. The 1970s saw a shift and resurgence for his career, including a temporary stint as a [[disco]] artist. Checker continued to be a superstar in Europe with television and records.{{citation needed|date=September 2015}} A dance-floor cover version of [[the Beatles]]' "[[Back in the U.S.S.R.]]" released in 1969 on [[Buddah Records]], his first chart entry in three years, reached No. 82.<ref>{{cite magazine|title=Billboard Hot 100, May 3, 1969|url=http://www.billboard.com/charts/hot-100/1969-05-03|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 8, 2017|archive-date=August 26, 2017|archive-url=https://web.archive.org/web/20170826092100/http://www.billboard.com/charts/hot-100/1969-05-03|url-status=live}}</ref> It was Checker's last chart appearance until 1982 when he hit No. 91 with "Running".<ref name=":0" />
+[[File:ChubbyCheckerByPhilKonstantin.jpg|thumb|Chubby Checker during a TV interview in 2008]]
+
+In 1971, Checker at his own insistence recorded a [[psychedelic music|psychedelic]] album filled with music he felt was "current" that was initially only released in Europe. Originally named ''[[Chequered!]]'', it was renamed over the years in subsequent re-releases as ''New Revelation'', ''The Other Side Of Chubby Checker'', and sometimes as ''Chubby Checker''. The songs were all written by Checker and produced by former [[Jimi Hendrix]] producer [[Ed Chalpin]],<ref>{{cite web|url=http://www.allmusic.com/artist/ed-chalpin-mn0001538682|title=AllMusic – Ed Chalpin Credits|website=[[AllMusic]]|access-date=July 8, 2017}}</ref> but the studio musicians' names are unknown. The album flopped.<ref>{{cite web|url=http://www.allmusic.com/album/chequered%21-mw0000836593|title=AllMusic Overview|last=Demming|first=Mark|website=[[AllMusic]]|access-date=July 8, 2017}}</ref>
+Later in the decade, he recorded an album of "audiophile re-creations" of his greatest hits, for producer Stan Shulman.
+
+In 1988, Chubby teamed up with hip-hop trio [[The Fat Boys]] with their version of ''The Twist (Yo, Twist)'': this reached No 2 in the UK.
+
+===2000s and beyond===
+Checker had a single at No. 1 on ''Billboard's'' dance [[record chart|chart]] in July 2008 with "Knock Down the Walls". The single also made the top 30 on the Adult Contemporary chart.<ref name=":0" /> [[Roger Filgate]] of [[Wishbone Ash]] is featured on lead guitar.<ref>{{cite web|date=2009-09-17|title=Guitarist Filgate performs with Chubby Checker in Danbury|url=https://www.newstimes.com/news/article/Guitarist-Filgate-performs-with-Chubby-Checker-in-132067.php|access-date=2022-01-16|website=NewsTimes|language=en-US}}</ref>
+
+In 2009, Checker recorded a [[public service announcement]] (PSA) for the [[Social Security Administration]] to help launch a new campaign to promote recent changes in [[Medicare (United States)|Medicare]] law.<ref>{{cite web|url=http://www.socialsecurity.gov/pgm/flash/chubbychecker.htm|title=Social Security Public Service Announcement|publisher=Social Security Administration|access-date=2015-08-18|url-status=dead|archive-url=https://web.archive.org/web/20150924103328/http://www.socialsecurity.gov/pgm/flash/chubbychecker.htm|archive-date=2015-09-24}}</ref> In the PSA, Checker encourages Americans on Medicare to apply for Extra Help, "A new 'twist' in the law makes it easier than ever to save on your prescription drug plan costs."<ref name= SSA_PSA>{{cite web|access-date=January 8, 2010|url=http://www.socialsecurity.gov/pressoffice/psa-video.html|title=Public Service Announcements for Television|website=SocialSecurity.gov|publisher=Social Security Administration|archive-date=January 14, 2010|archive-url=https://web.archive.org/web/20100114183615/http://www.socialsecurity.gov/pressoffice/psa-video.html|url-status=live}}</ref><ref name= SSA_videos>{{cite web|access-date=January 8, 2010|url=http://www.socialsecurity.gov/pressoffice/psa-video.html|title=Social Security Videos|publisher=Social Security Administration}}</ref>
+
+On February 25, 2013, Checker released a new single, the ballad "Changes," via [[iTunes]]; it was posted on YouTube and amassed over 160,000 views.<ref>{{cite web|archive-url=https://web.archive.org/web/20130702013406/http://www.youtube.com/watch?v=0FIPWtdxJoQ&gl=US&hl=en|archive-date=July 2, 2013|url=https://www.youtube.com/watch?v=0FIPWtdxJoQ|title=You Tube video|website=YouTube|date=April 29, 2013 |access-date=July 9, 2017}}</ref> "Changes" was produced by the hill & hifi and reached 43 on the [[Mediabase]] Top 100 AC Chart and 41 on the Gospel Chart. Checker performed it on July 5, 2013, on [[NBC]]'s ''[[Today (U.S. TV program)|Today]]'' show.<ref>{{cite web|url=http://www.today.com/video/chubby-checker-sings-new-single-changes-36148291553|title="Today Show" video – July 5, 2013|access-date=July 9, 2017|archive-date=March 1, 2019|archive-url=https://web.archive.org/web/20190301140022/https://www.today.com/video/chubby-checker-sings-new-single-changes-36148291553|url-status=live}}</ref> In 2015, Checker joined forces with Howard Perl Entertainment<ref>{{cite web|url=https://www.cleveland.com/music/2015/01/chubby_checker_adds_twist_to_f.html|title=Chubby Checker adds twist to fundraiser for Geauga's Rescue Village|last1=Yarborough|first1=Chuck|newspaper=[[The Plain Dealer]]|date=January 6, 2015|language=en|access-date=January 23, 2020}}</ref> to produce live events, such as "Rock and Roll to The Rescue",<ref>{{cite web|url=https://www.clevescene.com/scene-and-heard/archives/2014/12/17/backstage-pass-an-interview-with-rock-singer-chubby-checker|title=Backstage Pass: An Interview with Rock Singer Chubby Checker|last=Niesel|first=Jeff|website=Cleveland Scene|language=en|access-date=2020-01-23|archive-date=May 19, 2020|archive-url=https://web.archive.org/web/20200519053042/https://www.clevescene.com/scene-and-heard/archives/2014/12/17/backstage-pass-an-interview-with-rock-singer-chubby-checker|url-status=live}}</ref> a tour designed to raise funds for rescue animals in need nationwide.
+
+In 2025, Checker was selected for induction into the Rock and Roll Hall of Fame; He had been eligible for induction since the Hall's first class in 1986.<ref>{{cite magazine |last1=Grein |first1=Paul |title=Outkast, The White Stripes, Soundgarden, Chubby Checker & More to Join 2025 Rock & Roll Hall of Fame Class: Full List |url=https://www.billboard.com/music/rock/rock-roll-hall-of-fame-2025-class-full-list-outkast-1235956268/ |magazine=Billboard |access-date=28 April 2025 |date=28 April 2025}}</ref>
+
+In 2002, Checker protested outside of the [[Rock and Roll Hall of Fame]] induction ceremony, over the lack of radio airplay of his hit "[[The Twist (song)|The Twist]]" and his perception that the Hall of Fame had snubbed him. [[Seymour Stein]], president of the [[Rock and Roll Hall of Fame|Rock Hall]]'s New York chapter and member of the nomination committee, claimed "I think that Chubby is someone who will be considered. He has in certain years."<ref>{{cite news|url=http://www.newsday.com/entertainment/music/wire/sns-ap-music-chubby-checker,0,1104288.story|archive-url=https://web.archive.org/web/20080209131626/http://www.newsday.com/entertainment/music/wire/sns-ap-music-chubby-checker%2C0%2C1104288.story|archive-date=February 9, 2008|title=Chubby Checker Stages RockHall Fame Protest|author=Mumby Moody, Nekesa|date=March 16, 2004|newspaper=[[Newsday]]|url-status=dead}}</ref>
+
+In 2013, Checker sued [[Hewlett-Packard|HP]] over a [[WebOS]] application using his name. The application, before being pulled in September 2012, was used to unscientifically estimate penis size from shoe size.<ref>{{cite web|last=Gallagher|first=Sean|url=https://arstechnica.com/tech-policy/2013/02/hp-sued-by-chubby-checker-over-webos-penis-size-app/|title=HP sued by Chubby Checker over webOS penis size app|website=[[Ars Technica]]|date=February 14, 2013|access-date=August 18, 2015}}</ref><ref>{{cite press release|url=http://www.marketwatch.com/story/famed-attorney-willie-gary-files-half-billion-dollar-lawsuit-on-behalf-of-music-legend-chubby-checker-against-hewlett-packard-and-palm-inc-for-copyright-infringement|date=February 12, 2013|website=[[Marketwatch]]|archive-url=https://web.archive.org/web/20130602012846/http://www.marketwatch.com/story/famed-attorney-willie-gary-files-half-billion-dollar-lawsuit-on-behalf-of-music-legend-chubby-checker-against-hewlett-packard-and-palm-inc-for-copyright-infringement-2013-02-12|archive-date=June 2, 2013|title=Famed Attorney Willie Gary Files Half-Billion Dollar Lawsuit on behalf of Music Legend Chubby Checker against Hewlett Packard and Palm, Inc. for Copyright Infringement|agency=PR Newswire|location=Ft. Pierce, Florida|access-date=November 20, 2016}}</ref><ref>{{cite web|first=Derek|last=Kessler|date=12 February 2013|url=http://www.webosnation.com/chubby-checker-lawsuit-filed-against-hp-over-endowment-size-estimator|title='Chubby Checker' lawsuit filed against HP over endowment size estimator|website=Webosnation.com|access-date=18 August 2015|archive-date=February 14, 2013|archive-url=https://web.archive.org/web/20130214194552/http://www.webosnation.com/chubby-checker-lawsuit-filed-against-hp-over-endowment-size-estimator|url-status=live}}</ref><ref>{{cite web|first=Devin|last=Coldewey|url=https://www.nbcnews.com/tech/gadgets/chubby-checker-sues-hp-over-penis-size-app-flna1C8383682|title=Chubby Checker sues HP over penis size app|website=[[NBC News]]|date=February 14, 2013|access-date=July 3, 2022}}</ref> The district court said that Checker's trademark claim survived HP's motion to dismiss, but his other claims were dismissed per [[Section 230]] of the [[Communications Decency Act]].<ref>{{cite web|url=http://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1492&amp;context=historical|title=Ernest Evans et al v. Hewlett-Packard Company et al|website=DigitalCommons.law.scu.edu|publisher=[[Santa Clara University]]|access-date=2015-08-18|archive-date=July 28, 2024|archive-url=https://web.archive.org/web/20240728190218/https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1492&amp;context=historical|url-status=live}}</ref>
+
+==Film and musical depictions==
+Checker performed as well as appeared as a version of himself in ''[[Twist Around the Clock]]'' (1961) and ''[[Don't Knock the Twist]]'' (1962). In both films he provided advice and crucial breaks for the protagonist.<ref>{{cite web|title=Twist Around the Clock – Synopsis|url=https://www.tcm.com/tcmdb/title/3839/twist-around-the-clock#synopsis|url-status=live|access-date=2022-01-16|website=Turner Classic Movies|language=en|archive-url=https://web.archive.org/web/20110903091942/http://www.tcm.com/tcmdb/title/3839/Twist-Around-the-Clock/|archive-date=September 3, 2011}}</ref><ref>{{cite web|title=Don't Knock the Twist – Synopsis|url=https://www.tcm.com/tcmdb/title/27354/dont-knock-the-twist#synopsis|url-status=live|access-date=2022-01-16|website=Turner Classic Movies|language=en|archive-url=https://web.archive.org/web/20201219064551/https://www.tcm.com/tcmdb/title/27354/dont-knock-the-twist|archive-date=December 19, 2020}}</ref>
+
+In 1988, Checker appeared as himself performing alongside the Purple People Eater in the [[Purple People Eater (film)|film of the same name]].<ref>{{cite web|title=Purple People Eater – Credits|url=https://www.tcm.com/tcmdb/title/443785/purple-people-eater#credits|url-status=live|access-date=2022-01-16|website=Turner Classic Movies|language=en|archive-url=https://web.archive.org/web/20210117092833/https://www.tcm.com/tcmdb/title/443785/purple-people-eater|archive-date=January 17, 2021}}</ref>
+
+Checker later appeared as himself in the 1989 ''[[Quantum Leap (1989 TV series)|Quantum Leap]]'' episode entitled "Good Morning, Peoria" where he walks into a radio station in 1959 hoping to have his demo record played on the air. The show's main character, Dr. [[Sam Beckett]] ([[Scott Bakula]]), persuades the station owner to play the song "The Twist", inadvertently teaching Checker himself how to do The Twist.<ref>{{cite web|last=Eddy|first=Cheryl|date=August 25, 2016|title=The 14 Weirdest Quantum Leap Episodes of All Time|url=https://gizmodo.com/the-14-weirdest-quantum-leap-episodes-of-all-time-1785484622|url-status=live|access-date=January 16, 2022|website=[[Gizmodo]]|language=en-us|archive-url=https://web.archive.org/web/20210921082814/https://gizmodo.com/the-14-weirdest-quantum-leap-episodes-of-all-time-1785484622|archive-date=September 21, 2021 }}</ref>
+
+In 2001, Checker again guest-starred as himself singing "The Twist" in the [[Ally McBeal (season 4)|fourth season]] of ''[[Ally McBeal]]''.<ref>{{cite web|title=Ally McBeal: Season 4, Episode 11|url=https://www.rottentomatoes.com/tv/ally_mcbeal/s04/e11|work=[[Rotten Tomatoes]]|language=en|access-date=2022-01-16}}</ref> He also performed the track in the [[List of Murphy Brown episodes#Season 10 (1997–98)|tenth season]] of ''[[Murphy Brown]]''.<ref>{{cite web|title=Murphy Brown: Season 10, Episode 16|url=https://www.rottentomatoes.com/tv/murphy_brown/s10/e16|work=[[Rotten Tomatoes]]|language=en|access-date=2023-04-25}}</ref>
+
+==Awards==
+In 2008, Checker's "The Twist" was named the biggest chart hit of all time by ''Billboard'' magazine. ''Billboard'' looked at all singles that made the charts between 1958 and 2008. He was also honored by [[Settlement Music School]] as part of the school's centennial celebration and named to the Settlement 100, a list of notable people connected to the school.<ref>{{cite web|url=http://www.smsmusic.org/people/settlement_100.php?t=4/ |title=Settlement Music School: Settlement 100|publisher=Smsmusic.org|access-date=2015-08-18|url-status=dead|archive-url=https://web.archive.org/web/20150924102949/http://www.smsmusic.org/people/settlement_100.php?t=4%2F|archive-date=2015-09-24}}</ref>
+
+In 2014, Checker was inducted into the [[National Rhythm & Blues Hall of Fame]].
+
+==Personal life==
+On December 12, 1963, Checker proposed to [[Catharina Lodders]], a 21-year-old [[Dutch people|Dutch]] model and [[Miss World 1962]] from [[Haarlem]].<ref>{{cite news|url=https://news.google.com/newspapers?id=zBMrAAAAIBAJ&pg=5252,7340884&dq=catharina-lodders&hl=en|title=Chubby Checker To Wed Beauty|date=December 12, 1963|work=[[Reading Eagle]]|publisher=[[United Press International|UPI]]|page=46|access-date=August 12, 2010|archive-date=October 25, 2022|archive-url=https://web.archive.org/web/20221025000616/https://news.google.com/newspapers?id=zBMrAAAAIBAJ&pg=5252,7340884&dq=catharina-lodders&hl=en|url-status=live}}</ref> Checker said he met Lodders in [[Manila]] the prior January.<ref>UPI Telephoto (NAP 1404993...New York Bureau).</ref> The song "[[Loddy Lo]]" is about her. They were married on April 12, 1964, at Temple Lutheran Church in [[Pennsauken Township, New Jersey|Pennsauken, New Jersey]].<ref>AP Wire Photo 1964.</ref> Their first child, Bianca Johanna Evans, was born in a Philadelphia hospital on December 8, 1966.<ref>AP wire photo (jfu 5-2200-jfu-stass) 1966.</ref> Their other two children are Ilka Evans and musician Shan Egan (Evans), lead singer of Funk Church, a band in the Philadelphia area.<ref>{{cite web|url=https://jumpphilly.com/2011/04/16/musictown-chubby-checkers-son-is-a-funk-master/|archive-url=https://web.archive.org/web/20181116070855/https://jumpphilly.com/2011/04/16/musictown-chubby-checkers-son-is-a-funk-master/|url-status=dead|title=MusicTown: Chubby Checker's Son is a Funk Master.|date=April 16, 2011|website=Jumpphilly.com|archive-date=16 November 2018|access-date=3 May 2023}}</ref> Checker is also the father of [[Women's National Basketball Association|WNBA]] player [[Mistie Bass]].<ref>{{cite web|url=http://www.wnba.com/playerfile/mistie_bass/bio.html|archive-url=https://web.archive.org/web/20150109165230/http://www.wnba.com/playerfile/mistie_bass/bio.html|url-status=dead|title=Mistie Bass|archive-date=9 January 2015|access-date=19 August 2021}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2"| Album
+! scope="col" colspan="2"| Peak chart positions
+|-
+! style="width:40px;"|<small>[[Billboard 200|US]]</small><br><ref name="Awards"/><ref name="Whitburn">{{cite book | last = Whitburn | first = Joel | title = Top LPs, 1955–1972 | year = 1973 | publisher = Record Research | page = 31 | url = https://archive.org/details/joelwhitburnstoplp00whit/page/31/mode/2up | access-date = 2025-07-10}}</ref>
+! style="width:40px;"|<small>[[UK Albums Chart|UK]]</small><br><ref name="UK"/>
+|-
+| rowspan="3"|1960
+| ''[[Twist with Chubby Checker]]'' 
+| align=center | 3
+| align=center | 13
+|-
+| ''[[For Twisters Only]]''
+| align=center | 8
+| align=center | 17
+|-
+| ''[[Bobby Rydell/Chubby Checker]]'' (with [[Bobby Rydell]])
+| align=center | 7
+| align=center | —
+|-
+| rowspan="3"|1961
+| ''[[Let's Twist Again (album)|Let's Twist Again]]'' 
+| align=center | 11
+| align=center | —
+|-
+| ''It's Pony Time''
+| align=center | 110
+| align=center | —
+|-
+| ''[[For 'Teen Twisters Only]]''
+| align=center | 17
+| align=center | —
+|-
+| rowspan="5"|1962
+| ''Don't Knock The Twist''
+| align=center | —
+| align=center | —
+|-
+| ''[[Limbo Party]]'' 
+| align=center | 11
+| align=center | —
+|-
+| ''Beach Party''
+| align=center | 90
+| align=center | —
+|-
+| ''Twistin' Round the World'' 
+| align=center | 54
+| align=center | —
+|-
+| ''Down To Earth (With Dee Dee Sharp)''
+| align=center | 117
+| align=center | —
+|-
+| rowspan="3"|1963
+| ''Let's Limbo Some More''
+| align=center | 87
+| align=center | —
+|-
+| ''Chubby Checker in Person''
+| align=center | 104
+| align=center | —
+|-
+| ''With Sy Oliver''
+| align=center | —
+| align=center | —
+|-
+| 1964
+| ''Chubby's Folk Album''
+| align=center | 93
+| align=center | —
+|-
+| 1971
+| ''[[Chequered!]]''
+| align=center | —
+| align=center | —
+|-
+| 1982
+| ''The Change Has Come'' 
+| align=center | 186
+| align=center | —
+|-
+| 1994
+| ''The Texas Twisting'' 
+| align=center | —
+| align=center | —
+|-
+| 2000
+| ''Towards The Light'' 
+| align=center | —
+| align=center | —
+|-
+| colspan="7" style="text-align:center; font-size:9pt;"| "—" denotes releases that did not chart.
+|}
+
+===Compilation albums===
+{| class="wikitable"
+|-
+! Year
+! Album
+! style="width:40px;"|<small>[[Billboard 200|US]]</small><br><ref name="Awards"/>
+|-
+| 1961
+| ''Your Twist Party (With The King Of Twist)''
+| align=center | 2
+|-
+| 1962
+| ''All the Hits (For Your Dancin' Party)'' 
+| align=center | 23
+|-
+| 1963
+| ''Chubby Checker's Biggest Hits''
+| align=center | 27
+|-
+| 1973
+| ''Chubby Checker's Greatest Hits'' 
+| align=center | 152
+|-
+|}
+
+===Singles===
+{| class="wikitable" 
+! rowspan="2"| Year
+! rowspan="2"| Titles (A-side, B-side)<br /><small>Both sides from same album except where indicated</small>
+! colspan="5"| Chart positions
+! rowspan="2"| Album
+|-
+! width="40"|<small>[[Billboard Hot 100|US]]</small><br><ref name="Awards">{{cite web|title=Chubby Checker – Awards |url=http://www.allmusic.com/artist/chubby-checker-mn0000116984/awards|website=[[AllMusic]]|access-date=10 January 2022|archive-url=https://web.archive.org/web/20120806182510/http://www.allmusic.com/artist/chubby-checker-mn0000116984/awards|archive-date=August 6, 2012}}</ref>
+! width="40"|<small>[[Hot R&B/Hip-Hop Songs|US R&B]]</small><br><ref name="Awards"/>
+! width="40"|<small>Canada</small><br><ref>{{cite web|url=http://www.1050chum.com/index_chumcharts.aspx?artist=8173| title=CHUM Hit Parade results| archive-url=https://web.archive.org/web/20060716214357/http://www.1050chum.com/index_chumcharts.aspx?artist=8173| archive-date=July 16, 2006}}</ref><ref>{{cite web|url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=chubby+checker&ChartEn=Top+Singles&| title=RPM Top 100 Singles results| website=[[Library and Archives Canada]]| date=July 17, 2013}}</ref>
+! width="40"|<small>[[UK Singles Chart|UK]]</small><br><ref name="UK">{{cite web|title=CHUBBY CHECKER – full Official Chart History |url=https://www.officialcharts.com/artist/9172/chubby-checker/|website=[[Official Charts Company]]|access-date=10 January 2022}}</ref>
+! width="40"|<small>[[Kent Music Report|AUS]]</small><br><ref>{{cite web|url=http://www.austchartbook.com.au/pages/book1940-1969.htm|title=Australian Chart Book 1940–1969|website=Austchartbook.com.au|access-date=2017-10-13}}</ref>
+|-
+| rowspan="3" |1959
+| align="left"|"[[The Class (song)|The Class]]"<br /><small>b/w "Schooldays, Oh, Schooldays" (Non-album track)</small>
+| align="center"|38
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left"|''Greatest Hits – 15 Original Hits''
+|-
+| align="left"|"Whole Lotta Laughin'"<br /><small>b/w "Samson and Delilah"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left" rowspan="2"|Non-album tracks
+|-
+| align="left"|"Dancing Dinosaur"<br /><small>b/w "Those Private Eyes"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+|-
+| rowspan="3" |1960
+| align="left"|"[[The Twist (song)|The Twist]]"<br /><small>b/w "Toot" (from ''The Chubby Checker Discotheque'')</small>
+| align="center"|1
+| align="center"|2
+| align="center"|2
+| align="center"|44
+| align="center"|20
+| align="left" rowspan="2"|''[[Twist with Chubby Checker]]''
+|-
+| align="left"|"[[The Hucklebuck]]" /
+| align="center"|14
+| align="center"|15
+| align="center"|2
+| align="center"|—
+| align="center"|—
+|-
+| align="left"|"[[Whole Lotta Shakin' Goin' On]]"
+| align="center"|42
+| align="center"|—
+| align="center"|2
+| align="center"|—
+| align="center"|—
+| align="left"|''[[For Twisters Only]]''
+|-
+| rowspan="6"|1961
+| align="left"|"[[Pony Time]]"<br /><small>b/w "[[Oh, Susannah]]" (Non-album track)</small>
+| align="center"|1
+| align="center"|1
+| align="center"|5
+| align="center"|27
+| align="center"|8
+| align="left"|''It's Pony Time''
+|-
+| align="left"|"Dance the Mess Around" /
+| align="center"|24
+| align="center"|—
+| align="center"|16
+| align="center"|—
+| align="center"|48
+| align="left" rowspan="2"|''Chubby Checker's Biggest Hits''
+|-
+| align="left"|"Good, Good Lovin'"
+| align="center"|43
+| align="center"|—
+| align="center"|16
+| align="center"|—
+| align="center"|—
+|-
+| align="left"|"[[Let's Twist Again]]"<br /><small>b/w "Everything's Gonna Be All Right" (from ''Chubby Checker'')</small>
+| align="center"|8
+| align="center"|26
+| align="center"|2
+| align="center"|2
+| align="center"|7
+| align="left"|''[[Let's Twist Again (album)|Let's Twist Again]]''
+|-
+| align="left"|"[[The Fly (Chubby Checker song)|The Fly]]"<br /><small>b/w "That's the Way It Goes" (Non-album track)</small>
+| align="center"|7
+| align="center"|11
+| align="center"|5
+| align="center"|—
+| align="center"|35
+| align="left"|''[[For 'Teen Twisters Only]]''
+|-
+| align="left"|"[[Jingle Bell Rock]]"<br /><small>b/w "Jingle Bell Rock Imitations"<br />Both sides with [[Bobby Rydell]]</small>
+| align="center"|21/115
+| align="center"|—
+| align="center"|—
+| align="center"|40
+| align="center"|—
+| align="left"|''[[Bobby Rydell/Chubby Checker]]''
+|-
+| rowspan="9"|1962
+| align="left"|"The Twist" /<br /><small>Chart re-entry; the only song of the rock era to reach No. 1 twice in the US in two different years</small>
+| align="center"|1
+| align="center"|4
+| align="center"|1
+| align="center"|14
+| align="center"|3
+| align="left" rowspan="2"|''[[Twist with Chubby Checker]]''
+|-
+| align="left"|"Twistin' U.S.A."
+| align="center"|68
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|41
+|-
+| align="left"|"[[Slow Twistin']]"<small> (With [[Dee Dee Sharp]])</small> /
+| align="center"|3
+| align="center"|3
+| align="center"|18
+| align="center"|23
+| align="center" rowspan="2"|9
+| align="left"|''[[For 'Teen Twisters Only]]''
+|-
+| align="left"|"La Paloma Twist"
+| align="center"|72
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left"|''Twistin' Round the World''
+|-
+| align="left"|"Teach Me to Twist"<br /><small>b/w "Swingin' Together"<br />Both sides with Bobby Rydell</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|45
+| align="center"|—
+| align="left"|''[[Bobby Rydell/Chubby Checker]]''
+|-
+| align="left"|"[[Dancin' Party]]"<br /><small>b/w "Gotta Get Myself Together" (Non-album track)</small>
+| align="center"|12
+| align="center"|—
+| align="center"|19
+| align="center"|19
+| align="center"|85
+| align="left"|''Chubby Checker's Biggest Hits''
+|-
+| align="left"|"[[Limbo Rock]]" /
+| align="center"|2
+| align="center"|3
+| align="center"|7
+| align="center"|32
+| align="center" rowspan="2"|8
+| align="left" rowspan="1"|''[[Limbo Party]]''
+|-
+| align="left"|"[[Popeye the Hitchhiker]]"
+| align="center"|10
+| align="center"|13
+| align="center"|7
+| align="center"|—
+| align="left" rowspan="1"|''All the Hits (For Your Dancin' Party)''
+|-
+| align="left"|"Jingle Bell Rock"<br /><small>b/w "Jingle Bell Imitations"<br />Chart re-entry, both sides with Bobby Rydell</small>
+| align="center"|92
+| align="center"|—
+| align="center"|—
+| align="center"|40
+| align="center"|—
+| align="left"|''[[Bobby Rydell/Chubby Checker]]''
+|-
+|rowspan="9"|1963
+| align="left"|"[[Let's Limbo Some More]]" /
+| align="center"|20
+| align="center"|16
+| align="center"|16
+| align="center"|—
+| align="center" rowspan="2"|11
+| align="left" rowspan="2"|''Let's Limbo Some More''
+|-
+| align="left"|"[[Twenty Miles]]"
+| align="center"|15
+| align="center"|15
+| align="center"|13
+| align="center"|—
+|-
+| align="left"|"[[Birdland (Chubby Checker song)|Birdland]]" / 
+| align="center"|12
+| align="center"|18
+| align="center"|14
+| align="center"|—
+| align="center" rowspan="2"|33
+| align="left"|''Beach Party''
+|-
+| align="left"|"Black Cloud"
+| align="center"|98
+| align="center"|—
+| align="center"|14
+| align="center"|—
+| align="left"|Non-album track
+|-
+| align="left"|"Twist It Up" /
+| align="center"|25
+| align="center"|—
+| align="center"|21
+| align="center"|—
+| align="center"|—
+| align="left" rowspan="2"|''Beach Party''
+|-
+| align="left"|"Surf Party"
+| align="center"|55
+| align="center"|—
+| align="center"|21
+| align="center"|—
+| align="center"|—
+|-
+| align="left"|"What Do Ya Say!"<br /><small>b/w "Something to Shout About"<br />Released in UK only</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|37
+| align="center"|25
+| align="left"|Non-album tracks
+|-
+| align="left"|"[[Loddy Lo]]" /
+| align="center"|12
+| align="center"|4
+| align="center"|5
+| align="center"|—
+| align="center" rowspan="2"|17
+| align="left" rowspan="3"|''Chubby's Folk Album''
+|-
+| align="left"|"[[Hooka Tooka]]"
+| align="center"|17
+| align="center"|—
+| align="center"|13
+| align="center"|—
+|-
+| rowspan="5"|1964
+| align="left"|"Hey, Bobba Needle"<br /><small>b/w "Spread Joy" (Non-album track)</small>{{refn|group=nb|name=u|In Canada the b-side is ''Tzena Tzena'' and co-charted at No. 34 on the CHUM Charts with "Bobba" until that one continued on to No. 16}}
+| align="center"|23
+| align="center"|—
+| align="center"|16
+| align="center"|—
+| align="center"|26
+|-
+| align="left"|"Rosie" /
+| align="center"|116
+| align="center"|—
+| align="center"|22
+| align="center"|—
+| align="center" rowspan="2"|50
+| align="left"|Non-album track
+|-
+| align="left"|"Lazy Elsie Molly"
+| align="center"|40
+| align="center"|—
+| align="center"|17
+| align="center"|—
+| align="left"|''18 Golden Hits''
+|-
+| align="left"|"She Wants T'Swim"<br /><small>b/w "You Better Believe It Baby" (Non-album track)</small>
+| align="center"|50
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|98
+| align="left"|''The Chubby Checker Discotheque''
+|-
+| align="left"|"Lovely, Lovely (Loverly, Loverly)<br /><small>b/w "The Weekend's Here"</small>
+| align="center"|70
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left"|Non-album tracks
+|-
+| rowspan="3"|1965
+| align="left"|"[[Freddie (dance)|Let's Do the Freddie]]"<br /><small>b/w "(At the) Discotheque" (Non-album track)</small>
+| align="center"|40
+| align="center"|—
+| align="center"|15
+| align="center"|—
+| align="center"|—
+| align="left"|''18 Golden Hits''
+|-
+| align="left"|"Everything's Wrong"<br /><small>b/w "Cu Ma La Be-Stay"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left" rowspan="8"|Non-album tracks
+|-
+| align="left"|"You Just Don't Know<small> (What You Do To Me)<br />b/w "Two Hearts Make One Love"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+|-
+| rowspan="3"|1966
+| align="left"|"Hey You! Little Boo-Ga-Loo"<br /><small>b/w "Pussy Cat"</small>
+| align="center"|76
+| align="center"|—
+| align="center"|63
+| align="center"|—
+| align="center"|—
+|-
+| align="left"|"Looking at Tomorrow"<br /><small>b/w "You Got the Power"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+|-
+| align="left"|"Karate Monkey"<br /><small>b/w "Her Heart"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+|-
+| 1969
+| align="left"|"[[Back in the U.S.S.R.|Back In The U.S.S.R]]"<br /><small>b/w "Windy Cream"</small>
+| align="center"|82
+| align="center"|—
+| align="center"|86
+| align="center"|—
+| align="center"|—
+|-
+| 1973
+| align="left"|"Reggae My Way"<br /><small>b/w "Gypsy"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|64
+|-
+| 1974
+| align="left"|"She's a Bad Woman"<br /><small>b/w "Happiness Is a Girl Like You"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+|-
+| 1975
+| align="left"|"Let's Twist Again" /<br />"The Twist"<br /><small>Double A-side chart re-entry in UK</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|5
+| align="center"|—
+| align="left"|A: ''[[Let's Twist Again (album)|Let's Twist Again]]''<br />B: ''[[Twist with Chubby Checker]]''
+|-
+| 1976
+| align="left"|"The Rub"<br /><small>b/w "Move It"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left" rowspan="2"|Non-album tracks
+|-
+| 1980
+| align="left"|"Don't Put Me On Hold"<br /><small>b/w "The Way That You Touch Me"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+|-
+| rowspan="2"|1982
+| align="left"|"Running"<br /><small>b/w "Is Tonight the Night" (Non-album track)</small>
+| align="center"|91
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left" rowspan="2"|''The Change Has Come''
+|-
+| align="left"|"Harder Than Diamond"<br /><small>b/w "Your Love"</small>
+| align="center"|104
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+|-
+| 1986
+| align="left"|"Read You Like A Book"<br /><small>b/w "Read You Like  A Book"</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left" rowspan="2"|Non-album tracks
+|-
+| 1988
+| align="left"|"The Twist"<small> ("Yo, Twist!" version)</small><br /><small>b/w "The Twist" (Buffapella)<br />Both sides with the [[Fat Boys]]</small>
+| align="center"|16
+| align="center"|40
+| align="center"|12
+| align="center"|2
+| align="center"|—
+|-
+| 2008
+| align="left"|"Knock Down the Walls"<br /><small>No. 1 US Dance, No. 26 US AC</small>
+| align="center"|—
+| align="center"|110
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left"|''All the Best – Knock Down the Walls''<br /><small>Featuring eight different mixes</small>
+|-
+| 2013
+| align="left"|"Changes"<small> (Pop version)<br />c/w "Changes" (Alt version)<br />CD single</small>
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="center"|—
+| align="left"|Non-album tracks
+|-
+| colspan="8" style="text-align:center; font-size:9pt;"| "—" denotes releases that did not chart.
+|}
+
+== Notes ==
+{{reflist|group=nb}}
+
+==Citations==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book|title=[[Joel Whitburn]]'s Top Pop Singles 1955–1990|publisher=Record Research Inc.|location=P.O. Box 200, Menomonee Falls WI|year=1991|isbn=0-89820-089-X}}
+* {{cite book|title=Joel Whitburn's Top R&B Singles 1942–1988|publisher=Record Research Inc.|location=P.O. Box 200, Menomonee Falls WI|year=1988|isbn=0-89820-069-5}}
+
+==External links==
+{{cc}}
+* {{Official website}}
+*{{allmusic}}
+* {{Discogs artist}}
+* {{IMDb name}}
+* {{YouTube|kqYBSodZpSw|The Chubby Checker Show 1963}}
+* [https://web.archive.org/web/20060102235429/http://www.jeffosretromusic.com/chubby.html Chubby Checker – King Of The Twist – by Dr. Frank Hoffmann]
+* [https://web.archive.org/web/20100111111154/http://www.ssa.gov/pgm/flash/chubbychecker.htm Chubby Checker says "There's a New 'Twist' in the Law!"] (Social Security Public Service Announcements)
+* [https://web.archive.org/web/20100326171309/http://www.wnyc.org/shows/soundcheck/episodes/2010/03/22 Interviewed March 22, 2010 on WNYC SoundCheck with John Schaefer; Discusses this Wikipedia entry and career]
+
+{{Chubby Checker|state=expanded}}
+{{2025 Rock and Roll Hall of Fame|state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Checker, Chubby}}
+[[Category:1941 births]]
+[[Category:20th-century American singers]]
+[[Category:20th-century American male singers]]
+[[Category:21st-century American singers]]
+[[Category:21st-century American male singers]]
+[[Category:20th-century African-American male singers]]
+[[Category:African-American rock singers]]
+[[Category:Cameo-Parkway Records artists]]
+[[Category:Grammy Award winners]]
+[[Category:Living people]]
+[[Category:Musicians from Philadelphia]]
+[[Category:People from Georgetown County, South Carolina]]
+[[Category:People from Williamsburg County, South Carolina]]
+[[Category:Rock and roll musicians]]
+[[Category:Singers from Pennsylvania]]
+[[Category:Singers from South Carolina]]
+[[Category:South Philadelphia High School alumni]]
+[[Category:People named in the Paradise Papers]]
+[[Category:21st-century African-American male singers]]

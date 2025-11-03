@@ -1,0 +1,49 @@
+{{Short description|British experimental jazz rock band}}
+{{Use dmy dates|date=December 2017}}
+{{Use British English|date=May 2022}}
+{{For|the album|Manfred Mann Chapter Three (album)}}
+{{Refimprove|date=April 2009}}
+{{Infobox musical artist
+|name                = Manfred Mann Chapter Three
+|image               = Manfred Mann Chapter Three.jpg
+|caption             = Manfred Mann Chapter Three
+|image_size          = 
+|background          = group_or_band
+|origin              = 
+|genre               = [[Jazz rock]] 
+|years_active        = 1969–1970
+|label               = [[Vertigo Records]]
+|associated_acts     = {{Unbulleted list|[[Manfred Mann]]|[[Manfred Mann's Earth Band]]|[[The Blues Band]]|[[The Manfreds]]}}
+|website             = 
+|current_members     = {{Unbulleted list|[[Manfred Mann (musician)|Manfred Mann]]|[[Mike Hugg]]|Bernie Living|Steve York|Craig Collinge }}
+|past_members        = 
+}}
+
+'''Manfred Mann Chapter Three''' were a British experimental jazz rock band founded by South African keyboard player [[Manfred Mann (musician)|Manfred Mann]] and long-time partner [[Mike Hugg]], both former members of the group [[Manfred Mann]].<ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=1602}}</ref> "Chapter III" was a reference to the earlier line-ups with singers Paul Jones followed by Mike D'Abo.
+
+The line-up for its debut at Newcastle's Mayfair Ballroom on 24 October 1969 was Mike Hugg (vocals/electric piano), Mann (organ), Bernie Living (alto sax), Steve York (bass)<ref>{{cite web|url=http://www.steveyork.com/ |title=Steve York bassist |website=Steveyork.com |access-date=17 July 2014}}</ref> and Craig Collinge (drums), augmented by a five-piece brass section of Clive Stevens (tenor sax), Carl Griffiths (tenor sax), Dave Coxhill (baritone sax), Gerald Drewett (trombone) and Sonny Corbett (trumpet).
+
+The band released two studio albums but shelved a third. A tour of Australia and New Zealand in April and May 1971 with [[Deep Purple]] and [[Free (band)|Free]] was cut short after an altercation with the promoter. The band flew back to England two weeks early and broke up. Mann went on to form [[Manfred Mann's Earth Band]] later that year.<ref name="LarkinGE"/>
+
+==Albums==
+{| class="wikitable"
+|-
+!  style="vertical-align:top; text-align:left; width:40px;"|Year
+!  style="text-align:left; vertical-align:top;"|Album
+!  style="vertical-align:top; text-align:center; width:40px;"|<small>[[UK Albums Chart|UK albums]]</small>
+!  style="vertical-align:top; text-align:center; width:40px;"|<small>[[Billboard 200|US albums]]</small>
+!  style="text-align:left; vertical-align:top;"|Additional information
+|-
+|  style="text-align:left; vertical-align:top;"|1969
+|  style="text-align:left; vertical-align:top;"|''[[Manfred Mann Chapter Three (album)|Manfred Mann Chapter Three]]''
+|  style="text-align:center; vertical-align:top;"|-
+|  style="text-align:center; vertical-align:top;"|-
+|  style="text-align:left; vertical-align:top;"|Catalogue No. [[Vertigo Records|Vertigo]] VO 3  
+|-
+|  style="text-align:left; vertical-align:top;"|1970
+|  style="text-align:left; vertical-align:top;"|''[[Manfred Mann Chapter Three Volume Two]]''
+|  style="text-align:center; vertical-align:top;"|-
+|  style="text-align:center; vertical-align:top;"|-
+|  style="text-align:left; vertical-align:top;"|Catalogue No. [[Vertigo Records|Vertigo]] 6360 012 
+|}
+

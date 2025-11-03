@@ -1,0 +1,374 @@
+{{short description|American singer and guitarist (born 1958)}}
+{{Use American English|date=September 2024}}
+{{Use mdy dates|date=September 2024}}
+{{Infobox musical artist
+| name              = Joan Jett
+| image             = Joan Jett 2013.jpg
+| alt               = Jett smiling toward the camera
+| caption           = Jett in 2013
+| birth_name        = Joan Marie Larkin
+| birth_date        = {{Birth date and age|1958|9|22}}
+| birth_place       = [[Wynnewood, Pennsylvania]], U.S.
+| occupation        = {{hlist|Singer|songwriter|guitarist|businesswoman|actress}}
+| years_active      = 1975–present
+| background        = solo_singer
+| origin            = Los Angeles, California
+| genre             = {{hlist|[[Rock music|Rock]]|[[hard rock]]|[[punk rock]]}}
+<!--Please do not add to this list without first discussing your proposal on the talk page. -->| instruments       = {{hlist|Vocals|guitar}}<!--- If you think an instrument should be listed or removed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument--->
+| current_member_of = [[Joan Jett and the Blackhearts]]
+| past_member_of    = {{hlist|[[The Runaways]]||[[Evil Stig]]}}
+| website           = {{URL|joanjett.com}}
+| module            = {{Infobox person|embed=yes
+| signature         = Joan Jett signature, Billboard Open Letter 2016.png
+}}
+}}
+'''Joan Jett''' (born '''Joan Marie Larkin'''; September 22, 1958<ref name="Rolling Stone">{{cite magazine |url=https://www.rollingstone.com/music/features/joan-jett-built-to-rock-20150424 |title=Joan Jett: Built to Rock |magazine=[[Rolling Stone]] |date=April 24, 2015 |access-date=December 3, 2015 |first=David |last=Fricke |archive-date=November 21, 2017 |archive-url=https://web.archive.org/web/20171121122454/http://www.rollingstone.com/music/features/joan-jett-built-to-rock-20150424 |url-status=dead }}</ref>) is an American singer, songwriter, guitarist, businesswoman, and actress. Often referred to as the "[[Honorific nicknames in popular music#J|Godmother of Punk]]", she is regarded as a [[Pop icon|rock icon]] and an influential figure in [[Popular music|popular rock music]].
+
+Jett co-founded and performed with [[the Runaways]] from 1975 to 1979, with whom she released [[The Runaways#Discography|four albums]]. After their dissolution, she recorded her debut album and brought it to several [[Record label|record labels]] with producer [[Kenny Laguna]], all of whom rejected her. As a result, she formed her own [[independent record label]] [[Blackheart Records]] with Laguna. Her self-titled debut album–later [[Reissue|reissued]] as [[Bad Reputation (Joan Jett album)|''Bad Reputation'']]–became her first entry onto the [[Billboard 200|''Billboard'' 200]], bolstered by the attention its [[Bad Reputation (Joan Jett song)|title track]] received. Following the success of her debut record, Jett founded her backing band, [[Joan Jett and the Blackhearts]]. Their 1981 album, [[I Love Rock 'n Roll (album)|''I Love Rock 'n Roll'']], peaked at number two on the ''Billboard'' 200. Its lead single, "[[I Love Rock 'n' Roll#Joan Jett version|I Love Rock 'n Roll]]", topped many international charts and the [[Billboard Hot 100|''Billboard'' Hot 100]] for seven weeks; it is often featured in professional listings of the greatest songs of all time, and was later inducted into the [[Grammy Hall of Fame]].
+
+Jett has released [[Joan Jett discography#Albums|eleven more albums]] with the Blackhearts, with [[Album (Joan Jett album)|''Album'']] (1983) and [[Up Your Alley (album)|''Up Your Alley'']] (1988) receiving [[RIAA certification|gold]] and [[RIAA certification|platinum certifications]], respectively.<ref>{{cite book |last=Martin |first=Bill |title=Pro Secrets of Heavy Rock Singing |publisher=Sanctuary Publishing |year=2002 |isbn=978-1-86074-437-2 |page=9}}</ref><ref>{{cite web |title=10 great feminist anthems |url=http://www.timeout.com/newyork/music/10-great-feminist-anthems |url-status=dead |archive-url=https://web.archive.org/web/20131122141703/http://www.timeout.com/newyork/music/10-great-feminist-anthems |archive-date=November 22, 2013 |access-date=June 16, 2013 |magazine=[[Time Out New York]]}}</ref><ref>{{cite web |title=What the Press is Saying |url=http://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=200608&story=20060801-05press.htm |access-date=June 16, 2013 |publisher=Joan Jett and the Blackhearts}}</ref> The latter spawned the single "[[I Hate Myself for Loving You]]", which netted Jett her first [[Grammy Awards|Grammy Award]] nomination for [[Grammy Award for Best Rock Performance by a Duo or Group with Vocal|Best Rock Performance]]. Other singles which have appeared on the ''Billboard'' Hot 100 include "Fake Friends", "Good Music", "[[Light of Day (song)|Light of Day]]", "Little Liar", and the covers "[[Crimson and Clover#Joan Jett and the Blackhearts cover version|Crimson and Clover]]", "[[Do You Wanna Touch Me#Joan Jett version|Do You Wanna Touch Me (Oh Yeah)]]", "[[Dirty Deeds Done Dirt Cheap (song)#Joan Jett cover|Dirty Deeds]]", and "[[Everyday People#Notable versions|Everyday People]]".<ref>{{Cite magazine |title=Joan Jett & the Blackhearts {{!}} Biography, Music & News |url=https://www.billboard.com/artist/joan-jett-the-blackhearts/chart-history/hsi/ |access-date=2024-11-12 |magazine=Billboard |language=en-US}}</ref> 
+
+Jett was included on ''[[Rolling Stone]]''{{'s}} 2003 and 2023 lists of the greatest guitarists of all time. In 2015, she and the Blackhearts were inducted into the [[Rock and Roll Hall of Fame]]. Outside of music, she headlined the film ''[[Light of Day]]'' in 1987 and has appeared in several television series. She is also recognized for her activism and persona.
+
+== Early life ==
+Joan Marie Larkin was born on September 22, 1958,<ref name="Rolling Stone"/> at [[Lankenau Medical Center|Lankenau Hospital]] in [[Wynnewood, Pennsylvania]], a suburb of [[Philadelphia]], to James and Dorothy Larkin.<ref>{{cite magazine |url=https://www.rollingstone.com/music/artists/joan-jett/biography |archive-url=https://web.archive.org/web/20111031122121/http://www.rollingstone.com/music/artists/joan-jett/biography |url-status=dead |archive-date=October 31, 2011 |title=Joan Jett Bio |magazine=Rolling Stone |access-date=December 22, 2016}}</ref> She is the oldest of three children. Her father was an insurance salesman and her mother was a secretary.<ref name="Rolling Stone"/> Her family was [[Protestant]], attending church and Sunday school, but were not strict in their religious beliefs.<ref>{{cite web |url=http://joanjettbadrep.com/Interviews/2000/weekender.shtml |title=She Loves Rock 'N Roll |publisher=Bad Reputation Nation |access-date=December 3, 2015 |author=Bukowski, Rex}}</ref>
+
+In 1967, Jett's family moved to [[Rockville, Maryland]], where she attended Randolph Junior High School and [[Wheaton High School]].<ref>{{cite news |url=http://ww2.gazette.net/gazette_archive/2000/200032/wheaton/news/21709-1.html |title=She loves rock 'n' roll |publisher=Gazette.net |date=August 9, 2000 |access-date=June 2, 2015 |author=Myerov, Joshua |archive-url=https://web.archive.org/web/20151018135540/http://ww2.gazette.net/gazette_archive/2000/200032/wheaton/news/21709-1.html |archive-date=October 18, 2015 |url-status=dead}}</ref> She got her first guitar at the age of 13.<ref>{{cite magazine |title=Joan Jett Biography |magazine=Rolling Stone |url=https://www.rollingstone.com/music/artists/joan-jett/biography |archive-url=https://web.archive.org/web/20111031122121/http://www.rollingstone.com/music/artists/joan-jett/biography |url-status=dead |archive-date=October 31, 2011 |access-date=August 8, 2013}}</ref> She took some guitar lessons, but soon quit because the instructor kept trying to teach her [[Folk music|folk]] songs.<ref>Tolinski, Brad. "Girl's Got Rhythm". Guitar World May 2015: 50–60. Web.</ref> Her family then moved to [[West Covina, California]], in [[Los Angeles County, California|Los Angeles County]], providing Jett with the opportunity to pursue her musical interests. Shortly after the move, her parents divorced and she changed her name to Joan Jett, because she thought it had more of a rock star sound than her birth name. She has admitted in recent years that "Jett" was not actually her mother's maiden name, even though that is what she used to tell people.<ref>{{Cite news |url=https://www.youtube.com/watch?v=6x52mADayHU&t=2252s |archive-url=https://ghostarchive.org/varchive/youtube/20211028/6x52mADayHU |archive-date=October 28, 2021 |title=Joan Jett: Times Talk |date=October 2018 |via=YouTube |access-date=October 1, 2018 |language=en-US}}{{cbignore}}</ref> In Los Angeles, Jett's favorite night spot was [[Rodney Bingenheimer's English Disco]],<ref>''Crawdaddy!'', 1976</ref> a venue that provided the [[glam rock]] style she loved.<ref name="VH1">{{cite news |last=Erlewine |first=Stephen Thomas |title=Joan Jett |url=http://www.vh1.com/artists/az/jett_joan/artist.jhtml |url-status=dead |archive-url=https://web.archive.org/web/20021030063819/http://www.vh1.com/artists/az/jett_joan/artist.jhtml |archive-date=October 30, 2002 |access-date=October 18, 2011 |publisher=All Music Guide via VH1}}</ref>
+
+== Career ==
+
+=== 1970s ===
+[[File:The Runaways at Brumrock '76.JPG|thumb|upright=0.7|Jett (left) and [[Cherie Currie]] of The Runaways performing at Brumrock '76, [[Bingley Hall]], Birmingham, UK, September 25, 1976]]
+At age 16, Jett became a founding member of [[the Runaways]] with drummer [[Sandy West]]. After the brief tenure of [[Michael Steele (musician)|Micki Steele]], who sang and played bass, [[Jackie Fox]], [[Lita Ford]], and [[Cherie Currie]] soon joined to complete the band which created the classic lineup. While Currie initially fronted the band, Jett shared some lead vocals, played rhythm guitar, and wrote or co-wrote some of the band's material along with Ford, West, and Currie. This lineup recorded three albums.
+ 
+The band toured around the world and became an opening act for [[Cheap Trick]], [[Ramones]], [[Van Halen]], and [[Tom Petty and the Heartbreakers]]. They found success abroad, especially in Japan. While the Runaways were popular in Europe, Asia, Australia, Canada, and South America, they could not garner the same level of success in the United States.<ref name="VH1"/><ref>{{cite news |title=Encore: Joan Jett Leaves Her Mark |work=Spin |date=March 2009 |url=http://spin-cdnsrc.texterity.com/spin/200903/?pg=90&pm=1 |access-date=March 11, 2010 |archive-date=October 18, 2012 |archive-url=https://web.archive.org/web/20121018175504/http://spin-cdnsrc.texterity.com/spin/200903/?pg=90&pm=1 |url-status=dead}}</ref> After Currie left the band, the band released two more albums with Jett handling the lead vocals: ''[[Waitin' for the Night]]'' and ''[[And Now... The Runaways]]''. While touring England with the Runaways in 1976, Jett first heard the song "[[I Love Rock 'n' Roll]]" when she saw Arrows perform it on their weekly UK television series ''[[Arrows (TV series)|Arrows]]''.<ref>{{cite news |last1=Paterson |first1=Colin |date=October 14, 2014 |title=Ten hits you may not know were cover versions |url=https://www.bbc.co.uk/news/entertainment-arts-29568083 |access-date=April 2, 2015 |publisher=BBC News}}</ref> Altogether, they produced five albums from 1975 until they disbanded in the spring of 1979.<ref>{{AllMusic|last=Erlewine|first=Stephen Thomas|class=artist|id=p4612|tab=biography|label=Joan Jett biography}}</ref>
+
+In 1979, she returned to Los Angeles, where she began fulfilling an obligation of the Runaways to complete a film that was loosely based on the band's career entitled ''We're All Crazee Now!'' Three actresses stood in for the departed band members, including [[Rainbeaux Smith]], who was also a rock drummer.<ref name="MTV">{{cite web |title=Kenny Laguna |url=http://www.mtv.com/artists/kenny-laguna/biography/ |url-status=dead |archive-url=https://archive.today/20131125220823/http://www.mtv.com/artists/kenny-laguna/biography/ |archive-date=November 25, 2013 |access-date=April 18, 2014 |publisher=MTV}}</ref> The plug was pulled on the project halfway through shooting after Jett fell ill, but in 1984, after she became famous, producers looked for a way to use the footage from the incomplete film.<ref name="MTV"/> Parts of the original footage of Jett were eventually used in another project, an underground film called ''Du-beat-eo'', which was produced by Alan Sacks, but not commercially released.<ref name="MTV"/>
+
+In 1979, Jett was in England pursuing a solo career. She recorded three songs there with the [[Sex Pistols]]' [[Paul Cook]] and [[Steve Jones (musician)|Steve Jones]], one of which was an early version of [[Arrows (British band)|Arrows]]' "[[I Love Rock 'n' Roll]]". This version appears on the 1993 compilation album ''[[Flashback (Joan Jett album)|Flashback]]''.<ref>{{cite web |date=October 1, 1970 |title=Joan Jett 'I Love Rock and Roll' Classic Tracks |url=http://www.soundonsound.com/sos/feb10/articles/classictracks_0210.htm |access-date=November 8, 2013 |work=Sound on Sound}}</ref> While working on ''We're All Crazee Now!'', Jett met songwriter and producer [[Kenny Laguna]], who was hired by her manager Toby Mamis to help Jett with writing some [[Soundtrack|tracks for the film]].<ref name="MTV"/> They became friends and decided to work together and Jett relocated to [[Long Beach, New York]], where Laguna was based.
+
+Soon after, Jett produced the [[Germs (band)|Germs]]' only album, ''[[(GI)]]''.<ref name="VH1"/> Jett produced several bands prior to releasing her debut, and her label Blackheart Records released recordings from varied artists such as [[thrash metal]] band [[Metal Church]] and [[Rapping|rapper]] [[Big Daddy Kane]].
+
+=== 1980s ===
+Jett and Laguna entered [[the Who]]'s [[Ramport Studios]] with the latter at the helm, and Jett's self-titled solo debut was released by [[Ariola Records]] in Europe on May 17, 1980. In the US, after the album was rejected by 23 major labels,<ref>{{cite web |title=Joan Jett and the Blackhearts |url=http://www.joanjett.com |access-date=August 25, 2010 |website=JoanJett.com}}</ref> Jett and Laguna released it independently on their new [[Blackheart Records]] label, which they started with Laguna's daughter's college savings. Laguna remembers, "We couldn't think of anything else to do but print up records ourselves."<ref name="MTV"/> With Laguna's assistance, Jett formed [[Joan Jett and the Blackhearts|the Blackhearts]]. It has undergone many lineup changes since its inception, with Jett and Laguna being its only consistent members.
+
+[[File:Jett Rocks.jpg|thumb|upright=0.7|Jett performing live with the [[Gibson Melody Maker]] in Norway, during the 1980s|left]]
+Jett's first appearance on film is in the 1981 live concert film ''[[Urgh! A Music War]]'', performing "Bad Reputation" with the Blackhearts at [[The Ritz (rock club)|the Ritz]] in New York City. A spring 1981 concert at [[Palladium (New York City)|the Palladium]] in New York City proved to be a turning point. Described by music journalists as a career-defining performance by Jett, it helped solidify a strong New York City following for Joan Jett and the Blackhearts.<ref>{{cite journal |last=Gross |first=Jonathan |date=June 1983 |title=Joan Jett: The Road Goes on Forever |journal=Record |volume=2 |issue=8 |pages=1, 10–11, 30}}</ref> After a year of touring and recording, the Blackhearts recorded a new album entitled ''[[I Love Rock 'n Roll (album)|I Love Rock 'n Roll]]'' for the label. Ambel was replaced by local guitarist [[Ricky Byrd]] during the recording. Byrd recalled in an interview with Guitarhoo!, "One day I went to a studio to jam around a bit with Jett and everything clicked".<ref>{{cite web |last=Jett |first=Joan |date=July 1992 |title=Joan Jett and the Blackhearts&nbsp;– An Open Forum with Joan Jett! |url=http://joanjettbadrep.com/Interviews/fanclub/Vol2Issue4.shtml |access-date=April 16, 2011 |website=Bad Reputation Nation |volume=2 |issue=4}}</ref><ref>{{cite web |title=Ricky Byrd Interview |url=http://www.guitarhoo.com/interviews/ricky-byrd-185 |website=Guitarhoo.com |access-date=January 16, 2014 |date=August 5, 2013 |archive-url=https://web.archive.org/web/20140116193650/http://www.guitarhoo.com/interviews/ricky-byrd-185 |archive-date=January 16, 2014 |url-status=dead}}</ref> The first single from the album was the title track, "[[I Love Rock 'n' Roll#Joan Jett version|I Love Rock 'n' Roll]]", which in the first half of 1982 was number one on the [[Billboard Hot 100|''Billboard'' Hot 100]] for seven weeks in a row.<ref>[[Joel Whitburn|Whitburn, Joel]] (2004). ''The Billboard Book of Top 40 Hits'', 8th Edition (Billboard Publications), page 322.</ref> It is ''[[Billboard (magazine)|Billboard]]''{{'s}} No. 56 song of all time<ref>{{cite magazine |url=http://www.billboard.com/bbcom/specials/hot100/charts/top100-titles-60.shtml |title=Billboard Hot 100 Chart 50th Anniversary |magazine=Billboard |archive-url=https://web.archive.org/web/20110707232241/http://www.billboard.com/bbcom/specials/hot100/charts/top100-titles-60.shtml |archive-date=July 7, 2011}}</ref> and has also been inducted into the [[Grammy Hall of Fame]] in 2016.<ref>{{cite press release |url=https://www.grammy.org/recording-academy/press-release/the-recording-academy-announces-2016-grammy-hall-of-fame-inductees |title=The Recording Academy Announces 2016 Grammy Hall of Fame Inductees |publisher=The Recording Academy |access-date=February 6, 2016 |archive-date=March 5, 2016 |archive-url=https://web.archive.org/web/20160305043641/https://www.grammy.org/recording-academy/press-release/the-recording-academy-announces-2016-grammy-hall-of-fame-inductees |url-status=dead}}</ref>
+
+Jett released ''[[Album (Joan Jett album)|Album]]'' (1983) and ''[[Glorious Results of a Misspent Youth]]'' (1984). A string of [[Top 40]] hits followed, as well as sellout tours with [[the Police]], [[Queen (band)|Queen]], and [[Aerosmith]], among others. She was among the first English-speaking rock acts to appear in [[Panama]] and the [[Dominican Republic]].<ref>{{Cite news |title=Joan Jett Rocks Roseau Fair, Song Stands as Billboard Record |newspaper=Grand Forks Herald |date=July 14, 2006 |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=GF&s_site=grandforks&p_multi=GF&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=112E25803382E3C0&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |via=NewsBank |quote=A string of Top 40 hits followed, as well as sellout tours (Joan Jett and the Blackhearts was the opening group for the Beach Boys in the Beach Boys 1985 US tour). Jett was the first American act of any kind to perform behind the Iron Curtain and the first English-speaking rock band to appear in Panama and the Dominican Republic. The band also became the first rock band to perform a series of shows at the Lunt-Fontanne Theatre on Broadway, breaking a record for the fastest ticket sell-out.|access-date =April 16, 2011}}</ref> According to Jett and Laguna, a riot occurred during their visit to Panama and [[Manuel Noriega]] requested Jett spend the night with him at the Presidential Palace.<ref>{{cite web |last1=Prabhu |first1=Suraj |title=7 things we learned about Joan Jett from the documentary 'Bad Reputation' |date=September 25, 2018 |url=https://meaww.com/7-things-we-learned-joan-jett-documentary-bad-reputation |publisher=meaww |access-date=July 10, 2023}}</ref><ref>{{cite web |last1=Ruskin |first1=John |title=Nardwuar vs. Joan Jett - The Extended Version |url=https://youtube.com/EOITuaqG9Ow?t=565 |publisher=Nardwuar |access-date=July 10, 2023 }}{{Dead link|date=November 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Jett next beat out a number of contenders to star in the movie ''[[Light of Day]]'' (1987) alongside [[Michael J. Fox]] as siblings who perform in a rock band. It was originally written by director [[Paul Schrader]] with [[Bruce Springsteen]] in mind; although Springsteen declined the role, he wrote the song "[[Light of Day (song)|Light of Day]]" for the film.<ref>{{Cite news |last=Matheson |first=Whitney |date=April 6, 2011 |title=Today's Pop Five: Tim T.'s top Springsteen song titles/movies |url=http://content.usatoday.com/communities/popcandy/post/2011/04/todays-pop-five-tim-ts-top-springsteen-song-titlesmovies/1 |access-date=April 16, 2011 |newspaper=[[USA Today]] |quote=Light of Day&nbsp;– Springsteen wrote the song and gave it to director Paul Schrader for his 1987 movie.}}</ref><ref>{{Cite web |title=Transformation in Art: The Films of Paul Schrader |url=https://www.creativescreenwriting.com/transformation-in-art-the-films-of-paul-schrader/ |access-date=2024-12-08 |website=Creative Screenwriting}}</ref> While the film received mixed reviews, Jett's performance was critically acclaimed.<ref>{{Cite news |last=Popson |first=Tom |date=October 7, 1988 |title=Top 10 Again, Joan Jett Looks at the State of Rock |url=https://pqasb.pqarchiver.com/chicagotribune/access/24835942.html?dids=24835942:24835942&FMT=ABS&FMTS=ABS:FT&type=current&date=Oct+07%2C+1988&author=2By+Tom+Popson&pub=Chicago+Tribune+%28pre-1997+Fulltext%29&desc=TOP+10+AGAIN%2C+JOAN+JETT+LOOKS+AT+THE+STATE+OF+ROCK&pqatl=google |url-status=dead |archive-url=https://web.archive.org/web/20121017174331/http://pqasb.pqarchiver.com/chicagotribune/access/24835942.html?dids=24835942:24835942&FMT=ABS&FMTS=ABS:FT&type=current&date=Oct+07%2C+1988&author=2By+Tom+Popson&pub=Chicago+Tribune+%28pre-1997+Fulltext%29&desc=TOP+10+AGAIN%2C+JOAN+JETT+LOOKS+AT+THE+STATE+OF+ROCK&pqatl=google |archive-date=October 17, 2012 |access-date=April 16, 2011 |newspaper=[[Chicago Tribune]] |quote=Last year, Jett drew good notices for her work in "Light of Day," a film that also starred Michael J. Fox.}}</ref> [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' believed she matched her acting to co-star [[Gena Rowlands]], calling it "the most surprisingly good performance."<ref>{{Cite web |last=Ebert |first=Roger |date=February 4, 1987 |title=Light Of Day |url=http://www.rogerebert.com/reviews/light-of-day-1987 |access-date=2024-12-08 |website=[[RogerEbert.com]] |language=en-US}}</ref> [[Janet Maslin]] of ''[[The New York Times]]'' wrote: "Miss Jett is good too, snapping her way angrily through confrontational scenes and musical ones alike, and taking a sentimental turn just when the story does."<ref>{{cite news |last=Maslin |first=Janet |date=February 6, 1987 |title=Film: 'Light of Day,' A Rock Saga |url=https://www.nytimes.com/movie/review?res=9B0DE0D7103CF935A35751C0A961948260 |url-access=subscription |url-status=dead |archive-url=https://web.archive.org/web/20160821090311/https://www.nytimes.com/movie/review?res=9B0DE0D7103CF935A35751C0A961948260 |archive-date=2016-08-21 |access-date=2023-01-24 |work=[[The New York Times]] |author-link=Janet Maslin}}</ref>
+
+The next year, her next album, ''[[Up Your Alley (album)|Up Your Alley]]'' (1988), went multi-platinum. This album contains the single "I Hate Myself for Loving You", which peaked at No. 8 on the ''Billboard'' Hot 100 chart,<ref>{{cite magazine |url=https://www.billboard.com/artist/joan-jett-the-blackhearts/chart-history/hsi/ |title=Joan Jett and the Blackhearts {{!}} Chart History {{!}} Hot 100 |magazine=Billboard |access-date=April 18, 2018}}</ref> and had been used as the theme song for Sunday Night Football NFL games in America (with altered lyrics, by two singers) during the 2006 and 2007 seasons. Jett co-wrote the song "[[House of Fire]]", which appeared on [[Alice Cooper]]'s 1989 album ''[[Trash (Alice Cooper album)|Trash]]''.
+
+=== 1990s ===
+[[File:Joan Jett - 1994 - 02.jpg|right|thumb|Jett performing live at the [[Bumbershoot]] festival, in Seattle, Washington, 1994]]Jett's next album was ''[[The Hit List (Joan Jett album)|The Hit List]]'', which was an album consisting of cover songs. In 1990, the Blackhearts had a song on [[Days of Thunder (soundtrack)|''Days of Thunder'''s soundtrack]], "Long Live the Night", written by Jett with Randy Cantor and [[Michael Caruso (musician)|Michael Caruso]]. Her 1991 release, ''[[Notorious (Joan Jett album)|Notorious]]'', which featured [[The Replacements (band)|the Replacements]]' [[Paul Westerberg]] and former [[Billy Idol]] bass player Phil Feit, was the last with [[Sony]]/[[CBS]], as Jett switched to [[Warner Bros. Records|Warner Bros.]] In 1993, Jett and Laguna released ''[[Flashback (Joan Jett album)|Flashback]]'', a compilation of various songs on their own [[Blackheart Records]]. In 1994, the Blackhearts released the well-received ''[[Pure and Simple (Joan Jett album)|Pure and Simple]]'', which featured tracks written with [[Babes in Toyland (band)|Babes in Toyland's]] [[Kat Bjelland]], [[L7 (band)|L7]]'s [[Donita Sparks]] and [[Bikini Kill]]'s [[Kathleen Hanna]].
+
+Jett returned to producing for the band [[Circus Lupus]] in 1992 and again, in 1994, for [[Bikini Kill]]. This recording was the ''[[Rebel Girl (Bikini Kill song)#Releases|New Radio +2]]'' vinyl 7-inch EP for which she also played and sang back-up vocals. A CD single of "Let's Do It" featuring Jett and Westerberg was also released during this time, and appeared in the song credits for the movie ''[[Tank Girl (film)|Tank Girl]]''.
+
+In 1997, Jett was featured on the ''We Will Fall: The Iggy Pop Tribute'' album. She performed a cover of the [[Johnny O'Keefe]] song "[[Wild One (Johnny O'Keefe song)|Wild One]]" (or "Real Wild Child"). Jett is a guest artist on [[Marky Ramone and the Intruders]]' 1999 album ''The Answer to Your Problems?'' on the track "Don't Blame Me". She is a guest vocalist on [[Peaches (musician)|Peaches]]' album ''[[Impeach My Bush]]'' on the tracks "[[Boys Wanna Be Her]]" and "You Love It".
+
+In the 1990s she appeared in the [[independent film]]s ''The Sweet Life'' and ''[[Boogie Boy]]''. In 1992, she was a guest star in [[Highlander: The Series (season 1)#ep05|"Free Fall"]], a first-season episode of TV's ''[[Highlander: The Series]]''.<ref>{{cite web |title=IMDB.com listing for Joan Jett; 'Actress' section of filmography |url=https://www.imdb.com/name/nm0005053/#Actress |access-date=February 4, 2015 |publisher=IMDb}}</ref> In 1997, she appeared on the sitcom ''[[Ellen (TV series)|Ellen]]'',<ref>{{cite web |title=IMDB.com listing for Joan Jett; 'Self' section of filmography |url=https://www.imdb.com/name/nm0005053/ |access-date=February 4, 2015 |publisher=IMDb}}</ref> in the episode "Hello Muddah, Hello Faddah", performing the title song.
+
+=== 2000s ===
+In 2000, Jett appeared in the Broadway production of ''[[The Rocky Horror Show]]'' in the role of Columbia. That same year, Jett appeared on ''[[Walker, Texas Ranger]]'' as an ex-CIA agent turned assassin hired to kill Walker and Alex. In 2002, Jett appeared in the film ''[[By Hook or by Crook (2001 film)|By Hook or by Crook]]'' in the role of News Interviewee. From 2000 to 2003, Jett hosted a showcase of new film and video shorts, ''Independent Eye'',<ref>{{cite web |title=Independent Eye 2003 |url=http://www.mpt.org/programsinterests/mpt/independenteye/2003/home.shtml |archive-url=https://web.archive.org/web/20071209031347/http://www.mpt.org/programsinterests/mpt/independenteye/2003/home.shtml |archive-date=December 9, 2007 |publisher=Maryland Public Television}}</ref> for [[Maryland Public Television]].
+
+In 2004, Jett and Laguna produced the album ''[[No Apologies (The Eyeliners album)|No Apologies]]'' by the pop punk band [[the Eyeliners]], after signing them. Jett also guested on the track "Destroy" and made a cameo appearance in its music video. Also in 2004, Jett narrated [[Cam Archer]]'s short film, ''Godly Boyish'', about two teenagers who share suicidal fantasies.
+
+In 2005, Jett and Laguna signed punk rockers the Vacancies and produced their second album, ''A Beat Missing or a Silence Added'' (reaching the top 20 in CMJ Music Charts), and their third album in 2007, ''Tantrum''. That same year, she was recruited by [[Steven Van Zandt]] to host her own radio show on Van Zandt's ''[[Underground Garage]]'' radio channel on [[Sirius Satellite Radio]]. She hosted a four-hour show titled ''Joan Jett's Radio Revolution'', broadcast every Saturday and Sunday.<ref>{{cite web |author=Cardace, Sarah |date=March 14, 2010 |title=Real Runaway Joan Jett is still rockin' like it's 1975 |url=https://nypost.com/2010/03/14/real-runaway-joan-jett-is-still-rockin-like-its-1975/ |access-date=April 1, 2017 |work=New York Post}}</ref> The program moved from Sirius 25 (''Underground Garage'')<ref>{{cite web |title=Discography {{!}} Joan Jett - miscellaneous projects |url=http://joanjettbadrep.com/Discography/misc.shtml |access-date=April 1, 2017 |website=Bad Reputation Nation}}</ref> to Sirius 28 shortly before being canceled in June 2008.<ref>{{cite web |title=Joan Jett & the Blackhearts Biography |url=http://www.axs.com/artists/104355/joan-jett-the-blackhearts-tickets |access-date=April 1, 2017 |work=AXS}}</ref><ref>{{cite web |title=Joan Jett and the Blackhearts {{!}} see 6/18/08 entry |url=http://blackheart.com/artists.php?artistId=2 |archive-url=https://web.archive.org/web/20161110025858/http://www.blackheart.com/artists.php?artistId=2 |archive-date=November 10, 2016 |access-date=April 1, 2017 |website=Blackheart Records}}</ref> Also in 2005, Jett and Laguna celebrated the 25th anniversary of Blackheart Records with a sellout show at [[Manhattan]]'s Webster Hall.<ref>{{Cite book |last=Thompson |first=Dave |url=https://books.google.com/books?id=lGIqxglW29cC |title=Bad Reputation: The Unauthorized Biography of Joan Jett |date=August 1, 2011 |publisher=Backbeat Books |isbn=9781617130779 |language=en}}</ref>
+[[File:Joan Jett 1.jpg|thumb|Jett performing in 2008]]
+In June 2006, Jett released her album ''[[Sinner (Joan Jett album)|Sinner]]'', on Blackheart Records. To support the album, the band appeared on the 2006 [[Warped Tour]] and on a fall 2006 tour with [[Eagles of Death Metal]]. Various other bands such as Antigone Rising, [[Valient Thorr]], the Vacancies, Throw Rag and Riverboat Gamblers were to have joined the tour for a handful of dates each. Jett sang a duet with Chase Noles on "Tearstained Letters", a song on [[the Heart Attacks]]' 2006 album, ''Hellbound and Heartless''.
+
+In 2008, Jett made a cameo appearance in [[Darren Lynn Bousman]]'s rock opera/file ''[[Repo! The Genetic Opera]]'' as the guitarist in Shilo's room during the piece "Seventeen".<ref>{{cite web |date=November 28, 2007 |title=BD Horror News&nbsp;– 'Repo!' Loves Rock and Roll... Joan Jett Cameos! |url=http://www.bloody-disgusting.com/news/10543 |archive-url=https://web.archive.org/web/20110907000308/http://www.bloody-disgusting.com/news/10543 |archive-date=September 7, 2011 |website=Bloody-Disgusting.com}}</ref> Also in 2008, she appeared in the ''[[Law & Order: Criminal Intent]]'' episode "[[Reunion (Law & Order: Criminal Intent)|Reunion]]" as a rock-and-roll talk show host who is murdered.
+
+=== 2010s ===
+Jett was an executive producer for the film ''[[The Runaways (2010 film)|The Runaways]]'', which chronicled the Runaways' career. It was written and directed by [[Floria Sigismondi]], who has directed videos for [[Marilyn Manson (band)|Marilyn Manson]], [[the White Stripes]] and [[David Bowie]]. Production of the movie began filming around [[Twilight (2008 film)|''Twilight'']]'s [[Kristen Stewart]]'s filming schedule, (i.e. of the sequels ''[[The Twilight Saga: New Moon|New Moon]]'' and ''[[The Twilight Saga: Eclipse|Eclipse]]''). Stewart played Jett in the film. In order to prepare for the role, Stewart met Jett around January 2009. In an interview, Stewart revealed that she hoped to be able to sing some songs in the film.<ref>{{cite web |date=April 1, 2009 |title=Kristen Stewart: Jett-ing Through A Twilight Adventureland |url=http://suicidegirls.com/interviews/Kristen%20Stewart:%20Jett-ing%20Through%20A%20Twilight%20Adventureland/ |access-date=April 1, 2009 |website=[[SuicideGirls.com]]}}</ref> The film explores the relationship between Jett and Runaways' lead singer, [[Cherie Currie]], played by [[Dakota Fanning]], and premiered at the 2010 Sundance Film Festival on January 24, 2010. Joan Jett and the Blackhearts appeared at the [[2010 Sundance Film Festival]], at Harry-O's, to promote the film.
+
+Jett, along with the Blackhearts, released the album ''[[Unvarnished]]'' on September 30, 2013. The album reached ''Billboard''<nowiki/>'s Top 50.<ref>{{cite magazine |author=Caulfield, Keith |date=October 10, 2013 |title=Chart Moves: Joan Jett Returns to Billboard 200, Randy Travis Album Hits Top 40 on Country Albums, Remixed Rush Debuts |url=http://www.billboard.com/biz/articles/news/5755297/chart-moves-joan-jett-returns-to-billboard-200-randy-travis-album-hits-top |access-date=July 7, 2015 |magazine=Billboard}}</ref> It included songs dealing with the death of her parents and other people.<ref>{{cite news |last=Millegan Renner |first=Lisa |date=July 17, 2013 |title=Joan Jett landing at Ironstone Vineyards |url=http://www.modbee.com/2013/07/17/2811752/joan-jett-landing-at-ironstone.html |archive-url=https://web.archive.org/web/20131109092032/http://www.modbee.com/2013/07/17/2811752/joan-jett-landing-at-ironstone.html |archive-date=November 9, 2013 |newspaper=The Modesto Bee}}</ref><ref>{{cite journal |last=Mosqueda |first=Sarah |date=July 26, 2013 |title=Joan Jett Rocks Through Time |url=http://www.coastmagazine.com/articles/jett-2651--.html |journal=Coast Magazine |access-date=August 1, 2013}}</ref> Joan Jett and the Blackhearts were inducted in the [[Rock and Roll Hall of Fame]] in 2015.<ref name="Hall of Fame">{{cite news |last=McDonald |first=Soraya |date=December 16, 2014 |title=Joan Jett, Bill Withers, Lou Reed and Green Day among those to join Rock and Roll Hall of Fame |url=https://www.washingtonpost.com/news/morning-mix/wp/2014/12/16/joan-jett-bill-withers-lou-reed-and-green-day-among-those-to-join-rock-and-roll-hall-of-fame/?tid=hp_mm |access-date=December 16, 2014 |newspaper=[[The Washington Post]]}}</ref>
+
+Jett starred in and was the executive producer of the film ''Undateable John'', which was released in 2014.<ref>{{cite web |last=McDonnell |first=Evelyn |title=Joan Jett and the Blackhearts Bad Reputation Nation |url=http://joanjettbadrep.com/cgi-bin/newsArchive.cgi?archive=201311 |access-date=April 18, 2014 |website=Bad Reputation Nation}}</ref><ref>{{cite web |title=Undateable John |url=https://www.imdb.com/title/tt2925664/ |access-date=April 1, 2017 |publisher=IMDb}}</ref> In April 2014, Jett fronted the remaining members of [[Nirvana (band)|Nirvana]] for a performance of "[[Smells Like Teen Spirit]]" for their induction into the Rock and Roll Hall of Fame. She joined the band again later that night for its surprise concert at [[Saint Vitus (venue)|Saint Vitus]]. Jett played Betsy Neal in the television film ''[[Big Driver (film)|Big Driver]]''. The film, based on [[Stephen King]]'s [[Big Driver|novella of the same name]], premiered on [[Lifetime (TV network)|Lifetime]] on October 18, 2014. Jett provided the voice for the character Sunshine Justice in an episode of ''[[Steven Universe]]''.<ref>{{cite web |title=Stop being cute! |url=http://snapbacksteven.tumblr.com/post/168590214307/molded-from-clay-zugilite-dewey-wins-and |access-date=October 9, 2019 |website=Snapbacksteven.tumblr.com}}</ref>
+
+=== 2020s ===
+Joan Jett and the Blackhearts released ''Changeup'' on March 25, 2022, the first acoustic album ever recorded by the band, featuring "Bad Reputation" and "Crimson and Clover".<ref>{{cite web |last=Levine |first=Nick |date=March 29, 2022 |title=Joan Jett & the Blackhearts – 'Changeup' review: acoustic takes on hard-rocking classics |url=https://www.nme.com/reviews/album/joan-jett-the-blackhearts-changeup-3193396 |access-date=April 21, 2022 |work=NME}}</ref> On June 2, 2023, Joan Jett and the Blackhearts released the 6 song EP, ''Mindsets''. The EP the band's first release of new material in ten years.<ref>{{cite web |last=Anderson |first=Carys |date=June 2, 2023 |title=Joan Jett and the Blackhearts Unveil New EP Mindsets: Stream |url=https://www.yahoo.com/entertainment/joan-jett-blackhearts-unveil-ep-123548375.html |access-date=June 2, 2023 |work=Yahoo}}</ref> Jett played a post pandemic welcome back concert in honor of first responders in the summer of 2022 at the Nassau County [[Harry Chapin]] Lakeside Theatre hosted by Nassau County Executive [[Bruce Blakeman]] that set a record attendance of 27,000 concert attendees.{{citation needed|date=July 2023|reason=Information stated as facts without a source}}
+
+On May 14, 2021, it was announced that to celebrate the 40th anniversaries of Jett's first two albums, ''Bad Reputation'' and ''I Love Rock & Roll'', Z2 Comics was releasing two [[graphic novels]] titled ''Joan Jett and the Blackhearts - 40x40: Bad Reputation/I Love Rock 'n' Roll'' that will bring Jett's "songs to life as 20 vivid stories" by female writers and artists in the comic book industry. The books were released in November 2021.<ref>{{cite web|url=https://ultimateclassicrock.com/joan-jett-graphic-novel/|title=Joan Jett's First Two Albums Turned into a Graphic Novel|date=May 14, 2021}}</ref>
+
+== Other ventures ==
+
+=== Activism and philanthropy ===
+[[File:Joan Jett by David Shankbone.jpg|thumb|upright|Jett promoting [[People for the Ethical Treatment of Animals|PETA]] in [[Union Square, Manhattan|Union Square]], New York City, 2010]]
+Jett has long supported animal rights activism and organizations such as [[People for the Ethical Treatment of Animals]] (PETA).<ref>{{cite web |date=November 2, 2012 |title=Joan Jett Loves Animals and Rock 'n' Roll |url=https://www.peta.org/features/joan-jett-loves-animals/ |access-date=March 23, 2022 |publisher=PETA}}</ref> For Valentine's Day 2022, PETA created a (Black)Heart-Shaped Pizza as a limited-time collaboration with a Los Angeles pizza shop, PIZZANISTA!<ref>{{cite press release |title=Joan Jett Honored With (Black)Heart-Shaped Pizza |date=January 18, 2022 |publisher=PETA |url=https://www.peta.org/media/news-releases/joan-jett-honored-with-blackheart-shaped-pizza/ |access-date=March 23, 2022}}</ref>
+
+Jett worked with members of the punk rock band [[the Gits]], whose lead singer and lyricist, [[Mia Zapata]], had been raped and murdered in 1993.<ref name="VH1"/> The results of their collaboration was a live album, ''[[Evil Stig]]'' and a single, "Bob", whose earnings were contributed to the investigation of Zapata's murder. To this end, the band and Jett appeared on the television show ''[[America's Most Wanted]]'', appealing to the public for information. The case was solved in 2004, when Zapata's murderer, Jesus Mezquia, was brought to trial and convicted.
+
+At an October 2001 [[September 11 attacks|9/11]] benefit in [[Red Bank, New Jersey]],<ref>{{cite web |last=Jordan |first=Chris |date=October 19, 2001 |title=Springsteen Stands By Jon Bon Jovi, Joan Jett at Benefit |url=http://www.mtv.com/news/articles/1450178/20011019/story.jhtml |archive-url=https://web.archive.org/web/20050309010354/http://www.mtv.com/news/articles/1450178/20011019/story.jhtml |archive-date=March 9, 2005 |publisher=MTV}}</ref> Jett and Springsteen appeared together on stage for the first time and played "Light of Day".
+
+Jett is a sports fan and has remained actively involved in the sports world. "Bad Reputation" was used by [[Ultimate Fighting Championship]]'s Women's Bantamweight Champion [[Ronda Rousey]] as her walkout song at the pay-per-view event [[UFC 157]] and is her current theme music in [[WWE]]. In April 2019, Jett performed "Bad Reputation" at WWE's [[WrestleMania 35]] as Rousey was making her entrance.<ref>{{Cite news |url=https://uproxx.com/prowrestling/joan-jett-ronda-rousey-bad-reputation-wwe-wrestlemania-35/|first=Brandon|last=Stroud|title=Rock Legend Joan Jett Will Play Ronda Rousey to the Ring at WrestleMania|date=March 26, 2019|access-date=March 26, 2019 }}</ref>
+
+Jett's cover of "[[The Mary Tyler Moore Show opening sequence#Theme song|Love Is All Around]]" (the theme song of ''[[The Mary Tyler Moore Show]]'') was used by the [[National Collegiate Athletic Association|NCAA]] to promote the Women's Final Four, as well as the song "Unfinished Business", which was never commercially released. "Love Is All Around" gained substantial radio play and became the number one requested song without a supporting album. Jett supplied theme songs for the [[ESPN]] [[X Games]] premiere and has contributed music to all their games since. At [[Cal Ripken Jr.]]'s request she sang the U.S. national anthem at the [[Baltimore Orioles]] game in which he tied<ref>{{cite web |url=http://joanjettbadrep.com/Interviews/1996/online.shtml |title=Joan Jett and the Blackhearts Bad Reputation Nation |website=Bad Reputation Nation |access-date=August 25, 2010}}</ref> [[Lou Gehrig]]'s record for consecutive games played. She also sang the national anthem at the final game played at Memorial Stadium. From 2006 to 2015, the melody for her song "I Hate Myself for Loving You" was used as the theme music for ''[[NBC Sunday Night Football]]'' with re-worked lyrics and retitled "Waiting All Day for Sunday Night". Beginning with the 2019 season, Jett performs the song with Carrie Underwood in the opener of Sunday Night Football games.<ref>{{cite news |title=Joan Jett, Underwood to perform 'Sunday Night Football' open |url=https://www.usatoday.com/story/sports/nfl/2019/08/20/joan-jett-underwood-to-perform-sunday-night-football-open/39987387/ |access-date=August 22, 2019 |agency=Associated Press |work=USA Today |date=August 20, 2019}}</ref>
+
+Though Jett supported [[Howard Dean]] in the [[2004 United States presidential election|2004 election]] because of his opposition to the [[Iraq War]],<ref>{{cite news|first1=Laura|last1=Barton |author-link1=Laura Barton |access-date=May 6, 2021 |title=Laura Barton talks to Joan Jett |url=https://www.theguardian.com/world/2007/nov/19/gender.rock |newspaper=[[The Guardian]] |location=London |date=November 19, 2007}}</ref><ref>{{cite web |url=http://usatoday30.usatoday.com/life/music/news/2003-11-28-jett-dean_x.htm |title=Joan Jett a Howard Dean delegate |work=USA Today |date=November 28, 2003 |access-date=April 2, 2015}}</ref> she has been a consistent supporter of the [[United States Armed Forces]] throughout her career and has toured for the [[United Service Organizations]] for over 20 years, and even performed at the [[United States Military Academy]].<ref>{{Cite news |url=http://www.stripes.com/news/uso-military-spend-about-20m-per-year-on-overseas-shows-1.16934 |first=David |last=Josar |title=USO, military spend about $20m per year on overseas shows |date=February 24, 2004 |access-date=November 30, 2010 }}</ref> She often explains that while she doesn't like war, she loves the military.<ref>{{Cite web |url=https://www.youtube.com/watch?v=UsJX-QRpZ4o&list=PL8X7UIbGVK_AX0auh4PSJk7WDyEKh1Oxp&index=9 |archive-url=https://ghostarchive.org/varchive/youtube/20211028/UsJX-QRpZ4o |archive-date=October 28, 2021 |title=WEAR-Channel 3 News-Springfest 99 Liveshot |date=May 27, 2020 |access-date=June 19, 2021 |via=YouTube}}{{cbignore}}</ref>
+
+In June 2016, as a response to the [[Pulse nightclub shooting]] which left 49 dead, Jett was the first to sign [[Billboard's Open Letter on Gun Violence|''Billboard'' magazine's Open Letter on Gun Violence]] demanding that Congress enact [[gun control]] legislation, specifically [[universal background check]]s. Jett was followed by [[Lady Gaga]] and nearly 200 other musicians and music industry executives in their petition.<ref>{{cite news |url=https://www.usatoday.com/story/life/people/2016/06/23/lady-gaga-lin-manuelo-miranda-britney-spears-sign-open-letter-on-gun-control/86279230/ |title=Lady Gaga, Miranda, Britney Spears sign open letter on gun control |date=June 23, 2016 |last=Deerwester |first=Jamie |newspaper=[[USA Today]] |access-date=December 2, 2024}}</ref>
+
+In 2024, Jett contributed guitar to a re-release of [[Mark Knopfler]]'s "[[Going Home: Theme of the Local Hero]]" in aid of the [[Teenage Cancer Trust]].<ref>{{cite web |url=https://www.nme.com/news/music/mark-knopfler-recruits-bruce-springsteen-brian-may-ronnie-wood-teenage-cancer-trust-single-3584338 |title=Mark Knopfler recruits Bruce Springsteen, Brian May, Ronnie Wood and more for Teenage Cancer Trust single |work=NME |first=Liberty |last=Dunworth |date=February 8, 2024 |access-date=March 4, 2024}}</ref>
+
+=== Products and endorsements ===
+In 2008, Gibson released the "Joan Jett Signature Melody Maker" guitar. It differs from Jett's model by having a single burstbucker 3 humbucking pickup, an ebony fretboard and a double-cutaway body in white with a black vinyl pickguard. It also features a kill switch in place of a pickup selector.<ref name="JJ">{{Cite web |title=Gibson Joan Jett Signature Melody Maker |url=http://www.gibson.com/en-us/divisions/gibson%20usa/products/designer/joan-jett-melody-maker/ |url-status=dead |archive-url=https://web.archive.org/web/20080621045623/http://www.gibson.com/en-us/divisions/gibson%20usa/products/designer/joan-jett-melody-maker/ |archive-date=June 21, 2008 |access-date=June 20, 2008}}</ref> It retails for $839.<ref name="JJ"/> There is a "Blackheart" version of this guitar introduced in 2010. All specs are the same, but it is finished in black, with red and pearl heart inlays.<ref>{{Cite web |title=Joan Jett's Equipboard |url=https://equipboard.com/pros/joan-jett |access-date=October 9, 2019 |website=Equipboard}}</ref>
+
+On November 19, 2009, Mattel released a Joan Jett [[Barbie]] doll. Her name and likeness were used with her permission.<ref>{{cite web |date=November 19, 2009 |title=Joan Jett Doll |url=http://www.barbiecollector.com/shop/doll/joan-jett-doll-r4461 |access-date=April 2, 2015 |website=Barbiecollector.com}}</ref>
+
+In June 2019, Gibson announced and released a third signature guitar for Jett, which is a wine-colored ES-339. The guitar was released after two years of research and development with Jett.<ref>{{Cite web |last=Ong |first=Daniel |date=June 25, 2019 |title=Gibson announces signature ES-339 for Joan Jett |url=https://guitar.com/news/gear-news/gibson-signature-es-339-joan-jett/ |website=Guitar.com}}</ref><ref>{{Cite web |title=Gibson Joan Jett ES-339 |url=https://www.gibson.com/Guitar/MEMSL3116/Joan-Jett-ES-339 |access-date=October 9, 2019 |website=Gibson}}</ref>
+
+== Artistry ==
+Jett has a [[mezzo-soprano]] vocal range.<ref>{{cite web |date=June 26, 2009 |title=Summer Celebration review: Joan Jett |url=http://www.mlive.com/news/muskegon/index.ssf/2009/06/joan_jett_review.html |access-date=April 18, 2014 |website=[[MLive.com]]}}</ref> Her signature guitar is a white [[Gibson Melody Maker]], which she has played on all her hits since 1977. Jett bought her first Melody Maker from [[Eric Carmen]], following the breakup of the [[Raspberries (band)|Raspberries]].<ref>{{cite web|url=http://www.lespaulforum.com/forum/showthread.php?p=1646836|title=Joan Jett Melody Maker!!!|website=Lespaulforum.com|date=June 17, 2010|access-date=April 2, 2015}}</ref> In regard to her white Melody Maker, the singer once stated: "In The Runaways I was using a [[Gibson Les Paul|blond Les Paul]]. It's beautiful, and I still have it, but it's heavy as shit. I jump and run around a lot onstage, and it was really getting to my shoulder, so I was looking for a lighter guitar. I heard from one of our [[road crew]] that [[Eric Carmen]] from the [[Raspberries (band)|Raspberries]] was selling a Melody Maker, so I ended up buying it. Now, this is the guitar that he played on "Go All the Way" and all those [Raspberries] hits. And then I played it on "I Love Rock 'n' Roll", "Crimson and Clover", "Do You Want to Touch Me", "Bad Reputation" ...all those early records. Then I took it off the road because I got nervous that someone was gonna steal it or break it. It's so beautiful. It's white, has no stickers on it, and there are cracks in the paint and yellowing from age or club cigarettes. It's an unbelievable-looking guitar. I have it in a closet and I take it out occasionally to record. But I don't even need to use it to record anymore, because I have a guitar that sounds pretty much like it. I'm actually kind of afraid to bring out the original. It's got a great heritage. It's a guitar full of hits."<ref>{{Cite web|url=https://www.guitarworld.com/artists/dear-guitar-hero-joan-jett-talks-gibson-melody-makers-runaways-pre-show-jitters-and-more|title=Joan Jett Talks Gibson Melody Makers, the Runaways, Pre-Show Jitters and More|author=Brad Angle|website=Guitar WOrld|date=September 22, 2017 |access-date=October 9, 2019}}</ref><ref>{{Cite web|url=http://ericcarmen.com/forums/index.php?/topic/31131-joan-jett-talks-erics-guitar/|title=Joan Jett Talks Eric's Guitar|website=EricCarmen.com|access-date=October 9, 2019|archive-date=October 19, 2021|archive-url=https://web.archive.org/web/20211019042813/https://ericcarmen.com/forums/index.php?/topic/31131-joan-jett-talks-erics-guitar/|url-status=dead}}</ref>
+
+== Legacy and influence ==
+{{Expand section|date=November 2024}}
+[[File:Joan Jett (Runaways)'s Gibson Melody Maker (1977) - Play It Loud. MET (2019-05-13 19.34.58 by Eden, Janine and Jim).jpg|thumb|Jett's [[Gibson Melody Maker]] played during her tenure with the Runaways]]
+The press touted Jett as the "Godmother of [[Punk rock|Punk]]"<ref>{{Cite news |last=Fulton |first=Rick |date=September 5, 2010 |title=Joan Jett can see similarities with biopic alter ego Kristen Stewart as she advises Twilight star on dealing with fame |url=http://www.dailyrecord.co.uk/showbiz/music-news/2010/09/05/joan-jett-can-see-similarities-with-biopic-alter-ego-kristen-stewart-as-she-advises-twilight-star-on-dealing-with-fame-86908-22539374/ |access-date=April 16, 2011 |newspaper=[[Sunday Mail (Scotland)|Sunday Mail]] |quote=Joan, who has been dubbed the godmother of punk,}}</ref> and the "Original [[Riot grrrl|Riot Grrrl]]". Jett has also been described as the Queen of Rock 'n' Roll.<ref>{{cite book |author1=Petras, Kathryn |url=https://books.google.com/books?id=3kQlAgAAQBAJ&pg=PA360 |title="It Always Seems Impossible Until It's Done.": Motivation for Dreamers & Doers |author2=Petras, Ross |date=April 22, 2014 |publisher=Workman Publishing Company |isbn=978-0-7611-8127-9 |page=360 |quote=American rock guitarist, singer, and songwriter; called the Queen of Rock 'n' Roll}}</ref><ref>{{cite book |author=Thompson, Dave |url=https://books.google.com/books?id=lGIqxglW29cC&pg=PA244 |title=Bad Reputation: The Unauthorized Biography of Joan Jett |date=August 1, 2011 |publisher=Backbeat Books |isbn=978-1-61713-077-9 |page=244 |quote=Hendrix, Mike "The Queen of Rock and Roll" (Outlaw Biker, issue 173, 2008)}}</ref><ref>{{cite web |title=Joan Jett on Being 'The Queen of Rock 'n' Roll' (Interview) |url=http://www.biography.com/news/joan-jett-rock-and-roll-hall-of-fame-interview |url-status=dead |archive-url=https://web.archive.org/web/20180629102718/https://www.biography.com/news/joan-jett-rock-and-roll-hall-of-fame-interview |archive-date=June 29, 2018 |access-date=August 6, 2016 |website=Biography.com}}</ref><ref>{{cite magazine |author=McLane, Daisann |date=May 1987 |title=The Promised Land |url=https://books.google.com/books?id=dNSW1RIkidsC&pg=PA33 |magazine=Spin |page=33 |issn=0886-3032 |quote="Yeah ... and don't forget to write that Joan Jett is the Queen of Rock 'n ...}}</ref><ref>{{cite news |date=September 18, 2014 |title=Joan Jett tops celebrity birthdays for September 22 |url=http://www.torontosun.com/2014/09/18/joan-jett-tops-celebrity-birthdays-for-september-22 |access-date=April 2, 2015 |newspaper=Toronto Sun}}</ref> The [[Riot Grrrl]] movement started in the early 1990s, and many of its participants credited Jett as a role model and inspiration.
+
+In 1983, musical satirist [["Weird Al" Yankovic]] released a parody of "[[I Love Rock 'n' Roll#Joan Jett version|I Love Rock 'n' Roll]]" entitled "[[I Love Rocky Road]]", changing the singer's passion for rock music with that for [[Rocky road (ice cream)|ice cream]]. In 1984 the comic strip ''[[Bloom County]]'' included a character named [[Minor characters in Bloom County#Tess Turbo|Tess Turbo]], with a backing band called the Blackheads.<ref>{{cite web |date=February 11, 2012 |title=Tess Turbo and The Blackheads |url=http://joanjettfc.com/2012/02/11/tess-turbo-and-the-blackheads/ |archive-url=https://web.archive.org/web/20140222141025/http://joanjettfc.com/2012/02/11/tess-turbo-and-the-blackheads/ |archive-date=February 22, 2014 |publisher=Joan Jett International Fan Club}}</ref> Jett enjoyed the joking sendup, saying "I actually bought the original artwork of that, and it's hanging in my office... I was honored he chose me to satirize."<ref>{{Cite web |title=Joan Jett And The Blackhearts Bad Reputation Nation |url=https://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=200606&story=20060623-06newsobserver.htm |access-date=2024-11-29 |website=joanjettbadrep.com}}</ref> Her name appears in the lyrics of the [[Le Tigre]] song "[[Hot Topic (song)|Hot Topic]]", released in 1999.<ref>{{Cite web |last=Oler |first=Tammy |date=October 31, 2019 |title=57 Champions of Queer Feminism, All Name-Dropped in One Impossibly Catchy Song |url=https://slate.com/culture/2019/10/hot-topic-lyrics-le-tigre-who-is.html |website=Slate Magazine}}</ref> The 1999 series ''[[Freaks and Geeks]]'' used the song "Bad Reputation" as the opening theme.<ref>{{cite web |title=Front Row King |url=http://www.frontrowking.com/buy-joan-jett-and-the-blackhearts-concert-tickets/index.html |url-status=dead |archive-url=https://web.archive.org/web/20140225000633/http://www.frontrowking.com/buy-joan-jett-and-the-blackhearts-concert-tickets/index.html |archive-date=February 25, 2014 |access-date=February 21, 2014}}</ref> In 2019 British blogger [[LadBaby]] released a parody of "I love Rock 'n' Roll", changing the singer's passion for rock music with that for sausage rolls. "[[I Love Rock 'n' Roll#LadBaby version|I Love Sausage Rolls]]" became the Christmas No.1 in the UK.<ref>{{Cite web |title=On a roll! LadBaby score second Official Christmas Number 1 |url=https://www.officialcharts.com/chart-news/ladbaby-score-second-official-christmas-number-1-with-i-love-sausage-rolls-its-a-christmas-miracle-again-__28042/ |website=officialcharts.com}}</ref> 
+
+In 2008, Gibson manufactured a signature model of her [[Gibson Melody Maker|Melody Maker]], a white double cutaway with a zebra humbucker and "kill" toggle switch.<ref>{{cite web |title=Gibson USA Joan Jett Signature Melody Maker |url=http://www.gibson.com/en-us/divisions/gibson%20usa/products/designer/joan-jett-melody-maker/ |url-status=dead |archive-url=https://web.archive.org/web/20080621045623/http://www.gibson.com/en-us/divisions/gibson%20usa/products/designer/joan-jett-melody-maker/ |archive-date=June 21, 2008 |access-date=April 2, 2015 |publisher=Gibson}}</ref>
+
+In 2010, ''[[The Runaways (2010 film)|The Runaways]]'', a movie about her previous band, was released, starring [[Kristen Stewart]] as Jett and [[Dakota Fanning]] as Currie.<ref name="VH1" /><ref>{{cite news |title=The Runaways synopsis |url=https://www.imdb.com/title/tt1017451/synopsis |access-date=March 11, 2010 |publisher=IMDb}}</ref> Jett was later the subject of a documentary, ''[[Bad Reputation (2018 film)|Bad Reputation]]'', which was released in theaters and streaming on September 28, 2018.<ref>{{cite web |last1=Thompson |first1=Stephen |date=September 12, 2018 |title=On The Eve of a New Documentary, Joan Jett Gets A 'Fresh Start' |url=http://www.npr.org/2018/09/12/647069762/on-the-eve-of-a-new-documentary-joan-jett-gets-a-fresh-start |access-date=October 9, 2019 |publisher=NPR}}</ref>
+
+Jett's honors include being inducted in the [[Long Island Music Hall of Fame]] (Class of 2006),<ref>{{cite web |date=October 16, 2006 |title=Notes of praise for LI musicians at Hall induction |url=http://www.newsday.com/entertainment/localguide/ny-ethall164935459oct16,0,4499130.story |url-status=dead |archive-url=https://web.archive.org/web/20070213065847/http://www.newsday.com/entertainment/localguide/ny-ethall164935459oct16%2C0%2C4499130.story |archive-date=February 13, 2007 |work=Newsday}}</ref> appearing on ''[[Rolling Stone]]''<nowiki/>'s 100 greatest guitarists of all-time list in 2003 and 2023,<ref>{{cite magazine |title=The 100 Greatest Guitarists of All Time |url=https://www.rollingstone.com/news/story/5937559/the_100_greatest_guitarists_of_all_time |url-status=dead |archive-url=https://web.archive.org/web/20070225150844/http://www.rollingstone.com/news/story/5937559/the_100_greatest_guitarists_of_all_time// |archive-date=February 25, 2007 |magazine=Rolling Stone}}</ref><ref>{{Cite magazine |date=2023-10-13 |title=The 250 Greatest Guitarists of All Time |url=https://www.rollingstone.com/music/music-lists/best-guitarists-1234814010/ |access-date=2024-11-22 |magazine=Rolling Stone |language=en-US}}</ref> and being named West Hollywood's Rock Legend in 2013.<ref>{{cite web |title=Thisfunktional: SSMF Day 1 - Honoree Joan Jett receives award, Gibson Signature guitar, August 1 becomes Joan Jett Day in West Hollywood |url=http://www.thisfunktional.com/2013/08/ssmf-day-1-honoree-joan-jett-receives.html |access-date=May 3, 2019 |website=Thisfunktional.com}}</ref> She also received the Nanci Alexander Activist Award for her work on behalf of animal welfare.<ref>{{cite web |date=November 5, 2012 |title=Joan Jett honored for animal charity work |url=http://entertainment.ca.msn.com/celebs/joan-jett-honored-for-animal-charity-work |archive-url=https://web.archive.org/web/20121107140326/http://entertainment.ca.msn.com/celebs/joan-jett-honored-for-animal-charity-work |archive-date=November 7, 2012 |publisher=MSN}}</ref> In April 2014, Jett was the first woman to win the Golden God Award.<ref>{{cite web |title=Alice Cooper Presents Golden God Award to Joan Jett at Revolver Golden Gods |url=http://www.revolvermag.com/news/alice-cooper-presents-golden-god-award-to-joan-jett-at-revolver-golden-gods-video.html |access-date=May 23, 2014 |website=Revolver.com|date=April 24, 2014 }}</ref> Former bandmates [[Cherie Currie]] and [[Lita Ford]] supported her. On April 24, 2014, ''[[Alternative Press (music magazine)|Alternative Press]]'' magazine held its first-ever [[Alternative Press Music Awards]], and Jett received the AP Icon Award.<ref>{{cite web |last=Zaleski |first=Annie |date=July 22, 2014 |title=Once-in-a-Lifetime Performances Highlight Inaugural Alternative Press Music Awards |url=http://loudwire.com/2014-alternative-press-music-awards-recap/ |access-date=April 18, 2015 |website=Loudwire.com}}</ref> In 2015, she and the Blackhearts were inducted into the [[Rock and Roll Hall of Fame]].<ref name="Hall of Fame" />
+
+In August 2024, [[Virgin Atlantic]] named an [[Airbus A330neo|Airbus A330-900]] registered G-VRIF "Joan Jet" in her honour.<ref>{{Cite web |title=Virgin Airbus A330neo {{!}} A330neo Configuration {{!}} Virgin Atlantic |url=https://flywith.virginatlantic.com/gb/en/meet-our-fleet/airbus-a339.html |access-date=2025-04-28 |website=flywith.virginatlantic.com}}</ref> A trail was named after Jett in [[Saint-Jean-d'Heurs]], a rural commune of [[France]].<ref>{{cite web|url=https://adresse.data.gouv.fr/carte-base-adresse-nationale?id=63364_8bvpyd#45.824850_3.442200_15.96|title=Chemin Joan Jett|website=Adresse.data.gouv.fr|access-date=August 11, 2025}}</ref>
+
+== Personal life ==
+Jett has been a vegetarian since the late 1980s and supports animal rights.<ref>Stallwood, Kim W. (2001). ''Speaking Out for Animals: True Stories about Real People who Rescue Animals''. Lantern Books. p. 110. {{ISBN|978-1930051348}}</ref><ref>{{Cite news |last=Briffa |first=John |last2=Ferrier |first2=Morwenna |last3=Briffa |first3=Dr John |date=2010-07-17 |title=What's in your basket, Joan Jett? |url=https://www.theguardian.com/lifeandstyle/2010/jul/18/joan-jett-vegetarian-diet |access-date=2025-06-21 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> She lives in [[Long Beach, New York]], and has been a New York resident since the late 1970s.<ref>{{cite news |last1=Doyle |first1=Heather |date=April 8, 2015 |title=Long Beach's Joan Jett to Be Inducted to Rock Hall of Fame |url=https://patch.com/new-york/longbeach/long-beachs-joan-jett-be-inducted-rock-hall-fame |access-date=February 8, 2019 |publisher=Long Beach Patch}}</ref><ref>{{cite news |last1=Fischler |first1=Marcelle |date=August 5, 2007 |title=Her Life Is a Punk-Rock Workout, and That's the Way She Likes It |url=https://www.nytimes.com/2007/08/05/nyregion/nyregionspecial2/05peopleli.html |access-date=February 8, 2019 |newspaper=The New York Times}}</ref> She is an avid [[New York Liberty]] and [[Baltimore Orioles]] fan.<ref>{{Cite news |last1=Carmichael |first1=Emma |date=October 17, 2023 |title=Joan Jett Loves the New York Liberty |url=https://www.nytimes.com/2023/10/17/arts/music/joan-jett-new-york-liberty-wnba.html |work=The New York Times}}</ref><ref>{{Cite news |last=Hernandez |first=Victoria |date=August 28, 2023 |title=Watch: Lifelong Orioles fan Joan Jett calls scoring play, photobombs the team |url=https://www.usatoday.com/story/sports/mlb/orioles/2023/08/28/joan-jett-calls-scoring-play-photobombs-baltimore-orioles/70704703007/ |access-date=September 1, 2023 |work=[[USA Today]]}}</ref>
+
+=== Sexuality ===
+For years Jett refused to either confirm or deny rumors that she is lesbian or [[Bisexuality|bisexual]]. In a 1994 interview with ''[[Out (magazine)|Out]]'' magazine she said, "I'm not saying no, I'm not saying yes, I'm saying believe what you want. Assume away — go ahead."<ref>{{cite journal|last=Rogers|first=Ray|date=April 1994|title=Joan Jett Rules as Rock's Spinster Queen |url=https://books.google.com/books?id=_N4iAQAAMAAJ&q=%22i%27m+not+saying+no%2C+I%27m+not+saying+yes+I%27m+saying+believe+what+you+want.+Assume+away%22|journal=[[Out (magazine)|Out]]|pages=32–34|access-date=April 27, 2015}}</ref> In 2006, she responded to an interviewer who had asked her when she had "come out" as a lesbian by saying, "I never made any kind of statement about my personal life on any level. I never made any proclamations. So I don't know where people are getting that from."<ref>{{cite web|last=Downs |first=Maggie |url=http://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=200604&story=20060405-01shore.htm |title=Punk rocker Jett still loves her rock 'n' roll |work=The Desert Sun |via=Bad Reputation Nation |date=April 2006 |access-date=August 3, 2016}}</ref>
+
+In 2016, former Runaways guitarist [[Lita Ford]] revealed in her memoir that she temporarily quit the band because the other members were "all gay," saying "First I found out that [[Sandy West|Sandy]], the one I had bonded with the most, was a lesbian. Then I found out that [[Cherie Currie|Cherie]] was messing around with Joan. I was so freaked out that I quit the band. When I found out that the girls were all gay in the band, I wasn't sure how to take it. I didn't know what it was."<ref>{{cite web |last=Brekee |first=Kira |url=https://www.huffpost.com/entry/lita-ford-left-the-runaways-after-learning-about-gay-bandmates_n_56ce07d9e4b041136f193847 |title=Lita Ford Reveals She Quit The Runaways Because Her Bandmates 'Were All Gay' |work=[[Huffington Post]] |date=February 29, 2016 |access-date=May 23, 2021}}</ref>
+
+In a 2018 interview with ''the New York Times'', when asked about how an LGBT film festival did not want to show her documentary because she was not "out", Jett said: "They don't want the movie there because I don't declare? [Holding up her necklace] What the [expletive] is that? Two [[labrys]]es, or axes, crossing each other, inside of two women's symbols crossing each other. It's not been off since I got it. And I wear this one every day. [She turns around, lifts her shirt and reveals a tattoo with similar female symbols on her lower back.] I don't know how much more you can declare."<ref>{{Cite news |last=Ryzik |first=Melena |date=September 27, 2018 |title=Joan Jett: 'My Lot in Life Is to Battle' |work=[[The New York Times]] |url=https://www.nytimes.com/2018/09/27/movies/joan-jett-bad-reputation-documentary.html |access-date=May 29, 2021 |issn=0362-4331}}</ref>
+
+=== Kim Fowley rape allegation ===
+In July 2015, attorney [[Jackie Fox|Jackie Fuchs]] (formerly Jackie Fox of [[the Runaways]]) alleged that [[Kim Fowley]] raped her on New Year's Eve 1975, at a party following a Runaways performance at an Orange County club. Sixteen years old at the time, Fuchs was reportedly given [[Quaalude]]s by a man she thought was a roadie, and while she was incapacitated, Fowley allegedly raped her in full view of a group of partygoers and her bandmates Currie, West, and Jett; Ford was not present.<ref name=":0">{{Cite web |last=Cherkis |first=Jason |title=Jackie Fox of the Runaways Opens Up About Her Traumatic Rape |url=https://highline.huffingtonpost.com/articles/en/the-lost-girls/ |access-date=October 6, 2020 |work=Huffington Post}}</ref> ''[[Look Away (2021 film)|Look Away]]'', a documentary about sexual abuse in the rock music industry features Fuchs' story.<ref>{{cite news |last=Mangan |first=Lucy |url=https://www.theguardian.com/tv-and-radio/2021/sep/13/look-away-review-horrifying-stories-of-abuse-at-the-hands-of-male-rock-stars |title=Look Away review – horrifying stories of abuse at the hands of male rock stars |work=The Guardian |date=September 13, 2021 |access-date=September 13, 2021}}</ref>
+
+Fuchs said that her last memory of the night was seeing Currie and Jett staring at her as Fowley raped her.<ref name=":0"/> Kari Krome (co-founder and songwriter for the group) stated that she saw, "Jett and Currie sitting off to the side of the room for part of the time, snickering" during the rape.<ref name=":0"/> In 2015, Jett stated "Anyone who truly knows me understands that if I was aware of a friend or bandmate being violated, I would not stand by while it happened. For a group of young teenagers thrust into '70s rock stardom there were relationships that were bizarre, but I was not aware of this incident. Obviously Jackie's story is extremely upsetting and although we haven't spoken in decades, I wish her peace and healing."<ref>{{cite web |url=https://consequence.net/2015/07/joan-jett-on-runaways-jackie-fox-rape-allegations-i-was-not-aware-of-this-incident/ |title=Joan Jett on Runaways' Jackie Fox's rape allegations: "I was not aware of this incident" |work=Consequence |date=July 10, 2015 |access-date=April 4, 2022 |author=Kaye, Ben}}</ref><ref>{{Cite web |title=Joan Jett and Cherie Currie Respond to Jackie Fox's Rape Allegations |url=https://jezebel.com/joan-jett-and-cherie-currie-respond-to-jackie-foxs-rape-1717399575 |access-date=October 6, 2020 |work=Jezebel |date=July 13, 2015 |language=en-us}}</ref> [[Victory Tischler-Blue]] (Fuchs's replacement in the group) said that all the members of the group "have always been aware of this ugly event".<ref>{{Cite web |last=Herman |first=Maureen |date=October 21, 2015 |title=The Jackie Fox rape disclosure shows we still have a lot to learn |url=https://boingboing.net/2015/10/21/the-jackie-fox-rape-disclosure.html |access-date=October 6, 2020 |work=Boing Boing |language=en-US}}</ref>
+
+== Discography ==
+{{Main|Joan Jett discography}}
+'''Solo albums'''
+* ''[[Bad Reputation (Joan Jett album)|Joan Jett]]'' (1980); re-released as ''Bad Reputation'' (1981)
+* ''[[The Hit List (Joan Jett album)|The Hit List]]'' (1990)
+'''With Joan Jett and the Blackhearts'''
+* ''[[I Love Rock 'n Roll (album)|I Love Rock 'n Roll]]'' (1981)
+* ''[[Album (Joan Jett album)|Album]]'' (1983)
+* ''[[Glorious Results of a Misspent Youth]]'' (1984)
+* ''[[Good Music (Joan Jett and the Blackhearts album)|Good Music]]'' (1986)
+* ''[[Up Your Alley (album)|Up Your Alley]]'' (1988)
+* ''[[Notorious (Joan Jett album)|Notorious]]'' (1991)
+* ''[[Pure and Simple (Joan Jett album)|Pure and Simple]]'' (1994)
+* ''[[Naked (Joan Jett album)|Naked]]'' (2004)
+* ''[[Sinner (Joan Jett album)|Sinner]]'' (2006)
+* ''[[Unvarnished]]'' (2013)
+* ''Changeup'' (2022)
+* ''Mindsets'' (2023)
+
+== Filmography ==
+{| class="wikitable"
+|-
+! Year
+! Film
+! Role
+! Notes
+|-
+| 1978
+| ''Rock 'N Roll Sports Classic''
+| Herself
+|
+|-
+| 1981
+| ''[[Urgh! A Music War]]''
+| Herself
+|
+|-
+| 1983
+| ''Top '82''
+| Herself
+|
+|-
+| 1987
+| ''[[Light of Day]]''
+| Patti Rasnick
+|
+|-
+| 1992
+| ''[[Highlander: The Series]]''
+| Felicia Martins
+| Episode: "Free Fall"
+|-
+| 1997
+| ''[[Ellen (TV series)|Ellen]]''
+| Herself
+| Episode: "Hello Muddah, Hello Faddah"
+|-
+| 1998
+| ''[[Boogie Boy]]''
+| "Jerk"
+|
+|-
+| 2000
+| ''[[Walker, Texas Ranger]]''
+| Dierdre Harris
+| Episode: "Wedding Bells: Part 1"
+|-
+| 2001
+| ''[[By Hook or by Crook (2001 film)|By Hook or by Crook]]''
+| News Interviewee
+|
+|-
+| 2003
+| ''{{sortname|The|Sweet Life|nolink=1}}''
+| Sherry
+|
+|-
+| 2004
+| ''Godly Boyish''
+| The Narrator
+| [[Voice acting|Voice role]]
+|-
+| rowspan="3" | 2008
+| ''[[Law & Order: Criminal Intent]]''
+| Sylvia Rhodes
+| Episode: "Reunion"
+|-
+| ''[[Repo! The Genetic Opera]]''
+| Guitar Player
+|
+|-
+| ''Lock and Roll Forever''
+| Charlotte Superstar
+|
+|-
+| 2009
+| ''[[Endless Bummer (film)|Endless Bummer]]''
+| Del
+|
+|-
+| 2010
+| ''[[Multiple Sarcasms]]''
+| Herself
+|
+|-
+| 2013
+| ''National Lampoon Presents: Surf Party''
+| Del
+|
+|-
+| 2014
+| ''[[Big Driver (film)|Big Driver]]''
+| Betsy Neal
+|
+|-
+| 2015
+| ''[[Sex & Drugs & Rock & Roll (TV series)|Sex & Drugs & Rock & Roll]]''
+| Herself
+| Episode: "Lust for Life"
+|-
+| rowspan="2" | 2016
+| ''[[The Muppets (TV series)|The Muppets]]''
+| Herself
+| Episode: "A Tail of Two Piggies"
+|-
+| ''[[Ordinary World (film)|Ordinary World]]''
+| Herself
+| [[Cameo appearance]]
+|- 
+| rowspan="3" | 2018
+| ''[[Steven Universe]]''
+| Sunshine Justice (Voice)
+| Episode: "The Big Show"
+|-
+| ''[[Mozart in the Jungle]]''
+| Herself
+| Episode: "I Want You to Think of Me”
+|-
+| ''[[Bad Reputation (2018 film)|Bad Reputation]]''
+| Herself
+| Documentary film
+|-
+| rowspan="3" | 2019
+| ''[[NBC Sunday Night Football]]''
+| Herself
+| Special performer with [[Carrie Underwood]]
+|-
+| ''[[CMA Music Festival]]''
+| Herself with [[Carrie Underwood]]
+| Television special
+|-
+| ''Undateable John''
+| Roxy
+|
+|-
+
+| 2020
+| ''[[Kipo and the Age of Wonderbeasts]]''
+| Camille (Voice)
+| Episode: "Cactus Town"
+|-
+| 2022
+| ''[[Bubble Guppies]]''
+| The Leader of the Rattlers (Voice)
+| Episode: “Race to the Oasis!”
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{sister project links|d=Q231106|n=no|b=no|v=no|voy=no|m=no|mw=no|s=no|wikt=no|c=Category:Joan Jett|species=no}}
+* {{official website}}
+* {{AllMusic}}
+* {{discogs artist}}
+* {{IMDb name}}
+* {{IBDB name}}
+
+{{Joan Jett|state=expanded}}
+{{The Runaways}}
+{{2015 Rock and Roll Hall of Fame}}
+{{NFL on NBC}}
+{{Subject bar |portal1=Biography|portal2=Pennsylvania|commons=y|portal3=Music|d=y }}
+{{Authority control}}
+
+{{DEFAULTSORT:Jett, Joan}}
+[[Category:Joan Jett| ]]
+[[Category:1958 births]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American women guitarists]]
+[[Category:20th-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:American feminist musicians]]
+[[Category:American film actresses]]
+[[Category:American mezzo-sopranos]]
+[[Category:American Protestants]]
+[[Category:American protopunk musicians]]
+[[Category:American punk rock guitarists]]
+[[Category:American punk rock singers]]
+[[Category:American rhythm guitarists]]
+[[Category:American rock guitarists]]
+[[Category:American rock songwriters]]
+[[Category:American women punk rock singers]]
+[[Category:American women record producers]]
+[[Category:American women singer-songwriters]]
+[[Category:Blackheart Records artists]]
+[[Category:Guitarists from Philadelphia]]
+[[Category:Living people]]
+[[Category:Musicians from Montgomery County, Pennsylvania]]
+[[Category:People from Long Beach, New York]]
+[[Category:Proto-riot grrrl bands]]
+[[Category:Record producers from Pennsylvania]]
+[[Category:The Runaways members]]
+[[Category:Singer-songwriters from New York (state)]]
+[[Category:Singer-songwriters from Pennsylvania]]
+[[Category:Musicians from Rockville, Maryland]]
+[[Category:People from West Covina, California]]

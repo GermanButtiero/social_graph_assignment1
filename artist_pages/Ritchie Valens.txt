@@ -1,0 +1,292 @@
+{{Short description|American rock musician (1941–1959)}}
+{{for|the Welsh singer|Ricky Valance}}
+{{Use mdy dates|date=February 2021}}
+{{Infobox person
+| name               = Ritchie Valens
+| image              = Ritchie Valens 1959 press photo.jpg
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = Valens in 1958
+| birth_name         = Richard Steven Valenzuela
+| birth_date         = {{Birth date|1941|5|13|mf=y}}
+| birth_place        = [[San Fernando Valley, California]], U.S.
+| death_date         = {{death date and age|1959|2|3|1941|5|13|mf=y}}
+| death_place        = [[Grant Township, Cerro Gordo County, Iowa|Grant Township, Iowa]], U.S.
+| death_cause        = [[Blunt trauma]] as a result of a [[The Day the Music Died|plane accident]]
+| resting_place      = [[San Fernando Mission Cemetery]]
+| other_names        = Ritchie Valens, Arvee Allens<ref>{{cite web|url=https://www.discogs.com/Ritchie-Valens-Big-Baby-Blues-Fast-Freight/release/3604655|title=Arvee Allens – Big Baby Blues / Fast Freight|website=Discogs.com|access-date=26 October 2017}}</ref><ref>{{cite web|url=http://www.bsnpubs.com/la/delfi/delfi/delfi.html|title=Del-Fi Album Discography|website=Bsnpubs.com|access-date=26 October 2017}}</ref>
+| occupation         = {{hlist|Musician|songwriter}}
+| years_active       = 1957–1959
+| website            = {{Official URL}}
+| module             = {{Infobox musical artist
+| embed         = yes
+| genre         = {{flatlist|
+* [[Rock and roll]]
+* [[Chicano rock]]
+}}
+| instrument    = {{flatlist|
+* Guitar
+* vocals
+}}
+| associated_acts = {{flatlist|
+* [[Waylon Jennings]]
+* [[Buddy Holly]]}}
+}}
+| signature          = File:Ritchie Valens signature.svg
+}}
+'''Richard Steven Valenzuela''' (May 13, 1941 – February 3, 1959),<ref name="Britannica">{{Cite web|url=https://www.britannica.com/biography/Ritchie-Valens|title=Ritchie Valens &#124; Biography, Songs, Plane Crash, Donna, La Bamba, & Facts &#124; Britannica|website=www.britannica.com|date=December 27, 2023 }}</ref> better known by his stage name '''Ritchie Valens''', was an American guitarist, singer and songwriter. A [[rock and roll]] pioneer and a forefather of the [[Chicano rock]] movement, Valens died in [[The Day the Music Died|a plane crash]] just eight months after his breakthrough.<ref>{{cite news | title=Ritchie Valens - the Pioneer of Rock and Roll| url=http://www.efi-news.com/2011/12/ritchie-valens-pioneer-of-rock-and-roll.html |publisher=EF News International| date=December 16, 2011 | url-status=usurped|archive-url=https://web.archive.org/web/20120206183600/http://www.efi-news.com/2011/12/ritchie-valens-pioneer-of-rock-and-roll.html |archive-date=February 6, 2012}}</ref> 
+
+Valens had several hits, most notably "[[La Bamba (song)|La Bamba]]", which he had adapted from a Mexican folk song. Valens transformed the song into one with a rock rhythm and beat, and it became a hit in 1958,<ref>{{cite news | last=Letivan |first=Corey |url=http://www.dailybreeze.com/rave/articles/1649567.html?showAll=y&c=y |archive-url=https://web.archive.org/web/20070928105021/http://www.dailybreeze.com/rave/articles/1649567.html?showAll=y&c=y |url-status=dead |archive-date=September 28, 2007 |title=Latino rockers no longer lost in translation |newspaper=[[Daily Breeze]] |date=July 5, 2005 }}</ref><ref name=":2">{{cite web | url=http://www.mipunto.com/temas/2do_trimestre02/rock.html |title=Temas &#124; Rock en Venezuela |publisher=Mipunto.com |language=es |access-date=September 12, 2013 |archive-url=https://web.archive.org/web/20120213000512/http://www.mipunto.com/temas/2do_trimestre02/rock.html |archive-date=February 13, 2012}}</ref> making Valens a pioneer of the [[rock en español|Spanish-speaking rock and roll]] movement. He also had an American number-two hit with "[[Donna (Ritchie Valens song)|Donna]]".
+
+On February 3, 1959, on what has become known as "[[The Day the Music Died]]", Valens died in a plane crash in [[Iowa]], an accident that also claimed the lives of fellow musicians [[Buddy Holly]] and [[The Big Bopper|J. P. "The Big Bopper" Richardson]], as well as pilot Roger Peterson. Valens was 17 years old at the time of his death. He was posthumously inducted into the [[Rock and Roll Hall of Fame]], the [[Rockabilly Hall of Fame]], the [[Native American Music Awards]] Hall of Fame, the [[California Hall of Fame]], and has a star on the [[Hollywood Walk of Fame]].
+
+==Early life==
+Valens was born as Richard Steven Valenzuela on May 13, 1941, in [[Pacoima, Los Angeles|Pacoima]],<ref name="Britannica"/> a neighborhood in the [[San Fernando Valley]] region of [[Los Angeles]]. The son of Joseph Steven Valenzuela (1896–1952) and Concepción "Concha" Reyes (1915–1987), he had two half-brothers, Robert "Bob" Morales (1937–2018) and Mario Ramirez, and two younger sisters, Connie and Irma.{{cn|date=June 2025}} His parents were from the town of [[Vícam]], [[Sonora]], and were both of [[Yaqui]] indigenous ancestry, having immigrated to the United States in search of a better life. Although Valenzuela is not a Yaqui surname, many indigenous families adopted it during the [[Porfiriato]] dictatorship to avoid forcible removal from their lands, similar to the case of [[Fernando Valenzuela]], who was of [[Mayo people|Mayo]] ancestry.<ref>{{cite news|url=https://oem.com.mx/elsoldehermosillo/tendencias/ritchie-valens-musico-de-origen-sonorense-y-yaqui-que-obtuvo-el-exito-con-la-bamba-23796670|title=Ritchie Valens, músico de origen sonorense y yaqui, que obtuvo el éxito con "La Bamba"|work={{ill|El Sol de Hermosillo|es}}|first=Victor L.|last=Johnson|date=May 27, 2025|access-date=July 3, 2025|language=es}}</ref>
+
+Valenzuela was brought up hearing traditional Mexican [[mariachi]] music, as well as [[flamenco]] guitar,<ref name=":4">{{cite web |last1=City News Service |title=LA declares Ritchie Valens Day on 75th anniversary of his birth |url=https://www.dailynews.com/2016/05/13/la-declares-ritchie-valens-day-on-75th-anniversary-of-his-birth/ |website=Los Angeles Daily News (LDN) |date=13 May 2016 |access-date=25 November 2018}}</ref> [[Rhythm and blues|R&B]], and [[jump blues]]. He expressed an interest in making music of his own by the age of five. Valenzuela was encouraged by his father to take up guitar and trumpet, and later taught himself the drums. Though Valenzuela was left-handed, he was so eager to learn the guitar that he mastered the traditional right-handed version of the instrument.
+
+Valenzuela was a 15-year-old student at Pacoima Junior High School at the time of the [[1957 Pacoima mid-air collision]]. He was not at school that day since he was attending his grandfather's funeral.<ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-2007-jan-28-me-then28-story.html?_amp=true|first=Cecilia|last=Rasmussen|title=The day fiery disaster fell from the sky|website= [[Los Angeles Times]]|date=January 28, 2007|access-date=May 15, 2021}}</ref><ref>{{cite web|url=https://www.eastbaytimes.com/2021/02/19/childhood-pal-recalls-ritchie-valens-as-sweet-tough-from-murrieta-home/ |author= Allen, David |title=Childhood pal recalls Ritchie Valens as 'sweet,' 'tough' from California home|date=February 19, 2021|access-date=May 15, 2021}}</ref> Recurring nightmares of the disaster led to Valens's [[fear of flying]].<ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-1988-12-29-me-1334-story.html |author= Kahler, Karl |title=On Pacoima Playground With Ritchie Valens : Grief Moves Him to Save Lives|website= [[Los Angeles Times]] |quote=One student developed an intense fear of flying after the accident--Ricardo Valenzuela, who later adopted the name Ritchie Valens.|date=Dec 29, 1988|access-date=May 15, 2021}}</ref>
+
+By the time Valenzuela was attending Pacoima Junior High School (now [[Pacoima Middle School]]), he would bring his guitar to school and sing and play songs to his friends on the bleachers.<ref>{{cite book|title=The Oracle of Del-Fi|author=Bob Keane|author-link=Bob Keane|publisher=Del-Fi International Books|date=October 6, 2006|isbn=978-0976810513}}</ref> When Valenzuela was 16 years old, he was invited to join a local band, The Silhouettes (not to be confused with [[The Silhouettes|the group of the same name]] famous for its hit song [[Get a Job (song)|"Get a Job"]]). Valenzuela began as a guitarist, and when the main vocalist left the group, he took over the position. On June 19, 1957, Valenzuela made his performing debut with The Silhouettes.
+
+Valenzuela also attended [[San Fernando High School]].<ref>{{cite web|title=San Fernando High School Alums {{!}} i am san fernando|url=http://iamsanfernando.com/san-fernando-alumni|website=iamsanfernando.com|access-date=7 February 2018}}</ref>
+
+==Career==
+[[File:Donna - La Bamba - Billboard ad 1958.jpg|thumb|upright=0.8|''[[Billboard (magazine)|Billboard]]'' advertisement, December 15, 1958|left]]
+A self-taught musician, Valenzuela was an accomplished singer and guitarist. At his appearances, Valenzuela often improvised new lyrics and added new riffs to popular songs while he was playing.
+
+[[Bob Keane]], the owner and president of small record label [[Del-Fi Records]] in [[Hollywood, Los Angeles|Hollywood]], was given a tip in May 1958 by San Fernando High School student Doug Macchia about a young performer from Pacoima by the name of Richard Valenzuela. Kids knew the performer as "the [[Little Richard]] of [[San Fernando, California|San Fernando]]". Swayed by the Little Richard comparison, Keane went to see Valenzuela play a Saturday-morning matinée at a movie theater in San Fernando. Impressed by the performance, he invited Valenzuela to audition at his home in the [[Silver Lake, Los Angeles|Silver Lake]] area of Los Angeles, where he had a small recording studio in his basement. His recording equipment comprised an early stereo recorder (a two-track [[Ampex]] 601-2 portable) and a pair of [[Georg Neumann GmbH|Neumann]] U-47 condenser microphones.
+After this first audition, Keane signed Valenzuela to Del-Fi on May 14, 1958. At this point, the musician took the name "Ritchie" because, as Keane said, "There were a bunch of 'Richards' around at that time, and I wanted it to be different." Similarly, Keane recommended shortening his surname to "Valens" from Valenzuela to widen his appeal beyond any obvious ethnic group.<ref>"Valens, Ritchie." Encyclopedia of Popular Music, 4th ed. Ed. Colin Larkin. Oxford Music Online. Oxford University Press. Web. 15 Feb. 2016.</ref> Valens was ready to enter the studio with a full band backing him. The musicians included [[René Hall]], [[Carol Kaye]], and [[Earl Palmer]]. The first songs recorded at [[Gold Star Studios]], at a single studio session one afternoon in May 1958, were [["Come On, Let's Go"]], an original, credited to Valens/Kuhn (Keane's real name), and "Framed", a [[Jerry Leiber and Mike Stoller|Leiber and Stoller]] tune. Pressed and released within days of the recording session, the record was a success. Valens' next record, a double A-side, had the song "[[Donna (Ritchie Valens song)|Donna]]" (written about a real girlfriend Donna Ludwig<ref>{{cite news|last=McIntosh|first=Barbara|url=https://www.washingtonpost.com/archive/lifestyle/1987/09/04/the-reveries-of-valens-donna/dfcd57aa-ab5d-48f2-bea5-06ebf3ab5b29/ | title=The Reveries of Valens' Donna|newspaper=[[The Washington Post]]|date=September 4, 1987|access-date=May 30, 2020}}</ref>) coupled with "[[La Bamba (song)|La Bamba]]". It sold over one million copies, and was awarded a [[music recording sales certification|gold disc]] by the [[Recording Industry Association of America]].<ref name="The Book of Golden Discs">{{cite book| first= Joseph| last= Murrells| year= 1978| title= The Book of Golden Discs| edition= 2nd| publisher= Barrie and Jenkins Ltd| location= London| page= [https://archive.org/details/bookofgoldendisc00murr/page/108 108]| isbn= 0-214-20512-6| url-access= registration| url= https://archive.org/details/bookofgoldendisc00murr/page/108}}</ref>
+
+By the autumn of 1958, the demands of Valens's career forced him to drop out of high school. Keane booked appearances at venues across the United States and performances on television programs.[[File:GoJohnnyGoRitchieValens1959.jpg|thumb|upright=0.8|Valens in 1959]]
+=== Concerts and appearances (late 1958–early 1959) ===
+On October 6, 1958, Valens made his first appearance on [[Dick Clark]]'s ''[[American Bandstand]]'' singing "Come On, Let's Go". Soon after, Valens traveled to [[Honolulu]], Hawaii, to perform under the banner of the "11th Show of Stars".<ref name=":3" /> On December 10, 1958, after his trip to Honolulu, Valens made an appearance back at Pacoima Junior High School (now [[Pacoima Junior High School|Pacoima Middle School]]). This concert was posthumously released as ''[[Ritchie Valens in Concert at Pacoima Jr. High]]''; it was Valens' only live performance ever recorded. In mid-December 1958, Valens left for [[New York City]]. Keane had managed to book him as a late addition to "[[Alan Freed]]'s Christmas Jubilee Show" where Valens performed with [[The Everly Brothers]], [[Bo Diddley]], [[Chuck Berry]], [[Jackie Wilson]], [[Eddie Cochran]] and others.<ref name=":0">{{Cite web |title=Ritchie Valens - The Official Website |url=https://www.ritchievalens.com/ |access-date=2023-06-14 |website=www.ritchievalens.com}}</ref> On December 27, Valens performed "Donna" on ''[[The Dick Clark Show]]''.{{cn|date=March 2024}} He played a few more shows in New York, including his only performance at the famous [[Apollo Theater]].<ref name=":3">{{Cite web |title=Where Was Ritchie |url=https://www.ritchievalens.com/where-was-ritchie-valens.html |access-date=2023-06-18 |website=www.ritchievalens.com}}</ref> On January 17, 1959, he appeared at [[West Covina High School]] with [[Sam Cooke]] for a student organized fundraiser called "The Teen Canteen Foundation".<ref name=":3" />
+
+== Personal life ==
+Valens was in a relationship with Donna Ludwig, his high school sweetheart, from 1957 until his death. Ludwig's parents disapproved of her dating a Hispanic boy. Valens's song "Donna" was written for her. Their relationship became strained due to Valens' increasing popularity and touring. After his death, [[Elvis Presley]] had one of his bodyguards arrange a date with Ludwig so that he could know all about Valens.<ref>{{Cite web |title=Hall of Fame Ritchie Valens |url=https://bobs.net/pages/hall-of-fame-ritchie-valens |access-date=2023-06-24 |website=Bob's Big Boy Burbank |language=en}}</ref> In 1987, she attended the premiere of ''[[La Bamba (film)|La Bamba]]'', a biopic featuring the life and career of Valens.
+
+== Winter Dance Party tour and death (1959) ==
+[[File:Ritchie Valens Grave.JPG|thumb|upright=0.8|Grave of Valens and his mother at [[San Fernando Mission Cemetery]]]]
+[[File:Winter Dance Party Tour Poster.jpg|thumb|Poster for the "Winter Dance Party" tour|left|270x270px]]{{Main|The Day the Music Died}}Valens was one of the five acts billed for the Winter Dance Party tour, performing with [[Buddy Holly]], [[The Big Bopper|"The Big Bopper" J. P. Richardson]], [[Dion and the Belmonts]], and [[Frankie Sardo]] beginning on January 23, 1959, in [[Milwaukee, Wisconsin]]. The tour was plagued by subzero temperatures and numerous logistical problems. The unheated tour buses twice broke down in freezing weather, with Valens and Richardson experiencing [[flu]]-like symptoms throughout the tour. After the bus stalled in [[Duluth, Minnesota]] on January 31, conditions were so bad that Holly's drummer, [[Carl Bunch]], was hospitalized for severe [[frostbite]] sustained on the bus.{{sfn|Everitt|2004|p=[https://books.google.com/books?id=H4TSH_b7IHYC&pg=PA13 13]}}<ref name=":32">{{Cite web |date=2011-03-28 |title=Former Buddy Holly drummer Carl Bunch died "positive and at peace" |url=https://northiowatoday.com/2011/03/28/former-buddy-holly-drummer-carl-bunch-died-positive-and-at-peace/ |access-date=2022-06-09 |website=NorthIowaToday.com |language=en-US}}</ref> To fill in for Bunch, Holly, Valens, and [[Dion DiMucci|Dion]] all took turns drumming for one another.<ref name="WeGoNews">{{cite web |title=Connection to Buddy Holly Death |url=http://www.robertlemon.name/myhurley//links.htm |url-status=dead |archive-url=https://web.archive.org/web/20100827081351/http://www.robertlemon.name/myhurley/links.htm |archive-date=August 27, 2010 |access-date=December 22, 2020 |publisher=WeGoNews.com}}</ref>
+
+After the February 2, 1959, performance in [[Clear Lake, Iowa]] (which ended around midnight), Holly, Richardson, and Valens flew out of the [[Mason City, Iowa|Mason City]] airport in a small plane that Holly had chartered.{{sfn|Everitt|2004|p=[https://books.google.com/books?id=H4TSH_b7IHYC&pg=PA13 13]}} Valens was on the plane since he won a [[coin toss]] with Holly's backup guitarist [[Tommy Allsup]].{{sfn|Everitt|2004|p=[https://books.google.com/books?id=H4TSH_b7IHYC&pg=PA14 14]}} Bob Hale, a disc jockey with Mason City's [[KRIB|KRIB-AM]], was [[Master of ceremonies|emceeing]] the concert that night and flipped the coin in the ballroom's side-stage room shortly before the musicians departed for the airport. Valens is apocryphally said to have remarked, "That's the first time I've ever won anything in my life." Holly's bassist, [[Waylon Jennings]], voluntarily gave up his seat on the plane to [[The Big Bopper|J.P. Richardson]], who was ill with the flu.<ref>[https://books.google.com/books?id=yY-qrbtfonUC&dq=coin+toss+valens+allsup&pg=PA97 Lehmer, Larry. ''The Day the Music Died: The Last Tour of Buddy Holly, the Big Bopper and Ritchie Valens''], [[Omnibus Press]] (April 1, 2004), ch. 8.</ref> 
+
+At around 12:55&nbsp;a.m. on February 3, 1959, the four-passenger [[Beechcraft Bonanza]], (N3794N), departed for [[Fargo, North Dakota]], and crashed a few minutes after takeoff. The cause was apparently loss of control by the pilot Roger Peterson, who was not qualified for the deteriorating weather.<ref name="CAB1">{{cite report |url=https://www.ntsb.gov/Publictn/1959/CAB_2-3-1959.pdf |title=Aircraft Accident Report |last1=Durfee |first1=James R. |last2=Gurney |first2=Chan |last3=Denny |first3=Harmar D. |last4=Minetti |first4=G. Joseph |last5=Hector |first5=Louis J.|publisher=[[Civil Aeronautics Board]] |date=September 23, 1959 |access-date=February 4, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090226025843/https://www.ntsb.gov/Publictn/1959/CAB_2-3-1959.pdf |archive-date=February 26, 2009}}</ref> The crash killed all four men instantly upon impact. As with Holly, Richardson and Peterson, Valens suffered massive fatal head injuries along with [[Blunt trauma|blunt-force trauma]] to the chest.<ref>{{cite web |title=Death certificates |url=https://www.awesomestories.com/media/user/b5885f23f3.pdf |access-date=June 1, 2015 |website=Awesome Stories}}</ref><ref>{{cite web |title=Coroner's investigation |url=https://www.awesomestories.com/media/user/f24430da16.pdf |access-date=June 1, 2015 |website=Awesome Stories}}</ref> At the age of 17, Valens was the youngest to die in the crash.
+
+The tragedy inspired singer [[Don McLean]] to write his 1971 hit "[[American Pie (song)|American Pie]]", immortalizing February 3 as "The Day the Music Died". Valens was buried at [[San Fernando Mission Cemetery]] in [[Mission Hills, Los Angeles]], California.
+
+==Legacy==
+Valens was a pioneer of [[Chicano rock]] and [[Latin rock]], inspiring many musicians of Mexican heritage. He influenced the likes of [[Los Lobos]], [[Los Lonely Boys]], and [[Carlos Santana]], as Valens had become nationally successful at a time when very few Latinos were in [[American rock]] and [[American pop|pop]] music. He is considered the first Latino to successfully cross over into mainstream rock.
+
+"La Bamba" proved to be his most influential recording, not only by becoming a pop chart hit sung entirely in Spanish, but also because of its successful blending of traditional Latin American music with rock. Valens was the first to capitalize on this formula, which was later adopted by such varied artists as Carlos Santana, [[Selena]], [[Caifanes]], [[Café Tacuba]], [[Circo (band)|Circo]], [[El Gran Silencio]], [[Aterciopelados]], [[Gustavo Santaolalla]], and many others in the [[Latin alternative]] scene. The Valenzuela family spoke only English at home, and he knew very little Spanish.{{Disputed inline|date=September 2021}} Valens [[phonetical singing|learned the lyrics phonetically]] to record "La Bamba" in Spanish. In 2019, the Valens version of "La Bamba" was selected by the U.S. [[Library of Congress]] for preservation in the [[National Recording Registry]] as "culturally, historically, and aesthetically significant".<ref>{{cite news |last=Andrews |first=Travis M. |date=March 20, 2019 |title=Jay-Z, a speech by Sen. Robert F. Kennedy and 'Schoolhouse Rock!' among recordings deemed classics by Library of Congress |url=https://www.washingtonpost.com/lifestyle/style/jay-z-a-speech-by-sen-robert-f-kennedy-and-schoolhouse-rock-among-recordings-deemed-classics-by-library-of-congress/2019/03/19/f7eb08ea-4a58-11e9-9663-00ac73f49662_story.html?|newspaper=The Washington Post|access-date=March 25, 2019}}</ref><ref>{{cite magazine|url=https://www.billboard.com/music/latin/ritchie-valens-la-bamba-inducted-national-recording-registry-8503463/|title=Ritchie Valens' 'La Bamba' Inducted Into National Recording Registry of the Library of Congress|magazine=Billboard}}</ref>
+
+Valens was nominated for a [[Grammy Awards|Grammy Award]] for [[Grammy Award for Song of the Year|Song of the Year]] in 1988 for La Bamba.
+
+In 2015, ''[[Billboard (magazine)|Billboard]]'' magazine listed Valens on its list of the 30 most influential Latino artists in history, citing "the influence of the Rock and Roll Hall of Famer lives on in today's Latin alternative artists" and also citing "the pioneering Latino artists's enduring crossover hit "La Bamba" proved early on that Mexican-rooted music and Spanish lyrics appealed to the mainstream".
+
+"Come On, Let's Go" has been recorded by Los Lobos, the [[Ramones]] and the [[the Paley Brothers|Paley Brothers]] (the Ramones on guitar, bass, and drums and the Paley Brothers on vocals), [[Tommy Steele]], the [[the Huntingtons|Huntingtons]], [[Girl in a Coma]], and the [[the McCoys|McCoys]]. Johnny Rebb and his Rebels recorded the song for Leedon/Canetoad Records in Australia. "Donna" has been recorded by artists as diverse as [[MxPx]], [[Marty Wilde]], the [[the Youngbloods|Youngbloods]], [[Clem Snide]], [[Cappadonna]], and [[Misfits (band)|Misfits]].
+
+[[Robert Quine]] has cited Valens's guitar playing as an early influence on his style. Valens also inspired [[Jimi Hendrix]], [[Chan Romero]], [[Carlos Santana]], [[the Beatles]], [[Chris Montez]], [[Keith O'Conner Murphy]], [[the Beach Boys]] and [[Led Zeppelin]], among others.{{Citation needed|date=April 2024}}
+
+Valens's mother, Concha, who died in 1987, is buried alongside him.<ref>{{cite book |last1=Wilson |first1=Scott |title=Resting Places: The Burial Sites of More Than 14,000 Famous Persons |date=2016 |publisher=McFarland |isbn=9781476625997 |page=766 |edition=3rd}}</ref>
+
+==Representation in other media==
+* Valens has been the subject of several [[Biographical film|biopic]] films, including the 1987 film ''[[La Bamba (film)|La Bamba]]''. Primarily set in 1957–1959, it depicted Valens from age 16 to 17. It introduced [[Lou Diamond Phillips]] as Valens. [[Los Lobos]] performed most of the music in the film.
+* Valens was portrayed by Gilbert Melgar in the final scene of the 1978 film ''[[The Buddy Holly Story]].''
+* [[Lil' Libros]] released a picture book based on Valens' life in 2019.<ref>{{cite book|title=The Life of - La Vida de Ritchie|id={{ASIN|1947971352|country=es}}}}</ref>
+* On August 26, 2024, it was announced that a new biopic was in the works. The movie will be released through Mucho Mas Media and [[Sony Pictures]] with [[Luis Valdez]], the writer and director of the original 1987 film, serving as an executive producer along with writer [[José Rivera (playwright)|José Rivera]] attached to write the script.<ref>{{cite magazine|url=https://variety.com/2024/film/news/la-bamba-remake-development-mucho-mas-media-sony-1236116753/|title='La Bamba' Remake in Development From Mucho Mas Media and Sony Pictures (EXCLUSIVE)|magazine=Variety}}</ref>
+
+==Tributes==
+[[File:Surf Ballroom Monument.jpg|thumb|upright=0.8|Monument in front of Surf Ballroom in Clear Lake, Iowa]]
+In 1989, Ken Paquette, a [[Wisconsin]] fan of the 1950s era, erected a stainless-steel monument depicting a guitar and a set of three records bearing the names of each of the three performers killed in the accident. It is located on private farmland, about {{convert|1.25|mi|km}} west of the intersection of 315th Street and Gull Avenue, about {{convert|8|mi|0}} north of Clear Lake. He also created a similar stainless-steel monument to the three musicians that was installed near the [[Riverside Ballroom]] in [[Green Bay, Wisconsin]]. That memorial was unveiled on July 17, 2003.<ref>{{cite web |last=Jordan |first=Jennifer |url=http://www.articlestree.com/music/the-day-the-music-died-tx390707.html |title=The Day the Music Died |date=April 11, 2007 |publisher=ArticlesTree |archive-url=https://archive.today/20120207001836/http://www.articlestree.com/music/the-day-the-music-died-tx390707.html |archive-date=February 7, 2012}}</ref>
+
+Paxton Park in Pacoima was renamed Ritchie Valens Recreation Center in memory of Valens in the 1990s. There is also a pool nearby named the Ritchie Valens Pool. At the recreation center, there is also a [[skatepark]] named Ritchie Valens Skate Plaza. A city council member representing Pacoima proposed the renaming to honor Valens so residents would "remember his humble background and emulate his accomplishments."<ref>{{cite web| url=http://www.laparks.org/dos/parks/facility/ritchieValensPk.htm |title=Ritchie Valens Park |publisher=City of Los Angeles Department of Recreation & Parks |access-date=September 12, 2013}}</ref>
+
+Musician Tommy Allsup started a club, "Tommy's Heads Up Saloon", in [[Dallas]] in 1979. The club was named for the fateful coin toss between Valens and him [[The Day the Music Died|twenty years prior]].<ref>{{cite book| url=https://books.google.com/books?id=yY-qrbtfonUC&q=Tommy+Allsup&pg=PA201| title=The Day the Music Died: The Last Tour of Buddy Holly, the Big Bopper, and Ritchie Valens| author=Larry Lehmer| publisher=Music Sales Group| year= 2004| isbn= 978-0-8256-7287-3}}</ref>
+
+"Boogie with Stu" from [[Led Zeppelin]]'s ''[[Physical Graffiti]]'' album was inspired by Valens' song "Ooh, My Head". It did not credit Valens or [[Bob Keane]], instead crediting Valens' mother. Eventually, a lawsuit was filed by Keane, and half of the award went to Valens' mother, although she was not part of the suit.<ref>Lehmer, Larry. ''The Day the Music Died: The Last Tour of Buddy Holly, the Big Bopper and Ritchie Valens'' (2004): 166.</ref>
+
+On May 11, 1990, a star bearing Valens' name was unveiled on the [[Hollywood Walk of Fame]]. The star cost $3,500, which was paid for with money raised in his name by family and friends. His star permanently resides at 6733 Hollywood Boulevard in front of Artisan's Patio mini mall.<ref>{{cite news|url=https://www.chicagotribune.com/news/ct-xpm-1990-05-17-9002090771-story.html|title=Ritchie Valens Finally Gets His Star|author=Starr Spencer|newspaper=Chicago Tribune|year=1990}}</ref>
+
+On February 2, 2009, [[Surf Ballroom]] held a 50th anniversary honoring the last concert of Buddy Holly, J.P. "The Big Bopper" Richardson, and Valens. The event lasted one week and had performances that honored the memories of the three men. Family members and friends of the stars made appearances.<ref>{{cite web |author=PR Newswire |year=2008 |title=Rock and Roll Hall of Fame and Museum and Surf Ballroom & Museum to Honor 50 Year Anniversary of Winter Dance Party |url=http://link.galegroup.com/apps/doc/A186866089/ITOF |publisher=PR Newswire Association}}</ref>
+
+Many murals have been painted around Pacoima in honor of the late Valens.
+In 1985, artist Manuel Velasquez (assisted by 25 students) created a {{Convert|12 by 20|ft|4=0|abbr=on}} mural, which was painted on the side of a classroom building at the former Pacoima Junior High (now Pacoima Middle School) depicting Valens's image, records labeled with some of his greatest hits, and the newspaper article about the plane crash that took his life.<ref>{{cite web|url=http://www.muralconservancy.org/murals/richie-valens|title=Richie Valens – Mural Conservancy of Los Angeles|website=Muralconservancy.org|access-date=26 October 2017|archive-date=December 9, 2018|archive-url=https://web.archive.org/web/20181209124012/http://www.muralconservancy.org/murals/richie-valens|url-status=dead}}</ref>
+Another mural went up in 2012 at the intersection of Van Nuys Boulevard and Amboy Avenue, which was painted by Hector Ponce. A second one was painted in 2012 by Levi Ponce and is located on Van Nuys Boulevard and Telfair Avenue. A monument has also been built as a tribute. It was put on display in 2013, and is located at Ritchie Valens Park at 10731 Laurel Canyon Boulevard.<ref name="auto">{{cite news|url=https://www.dailynews.com/2018/08/06/pacoima-is-ready-to-celebrate-the-ritchie-valens-memorial-highway-in-one-more-reminder-of-the-late-chicano-rockers-legacy/|title=Pacoima is ready to celebrate The Ritchie Valens Memorial Highway in one more reminder of the late Chicano rocker's legacy|author=Dalia Espinosa|newspaper=Los Angeles Daily News|year=2018}}</ref>
+
+On May 13, 2016, the 75th anniversary of Valens' birthday, the [[Los Angeles City Council]] declared May 13 "Ritchie Valens Day".<ref name=":4" />
+
+A section of the [[Interstate 5|Interstate 5 Freeway]] in the northeast [[San Fernando Valley]] has been named after Valens. The Ritchie Valens Memorial Highway is located between the 170 and 118 freeways.<ref>{{cite news|url=http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-section-of-i-5-in-san-fernando-valley-1504219079-htmlstory.html|title=Ritchie Valens, late rock star and local hero, gets a stretch of the 5 Freeway in the Valley named after him|work=Los Angeles Times|author=Patrick McGreevy}}</ref> On August 25, 2018, a celebration was held in his honor to commemorate his legacy. The unveiling ceremony was held at Ritchie Valens Park, located at 10731 Laurel Canyon Boulevard in Pacoima. Replicas of the freeway sign were revealed at the celebration. The event was open to the public and free to attend. A few relatives of Valens played live performances as a tribute to the late singer. Leaders from the community and state gathered for the festivities.<ref name="auto"/>
+
+In May 2022, the [[United States Postal Service|United States Post Office]] in Pacoima, California was renamed the Ritchie Valens Post Office in honor of Valens.<ref>{{cite web |url=https://www.dailynews.com/2022/05/13/ritchie-valens-post-office-dedicated-to-pacoimas-rock-n-roll-legend/ |title=Ritchie Valens Post Office dedicated to Pacoima's rock 'n' roll legend |last=Andres |first=Holly |work=Daily News |date=May 13, 2022 |access-date=June 1, 2022}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of albums, with US chart positions
+! scope="col" rowspan="2" style="width:20em;" | Title
+! scope="col" rowspan="2" style="width:20em;" | Album details
+! scope="col" colspan="1" | Peak chart<br />positions
+|-
+! scope="col" style="text-align:center;" | <small>US</small>
+|-
+! scope="row" | ''[[Ritchie Valens (album)|Ritchie Valens]]''
+|
+* Released: February 1959
+* Format: [[LP album|LP]]
+* Label: Del-Fi DFLP-1201
+| align="center" | 23
+|-
+! scope="row" | ''[[Ritchie (album)|Ritchie]]''
+|
+* Released: October 1959
+* Format: LP
+* Label: Del-Fi DFLP-1206
+| align="center" | —
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! Title
+! Album details
+|-
+! scope="row" | ''[[Ritchie Valens In Concert at Pacoima Jr. High|In Concert at Pacoima Jr. High]]''
+|
+* Released: December 1960
+* Format: [[LP album|LP]]
+* Label: Del-Fi DFLP-1214
+|}
+
+===Main compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! Title
+! Album details
+|-
+! scope="row" | ''[[Ritchie Valens Memorial Album]]'' / <br /> ''His Greatest Hits''
+|
+* Released: December 1962
+* Format: [[LP album|LP]]
+* Label: Del-Fi DFLP-1225
+|-
+! scope="row" | ''[[Ritchie Valens...His Greatest Hits Volume 2|His Greatest Hits Volume 2]]''
+|
+* Released: 1964
+* Format: LP
+* Label: Del-Fi DFLP-1247
+|-
+! scope="row" | ''[[History of Ritchie Valens]]''
+|
+* Released: 1981
+* Format: 3x LP
+* Label: Rhino RNBC 2798
+* Contains replicas of the three original albums
+|-
+! scope="row" | ''[[The Best of Ritchie Valens]]''
+|
+* Released: 1981
+* Format: LP
+* Label: Rhino RNLP 70178
+|-
+! scope="row" | ''The Ritchie Valens Story''
+|
+* Released: 1993
+* Format: CD
+* Label: Del-Fi/Rhino R2 71414
+* Features greatest hits, unreleased demos and 21-minute narrative of Ritchie's life story by Bob Keane
+|-
+! scope="row" | ''Come On, Let's Go!''
+|
+* Released: 1999
+* Format: CD Boxed Set
+* Label: Del-Fi DFBX 2359
+* Contains 3 CDs, 64-page booklet, and a folded poster
+|}
+* Note: There are numerous Valens compilation albums.
+
+===Singles===
+{| class="wikitable" style=text-align:center;
+|-
+!rowspan="2"|Year
+!rowspan="2"|Titles (b/w indicates B-side track)<br /><small>Both sides from same album except where indicated</small>
+!rowspan="2"|[[Record label]]
+!colspan="3"|Peak chart positions
+!rowspan="2"|Album
+|-
+! style="text-align:center;"|<small>[[Billboard Hot 100|US Billboard]]</small><br /><ref>{{cite magazine|url=https://www.billboard.com/artist/ritchie-valens/chart-history/hsi/|title=Ritchie Valens Chart History: Hot 100|magazine=[[Billboard (magazine)|Billboard]]|access-date=April 25, 2021}}</ref>
+! style="text-align:center;"|<small>[[Cashbox (magazine)|US Cashbox]]</small>
+! style="text-align:center;"|<small>[[Kent Music Report|AUS]]</small><br /><ref name=aus>{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=319}}</ref>
+|-
+| rowspan="2"|1958
+| style="text-align:left;"|"[[Come On, Let's Go]]"<br /><small>b/w "[[Framed (Leiber and Stoller song)|Framed]]"</small>
+| style="text-align:center;"|Del-Fi 4106
+| style="text-align:center;"|42
+| style="text-align:center;"|51
+| style="text-align:center;"|53
+| style="text-align:center;" rowspan=2|''[[Ritchie Valens (album)|Ritchie Valens]]''
+|-
+| style="text-align:left;"|"[[Donna (Ritchie Valens song)|Donna]]" /<br />"[[La Bamba (song)|La Bamba]]"
+| style="text-align:center;"|Del-Fi 4110
+| style="text-align:center;"|2<br />22
+| style="text-align:center;"|2<br />49
+| style="text-align:center;"|4
+|-
+| rowspan="4"|1959
+| style="text-align:left;"|"Fast Freight"<br /><small>b/w "Big Baby Blues"<br />Original pressings shown as "Arvee Allens"; later pressings<br /> shown as "Ritchie Valens"</small>
+| style="text-align:center;"|Del-Fi 4111
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;" {{n/a}}
+| style="text-align:center;" rowspan=1|''[[Ritchie (album)|Ritchie]]''
+|-
+| style="text-align:left;"|"That's My Little Suzie"<br /><small>b/w "In a Turkish Town"</small>
+| style="text-align:center;"|Del-Fi 4114
+| style="text-align:center;"|55
+| style="text-align:center;"|43
+| style="text-align:center;" {{n/a}}
+| style="text-align:center;" rowspan=1|''Ritchie Valens''
+|-
+| style="text-align:left;"|"Little Girl"<br /><small>b/w "[[We Belong Together (Robert & Johnny song)|We Belong Together]]" (from ''Ritchie Valens'')</small>
+| style="text-align:center;"|Del-Fi 4117
+| style="text-align:center;"|92
+| style="text-align:center;"|93
+| style="text-align:center;" {{n/a}}
+| style="text-align:center;" rowspan=3|''Ritchie''
+|-
+| style="text-align:left;"|"Stay Beside Me"
+| style="text-align:center;"|Del-Fi 4128
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;" {{n/a}}
+|-
+| 1960
+| style="text-align:left;"|"The Paddiwack Song"<br /><small>b/w "Cry, Cry, Cry"<br />The above three singles were issued on gold Valens Memorial Series<br />labels. Del-Fi 4117 was also issued with picture sleeve.</small>
+| style="text-align:center;"|Del-Fi 4133
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;" {{n/a}}
+|-
+|1987
+| style="text-align:left;"|"La Bamba '87"<br /><small>b/w "La Bamba" (original version from ''Ritchie Valens'')</small>
+| style="text-align:center;"|Del-Fi 1287
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|89
+| style="text-align:center;" rowspan=1|Non-album track
+|-
+|1998
+| style="text-align:left;"|"Come On, Let's Go"<br /><small>b/w "La Bamba"</small>
+| style="text-align:center;"|Del-Fi 51341
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|''Come On, Let's Go!''
+|}
+
+==Filmography and TV appearances==
+* ''[[Go, Johnny, Go!]]'' (1959), was his only film appearance. He plays in a scene, after being introduced by [[Chuck Berry]], singing "Ooh My Head". Valens died shortly after filming it.<ref>Osborne, Robert. Outro to the Turner Classic Movie showing of ''Go, Johnny Go!'' on May 19, 2012</ref>
+* ''[[American Bandstand]]'' (6 October 1958), TV show hosted by [[Dick Clark]].<ref>{{Citation |title=American Bandstand. Ritchie Valens |url=https://www.metacritic.com/tv/american-bandstand/season-2/episode-26-ab-319-ritchie-valens |publisher=Metacritic |access-date=2022-06-10}}</ref>
+* ''[[The Dick Clark Show]]'' (27 December 1958), TV show hosted by Dick Clark.<ref name=":1">{{Citation |title="The Dick Clark Show" Jimmy Clanton, The Diamonds, Ritchie Valens, Jackie Wilson, The Crests featuring Johnny Maestro (TV Episode 1958) - IMDb |url=https://www.imdb.com/title/tt1071507/ |access-date=2023-06-15 |language=en-US}}</ref>
+
+==See also==
+* [[List of acts who appeared on American Bandstand]]
+{{Portalbar|Los Angeles|Biography|Latino and Hispanic American|Music|1950s}}
+

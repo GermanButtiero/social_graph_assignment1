@@ -1,0 +1,189 @@
+{{Short description|English rock band}}
+{{Use dmy dates|date=July 2025}}
+{{Use British English|date=July 2025}}
+{{Infobox musical artist
+| name              = The Dave Clark Five
+| background        = group_or_band
+| image             = Dave Clark Five 1964.JPG
+| caption           = The Dave Clark Five in 1964.<br/> L–R: Mike Smith, Lenny Davidson, Denis Payton, Rick Huxley, Dave Clark.
+| landscape         = yes
+| origin            = [[Tottenham]], London, England
+| genre             = {{Hlist|[[Rock and roll]]|[[Beat music|beat]]|[[pop music|pop]]}}
+| discography       = [[The Dave Clark Five discography]]
+| years_active      = {{flatlist|
+*1958–1970 (Dave Clark Five)
+*1970–1973 (Dave Clark & Friends spinoff)}}
+| label             = {{hlist|[[Columbia Graphophone Company|Columbia (EMI)]]|[[Epic Records|Epic]]|[[Capitol Records|Capitol]]}}
+| associated_acts   = 
+| current_members   = 
+| past_members      = [[Dave Clark (musician)|Dave Clark]]<br>[[Mike Smith (Dave Clark Five)|Mike Smith]]<br>Lenny Davidson<br>Rick Huxley<br>Denis Payton|<!-- See Wikipedia:WikiProject Musicians -->
+}}
+'''The Dave Clark Five''', also known as the '''DC5''', were an English [[rock and roll]] band formed in 1958 in [[Tottenham]], London. Drummer [[Dave Clark (musician)|Dave Clark]] was the group's leader, producer and co-songwriter. In January 1964, they had their first UK top-ten single, "[[Glad All Over]]", which knocked [[the Beatles]]' "[[I Want to Hold Your Hand]]" off the top of the [[UK Singles Chart]]. It peaked at No. 6 in the United States in April 1964.<ref>{{cite news|url=https://www.usatoday.com/life/music/news/2008-03-06-dave-clark-five_N.htm|title=For Dave Clark Five, the accolades finally arrive |last=Gundersen|first=Edna|date=6 March 2008|access-date=13 July 2010|work=USA Today}}</ref> Although this was their only UK No. 1, they topped the US chart in December 1965, with their cover of [[Bobby Day]]'s "[[Over and Over (Bobby Day song)|Over and Over]]". Their other UK top-ten hits include "[[Bits and Pieces (song)|Bits and Pieces]]", "[[Can't You See That She's Mine]]", "[[Catch Us If You Can]]", "[[Everybody Knows (Dave Clark Five song)|Everybody Knows]]", "[[Callow-la-vita|The Red Balloon]]", "[[Good Old Rock 'n' Roll]]", and a version of [[Chet Powers]]' "[[Let's Get Together (Chet Powers song)|Get Together]]" (retitled as "Everybody Get Together").<ref>[http://musicvf.com/song.php?title=Everybody+Get+Together+by+The+Dave+Clark+Five&id=42326 The Dave Clark Five, "Everybody Get Together" chart position] Retrieved 18 May 2015</ref>
+
+They were the second group of the [[British Invasion]] to appear on ''[[The Ed Sullivan Show]]'' in the United States (for two weeks in March 1964 following [[The Beatles on The Ed Sullivan Show|the Beatles' three weeks]] the previous month). They would ultimately have 18 appearances on the show. The DC5 were one of the most commercially successful acts of the British Invasion, releasing seventeen top-40 hits in the US between 1964 and 1967, including several that did not chart as highly in the UK such as "[[Because (The Dave Clark Five song)|Because]]", "[[Do You Love Me]]", "Everybody Knows (I Still Love You)", "[[Any Way You Want It (Dave Clark Five song)|Any Way You Want It]]", "[[I Like It Like That (Chris Kenner song)|I Like It Like That]]", "Try Too Hard" and "[[You Got What It Takes]]". In 1965, the group starred in a [[feature film]] vehicle, ''[[Catch Us If You Can (film)|Catch Us If You Can]]'', directed by [[John Boorman]]. The group disbanded in early 1970, though Clark and a few former members continued as [[Dave Clark & Friends]] until 1973. In 2008, the band was inducted into the [[Rock and Roll Hall of Fame]].<ref name=RNR>{{cite web |title=Inductees for 2008 |url=http://www.rockhall.com/pressroom/2008-inductee-announcement/ |work=Rock and Roll Hall of Fame official website |date=13 December 2007 |access-date=11 March 2008 |archive-url=https://web.archive.org/web/20080201220931/http://www.rockhall.com/pressroom/2008-inductee-announcement/ |archive-date=1 February 2008 |url-status=dead}}</ref>
+
+==History==
+[[File:Dave Clark Five 1966.JPG|thumb|''The Ed Sullivan Show'' in 1966. From left: Denis Payton, Dave Clark, Mike Smith, Rick Huxley and Lenny Davidson.]]
+The band had its origins in 1958, as the backing musicians for [[north London]] vocalist Stan Saxon.<ref name="Larkin">{{Cite book |editor1-first=Colin |editor1-last=Larkin |editor1-link=Colin Larkin (writer) |year=2011 |title=The Encyclopedia of Popular Music |edition=5th |url=https://books.google.com/books?id=_NNmFiUnSmUC |location=London |publisher=Omnibus Press |at=Clark, Dave, Five |isbn=9780857125958}}</ref> [[Dave Clark (musician)|Dave Clark]] played drums and contributed background vocals, alongside a frequently changing line-up.<ref name="Larkin" /> Clark and guitarist Rick Huxley both participated in the 1958 line-up.<ref>{{Cite web|url=https://www.bbc.com/news/entertainment-arts-21428486|title=Dave Clark Five bassist Huxley dies|date=12 February 2013|publisher=BBC News}}</ref> Clark and his bandmates eventually split with Saxon and reconstituted themselves as a standalone concern in January 1962, making their home in the South Grove Youth Club in [[Tottenham]], London.<ref name="Larkin" /> After a little more evolution, a lasting ensemble was settled, with Clark on drums, Huxley moving to bass, Lenny Davidson on lead guitar, Denis Payton on saxophone (and harmonica and rhythm guitar), and [[Mike Smith (Dave Clark Five)|Mike Smith]] on keyboards and lead vocals.<ref name="Larkin" /> Davidson's previous bands were the Off Beats and the Impalas.<ref name="SkidRock">{{cite web|url=http://www.skidmore.edu/~gthompso/britrock/60brchro/60brch40s.html |title=The Birth of a Nation |publisher=Skidmore.edu |access-date=10 August 2015}}</ref><ref name=rockhall/>
+
+The DC5 was promoted as the vanguard of a "Tottenham Sound", a response to Liverpool's [[Mersey Beat]] sound,<ref name="Clark">{{Cite book |last1=Clark |first1=Dick |author-link1=Dick Clark |last2=Uslan |first2=Michael |last3=Solomon |first3=Bruce |year=1981 |title=Dick Clark's the First 25 Years of Rock & Roll |location=New York |publisher=Dell Publishing |page=[https://archive.org/details/dickclarksfirst200usla/page/n170 155] |isbn=044051763X |url-access=registration |url=https://archive.org/details/dickclarksfirst200usla }}</ref> which featured an often loud and forceful production style driven by Clark's punchy drumming, Payton's saxophone padding and Smith's belting vocals. Dave Clark produced their recordings in collaboration with sound engineer [[Adrian Kerridge]] of [[Lansdowne Studios]], with production credited using the pseudonym Adrian Clark.<ref>Adrian Kerridge. 'The Dave Clark Five: History and Techniques', Ch. 9 of ''Tape's Rolling, Take One!'' (2016), pp. 169-186</ref> 
+
+Dave Clark was also the group's manager, and struck business deals that allowed him to produce the band's recordings and gave him control of the master recordings.<ref>James E. Perone, {{cite book |url=https://books.google.com/books?id=S5UbIgKdAS4C&q=dave+clark+five&pg=PA91 |title=Mods, Rockers, and the Music of the British Invasion |page=94 |publisher=ABC-CLIO |year=2008 |isbn=978-0275998608 |access-date=13 July 2010 }}</ref> Songwriting credits for the band's original material went to Clark, or more often to the team of Clark and Smith.  Clark/Davidson and Clark/Payton compositions were also not uncommon.<ref>[http://www.richieunterberger.com/wordpress/tag/the-dave-clark-five/  Richie Unterberger, "The Dave Clark Five PBS Special... and Beyond", ''Folkrocks'', April 16, 2014]. Retrieved 22 August 2020</ref> Session drummer [[Bobby Graham (musician)|Bobby Graham]] is also reported to have played on some of the band's hits.<ref>{{Cite web|url=https://www.allmusic.com/artist/bobby-graham-mn0001596254/biography|title=Bobby Graham &#124; Biography & History|website=AllMusic}}</ref><ref>{{Cite web|url=http://www.independent.co.uk/news/obituaries/bobby-graham-session-drummer-who-played-on-around-15000-records-1791653.html|title=Bobby Graham: Session drummer who played on around 15,000 records|date=23 September 2009|website=The Independent}}</ref>
+
+The Dave Clark Five had 12 Top 40 hits in the UK between 1964 and 1967, and 17 records in the Top 40 of the US ''[[Billboard (magazine)|Billboard]]'' chart. Their cover of [[Bobby Day]]'s "[[Over and Over (Bobby Day song)|Over and Over]]" went to No. 1 in the US on the [[Hot 100 No. 1 Hits of 1965 (USA)|''Billboard'' Hot 100]] on Christmas Day 1965, despite less impressive sales in the UK (it peaked at No. 45 on the [[UK Singles Chart]]). They made 18 appearances on ''[[The Ed Sullivan Show]]''<ref>{{cite magazine |url=https://books.google.com/books?id=9xQEAAAAMBAJ&q=dave+clark+five&pg=PA160 |title=A Second Wind, a New Generation |volume=19 |issue=12 |magazine=Orange Coast Magazine |issn=0279-0483  |access-date=13 July 2010 |date=December 1993 |author=Keith Tuber |page=160}}</ref> – more than any other [[British Invasion]] group.
+
+The band released a film, ''[[Catch Us If You Can (film)|Catch Us If You Can]]'' (directed by [[John Boorman]]) in 1965. It starred [[Barbara Ferris]], and was released in the United States as ''Having a Wild Weekend''. The short film ''Hits in Action'' highlighted a series of Dave Clark Five hits.
+
+Other than the songs "Live in the Sky", "Maze of Love", "Inside and Out", "The Red Balloon" and "Lost in His Dreams", the band did not follow the [[psychedelic music]] trend.<ref>James E. Perone, {{cite book |url=https://books.google.com/books?id=S5UbIgKdAS4C&q=dave+clark+five&pg=PA91 |title=''Mods, rockers, and the music of the British invasion'' |page=99|publisher=ABC-CLIO |year=2008 |isbn=978-0275998608 |access-date=13 July 2010}}</ref> Their popularity in the US mostly dried up by 1967, though they continued to score hits in Britain for another three years. The Dave Clark Five disbanded in 1970, having had three singles on the UK chart that year, two of which reached the Top Ten. In 1970, Davidson, Huxley and Payton left, and Alan Parker and Eric Ford joined on lead guitar and bass. That line-up, renamed "Dave Clark & Friends", lasted until 1972.
+
+==Post break-up==
+Following the group's break-up, Clark set up a media company.  In the process, he acquired the rights to the 1960s pop series ''[[Ready Steady Go!]]''. Additionally, he wrote and produced the 1986 London stage musical [[Time (musical)|''Time – The Musical'']] where he directed the last performance of Sir [[Laurence Olivier]]. A two-disc vinyl album was released in conjunction with the stage production featuring music recorded by [[Julian Lennon]] (singing DC5's song "[[Because (The Dave Clark Five song)|Because]]"), [[Freddie Mercury]], [[Stevie Wonder]], [[Cliff Richard]], [[Ashford & Simpson]] and Olivier's selected dialogue. This double album was digitally remastered and released on [[iTunes Store|iTunes]] in May 2012.
+
+[[Mike Smith (Dave Clark Five)|Mike Smith]] teamed up with [[Mike d'Abo]] (previously with [[Manfred Mann]]) for one album in 1976. He also released a now-scarce CD in 2000 titled ''It's Only Rock & Roll'' and returned to performing in 2003 after a hiatus of 25 years. He formed Mike Smith's Rock Engine and did two mini-tours of the US He died on 28 February 2008 in a [[Buckinghamshire]] hospital from pneumonia, a complication of a paralysing spinal injury sustained from a fall in 2003.<ref name="Smith obit">{{cite news |url=https://news.bbc.co.uk/2/hi/entertainment/7270242.stm |title=Dave Clark Five singer Smith dies |publisher=BBC |date=28 February 2008 |access-date=29 February 2008}}</ref>
+
+Denis Payton died on 17 December 2006 at the age of 63 after a long battle with cancer.<ref>{{Cite web |url=https://www.theguardian.com/news/2007/jan/05/guardianobituaries.obituaries1 |title=Denis Payton: Saxophonist who put the growl into the Dave Clark Five |author=Laing, Dave |date=5 January 2007 |website=[[The Guardian]] |access-date=29 May 2019}}</ref> Rick Huxley died from emphysema on 11 February 2013 at the age of 72.<ref>{{Cite news |title=Rick Huxley, Bassist for the Dave Clark Five, Dies at 72 |url=https://www.nytimes.com/2013/02/14/arts/music/rick-huxley-72-bassist-for-the-dave-clark-five.html |date=14 February 2014 |newspaper=The New York Times |access-date=29 May 2019 |agency=[[Associated Press|AP]]}}</ref> Lenny Davidson taught guitar for many years at a school in [[Cambridgeshire]], the county he lives in.
+
+Between 1978 and 1993, none of their music was available to be purchased in any commercial format due to rights-holder Clark declining to license the band's recordings. In 1993, a single CD ''Glad All Over Again'' was produced by Dave himself and released by EMI in Britain.<ref>{{cite web |url=http://www.artistdirect.com/nad/store/artist/album/0,,3700098,00.html |title=Glad All Over Again CD Edition by The Dave Clark Five @ ARTISTdirect.com – Shop, Listen, Download |publisher=Artistdirect.com |access-date=13 July 2010}}</ref> After a 1989 deal with the Disney Channel to rebroadcast the 1960s ITV show ''[[Ready Steady Go!]]'' (which Clark owned), he made a deal with Disney-owned [[Hollywood Records]] to issue in 1993 a double CD ''History of the Dave Clark Five''.<ref name=Huf>{{cite web |url=http://www.huffingtonpost.com/harold-bronson/the-dave-clark-five-dave-_b_5091519.html |first=Harold |last=Bronson |date=4 April 2014 |work=Huffington Post |title=The Dave Clark Five: Dave Clark's Miscalculation}}</ref>  No DC5 material was then legally available until 2008, when the 28-track ''The Hits'' compilation was released by [[Universal Music]] in the UK. In 2009, selections from the band's catalogue were released on [[iTunes Store|iTunes]]. 
+
+In 2014, Dave Clark wrote, produced, appeared in, and partly presented the television documentary ''The Dave Clark Five and Beyond: Glad All Over''.<ref>[http://www.richieunterberger.com/wordpress/tag/the-dave-clark-five/  Richie Unterberger, "The Dave Clark Five PBS Special... and Beyond", ''Folkrocks'', April 16, 2014]. Retrieved 22 August 2020</ref>  Smith also appeared via archival footage and archived interviews, but there was no participation from Lenny Davidson nor were there any archived interviews from the Denis Payton or Rick Huxley.<ref>[http://www.richieunterberger.com/wordpress/tag/the-dave-clark-five/  Richie Unterberger, "The Dave Clark Five PBS Special... and Beyond", ''Folkrocks'', April 16, 2014]. Retrieved 22 August 2020</ref>  The documentary also featured appearances from [[Paul McCartney]], [[Whoopi Goldberg]], [[Elton John]], and [[Gene Simmons]] of [[Kiss (band)|Kiss]].<ref>[http://www.richieunterberger.com/wordpress/tag/the-dave-clark-five/  Richie Unterberger, "The Dave Clark Five PBS Special... and Beyond", ''Folkrocks'', April 16, 2014]. Retrieved 22 August 2020</ref>
+
+In 2019, almost the entire catalogue from the band, including all the original 1960s studio albums, became available on [[Spotify]] for the first time.  On 24 January 2020, [[BMG Rights Management]], with whom Clark has recently joined forces to reissue the band's recordings, released a new DC5 greatest hits CD (titled ''All the Hits'', and which was based on the 2008 ''The Hits'' compilation) in two configurations.<ref>{{Cite web|url=https://bestclassicbands.com/dave-clark-five-hits-collection-bmg-12-3-19/|title=Dave Clark Five 'All the Hits' Collection Coming: Listen|website=Bestclassicbands.com|date=30 July 2017|access-date=22 January 2020}}</ref>
+
+==Induction into Rock and Roll Hall of Fame==
+The Dave Clark Five made the list of nominees for the class of 2008, and on 13 December 2007 it was announced that the band would be inducted into the [[Rock and Roll Hall of Fame]] on 10 March 2008.<ref name="RNR" /> The group was inducted by [[Tom Hanks]], who wrote, directed and starred in the 1996 film ''[[That Thing You Do!]]'', which was about an American one-hit wonder band that became popular in the wake of the British Invasion.
+
+In attendance with the three surviving members of the DC5 were the families of Lenny Davidson and Rick Huxley, and Denis Payton's two sons. Mike Smith had planned on attending but died 11 days before the induction. Dave Clark opened up his acceptance speech by saying that he felt like he was at the [[Academy Award|Oscars]]. Davidson mentioned that they arrived in New York City for the ceremony on 8 March, exactly 44 years after the group's first appearance on ''The Ed Sullivan Show''.
+
+[[Joan Jett]] honoured the Dave Clark Five by performing "Bits and Pieces" with John Mellencamp's band. To perform "Glad All Over", Jett was joined by [[John Fogerty]], [[John Mellencamp]], [[Billy Joel]] and other artists who performed throughout the evening.
+
+==Members==
+The Dave Clark Five comprised:<ref name="SkidRock" />
+===Classic line-up===
+* [[Dave Clark (musician)|Dave Clark]] – backing and occasional lead vocals, drums (1959–1970; 1970–1972, Dave Clark and Friends spinoff group)<ref name=rockhall>{{cite web |url=http://www.rockhall.com/inductees/dave-clark-five  |title=The Dave Clark Five |publisher=The Rock and Roll Hall of Fame and Museum |access-date=13 July 2010}}</ref><ref name=tsimon>{{cite web |url=http://www.tsimon.com/dcfive.htm|title=Dave Clark Five|publisher=Tsimon.com|access-date=16 November 2010}}</ref>
+* [[Mike Smith (Dave Clark Five)|Mike Smith]] – lead vocals, keyboards (1961–1970; 1970–1973, Dave Clark and Friends spinoff group; died 2008)<ref name=rockhall />
+* Lenny Davidson <!-- (born 30 May 1944 - ) --> – backing and lead vocals, lead and rhythm guitars (1961–1970)<ref name=rockhall />
+* Rick Huxley <!-- (5 August 1940, Dartford – 11 February 2013, Buckinghamshire) --> (ex the Riverside Blues Boys, the Spon Valley Stompers) – backing vocals, bass guitar, rhythm guitar<ref name=rockhall /> (1959–1970; died 2013)
+* Denis Payton <!-- (11 August 1943, Walthamstow – died 17 December 2006) --> (ex the Renegades, the Les Heath Combo, the Blue Dukes, the Mike Jones Combo) – backing and occasional lead vocals, [[tenor saxophone|tenor]] and [[baritone saxophone]]s, harmonica, rhythm guitar (1962–1970; died 2006)<ref name=rockhall /><ref name=PaytonBBC>{{cite web|url=https://news.bbc.co.uk/2/hi/entertainment/6190357.stm |title=Entertainment &#124; Dave Clark Five star Payton dies |publisher=BBC News |date=18 December 2006 |access-date=10 August 2015}}</ref>
+
+===Early members===
+* Stan Saxon – lead vocals, saxophone<ref name="auto">{{Cite book|url=https://books.google.com/books?id=PgGqNrqfrsoC&q=stan+saxon+sax&pg=PP199|title=The Billboard Book of Number One Hits|first=Fred|last=Bronson|date=11 March 2003|publisher=Billboard Books|isbn=9780823076772|via=Google Books}}</ref>
+* Mick Ryan – lead guitar<ref name="auto" />
+* Chris Walls – bass<ref name="auto" />
+
+===Dave Clark & Friends members===
+* [[Alan Parker (musician)|Alan Parker]] – lead guitar
+* Eric Ford – bass
+
+===Timeline===
+{{#tag:timeline|
+ImageSize  = width:800 height:auto barincrement:20
+PlotArea   = left:80 bottom:95 top:0 right:0
+Alignbars  = justify
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1958 till:01/01/1974
+TimeAxis   = orientation:horizontal format:yyyy
+Legend     = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:3 start:1958
+ScaleMinor = increment:1 start:1958
+
+Colors = 
+ id:vocals value:red               legend:Lead_and_backing_vocals
+ id:v      value:pink              legend:Backing_vocals
+ id:harm   value:skyblue           legend:Harmonica
+ id:lead   value:teal              legend:Lead_guitar
+ id:guitar value:brightgreen       legend:Rhythm_guitar
+ id:keys   value:purple            legend:Keyboards
+ id:bass   value:blue              legend:Bass
+ id:drums  value:orange            legend:Drums,_percussion
+ id:sax    value:tan2              legend:Saxophone
+ id:album  value:black             legend:Studio_album
+ id:bs     value:gray(0.1)      
+ id:hh     value:gray(0.3)
+
+BarData = 
+ bar:band       text:Band name
+ bar:Stan       text:Stan Saxon
+ bar:Mike       text:"Mike Smith"
+ bar:Mick       text:"Mick Ryan"
+ bar:Lenny      text:"Lenny Davidson"
+ bar:AlanParker text:"Alan Parker"
+ bar:Rick       text:"Rick Huxley"
+ bar:Chris      text:Chris Walls
+ bar:EricFord   text:"Eric Ford"
+ bar:Dave       text:"Dave Clark"
+ bar:Denis      text:"Denis Payton"
+
+PlotData = 
+ align:center textcolor:white fontsize:7 width:15 shift:(2,-5)
+ bar:band       from:start      till:01/01/1961 color:hh text:"The Dave Clark Five ft. Stan Saxon"
+ bar:BAND       from:01/01/1961 till:01/01/1971 color:bs text:"The Dave Clark Five"
+ bar:band       from:01/01/1971 till:end        color:hh text:"Dave Clark and Friends"
+ 
+ width:13
+ bar:Stan       from:start      till:01/01/1961 color:vocals 
+ bar:Stan       from:start      till:01/01/1961 color:sax    width:3
+ bar:Mike       from:01/01/1961 till:end        color:vocals 
+ bar:Mike       from:01/01/1961 till:end        color:keys   width:3
+ bar:Dave       from:start      till:end        color:drums
+ bar:Dave       from:start      till:end        color:vocals width:3
+ bar:Mick       from:start      till:01/01/1961 color:lead
+ bar:Mick       from:start      till:31/12/1958 color:guitar width:7
+ bar:Mick       from:start      till:01/01/1961 color:v      width:3
+ bar:Lenny      from:01/01/1961 till:01/01/1971 color:lead
+ bar:Lenny      from:01/01/1961 till:31/12/1965 color:guitar width:7
+ bar:Lenny      from:01/01/1961 till:01/01/1967 color:vocals width:3
+ bar:Lenny      from:01/01/1967 till:01/01/1971 color:vocals width:3
+ bar:Denis      from:01/01/1962 till:01/01/1971 color:sax
+ bar:Denis      from:01/01/1962 till:01/01/1971 color:vocals width:3
+ bar:Denis      from:01/01/1962 till:01/01/1969 color:harm   width:7
+ bar:Denis      from:01/01/1966  till:01/01/1969 color:guitar width:5
+ bar:Denis      from:01/01/1969  till:01/01/1971 color:guitar width:7
+ bar:Chris      from:start      till:01/01/1961 color:bass
+ bar:Rick       from:01/01/1959 till:01/01/1961 color:guitar
+ bar:Rick       from:01/01/1961 till:01/01/1971 color:bass
+ bar:Rick       from:01/01/1962 till:01/01/1971 color:v      width:3
+ bar:AlanParker from:01/01/1971 till:end        color:lead
+ bar:AlanParker from:01/01/1971 till:end        color:guitar width:3
+ bar:EricFord   from:01/01/1971 till:end        color:bass
+
+LineData = 
+ color:album layer:back
+ at:17/03/1964
+ at:22/05/1964
+ at:20/07/1964
+ at:21/12/1964
+ at:01/03/1965
+ at:28/06/1965
+ at:15/11/1965
+ at:31/05/1966
+ at:15/08/1966
+ at:20/02/1967
+ at:26/06/1967
+ at:01/01/1968
+ at:01/11/1968
+ at:01/12/1970
+ at:01/12/1971
+ at:01/09/1972
+}}
+
+==Discography==
+{{Further|The Dave Clark Five discography}}
+
+===Studio albums===
+*''[[Glad All Over (Dave Clark Five album)|Glad All Over]]'' (US, 1964)
+*''[[The Dave Clark Five Return!]]'' (US, 1964)/''[[A Session with The Dave Clark Five]]'' (UK, 1964)
+*''[[American Tour]]'' (US, 1964)
+*''[[Coast To Coast (Dave Clark Five album)|Coast to Coast]]'' (US, 1964)
+*''[[Weekend in London]]'' (US, 1965)
+*''[[Having a Wild Weekend (Dave Clark Five album)|Having a Wild Weekend]]'' (US, 1965)/''Catch Us If You Can'' (UK, 1965)
+*''[[I Like It Like That (Dave Clark Five album)|I Like It Like That]]'' (US, 1965)
+*''[[Try Too Hard]]'' (US, 1966)
+*''[[Satisfied with You]]'' (US, 1966)
+*''[[5 by 5 (Dave Clark Five album)|5 by 5]]'' (US, 1967)
+*''[[You Got What It Takes (Dave Clark Five album)|You Got What It Takes]]'' (US, 1967)
+*''[[Everybody Knows (Dave Clark Five album)|Everybody Knows]]'' (US, 1968) / ''[[Everybody Knows (Dave Clark Five album)#UK version|Everybody Knows]]'' (UK, 1967) 
+*''[[5 By 5 (1964–69)]]'' (UK, 1968)
+*''[[If Somebody Loves You]]'' (UK, 1970)
+*''[[The Dave Clark Five Play Good Old Rock & Roll]]'' (UK, 1971)
+*''[[Dave Clark & Friends]]'' (UK, 1972)
+

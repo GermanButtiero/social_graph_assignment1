@@ -1,0 +1,322 @@
+{{Short description|American rock band}}
+{{redirect|Bobby Amaru|the similarly named percussionist|Stabbing Westward}}
+{{Use mdy dates|date=March 2021}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name              = Saliva
+| image             = Saliva band.jpg
+| caption           = Saliva performing in 2018
+| image_upright     = 1.25
+| background        = group_or_band
+| origin            = [[Memphis, Tennessee]], U.S.<ref name=":2"/>
+| genre             = {{flatlist|
+* [[Nu metal]]<ref>{{cite book |last = McIver |first = Joel |title = Nu Metal: The Next Generation of Rock & Punk |publisher = Omnibus Press |year = 2002 |page = 110 |isbn  = 978-0-7119-9209-2}}</ref>
+* [[post-grunge]]<ref name="AMG" />
+* [[alternative metal]]<ref>{{cite web|url=http://www.allmusic.com/album/the-string-quartet-tribute-to-saliva-mw0000643647|title=The String Quartet Tribute to Saliva - Vitamin String Quartet, Ya Baby! String Quartet - Songs, Reviews, Credits - AllMusic|website=[[AllMusic]]|access-date=September 28, 2016|archive-url=https://web.archive.org/web/20160313042530/http://www.allmusic.com/album/the-string-quartet-tribute-to-saliva-mw0000643647|archive-date=March 13, 2016|url-status=live}}</ref>
+* [[rap metal]]<ref>{{cite book |last = Finlayson |first = Rebecca  |title = Insiders' Guide to Memphis |publisher = Rowman & Littlefield.|year = 2008 |page = 100 |isbn  =  9781461746942|url=https://books.google.com/books?id=DLe1DQAAQBAJ&q=Rap+Metal++SALIVA}}</ref>
+* [[hard rock]]<ref name="AMG" />
+}}
+| years_active      = 1996–present
+| label             = {{flatlist|
+* Judge and Jury Records<ref>{{Cite web|url=https://listen.tidal.com/album/392772249/credits|title=Saliva - Time Bomb|website=Tidal|access-date=December 30, 2024}}</ref>
+* [[Megaforce Records|Megaforce]]
+* Rum Bum
+* [[Island Records|Island]]
+* Rockingchair
+* Diamond
+}}
+| associated_acts   = {{flatlist|
+* [[Egypt Central]]
+* [[Full Devil Jacket]]
+* [[Burn Season]]
+* [[Fuel (band)|Fuel]]
+}}
+| website           = {{URL|salivaofficial.com}}
+| current_members   = * Bobby Amaru
+* [[Brad Stewart]]
+* Sammi Jo Bishop
+* Josh Kulack 
+* Sebastian LaBar 
+| past_members      = * Todd Poole 
+* Chris D'Abaldo
+* [[Josey Scott]]
+* Dave Novotny
+* Wayne Swinny
+* Paul Crosby
+* Jonathan Montoya
+}}
+
+'''Saliva''' is an American [[Rock music|rock]] band formed in [[Memphis, Tennessee]], in 1996. They have been nominated for six [[Grammys]] and have won one MTV award.
+
+After releasing their self-titled debut album in 1997, Saliva signed to [[Island Records]] and released second studio album ''[[Every Six Seconds]]''. They released third studio album ''[[Back into Your System]]'' in 2002, which reached No.&nbsp;19 on the [[Billboard 200]]. ''Back into Your System'' launched one of Saliva's most successful songs, "[[Always (Saliva song)|Always]]", reaching No.&nbsp;51 on the Billboard Hot 100 and No.&nbsp;1 on the Modern Rock Chart. Three years after ''[[Survival of the Sickest (album)|Survival of the Sickest]]'', Saliva released ''[[Blood Stained Love Story]]'' in 2007, repeating ''[[Back into Your System]]''{{'}}s chart performance at No.&nbsp;19 on the Billboard 200. Its first single, "[[Ladies and Gentlemen (Saliva song)|Ladies and Gentlemen]]", peaked at No.&nbsp;2 on the Mainstream Rock Chart. Their best-known lineup, which lasted from 2000–2005, consisted of [[Josey Scott]], Wayne Swinny, Chris D'Abaldo, Dave Novotny, and Paul Crosby.
+
+The band is known for having their songs played at sporting events, especially [[WWE]]. The band's guitarist Wayne Swinny said, "a lot of our songs, whether they were intended that way or not - most of them weren't - they just lend themselves to sporting events. You can't watch a football game or go to a football game and not hear '[[Click Click Boom]],' '[[Ladies and Gentlemen (song)|Ladies and Gentlemen]]'."<ref>{{Cite web |title=Wayne Swinny of Saliva |url=https://www.songfacts.com/blog/interviews/wayne-swinny-of-saliva}}</ref>
+
+==History==
+===Formation and ''Saliva'' (1996–1999)===
+Saliva was founded in [[Bartlett, Tennessee]]<ref name=":2">{{Cite web|last=Jordan|first=Mark|date=June 1997|title=Grammy Goes Urban|url=https://www.memphisflyer.com/backissues/issue434/mus434.htm|url-status=dead|archive-url=https://web.archive.org/web/19991004210940/https://www.memphisflyer.com/backissues/issue434/mus434.htm|archive-date=October 4, 1999|access-date=April 11, 2021|website=[[Memphis Flyer]]|issue=434}}</ref><ref name=":3">{{Cite web|last=Jordan|first=Mark|date=February 1997|title=And Then There Were Three|url=http://www.memphisflyer.com/backissues/issue418/mus418.htm|url-status=dead|archive-url=https://web.archive.org/web/20050125000129/http://www.memphisflyer.com/backissues/issue418/mus418.htm|archive-date=January 25, 2005|access-date=April 11, 2021|website=[[Memphis Flyer]]}}</ref> (a suburb of [[Memphis, Tennessee]]) in September 1996 by former members of local bands Roxy Blue, Blackbone, and Gemini Clan.<ref name="AMG">{{cite web
+| last = Prato
+| first = Greg
+| title = Saliva Biography
+| publisher = [[AllMusic]]
+| access-date = June 1, 2010
+| url = {{AllMusic|class=artist|id=p225208/biography|pure_url=yes}}}}</ref><ref name=":4">{{Cite web|last=Briden|first=Tyson|title=Interview with Roxy Blue / 714 singer Todd Poole|url=https://sleazeroxx.com/interviews/interview-with-roxy-blue-714-singer-todd-poole/|access-date=2021-04-11|website=Sleaze Roxx|date=November 15, 2016 |language=en-CA}}</ref><ref>{{Cite web|date=2012-11-27|title=Band Before And After – Blackbone/Saliva|url=https://blastzoneonline.wordpress.com/2012/11/27/band-before-and-after-blackbonesaliva/|access-date=2021-04-11|website=Blastzone Mike's Live Show/blastzone Online|language=en}}</ref><ref name=":5">{{Cite web|last=Jordan|first=Mark|date=January 1997|title=May the Best Band Win|url=http://www.memphisflyer.com/backissues/issue414/music414.htm|url-status=dead|archive-url=https://web.archive.org/web/20001009200555/http://www.memphisflyer.com/backissues/issue414/music414.htm|archive-date=October 9, 2000|access-date=April 11, 2021|website=[[Memphis Flyer]]}}</ref> The original line-up featured vocalist [[Josey Scott|Josey Scott Sappington]], drummer Todd Poole, bassist Dave Novotny, and guitarists Chris D'Abaldo and Wayne Swinny.<ref name=":2" /><ref name="AMG" /><ref name=":5" /> The band played their first show on Halloween, October 31, 1996 with Sappington dressed in a nun costume and Novotny dressed in a voodoo costume.<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/FbllR2pzfDQ Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20210411222933/https://www.youtube.com/watch?v=FbllR2pzfDQ Wayback Machine]{{cbignore}}: {{Citation|title=SALIVA - The Saliva Tapes 1996-99 - PICKLE TV| date=April 8, 2020 |url=https://www.youtube.com/watch?v=FbllR2pzfDQ|language=en|access-date=2021-04-11}}{{cbignore}}</ref>
+
+In December 1996, four months after forming, the band hastily recorded a demo tape, on the basis of which they were selected, out of 117 local bands, to perform at the second annual [[Grammy Showcase Award|Grammy Showcase]] [[National Academy of Recording Arts & Sciences]]' local competition.<ref name=":0" /><ref>{{Cite web|last=Jordan|first=Mark|date=January 1997|title=Grammy Showcase '97|url=http://www.memphisflyer.com/backissues/issue412/music412.htm|url-status=dead|archive-url=https://web.archive.org/web/20000930232714/http://www.memphisflyer.com/backissues/issue412/music412.htm|archive-date=September 30, 2000|access-date=April 11, 2021|website=[[Memphis Flyer]]}}</ref> The band barely had time to finish mixing the tracks of their demo tape at Rockingchair Recording Studios in order to submit their application before the deadline.<ref name=":5" /> The local showcase had Saliva perform alongside four other Tennessee and Arkansas bands (DDT Big Band, Mash-o-Matic, Straight Up Buzz and Ashtray Babyhead) on January 24, 1997 at Memphis' New Daisy Tavern.<ref name=":0">{{Cite web|last=Jordan|first=Mark|date=January 1997|title=And the Winner Is|url=https://www.memphisflyer.com/backissues/issue415/mus415.htm|url-status=dead|archive-url=https://web.archive.org/web/19991004082944/https://www.memphisflyer.com/backissues/issue415/mus415.htm|archive-date=October 4, 1999|access-date=April 11, 2021|website=[[Memphis Flyer]]|issue=415}}</ref> Saliva won the local showcase and advanced to the regional showcase in [[Austin, Texas]] on February 7, 1997.<ref name=":0" /> Their demo tape had since been remixed with a better production, and the song "Suffocate" was included on the ''1997 Grammy Showcase'' Various Artists compact disc compilation, released through Grammy Recordings, alongside the eleven other bands with whom they would compete in the regional showcases.<ref>{{Citation|title=1997 Grammy Showcase (1997, CD)|date=January 1997 |url=https://www.discogs.com/Various-1997-Grammy-Showcase/release/18254983|language=en|access-date=2021-04-11}}</ref><ref name=":5" />
+
+Saliva again won first place in the regional showcase and advanced to the national finals in [[New York City]] on February 22, 1997, competing against the other two regional finalists: folk trio Maggi, Pierce, and EJ and rock band [[Save Ferris]].<ref name="AMG" /><ref name=":1">Archived at [https://ghostarchive.org/varchive/youtube/20211211/qYlpmneUk-k Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20210411222932/https://www.youtube.com/watch?v=qYlpmneUk-k Wayback Machine]{{cbignore}}: {{Citation|title=SALIVA - Early Interview at GRAMMY Showcase in NYC, 1997.| date=April 2015 |url=https://www.youtube.com/watch?v=qYlpmneUk-k|language=en|access-date=2021-04-11}}{{cbignore}}</ref> Saliva came in second behind Save Ferris, but received consolation prizes including money, equipment, and tickets to 1997's [[39th Annual Grammy Awards]] ceremony.<ref name=":2" /><ref name=":3" /> By this point, Saliva had only played six concerts, but began to be courted by major record label A&R scouts.<ref name=":1" /><ref name=":2" />
+
+The band was nominated for Best Newcomer at the 12th Annual Premier Player Awards, the local Memphis edition of the Grammy Awards, held at [[The Peabody Memphis|The Peabody's Memphis Ballroom]] on April 16, 1997.<ref>{{Cite web|last=Jordan|first=Mark|date=February 1997|title=Premier Players honored|url=http://www.memphisflyer.com/backissues/issue419/mus419.htm|url-status=dead|archive-url=https://web.archive.org/web/19991008152522/http://www.memphisflyer.com/backissues/issue419/mus419.htm|archive-date=October 8, 1999|access-date=April 11, 2021|website=[[Memphis Flyer]]}}</ref> Saliva also appeared at Memphis' Crossroads '97 music exhibition as part of [[Memphis in May]]'s [[Beale Street Music Festival]] showcase on May 2, 1997.<ref>{{Cite web|title=Saliva Setlist at Beale Street Music Festival 1997|url=https://www.setlist.fm/setlist/saliva/1997/tom-lee-park-memphis-tn-6bf5460a.html|access-date=2021-04-11|website=setlist.fm|language=en}}</ref><ref>{{Cite web|last=Jordan|first=Mark|date=April 1997|title=Crossroads at a Crossroads|url=http://www.memphisflyer.com/backissues/issue429/mus429.htm|url-status=dead|archive-url=https://web.archive.org/web/20010109193200/http://www.memphisflyer.com/backissues/issue429/mus429.htm|archive-date=January 9, 2001|access-date=April 11, 2021|website=[[Memphis Flyer]]}}</ref>
+
+In the spring and summer of 1997, Saliva returned to Rockingchair Recording Studios in Memphis to record additional songs with producers Bill Pappas and Mark Yoshida, which were combined with the re-mixed songs from their demo tape into their [[Saliva (album)|self-titled debut album]] .<ref name="bookleSaliva">{{cite book|title=Saliva ''liner notes''|year=1997|publisher=[[Rockingchair Records]]}}</ref><ref name=":5" /> ''Saliva'' was released on compact disc in mid-August 1997 through producer Yoshida's own independent record label Rockingchair Records.<ref name=":6">{{Cite web|last=Hanas|first=Jim|date=August 14, 1997|title=Mixing It Up|url=http://www.memphisflyer.com/backissues/issue443/mus443.htm|url-status=dead|archive-url=https://web.archive.org/web/20000824154355/http://www.memphisflyer.com/backissues/issue443/mus443.htm|archive-date=August 24, 2000|access-date=April 11, 2021|website=[[Memphis Flyer]]}}</ref> A CD-release party was held at Club 616 in Memphis on Friday, August 15, 1997.<ref name=":6" /><ref>{{Cite web|title=Saliva Setlist at Club 616, Memphis|url=https://www.setlist.fm/setlist/saliva/1997/club-616-memphis-tn-33810095.html|access-date=2021-04-11|website=setlist.fm|language=en}}</ref> The album went on to sell over 10,000 copies within two years, prompting [[Island Records]] A&R representatives to again take notice of the band. The band's debut album was repressed following Saliva's major label success through a licensing deal between Rockingchair Records and hip hop record label Diamond Productions. The reissue was distributed by [[RED Distribution]] imprint RUMM (RED Urban Music Marketing) and featured an updated artwork designed by Brandon Seavers at AudioGraphic MasterWorks.<ref>{{Citation|title=Saliva – Saliva (2003, CD)|url=https://www.discogs.com/Saliva-Saliva/release/4825107|language=en|access-date=2021-04-11}}</ref><ref name="bookleSaliva" />
+
+The band performed again at Memphis' Crossroads '98 music exhibition as part of Memphis in May's Beale Street Music Festival showcase on May 3, 1998.<ref>{{Cite web|title=Saliva Setlist at Beale Street Music Festival 1998|url=https://www.setlist.fm/setlist/saliva/1998/tom-lee-park-memphis-tn-1b8529fc.html|access-date=2021-04-11|website=setlist.fm|language=en}}</ref> Drummer Poole departed in late 1999 and was replaced by Paul Crosby.<ref name=":4" />
+
+===''Every Six Seconds '' (2000–2001)===
+
+Saliva's album ''[[Every Six Seconds]]'' was released in 2001 and featured the singles "[[Your Disease]]" and "[[Click Click Boom]]", both of which saw significant play on rock radio and helped bring the band into mainstream popularity. The songs "Superstar" and "Click Click Boom" are featured in the film ''[[The Fast and the Furious (2001 film)|The Fast And The Furious]]''.{{cn|date=May 2025}}  The band also recorded the main theme to the 2001 ''[[SpyHunter]]'' game.<ref>''SpyHunter'' manual</ref>
+
+=== ''Back into Your System ''(2002–2003) ===
+''[[Back into Your System]]'', their third album, was released in 2002, which included the chart topping hits "[[Always (Saliva song)|Always]]", and "[[Rest in Pieces]]" co-written by [[Nikki Sixx]] ([[Mötley Crüe]]) and [[James Michael]]. The band toured in 2003, opening for [[Kiss (band)|KISS]] and [[Aerosmith]].{{cn|date=May 2025}}
+
+===''Survival of the Sickest'', departure of Chris D'Abaldo, and Jonathan Montoya (2004–2005)===
+Saliva then released ''[[Survival of the Sickest (album)|Survival of the Sickest]]'' on August 17, 2004, which reached number 20 on the [[Billboard 200|''Billboard'' 200]]. On May 29, 2005, guitarist Chris D'Abaldo announced he had left the band{{r|AMG}} "for obvious reasons, as the band is not a unit anymore." He then shortly retracted his statement and apologized, declaring on the band's website that "there was a bit of an issue we're working through and we're looking forward to recording a new album later this year".<ref>{{cite web|url=http://www.mtv.com/news/articles/1503377/20050602/story.jhtml|title=Saliva lose their guitarist|date=June 2, 2005|access-date=January 30, 2008|publisher=MTV|archive-url=https://web.archive.org/web/20080219143416/http://www.mtv.com/news/articles/1503377/20050602/story.jhtml|archive-date=February 19, 2008|url-status=dead}}</ref> However, the band's website later apologized again for the confusion and confirmed that due to "creative differences", D'Abaldo was in fact leaving the band, but that Saliva was "completely moving forward as planned and [has] our best music ahead of us". D'Abaldo eventually moved on to start the band Smolder. Jake Stutevoss formerly of the band [[Future Leaders of the World]] replaced him in Saliva's tour lineup. Stutevoss left the group right before the recording sessions for Ladies and Gentlemen. Jonathan Montoya, formerly of Full Devil Jacket, then became the next permanent member of Saliva.{{r|AMG}}
+
+===''Blood Stained Love Story'' (2006–2007)===
+A new single, titled "Ladies and Gentlemen" was released in November 2006 to radio stations and made it to No.&nbsp;2 on the US Mainstream Rock charts. Saliva released the album ''[[Blood Stained Love Story]]'' on January 23, 2007.{{r|AMG}} It has also been included as the background music for a number of [[Sony Computer Entertainment|Sony]]'s commercials for the [[PlayStation 3]]. It was also made the official Theme song for [[WrestleMania 23]]. The second single released off of the album was "Broken Sunday", which reached No.&nbsp;8 on the Mainstream Rock chart. Saliva's tour manager Chris stated that the new single off ''Blood Stained Love Story'' would be "King of the Stereo".
+
+=== ''Cinco Diablo'', ''Greatest Hits'' and departure of Jonathan Montoya (2008–2010) ===
+
+In an interview with [[World Wrestling Entertainment|WWE]] on February 27, Scott said "We're going to go in the studio probably around May and record our next record. If you like "Ladies and Gentlemen" and "Click Click Boom", and more dynamic stuff, it's going to be an ass-whooping of a record. It's going to be 45 minutes of ass-whooping!"<ref>{{cite web|url=http://www.wwe.com/subscriptions/wwetunes/vol8/exclusives/salivaecw|title=Saliva talk about the new album|date=February 27, 2008|access-date=January 30, 2008|publisher=WWE|archive-url=https://web.archive.org/web/20080302040015/http://www.wwe.com/subscriptions/wwetunes/vol8/exclusives/salivaecw|archive-date=March 2, 2008|url-status=live}}</ref> Saliva toured with [[Sevendust]] in [[South Korea]], [[Japan]] and a brief stint in Europe until July 2008.{{cn|date=May 2025}}
+
+As of April 30, 2008, Octane 20 on Sirius Satellite Radio began playing a new song titled "Don't Question My Heart", featuring [[Brent Smith]] from [[Shinedown]]. The song can be found on the album ''[[WWE The Music, Vol. 8]]'', and was the official television theme song for the [[ECW on Sci Fi|ECW]] brand.
+
+Saliva's sixth studio album is titled ''[[Cinco Diablo]]'' and was released on December 16, 2008. "Hunt You Down" was a song on the album that was then made the official [[WWE No Way Out 2009]] theme song in February 2009. Saliva also made a song titled "I Walk Alone", which is a theme song used by [[Dave Bautista|Batista]] since 2005, which has been used in ''[[Gears 5]]'' upon starting a Versus match as him as a skin of [[Marcus Fenix]] via an update.
+
+The band worked on a reality television show style DVD following the recording of ''Cinco Diablo'' and life on the road.  In an interview with MJP, Josey was asked if it was a TV Show to which Josey stated "I hope not", and stated that he wanted it more as "a DVD for our fans".
+
+Saliva went on tour with [[Pop Evil]], [[Since October]], Dead Season, and [[Aranda (band)|Aranda]]. They were scheduled to join the 13th annual [[SnoCore Tour]], but singer Josey Scott had ulcer surgery. [[Walt Lafty]] of [[Silvertide]] was hired to fill in for Scott for the tour, but Saliva ultimately decided to drop out of the tour, instead of touring with Lafty.
+
+On March 23, 2010, the band released a Greatest Hits album titled, ''Moving Forward in Reverse: Greatest Hits''.<ref>"[http://tunelab.com/2010/01/14/saliva-to-release-greatest-hits-album/ Saliva To Release Greatest Hits Album] {{Webarchive|url=https://web.archive.org/web/20100123020716/http://tunelab.com/2010/01/14/saliva-to-release-greatest-hits-album/ |date=2010-01-23 }} ''Tunelab.com.'' Jan 14, 2010.</ref> "Time to Shine" from said album was used as the official theme song for the "[[Extreme Rules (2010)|WWE Extreme Rules]]" Pay-Per-View in 2010.
+
+On August 30, 2010, the band announced the departure of guitarist Jonathan Montoya, saying that they would carry on as a four piece.{{cn|date=May 2025}}
+
+===''Under Your Skin'' and departure of Josey Scott (2010–2011)===
+They had begun recording their seventh album, titled ''[[Under Your Skin (album)|Under Your Skin]]'',<ref>{{cite web |url=http://tunelab.com/2010/12/22/saliva-to-release-new-album-in-march/ |title=Saliva To Release New Album In March &#124; tunelab™ |work=tunelab™ |date=December 22, 2010 |publisher=Tunelab.com |access-date=April 3, 2012 |archive-url=https://web.archive.org/web/20120524161119/http://tunelab.com/2010/12/22/saliva-to-release-new-album-in-march/ |archive-date=May 24, 2012 |url-status=live }}</ref> with [[Howard Benson]].
+
+The band supplied a song titled "Badass" to the ''[[Saw 3D]]'' soundtrack released on October 26, 2010.<ref>"[http://tunelab.com/2010/09/30/saw-3d-soundtrack-includes-new-music-from-saving-abel-and-others/ Saw 3D Soundtrack Includes New Music From Saving Abel And Others] {{Webarchive|url=https://web.archive.org/web/20101003080058/http://tunelab.com/2010/09/30/saw-3d-soundtrack-includes-new-music-from-saving-abel-and-others/ |date=2010-10-03 }}" ''Tunelab.com.'' September 30, 2010.</ref>
+
+The band released the [[lead single]] from their new album ''Under Your Skin'', entitled "Nothing". It was digitally released on February 1, 2011. "Badass" was later released as the second single, and reached No.&nbsp;26 on Billboard's Mainstream Rock Tracks.<ref>{{cite web|url=http://polyrhythmsmagazine.wordpress.com/category/charts/|title=Billboard Hot Mainstream Rock Tracks Chart [May 7, 2011]|date=May 7, 2011|access-date=June 30, 2011|publisher=Polyrhythmsmagazine's Blog|archive-url=https://web.archive.org/web/20110718104020/http://polyrhythmsmagazine.wordpress.com/category/charts/|archive-date=July 18, 2011|url-status=live}}</ref>
+
+At the end of 2011, after 15 years with the band, Josey Scott decided to leave Saliva to pursue a solo Christian music career, as it was announced to public.<ref name="roadrunnerrecords1">{{cite web |url=http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=167933 |title=BLABBERMOUTH.NET - SALIVA Announces New Singer |publisher=Roadrunnerrecords.com |access-date=April 3, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120108211837/http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=167933 |archive-date=January 8, 2012 }}</ref> It was later revealed by Scott that he left the band to "be a father and get sober and clean up [his] life and find [himself] mentally and spiritually and philosophically".<ref>[https://blabbermouth.net/news/ex-saliva-singer-josey-scott-explains-why-he-had-initially-avoided-meeting-bands-current-frontman-bobby-amaru Ex-SALIVA Singer JOSEY SCOTT Explains Why He Had Initially Avoided Meeting Band's Current Frontman BOBBY AMARU - BLABBERMOUTH.NET]</ref>
+
+===Bobby Amaru, ''In It to Win It'', ''Rise Up'' and departure of Dave Novotny (2012–2015)===
+[[File:Saliva (42616496).jpeg|thumb|Saliva performing in 2013]]
+In early January 2012 it was announced that Bobby Amaru has joined Saliva as the new vocalist.<ref name="roadrunnerrecords1"/> According to Wayne, "he is a 28-year-old singer, songwriter, producer from Jacksonville, Florida who has a GREAT voice and will not only bring some fresh blood into the band but; will also put a new spin on the Saliva sound." Amaru was the frontman of his solo band Amaru, as well as the drummer for [[Burn Season]].<ref>{{cite web |publisher=KFMX Radio |title=Saliva announces new singer (video) |url=http://kfmx.com/saliva-announces-new-singer-video/?fb_comment_id=fbc_10150561145352803_22150308_10150561824627803#fb8a841455c04e |date=January 3, 2012 |access-date=January 4, 2012 |archive-url=https://web.archive.org/web/20120420025003/http://kfmx.com/saliva-announces-new-singer-video/?fb_comment_id=fbc_10150561145352803_22150308_10150561824627803#fb8a841455c04e |archive-date=April 20, 2012 |url-status=live }}</ref>
+
+On February 10, 2012, Saliva released a brand new single named "All Around the World" and said to write a brand new album straight after the tour.<ref>{{cite web |url=http://loudwire.com/saliva-premiere-new-single-all-around-the-world/ |title=Saliva Premiere New Single 'All Around the World' |publisher=Loudwire.com |date=February 2, 2012 |access-date=April 3, 2012 |archive-url=https://web.archive.org/web/20120420015751/http://loudwire.com/saliva-premiere-new-single-all-around-the-world/ |archive-date=April 20, 2012 |url-status=live }}</ref> In addition to "All Around the World", the band has been performing another new song titled "One More Night" on their current tour with [[12 Stones]] and [[Royal Bliss]].
+
+On November 30, 2012, it was announced that the band had just signed a new record deal with Rumbum Records and that after they have finished their current tour, the band will return home to finish writing the new album and begin recording in January for a release date some time in the spring.
+
+On February 5, 2013, Saliva began recording a new album which would later be named ''[[In It to Win It (Saliva album)|In It to Win It]]''. ''In It to Win It'' was to be the band's eighth record (1st with RumBum Records) with producer Bobby Huff, and executive producer Luis Bacardi. Bobby Huff co-wrote Saliva's single "Badass" and has worked with artists such as Meat Loaf, 3 Doors Down and Cavo.
+
+On April 30, 2013, the band released its first single from the new album, title track "In It To Win It". On September 3, 2013, the band released the album ''In It to Win It''. On January 22, 2014, a new single "Rise Up" was announced. It was also revealed that ''In It to Win It'' had a limited release, and the band planned to release the new record titled ''Rise Up''. ''Rise Up'' was ultimately released with three of ''In It to Win It''<nowiki>'</nowiki>s songs removed.<ref>{{Cite web|url=https://www.facebook.com/photo.php?fbid=10151905496017532&set=a.10151390802497532.1073741827.27083197531&type=1&reply_comment_id=10229294&total_comments=2|title=Facebook|website=Facebook.com|access-date=March 23, 2023}}</ref> On June 4, 2014, Swinny announced that rhythm guitarist Jonathan Montoya had returned the band after almost four years.
+
+In February 2015, bassist Dave Novotny left the band and was replaced by former [[Shinedown]] bassist [[Brad Stewart]].
+
+===''Love, Lies & Therapy'' (2016–2017)===
+On April 16, 2016 Saliva announced their new album, titled ''[[Love, Lies & Therapy]]'' would be released June 10, 2016. Later in May, the group announced they would be supporting the album by taking part of the "[[Make America Rock Again]]" tour in the summer 2016 alongside [[Trapt]], [[Saving Abel]], [[Alien Ant Farm]], [[Crazy Town]], [[12 Stones]], [[Tantric (band)|Tantric]] and [[Drowning Pool]], [[Fuel (band)|Fuel]], [[Puddle Of Mudd]] and [[P.O.D.]]<ref>{{cite web|url=http://www.makeamericarockagain.com/|title=MAKE AMERICA ROCK AGAIN! - Make America Rock Again!|access-date=September 28, 2016|archive-url=https://web.archive.org/web/20160929073610/http://www.makeamericarockagain.com/|archive-date=September 29, 2016|url-status=live}}</ref><ref>{{cite web|url=http://loudwire.com/saliva-love-lies-and-therapy-new-album-new-song/|title=Saliva Offer 'Love, Lies & Therapy' Album Details + New Song|website=[[Loudwire]]|date=April 16, 2016 |access-date=September 28, 2016|archive-url=https://web.archive.org/web/20161001151254/http://loudwire.com/saliva-love-lies-and-therapy-new-album-new-song/|archive-date=October 1, 2016|url-status=live}}</ref><ref>{{cite web|url=http://new-transcendence.com/review-saliva-love-lies-therapy/|title=Review: Saliva – Love, Lies & Therapy|date=June 5, 2016|access-date=September 28, 2016|archive-url=https://web.archive.org/web/20160713124103/http://new-transcendence.com/review-saliva-love-lies-therapy/|archive-date=July 13, 2016|url-status=live}}</ref>
+
+=== ''10 Lives'', lineup changes, reunion with Josey Scott, death of Wayne Swinny, and ''Revelation'' (2018–present)===
+In mid-2018, drummer Paul Crosby announced his departure from the band after 18 years. Shortly afterward, bassist Brad Stewart would also depart to focus on other touring and projects. Saliva then released their tenth studio record, ''10 Lives'', on October 19, 2018 via [[Megaforce Records]].<ref>{{Cite web|url=https://www.blabbermouth.net/news/saliva-to-release-10-lives-album-in-october/|title=SALIVA to Release '10 Lives' Album In October|last=Blabbermouth|date=August 27, 2018|website=BLABBERMOUTH.NET|access-date=September 3, 2019}}</ref> The album was produced by frontman [[Bobby Amaru]] and Steve Perreira in [[Jacksonville, Florida]]. In 2019, both Crosby and Stewart confirmed their return to the band.<ref>{{Cite web|url=https://agitatetheairwaves.com/blog/f/paul-crosby-back-on-tour-with-saliva|title=Paul Crosby: Back on Tour with Saliva!|last=Airwaves|first=Agitate the|website=Agitate the Airwaves|language=en-US|access-date=September 3, 2019|archive-date=September 3, 2019|archive-url=https://web.archive.org/web/20190903100509/https://agitatetheairwaves.com/blog/f/paul-crosby-back-on-tour-with-saliva|url-status=dead}}</ref> Saliva would go on to tour in 2019 as a part of Puddle of Mudd's Muddfest.
+
+In October 2019, former vocalist Josey Scott announced on ''The Morning Dump'' podcast that he planned to reunite with Saliva for a tour and a new studio album.<ref>{{cite web |last1=Childers |first1=Chad |title=Josey Scott Whets Saliva Fans' Appetites With Reunion Talk |url=https://loudwire.com/josey-scott-saliva-reunion/ |website=Loudwire |date=October 28, 2019 |access-date=December 24, 2019}}</ref> This was confirmed by Swinny in an interview with Detroit's WRIF Radio, adding that although "there's nothing on paper," the reunion should take place from 2020 into 2021 to commemorate the 20th anniversary of ''Every Six Seconds''. In addition to Scott rejoining, Swinny also suggested that former guitarist Chris D'Abaldo may also be taking part.<ref>{{cite web |last1=Kennelty |first1=Greg |title=SALIVA To Reunite With Original Singer Josey Scott For New Album And Tour |url=https://metalinjection.net/latest-news/reunited/saliva-to-reunite-with-original-singer-josey-scott-for-new-album-and-tour |website=MetalInjection |date=October 30, 2019 |access-date=December 24, 2019}}</ref> In January 2021, it was announced that these plans were put on hold due to the [[COVID-19 pandemic]].<ref>{{Cite web|url=https://www.blabbermouth.net/news/salivas-reunion-with-original-singer-josey-scott-has-been-put-on-hold/|title=SALIVA's Reunion With Original Singer JOSEY SCOTT 'Has Been Put On Hold'|date=January 26, 2021|website=[[Blabbermouth.net]]|access-date=January 26, 2021}}</ref>
+
+On April 16, 2021, the band released a music video for "After Me" following the 20th anniversary of their second album ''Every Six Seconds''. Also, guitarist and founder Wayne Swinney sat out touring for August, due to testing positive for [[COVID-19]], with 9th Planet guitarist Josh Kulack filling in for him.
+
+[[File:Josey Scott 2022.png|thumb|upright=1.2|Josey Scott performing with Saliva at Blue Ridge Rock Festival 2022]]
+On May 14, 2022, Paul Crosby left Saliva for the second time. The band kept performing with Lee Hutt before Sammi Jo Bishop was announced as their permanent drummer.
+
+On September 11, 2022, Josey Scott made his first appearance with the band as a special guest since departing in 2011, where they performed three songs together: "Your Disease", "Always", and "Click Click Boom."<ref>{{Cite web |last=Trapp |first=Philip|title=Saliva Reunite With Josey Scott at Blue Ridge Rock Fest |url=https://loudwire.com/saliva-reunite-with-singer-josey-scott-at-blue-ridge-rock-festival/ |access-date=2022-09-19 |website=Loudwire |date=September 12, 2022 |language=en}}</ref>
+
+On March 22, 2023, guitarist and founding member Wayne Swinny died from a brain hemorrhage, at the age of 59.<ref>{{cite web|url=https://blabbermouth.net/news/saliva-guitarist-wayne-swinny-reportedly-dies-after-suffering-brain-hemorrhage|title=SALIVA Guitarist WAYNE SWINNY Dies After Suffering Brain Hemorrhage|publisher=[[Blabbermouth.net]]|access-date=March 22, 2023|date=March 22, 2023}}</ref> He was the last original member who still remained with the band.<ref>{{cite news|url=https://deadline.com/2023/03/wayne-swinny-dies-cofounder-of-rock-group-saliva-was-59-1235307798/|title=Wayne Swinny Dies: Co-Founder Guitarist Of Rock Group Saliva Was 59|publisher=Deadline Hollywood|date=March 22, 2023|accessdate=March 23, 2023}}</ref>
+
+In the weeks following Swinny's death, the band announced they would be continuing in honour of him. They completed a North American co-headlining tour with [[Drowning Pool]], with support from [[Adelitas Way]] and [[Any Given Sin]], across September and October 2023.<ref>[https://blabbermouth.net/news/saliva-and-drowning-pool-announce-september-october-2023-u-s-tour SALIVA And DROWNING POOL Announce September/October 2023 U.S. Tour - BLABBERMOUTH.NET]</ref>
+
+In May 2023, Scott announced that he would begin touring with a new band entitled Josey Scott's Saliva, performing Saliva's songs from his era as well as his new songs.<ref>[https://blabbermouth.net/news/josey-scott-announces-tour-dates-under-josey-scotts-saliva-banner JOSEY SCOTT Announces Tour Dates Under JOSEY SCOTT'S SALIVA Banner - BLABBERMOUTH.NET]</ref><ref>[https://www.youtube.com/watch?v=qhNc_ocBYrs&ab_channel=BattlelinePodcast Original frontman of Saliva, Josey Scott - Exclusive interview | Ep. 186 - YouTube]</ref>
+
+In September 2023, the band released their 11th studio album, ''Revelation''. The album, recorded over the pandemic, is the last to feature Swinny's guitar playing.<ref>{{cite web |title=New Saliva Album "Revelation" Due In September |url=https://www.theprp.com/2023/07/19/news/new-saliva-album-revelation-due-in-september/ |website=The PRP|date=July 19, 2023 }}</ref>
+
+== Band members ==
+{{col-begin}}
+{{col-3}}
+;Current members
+* Bobby Amaru – lead vocals <small>(2011–present)</small>; drums <small>(studio, 2018)</small>
+* [[Brad Stewart]] – bass, backing vocals <small>(2015–2018, 2019–present)</small>
+* Sammi Jo Bishop – drums <small>(2022–present)</small>
+* Josh Kulack – lead guitar, backing vocals <small>(2024–present; touring 2021, 2022, 2023–2024)</small>
+* Sebastian LaBar – rhythm guitar, backing vocals <small>(2024–present; touring 2023–2024)</small>
+
+{{col-3}}
+;Former members
+* Todd Poole – drums, backing vocals <small>(1996–1999)</small>
+* Chris D'Abaldo – rhythm guitar, backing vocals <small>(1996–2005)</small>
+* [[Josey Scott]] – lead vocals <small>(1996–2011; guest 2022)</small>
+* Dave Novotny - bass, backing vocals <small>(1996–2015)</small>
+* Jonathan Montoya – rhythm guitar, backing vocals <small>(2005–2010, 2014–2015)</small>
+* [[Damien Starkey]] – bass, backing vocals <small>(2018–2019)</small>
+* Tosha Jones – drums <small>(2018–2019)</small>
+* Paul Crosby – drums <small>(2000–2018, 2019–2022)</small>
+* Wayne Swinny – lead guitar, backing vocals <small>(1996–2023; his death)</small>, rhythm guitar <small>(2010–2014, 2015–2023)</small>
+
+{{col-3}}
+;Former session and touring musicians
+* [[Zach Myers]] – bass <small>(2004, 2005)</small>
+* Chris Hahn – rhythm guitar <small>(2005–2006)</small>
+* Jake Stutevoss – rhythm guitar <small>(2006–2007)</small>
+* Eric Bice – drums <small>(2009, 2012)</small>
+* Steve Perreira – bass <small>(2018)</small>
+* Lee Hutt – drums <small>(2022)</small>
+{{col-end}}
+
+===Timeline===
+{{#tag:timeline|
+ImageSize = width:1000 height:auto barincrement:20
+PlotArea  = left:110 bottom:100 top:0 right:10
+Alignbars  = justify
+DateFormat = dd/mm/yyyy
+Period    = from:01/10/1996 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend     = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:3 start:1997
+ScaleMinor = increment:1 start:1997
+
+Colors = 
+  id:lvocals   value:red         legend:Lead_vocals
+  id:lguitar   value:teal        legend:Lead_guitar
+  id:rguitar   value:brightgreen legend:Rhythm_guitar
+  id:bass      value:blue        legend:Bass
+  id:drums     value:orange      legend:Drums
+  id:touring   value:yellow      legend:Touring_members
+  id:bvocals   value:pink        legend:Backing_vocals
+  id:studio    value:black       legend:Studio_album
+  id:other     value:gray(0.5)   legend:Other_release
+  id:bars      value:gray(0.93) 
+
+BackgroundColors = bars:bars
+
+
+LineData = 
+  layer:back color:other
+  at:26/06/2007 #Ladies and Gentlemen Hit Pack
+  at:23/03/2010 #Moving Forward in Reverse: Greatest Hits
+  at:29/04/2014 #Rise Up
+  at:07/05/2021 #Every Twenty Years
+  at:31/01/2025 #Revelation: Retold
+
+  color:studio
+  at:26/08/1997 #Saliva
+  at:27/03/2001 #Every Six Seconds
+  at:12/11/2002 #Back into Your System
+  at:17/08/2004 #Survival of the Sickest
+  at:23/01/2007 #Blood Stained Love Story
+  at:16/12/2008 #Cinco Diablo
+  at:22/03/2011 #Under Your Skin
+  at:03/09/2013 #In It to Win It
+  at:10/06/2016 #Love, Lies & Therapy
+  at:19/10/2018 #10 Lives
+  at:08/09/2023 #Revelation
+
+BarData =
+  bar:Josey    text:"Josey Scott"
+  bar:Bobby    text:"Bobby Amaru"
+
+  bar:Wayne    text:"Wayne Swinny"
+  bar:Josh     text:"Josh Kulack"
+
+  bar:Chris    text:"Chris D'Abaldo"
+  bar:Jonathan text:"Jonathan Montoya"
+  bar:LaBar    text:"Sebastian LaBar"
+
+  bar:Dave     text:"Dave Novotny"
+  bar:Brad     text:"Brad Stewart"
+  bar:Steve    text:"Steve Perreira"
+  bar:Damien   text:"Damien Starkey"
+
+  bar:TP       text:"Todd Poole"
+  bar:PC       text:"Paul Crosby"
+  bar:TJ       text:"Tosha Jones"
+  bar:SJB      text:"Sammi Jo Bishop"
+
+PlotData = 
+  width:11 textcolor:black align:left anchor:from shift:(11,-4)
+  color:lvocals
+  bar:Josey    from:start till:02/12/2011
+  bar:Bobby    from:03/12/2011  till:end
+
+  color:lguitar
+  bar:Wayne    from:start till:22/03/2023
+  bar:Chris    from:01/01/2002 till:02/06/2005 width:7
+  bar:Wayne    from:27/05/2018 till:22/03/2023
+  bar:Josh     from:22/03/2023  till:end
+
+  color:rguitar
+  bar:Chris    from:start till:02/06/2005
+  bar:Wayne    from:01/01/2002 till:02/06/2005 width:7
+  bar:Josey    from:01/01/2002 till:02/06/2005 width:3
+  bar:Jonathan from:02/06/2005 till:31/08/2010
+  bar:Wayne    from:01/09/2010 till:04/06/2014 width:7
+  bar:Jonathan from:04/06/2014 till:31/12/2015
+  bar:Wayne    from:01/01/2016 till:22/03/2023 width:7
+  bar:LaBar    from:22/03/2023  till:end
+
+  color:bass
+  bar:Dave     from:start till:31/01/2015
+  bar:Brad     from:01/02/2015 till:02/03/2018
+  bar:Steve    from:03/03/2018 till:26/05/2018
+  bar:Damien   from:27/05/2018 till:20/06/2019
+  bar:Brad     from:20/06/2019  till:end
+
+  color:drums
+  bar:TP       from:start till:30/09/1999
+  bar:PC       from:01/10/1999 till:02/03/2018
+  bar:Bobby    from:03/03/2018 till:31/08/2018 width:3
+  bar:TJ       from:27/05/2018 till:20/06/2019
+  bar:PC       from:20/06/2019 till:14/05/2022
+  bar:SJB      from:15/05/2022  till:end
+
+  color:touring width:3
+  bar:Steve    from:03/03/2018 till:26/05/2018
+  bar:TJ       from:27/05/2018 till:31/08/2018
+  bar:Josh     from:22/03/2023 till:07/08/2024 width:7
+  bar:LaBar    from:22/03/2023 till:07/08/2024 width:7
+
+  color:bvocals
+  bar:TP       from:start till:30/09/1999
+  bar:Wayne    from:01/07/2000 till:22/03/2023
+  bar:Chris    from:01/07/2000 till:02/06/2005
+  bar:Dave     from:01/07/2000 till:31/01/2015
+  bar:Jonathan from:02/06/2005 till:31/08/2010
+  bar:Jonathan from:04/06/2014 till:31/12/2015
+  bar:Brad     from:01/02/2015 till:02/03/2018
+  bar:Damien   from:27/05/2018 till:20/06/2019
+  bar:Brad     from:20/06/2019  till:end
+  bar:Josh     from:22/03/2023  till:end
+  bar:LaBar    from:22/03/2023  till:end
+}}
+
+==Discography==
+{{main|Saliva discography}}
+;Studio albums
+*''[[Saliva (album)|Saliva]]'' (1997)
+*''[[Every Six Seconds]]'' (2001)
+*''[[Back into Your System]]'' (2002)
+*''[[Survival of the Sickest (album)|Survival of the Sickest]]'' (2004)
+*''[[Blood Stained Love Story]]'' (2007)
+*''[[Cinco Diablo]]'' (2008)
+*''[[Under Your Skin (album)|Under Your Skin]]'' (2011)
+*''[[In It to Win It (Saliva album)|In It to Win It]]'' (2013)
+*''Love, Lies & Therapy'' (2016)
+*''10 Lives'' (2018)
+*''Revelation'' (2023)
+

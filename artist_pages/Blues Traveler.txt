@@ -1,0 +1,226 @@
+{{Short description|American rock band}}
+{{Use mdy dates|date=June 2025}}
+{{Infobox musical artist
+ |name            = Blues Traveler
+ |image           = BluesTraveler2012.jpg
+ |caption         = Blues Traveler performing in 2012
+ |image_size      = <!-- Only for images narrower than 220 pixels. Set the value as a number without "px". -->
+ |alias           = {{flatlist|
+* The Establishment
+* The Establishment Blues Band
+* The Black Cat Jam
+}}
+ |origin          = [[Princeton, New Jersey]], U.S.
+ |genre           = {{flatlist|<!-- Only 4 genres in infobox. -->
+* [[Blues rock]]
+* [[folk rock]]
+* [[alternative rock]]
+* [[southern rock]]
+* [[jam band]]
+}}
+ |years_active    = 1987–present
+ |label           = {{flatlist|
+* [[A&M Records|A&M]]
+* [[Sanctuary Records|Sanctuary]]
+* [[429 Records|429]]
+* UD Factory
+}}
+ |website         = {{URL|bluestraveler.com}}
+ |current_members =
+* [[John Popper]]
+* [[Chan Kinchla]]
+* [[Brendan Hill]]
+* [[Tad Kinchla]]
+* Ben Wilson
+ |past_members    = Bobby Sheehan<!--Do NOT add deceased, as per Wikipedia's guidelines-->
+}}
+
+'''Blues Traveler''' is an American [[Rock music|rock]] band that formed in [[Princeton, New Jersey]] in 1987. The group is known for creative [[segue]]s during live performances and pioneering the [[H.O.R.D.E.|H.O.R.D.E. touring music festival]].
+
+The group comprises singer and harmonica player [[John Popper]], guitarist [[Chan Kinchla]], drummer [[Brendan Hill]], bassist [[Tad Kinchla]], and keyboardist Ben Wilson. Tad Kinchla and Ben Wilson joined the band following the death of bassist Bobby Sheehan in 1999.
+
+Their singles include "[[But Anyway]]", "[[Run-Around (Blues Traveler song)|Run-Around]]", and "[[Hook (Blues Traveler song)|Hook]]", the latter two from their 1994 album ''[[Four (Blues Traveler album)|four]]'' which sold over six million copies worldwide. Fans are permitted to record live events.
+
+Sheehan's death and Popper's struggle with [[obesity]] put a damper on the group's mainstream success, and [[A&M Records|A&M]] dropped the band in 2002. In the years following, the band has attempted to work with a number of [[independent music|independent labels]] and record producers. 
+
+''Traveler's Blues'', an album of [[blues]] covers, was released in July 2021, and was nominated by [[The Recording Academy]] for Best Traditional Blues album at the 2022 [[Grammy Awards]].
+
+Their follow-up album, ''Traveler’s Soul'', a collection of [[R'n'B]] and [[Soul music|Soul]] covers, was released in October of 2023.
+
+==History==
+===Formation===
+Blues Traveler originated as a [[High school (North America)|high school]] [[Garage rock|garage band]] in Princeton, New Jersey in the mid-1980s. Harmonicist, singer and guitarist John Popper and drummer Brendan Hill formed a group called The Establishment (later renamed Blues Band) with Hill's brother on bass and a rotating roster of guitarists. The band produced a few [[Compact Cassette|cassette tape]] [[demo (music)|demos]]. In addition to some original songs, their repertoire included upbeat [[cover version|covers]] of "[[Gloria (Them song)|Gloria]]" and "[[The Battle Hymn of the Republic]]".
+
+The group added guitarist and [[American football|football]] player Chan Kinchla. Though a promising athlete, Kinchla decided to commit to music following a knee injury. Popper met bassist Bobby Sheehan and the two became friends, with Sheehan becoming the bass player for Blues Band in 1987.<ref name="DenverPost">{{cite news|url=http://www.bluestraveler.net/info/media/media_display.php?pub_id=4|title=Coloradans come running when Traveler takes stage|last=Brown|first=G.|date=September 8, 1991|work=[[The Denver Post]]|access-date=April 12, 2011}}</ref>
+
+The quartet held a basement [[jam session]] (later christened The Black Cat Jam) which spawned the core [[groove (music)|grooves]] for several songs on their first album. A [[black cat]] happened to be nearby, and the group took this as a [[omen|sign]] and adopted the Black Cat as its [[mascot]].
+
+The group changed their name to Blues Traveler, inspired by the [[demon]] featured in the film ''[[Ghostbusters]]'', Gozer the Traveler.<ref name="DenverPost"/>
+
+===Early years===
+After graduating from [[Princeton High School (New Jersey)|Princeton High School]] and moving to [[New York City]], Popper, Hill, and Sheehan enrolled in the music program at [[The New School]] while Kinchla attended [[New York University]]. Blues Traveler began playing gigs along the New York-area [[nightclub|club]] circuit, sometimes nightly;<ref name="DenverPost"/> the most prominent contract was playing Wednesday nights at a club called [[The Wetlands Preserve|the Wetlands]].<ref name="SpinArchive">{{cite web|url=http://www.spindoctors-archive.com/faq/band_members.html|title=The Spin Doctors Archive - Answers to Frequently Asked Questions About the Band Itself|website=Spindoctors-archive.com|access-date=April 12, 2011|archive-date=August 20, 2015|archive-url=https://web.archive.org/web/20150820211510/http://www.spindoctors-archive.com/faq/band_members.html|url-status=dead}}</ref><ref name="JamBands">{{cite web|url=http://www.jambands.com/features/2001/10/18/our-dance-with-the-earth-part-i-1987-1994|title=Our Dance With The Earth (Part I, 1987-1994)|last=Jarnow|first=Jesse|date=October 18, 2001|website=Jambands.com|access-date=April 12, 2011|archive-url=https://web.archive.org/web/20110713074739/http://www.jambands.com/features/2001/10/18/our-dance-with-the-earth-part-i-1987-1994|archive-date=July 13, 2011|url-status=dead}}</ref> Another bar, The Nightingale, was a regular gig, and later became the setting for the song "Defense and Desire".<ref name="JamBands2">{{cite web|url=http://www.jambands.com/news/2010/11/04/a-nightingale-bar-reunion|title=A Nightingale Bar Reunion|date=November 11, 2010|website=Jambands.com|access-date=April 12, 2011}}</ref><ref name="SpinArchive2">{{cite web|url=http://www.spindoctors-archive.com/faq/spins_family.html|title=The Spin Doctors Archive - Answers to Questions About People & Bands in the Spin's Extended Family|website=Spindoctors-archive.com|access-date=April 12, 2011}}</ref>
+
+The group shared an apartment on Bergen Street<ref name="JamBands"/> in Brooklyn, New York, along with their high school friend, singer [[Chris Barron]].<ref name="SpinArchive" /><ref name="HuffPo">{{cite web|url=http://www.huffingtonpost.com/mike-ragogna/the-patagonia-music-colle_b_829495.html|title=The Patagonia Music Collective Launches -- Plus a Conversation With John Popper|last=Ragogna|first=Mike|date=March 1, 2011|work=[[The Huffington Post]]|access-date=April 12, 2011}}</ref> A second band that Popper and Hill founded, called The Trucking Company, soon became The [[Spin Doctors]] with Barron as their frontman.<ref name="SpinArchive" /> The two groups would often share the stage, playing non-stop concerts of multiple sets.<ref name="SpinArchive2"/> Their first show together was at a Columbia University fraternity party. During this time, Blues Traveler acquired a devout follower, Gina-Z (subject of the band's song "Gina") who first became an unofficial "band mom" and later a tour manager, and is involved with the group's business to the present day.<ref name="BTFAQ">{{cite web|url=http://www.bluestravelerforum.com/faq.php?cid=12#90|title=FAQ: BT Lore - Why is Gina often referred to and who is she?|website=Bluestravelerforum.com|access-date=April 12, 2011|archive-url=https://web.archive.org/web/20110708074145/http://www.bluestravelerforum.com/faq.php?cid=12#90|archive-date=July 8, 2011|url-status=dead}}</ref>
+
+At one New York show they were discovered by an [[A&M Records]] talent scout, Patrick Clifford, and the band signed their first recording contract. By 1990 all members had dropped out of college classes.<ref name="HuffPo" /> The group also attracted the attention of David Graham, son of the world-famous concert promoter [[Bill Graham (promoter)|Bill Graham]], and David Graham became the group's manager. Blues Traveler then started a relentless touring schedule, expanding their reach up and down [[East Coast of the United States|the east coast]].
+
+===First albums===
+Blues Traveler released [[Blues Traveler (album)|their self-titled debut album]] in 1990,<ref name="Larkin">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Popular Music]]|editor-first=Colin|editor-last=Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=1997|edition=Concise|isbn=1-85227-745-9|page=156}}</ref> with the song "[[But Anyway]]" getting airplay on college radio stations. The album included [[Joan Osborne]] on backing vocals on two tracks.
+
+A second album, ''[[Travelers and Thieves]]'', followed in 1991.<ref>{{Cite web|url=https://www.allmusic.com/artist/blues-traveler-mn0000758453/biography|title=Blues Traveler {{!}} Biography & History {{!}} AllMusic|website=AllMusic|access-date=October 9, 2017}}</ref> Upon Bill Graham's death that year, they released a live [[Extended play|EP]], ''[[On Tour Forever]]'',<ref name="Larkin"/> as a tribute to Graham, which featured guitarist [[Carlos Santana]].
+
+Around this time, the mainstream national audience was exposed to Blues Traveler by [[Television presenter|television host]] [[David Letterman]],<ref name="Larkin"/> who has introduced them as "[his] favorite band". The band has since made more appearances on ''[[Late Show with David Letterman|The Late Show]]'' than any musical artist. Letterman's band leader [[Paul Shaffer]] has played on a number of Blues Traveler recordings.
+
+In 1992, the group founded the [[H.O.R.D.E.]] festival as an alternative to others such as [[Lollapalooza]], along with other bands such as [[Phish]] and Spin Doctors. Blues Traveler began recording their third album, ''[[Save His Soul]]''. Recording was temporarily interrupted by John Popper's [[motorcycle]] accident, although the band resumed touring shortly thereafter with Popper in a [[wheelchair]].<ref name="Larkin"/> Two singles were released from the album, "Defense & Desire" and "Conquer Me", which reached No.&nbsp;34 on the [[Hot Mainstream Rock Tracks|Mainstream Rock Tracks]] chart.
+
+===Mainstream breakthrough===
+The band's fourth album, titled ''[[Four (Blues Traveler album)|four]]'', was produced by the team of [[Michael Barbiero]] and [[Steve Thompson (musician)|Steve Thompson]] and released in late 1994. The upbeat pop single "[[Run-Around (song)|Run-Around]]" became the group's first chart hit followed by "[[Hook (Blues Traveler song)|Hook]]". "Run-Around" won a [[Grammy Award]] and broke a record for most weeks on the chart.<ref>{{Cite news|url=http://www.mtv.com/news/513091/blues-travelers-john-popper/|archive-url=https://web.archive.org/web/20171009193815/http://www.mtv.com/news/513091/blues-travelers-john-popper/|url-status=dead|archive-date=October 9, 2017|title=Blues Traveler's John Popper|work=MTV News|access-date=October 9, 2017|language=en}}</ref>
+
+Blues Traveler appeared at [[Woodstock '94]] and later became an opening act for [[The Rolling Stones]]. The band played on the 1995 season premiere of ''[[Saturday Night Live]]'' as a last-minute replacement for [[Prince (musician)|Prince]]. They were featured in an episode of the sitcom ''[[Roseanne (TV series)|Roseanne]]'', and later recorded the show's [[Theme music|theme song]] for its final season. The 1996 comedy film ''[[Kingpin (1996 film)|Kingpin]]'' featured the group playing their song "[[But Anyway]]" during the closing credits.
+
+The group recorded the [[Johnny Rivers]] song "[[Secret Agent Man (Johnny Rivers song)|Secret Agent Man]]" for the film ''[[Ace Ventura: When Nature Calls]]'' at Icon Recording Studios in St. Louis, Missouri and the [[Bob Seger]] song "Get Out of Denver" for the film ''[[Things to Do in Denver When You're Dead]]'', as well as [[Fats Domino]]'s "I'm Walkin{{'"}} for ''[[Rebel Highway]]: [[Cool and the Crazy]]''. Several previously recorded Blues Traveler songs were included on film soundtracks, including ''[[The Last Seduction]]'', ''[[Speed (1994 film)|Speed]]'', ''[[Very Bad Things]]'', ''[[White Man's Burden (film)|White Man's Burden]]'', and ''[[The Truth About Cats & Dogs]]''. The band also appeared in the film ''[[Blues Brothers 2000]]'' and on its soundtrack, playing "Maybe I'm Wrong", an original composition with a classic blues-rock sound. Blues Traveler recorded the [[Sly & the Family Stone]] song "[[I Want to Take You Higher]]" for the [[National Organization for the Reform of Marijuana Laws|NORML]] [[compilation album]] ''[[Hempilation]]'' and the [[John Lennon]] song "[[Imagine (John Lennon song)|Imagine]]" for the Lennon [[tribute album]] ''[[Working Class Hero: A Tribute to John Lennon|Working Class Hero]]''. The original song "Christmas" was included on the benefit album ''[[A Very Special Christmas 3]]''.
+
+The double live album ''[[Live from the Fall]]'' was released in 1996. It featured recordings from the band's autumn 1995 concerts and showcased the strength of the band's live performances.
+
+The next studio album, ''[[Straight On till Morning (album)|Straight On till Morning]]'', also produced by Barbiero/Thompson, was released in 1997. It achieved [[RIAA certification|platinum status]], reaching number 11 on the [[Billboard 200|''Billboard'' 200]] albums chart, but did not perform as well as ''four''. The single "Carolina Blues" peaked at number four on the Mainstream Rock Tracks.
+
+By the end of 1998, the band had prepared a [[concept album]] called ''The Sun, The Storm and The Traveler'', based on [[Aesop's Fables|Aesop's fable]] of ''[[The North Wind and the Sun]]'', and they planned to record it after a recess in the fall of 1999. That summer, John Popper had emergency [[Cardiac surgery|heart surgery]] due to [[artery]] blockage, forcing the band to cancel their annual [[Independence Day (United States of America)|July 4]] [[Red Rocks Amphitheatre|Red Rocks]] shows at the last minute.
+
+During the hiatus, Popper released a solo album with a backing band consisting of drummer [[Carter Beauford]] and members of the group Cycomotogoat.
+
+The band made an appearance performing as themselves in the 1998 movie ''[[Blues Brothers 2000]]'' and the 1999 [[independent film]] ''[[Wildflowers (film)|Wildflowers]]'', which had been filmed a couple of years earlier.
+
+===Sheehan's death and new lineup===
+On August 20, 1999, Bobby Sheehan was found dead in his [[New Orleans, Louisiana]], home, where he had been recording music with some friends the night before. Sheehan's death was ruled an accidental [[drug overdose]], with [[cocaine]], [[valium]], and [[heroin]] found in his system.
+
+The remaining members of Blues Traveler convened and agreed that Sheehan would have wanted them to continue as a band. Auditions for a new bassist were held in concert, and included Chan Kinchla's younger brother Tad, who was unanimously determined to be the best choice for the role. Additionally, the band also auditioned for a permanent keyboardist—an action Sheehan had often urged. In January 2000,<ref name="Net">{{cite web |title=Keyboard player to join in studio |url=http://www.bluestraveler.net/info/news/news_display.php?news_date=20000129.txt |website=BluesTraveler.net |date=January 29, 2000 |access-date=March 12, 2007}}</ref> Ben Wilson of the [[jump blues]] band Big Dave & the Ultrasonics was chosen, and has since become a central contributor to the band's songwriting.
+
+The band discarded their concept album material, instead releasing a smaller online EP, ''[[Decisions of the Sky: A Traveler's Tale of Sun and Storm]]'', and went to work collectively composing a new set of songs with the new lineup. The resulting album was ''[[Bridge (Blues Traveler album)|Bridge]]'', which had the working title ''Bridge Outta Brooklyn'' as a tribute to Sheehan (with both the acronym B.O.B. and his nickname "Brooklyn Bobby"). The songs "Girl Inside My Head" and "Just for Me" received airplay, but the album's sales fell somewhat short of expectations.
+
+The live album ''What You and I Have Been Through'' and the compilation ''[[Travelogue: Blues Traveler Classics]]'' were both released in 2002.
+
+===Independent years===
+[[File:Blues Traveler 20081004.jpg|thumbnail|Blues Traveler in 2008]]
+Blues Traveler were one of dozens of artists who were jettisoned as part of [[A&M Records#Universal Music Group merging and Interscope Geffen A&M|A&M's corporate restructuring]]. The band signed with [[Sanctuary Records]] for their next album, ''[[Truth Be Told (Blues Traveler album)|Truth Be Told]]'', which achieved number 147 on The Top 200 chart.{{citation needed|date=April 2012}} The band's 2003 Independence Day concerts at Red Rocks Amphitheatre were released on the CD ''[[Live on the Rocks]]'' and the DVD ''Thinnest of Air'', and include [[Ziggy Marley]] singing on his father's song "[[No Woman, No Cry]]".
+
+The band left Sanctuary for [[Vanguard Records]] and released ''[[¡Bastardos!]]'', which was produced by [[Wilco]]'s [[Jay Bennett]] and was touted as the band's return to music that they wanted to play. The album charted at 49 on the [[Independent Albums]], and [[¡Bastardos en Vivo!|a live EP of songs from the album]] was released to independent record stores. The group recorded "[[Rag Mama Rag]]" for the 2007 tribute album ''[[Endless Highway: The Music of The Band]]'', as well as "[[Free Bird]]" for ''Under the Influence: A Jam Band Tribute to Lynyrd Skynyrd''.
+
+Blues Traveler have been featured on [[VH1]]'s ''[[Behind the Music]]'', [[A&E Network|A&E]]'s ''[[Private Sessions]]'',<ref name="AEPS">{{cite web|url=http://www.aetv.com/listings/episode_details.do?episodeid=238854 |title=Watch Blues Traveler on TV |publisher=[[A&E Network]] |access-date=April 12, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110526213510/http://www.aetv.com/listings/episode_details.do?episodeid=238854 |archive-date=May 26, 2011}}</ref> and ''[[Austin City Limits]]''. The group recorded the title track to the [[Sandra Boynton]] children's album ''Dog Train'', which was also used as the promotional music for the [[American Kennel Club]]'s [[AKC National Championship|National Championship]] event. The band's music has been used in video games (''[[NASCAR 2000]]'') and commercials ([[Busch Beer]]). The songs "Business as Usual" and "Money Back Guarantee" are used as transitional music on the [[Public broadcasting|public radio]] [[finance]] program ''[[Marketplace (radio program)|Marketplace]]'' and its sister show ''Marketplace Money''.
+
+In 2007, Blues Traveler released the album ''[[Cover Yourself]]'', a "best-of" album of previously released songs re-recorded and reinterpreted with acoustic instrumentation. It was released October 30, 2007, through Columbia/Red Ink Records.<ref name="BTNET">{{cite web|url=http://bluestraveler.net/info/news/news_display.php?news_date=20071004.txt|title=Release information for Cover Yourself; Fall 2007 tour is upon us - new dates & opener information |date=October 4, 2007|website=Bluestraveler.net|access-date=April 12, 2011}}</ref> They did a national tour, with New Jersey–based singer-songwriter Lisa Bouchelle as opening act. After the tour [[John Popper]] and [[Lisa Bouchelle]] recorded the song "Only The Tequila Talking", which was released on her album ''Bleu Room with a Red Vase'' in 2010.
+
+Blues Traveler appeared at the [[Lollapalooza 2008]] festival. At their June 2008 shows, the band debuted new songs from their new album ''[[North Hollywood Shootout (album)|North Hollywood Shootout]]'' . The album, which features a [[guest appearance]] by [[Bruce Willis]] in the track "Free Willis (Ruminations From Behind Uncle Bob's Machine Shop)", released in August 2008.
+
+====2010s====
+In March 2012, Blues Traveler released a double-disc compilation titled [[25 (Blues Traveler album)|''25'']] on [[Hip-O Records]]; the album commemorates the band's silver anniversary and includes their hit singles, new covers, and previously unreleased [[B-side]] material. It peaked at No.&nbsp;49 in Canada.<ref>{{cite web |url=http://jam.canoe.ca/Music/Charts/ALBUMS.html |archive-url=https://archive.today/20041226005640/http://jam.canoe.ca/Music/Charts/ALBUMS.html |url-status=usurped |archive-date=December 26, 2004 |title=CANOE - JAM! Music SoundScan Charts |website=Jam.canoe.ca |date=March 15, 2012 |access-date=March 22, 2012 }}</ref> The following studio album, ''Suzie Cracks the Whip'', was released on June 26 of that year.<ref>{{cite web |url=http://www.429records.com/sites/429records/429details/d_bluestraveler.asp |title=429 Records: Blues Traveler |access-date=April 11, 2012 |archive-url=https://web.archive.org/web/20120530061524/http://www.429records.com/sites/429records/429details/d_bluestraveler.asp |archive-date=May 30, 2012 |url-status=dead}}</ref>
+
+In September 2013, Blues Traveler signed with Las Vegas–based management firm, UD Factory.<ref>{{cite web |url=http://www.lasvegassun.com/vegasdeluxe/2013/nov/17/blues-traveler-signs-seth-yudofs-las-vegas-based-u/ |title=Blues Traveler signs with Seth Yudof's Las Vegas-based UD Factory - Las Vegas Sun News |website=Lasvegassun.com |access-date=November 2, 2015 |archive-url=https://web.archive.org/web/20160303224532/http://lasvegassun.com/vegasdeluxe/2013/nov/17/blues-traveler-signs-seth-yudofs-las-vegas-based-u/ |archive-date=March 3, 2016 |url-status=dead}}</ref>
+
+On April 7, 2015, the band released their twelfth studio album, ''[[Blow Up the Moon]]'' which peaked at No. 29 on [[Independent Albums]] and No. 47 on [[Top Rock Albums]] [[Billboard charts]].<ref>{{Cite web|url=http://www.billboard.com/artist/292286/blues-traveler/chart?f=326|title=Blues Traveler - Chart history {{!}} Billboard|website=Billboard.com|access-date=May 13, 2016|archive-date=August 3, 2016|archive-url=https://web.archive.org/web/20160803190023/http://www.billboard.com/artist/292286/blues-traveler/chart?f=326|url-status=dead}}</ref> As part of the album's promotion album, Blues Traveler released a music video using Rockstar editor in ''[[Grand Theft Auto V]]'' on September 14, 2015.<ref name="vevo.ly">[http://vevo.ly/YnP6nr] {{dead link|date=July 2017}}</ref> The music video featured [[JC Chasez]] and [[3OH!3]]. In 2016, Blues Traveler made a cameo appearance in the film ''[[The Meddler]]''.<ref>{{Cite web|url=http://www.ign.com/articles/2016/04/22/the-meddler-review|title=The Meddler Review|last=Lasser|first=Josh|website=IGN|date=April 22, 2016 |access-date=May 13, 2016}}</ref> On December 7 the group released a cover version of "Go Tell It on the Mountain".<ref>{{Cite web|title=Go Tell It on the Mountain - Single by Blues Traveler |date=December 7, 2016 |url=https://music.apple.com/mx/album/go-tell-it-on-the-mountain-single/1184715809?l=en|via=[[Apple Music]] |access-date=March 6, 2023 |language=en-GB}}</ref>
+
+In April 2017, the band announced a five-week U.S. tour to celebrate the 30th anniversary of the group's formation.<ref>{{Cite web|url=https://www.jambase.com/article/blues-traveler-announces-30th-anniversary-tour|title=Blues Traveler Announces 30th Anniversary Tour|website=Jambase|access-date=July 17, 2017}}</ref> In May of the same year, social posts, and a video piece on ''[[Keyboard Magazine]]'' confirmed the band was in the studio in Nashville recording with record producer [[Matt Rollings]].<ref>{{Cite web|url=http://www.keyboardmag.com/artists/1236/video----matt-rollings-produces-blues-traveler/62799|title=Matt Rollings Produces Blues Traveler|website=Keyboard.com|access-date=July 17, 2017|archive-url=https://web.archive.org/web/20170723210218/http://www.keyboardmag.com/artists/1236/video----matt-rollings-produces-blues-traveler/62799|archive-date=July 23, 2017|url-status=dead}}</ref> The album ''Hurry Up & Hang Around'' was released on October 12, 2018, through BMG.
+
+====2020s====
+On June 7, 2021, Blues Traveler announced a new album to be titled "Traveler's Blues" and released a two–sided [[Extended play|EP]] with the songs that would be featured on the new album.<ref name="bluesrockreview.com">{{Cite web|url=https://bluesrockreview.com/2021/06/blues-traveler-announce-new-album-travelers-blues.html|title=Blues Traveler announce new album "Traveler's Blues"|website=Bluesrockreview.com|date=June 7, 2021}}</ref> The EP contained songs "Funky B*tch" and "Ball and Chain" which Features [[Christone "Kingfish" Ingram]]. The album would be released the forthcoming month.
+
+"Traveler's Blues" was released on July 30, 2021.<ref name="bluesrockreview.com"/> The album featured covers of classic blues songs and features [[Crystal Bowersox]], Wendy Moten, [[Christone "Kingfish" Ingram]], [[Rita Wilson]], [[John Scofield]], [[Warren Haynes]], [[The War and Treaty]], [[Mickey Raphael]], and [[Keb' Mo']]. The album was nominated for "Best Traditional Blues Album / Best Traditional Blues Recording" at the 64th annual [[Grammy Awards]].<ref>{{Cite web|url=https://www.grammy.com/artists/blues-traveler/7626|access-date=February 28, 2023|title=Blues Traveler {{!}} Artist |website=Grammy.com}}</ref>
+
+==Concert recordings==
+Blues Traveler allows and encourages fans to record and trade live performances,<ref name="BTNET2">{{cite web|url=http://bluestraveler.net/btpolicy.html|title=Blues Traveler Taping Policy|work=bluestraveler.net|access-date=April 12, 2011}}</ref> provided that no money changes hands and no profit is made. The band has also given permission for live fan-made recordings to be hosted on websites such as Live Music Archive and eTree.org. Recordings available there span from 1986 through the present day. On more recent tours, they sell recordings of that night's performance. Attendees can pre-purchase a copy of the show until 30 minutes into the performance and then pick up the CD after the show.
+
+== Independence Day shows at Red Rocks ==
+Every year since 1994, with the exception of 1999 (due to Sheehan's health) and 2020 (due to COVID-19), Blues Traveler has headlined a show at [[Red Rocks Amphitheatre]] in [[Morrison, Colorado]], on the [[American Independence Day]], July 4. The band sometimes plays two consecutive nights, starting on July 3.<ref>{{Cite web |date=July 3, 2024 |title=We've been spending the 4th of July with Blues Traveler since 1994, only missing two shows in 1999 and 2020 during those three decades. These Red Rocks Hall of Famers even recorded a live album (Live at Red Rocks) during their 2003 run! The tradition continues tomorrow🎆 |url=https://www.instagram.com/redrocksco/p/C8-GIvNKYvN/?img_index=1 |access-date=January 24, 2025 |website=Instagram}}</ref>
+
+This tradition started in 1994, when Blues Traveler was opening for The Allman Brothers Band at the venue for two nights, July 3 and 4. The next year, the band booked the HORDE festival to play there on Independence Day, and in 1994 the current tradition began in earnest.<ref>{{Cite web |last=Budnick |first=Dean |date=July 11, 2022 |title=H.O.R.D.E. Core: Phish, Blues Traveler, Widespread Panic & Aquarium Rescue Unit Revisit the Touring Festival |url=https://relix.com/articles/detail/h-o-r-d-e-core-phish-blues-traveler-widespread-panic-aquarium-rescue-unit-revisit-the-touring-festival/ |access-date=January 24, 2025 |website=Relix}}</ref>
+
+These shows attract fans from all over the United States. The band frequently debuts new songs and brings back older songs which have fallen out of rotation.{{cn|date=January 2025}}
+
+The 2003 Independence Day concerts were recorded for a home video and a [[Live on the Rocks|live album]] release.<ref>{{Cite web |title=Red Rocks Hall of Fame |url=https://www.redrocksonline.com/explore-red-rocks/red-rocks-hall-of-fame/ |access-date=January 24, 2025 |website=Red Rocks Parks and Amphitheatre}}</ref>
+
+==Musical style==
+The band have been described as [[blues rock]],<ref>{{cite news|last=Neill|first=Logan|title=Blues Traveler heads down the main highway|url=https://www.tampabay.com/archive/1995/04/21/blues-traveler-heads-down-the-main-highway/|work=Tampa Bay Times|date=April 21, 1995|access-date=April 18, 2022}}</ref> [[folk rock]],<ref>{{cite news|last=Appleford|first=Steve|title=Blues Traveler Rolls Merrily On|work=Los Angeles Times|url=https://www.latimes.com/archives/la-xpm-2001-may-21-ca-574-story.html|date=May 21, 2001|access-date=April 18, 2022}}</ref> [[alternative rock]],<ref>{{Cite news |title=Things to do in Tampa Bay for Sept. 26 |url=https://www.tampabay.com/things-to-do/events/things-to-do-in-tampa-bay-for-sept-26/2143855/ |date=September 25, 2013 |access-date=April 18, 2022 |work=Tampa Bay Times}}</ref> and [[southern rock]].<ref>{{cite news|last=Winterford|first=Brett|title=Blues Traveler|work=The Sydney Morning Herald|url=https://www.smh.com.au/entertainment/music/blues-traveler-20090409-gdtgw2.html|date=|access-date=April 18, 2022}}</ref>
+
+==Members==
+{{col-begin}}
+{{col-2}}
+'''Current'''
+* [[John Popper]] – lead vocals, harmonica, occasional guitars (1987–present)
+* [[Chan Kinchla]] – guitars, mandolin (1987–present), backing vocals (2000–present)
+* [[Brendan Hill]] – drums, percussion (1987–present)
+* [[Tad Kinchla]] – bass, backing vocals (1999–present)
+* Ben Wilson – keyboards, backing vocals (2000–present)
+{{col-2}}
+'''Former'''
+* Bobby Sheehan – bass (1987–1999; his death)
+{{col-end}}
+
+'''Timeline'''
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:25
+PlotArea = left:100 bottom:80 top:5 right:0
+Alignbars = justify
+DateFormat  = mm/dd/yyyy
+Period = from:01/01/1987 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:2 start:1987
+ScaleMinor = increment:1 start:1987
+
+Colors =
+  id:v    value:red       legend:Vocals,_harmonica
+  id:g    value:green     legend:Guitar
+  id:k    value:purple    legend:Keyboards
+  id:b    value:blue      legend:Bass
+  id:d    value:orange    legend:Drums
+  id:BV  value:pink        legend:Backing_vocals
+  id:alb  value:black     legend:Studio_albums
+
+LineData =
+  layer:back
+  at:05/01/1990 color:alb
+  at:09/03/1991 color:alb
+  at:04/06/1993 color:alb
+  at:09/12/1994 color:alb
+  at:07/01/1997 color:alb
+  at:05/08/2001 color:alb
+  at:08/05/2003 color:alb
+  at:09/13/2005 color:alb
+  at:10/30/2007 color:alb
+  at:08/26/2008 color:alb
+  at:06/26/2012 color:alb
+  at:04/27/2015 color:alb
+  at:10/12/2018 color:alb
+  at:07/20/2021 color:alb
+
+PlotData =
+  width:11 textcolor:black align:left anchor:from shift:(10,–4)
+  bar:John&nbsp;Popper    from:01/01/1987 till:end        color:v
+  bar:Chan&nbsp;Kinchla   from:01/01/1987 till:end        color:g
+  bar:Chan&nbsp;Kinchla   from:01/29/2000 till:end        color:bv width:3
+  bar:Bobby&nbsp;Sheehan  from:01/01/1987 till:08/20/1999 color:b
+  bar:Tad&nbsp;Kinchla    from:08/20/1999 till:end        color:b
+  bar:Tad&nbsp;Kinchla    from:01/29/2000 till:end        color:bv width:3
+  bar:Ben&nbsp;Wilson     from:01/29/2000 till:end        color:k
+  bar:Ben&nbsp;Wilson     from:01/29/2000 till:end        color:BV width:3
+  bar:Brendan&nbsp;Hill   from:01/01/1987 till:end        color:d
+
+}}
+
+==Discography==
+{{main|Blues Traveler discography}}
+* ''[[Blues Traveler (album)|Blues Traveler]]'' (1990)
+* ''[[Travelers and Thieves]]'' (1991)
+* ''[[Save His Soul]]'' (1993)
+* ''[[Four (Blues Traveler album)|four]]'' (1994)
+* ''[[Straight On till Morning (album)|Straight On till Morning]]'' (1997)
+* ''[[Bridge (Blues Traveler album)|Bridge]]'' (2001)
+* ''[[Truth Be Told (Blues Traveler album)|Truth Be Told]]'' (2003)
+* ''[[¡Bastardos!]]'' (2005)
+* ''[[Cover Yourself]]'' (2007)
+* ''[[North Hollywood Shootout (album)|North Hollywood Shootout]]'' (2008)
+* ''[[Suzie Cracks the Whip]]'' (2012)
+* ''[[Blow Up the Moon]]'' (2015)
+* ''[[Hurry Up & Hang Around]]'' (2018)
+* ''Traveler's Blues'' (2021)<ref>{{Cite web|url=https://www.jambase.com/article/blues-traveler-covers-album-travelers-blues-singles|title=Blues Traveler Announces Guest-Filled Covers Album 'Traveler's Blues' & Shares Singles|website=JamBase.com|access-date=July 15, 2021}}</ref>
+* ''Traveler's Soul'' (2023)
+

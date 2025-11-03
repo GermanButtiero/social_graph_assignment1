@@ -1,0 +1,6 @@
+#REDIRECT [[Jet (band)]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from unnecessary disambiguation}}
+}}

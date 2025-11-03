@@ -1,0 +1,5 @@
+#REDIRECT [[Van Zant (duo)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

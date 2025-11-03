@@ -1,0 +1,684 @@
+{{short description|American rock band}}
+{{Use mdy dates|date=June 2021}}
+{{Infobox musical artist
+| name              = Starset
+| image             = Starset - Immersion The Final Chapter - Melkweg 003.jpg
+| caption           = Starset performing in 2024
+| landscape         = yes
+| origin            = [[Columbus, Ohio]], U.S.
+| genre             = <!--Please see "Musical style" section before making changes. We need to go by what sources say, and many prominent sources define them as "Rock" and then proceed to describe all the other styles. We should do the same. Note the musical styles section covers a lot of ground.-->
+{{flatlist| 
+* [[Alternative rock]]
+* [[electronic rock]]
+* {{nowrap|[[hard rock]]}}
+* [[alternative metal]]
+* [[progressive rock]]
+}}
+| years_active      = 2013–present
+| label             = {{flatlist|
+* [[Razor & Tie]]
+* [[Fearless Records|Fearless]]<ref>{{cite web|url=http://www.fearlessrecords.com/artists/starset/|title=Starset - Fearless Records}}</ref>
+}}
+| spinoff_of        = [[Downplay]]
+| website           = {{plainlist|
+* {{URL|starsetonline.com}}
+}}
+| current_members   = * Dustin Bates
+* Ron DeChant
+* Brock Richards
+* Adam Gilbert
+* Siobhán Richards
+* Zuzana Engererova
+* Cory Juba
+}}
+
+'''Starset''' is an American [[Rock music|rock]] band from [[Columbus, Ohio]],<ref>{{cite web|url=http://www.altpress.com/news/entry/starset_sign_to_razor_tie|title=Starset sign to Razor & Tie|work=Alternative Press|date=April 30, 2014|access-date=October 16, 2014}}</ref> formed by Dustin Bates in 2013.<ref>{{cite web|url=http://www.revolvermag.com/news/starset-premiere-video-trailer-for-new-album-transmissions.html|title=Starset Premiere Video Trailer for New Album, Transmissions|website=Revolvermag.com|access-date=October 16, 2014}}</ref> They released their debut album, ''[[Transmissions (Starset album)|Transmissions]]'', in 2014<ref>{{cite magazine|url=http://www.billboard.com/artist/5883713/starset/biography|title=Starset|magazine=[[Billboard (magazine)|Billboard]] |access-date=December 12, 2014}}</ref><ref>{{cite web|url=http://thefrontrowreport.com/starset-transmissions-review/|title=Starset: Transmissions review|work=The Front Row Report|date=June 23, 2014|access-date=October 16, 2014}}</ref><ref name="Palmer Dead Press">{{cite web |url=http://www.deadpress.co.uk/40912/album-starset-transmissions |title=Album: Starset – Transmissions |first=Josh |last=Palmer |date=July 8, 2014 |website=Deadpress.co.uk |access-date=December 12, 2014 |archive-date=March 28, 2019|archive-url=https://web.archive.org/web/20190328004950/http://www.deadpress.co.uk/album-starset-transmissions/|url-status=dead}}</ref> and their second album, ''[[Vessels (Starset album)|Vessels]]'', on January 20, 2017.<ref>{{cite web|url=http://loudwire.com/starset-monster-single-vessels-album-release/ |title=Starset Unleash 'Monster' Single, Announce 'Vessels' Album |website=Loudwire.com |date=November 4, 2016 |access-date=March 1, 2017}}</ref> The band has found success in expanding the ideas of their [[concept album]]s through [[social media]] and [[YouTube]], with the band generating over $230,000 in revenue from views from the latter as of November 2016. Their single "[[My Demons]]" had accumulated over 280 million YouTube views in the same time period.<ref>{{cite magazine|url=https://www.billboard.com/pro/starset-rock-band-surprising-youtube-success/ |title=How Rock Band Starset Found Huge Success on YouTube, Without Even Trying |magazine=Billboard |date=November 9, 2016 |access-date=May 24, 2017}}</ref> Their most commercially successful song, "[[Monster (Starset song)|Monster]]", peaked at number 2 on the US ''[[Billboard (magazine)|Billboard]]'' [[Mainstream Rock (chart)|Mainstream Rock]] chart in May 2017.<ref>{{cite magazine|url=http://www.billboard.com/artist/5883713/starset/chart?f=376 |title=Starset - Chart history |magazine=Billboard |access-date=May 24, 2017}}</ref> A third studio album, ''[[Divisions (album)|Divisions]]'', was released on September 13, 2019, with their fourth studio album, ''[[Horizons (Starset album)|Horizons]]'', released on October 22, 2021. Their fifth album, ''[[Silos (Starset album)|Silos]]'', was released September 12, 2025
+
+==History==
+=== Formation and ''Transmissions'' (2013–2015) ===
+Starset was formed in 2013 by [[Downplay]] vocalist Dustin Bates, who is the band's lead singer, songwriter, and keyboardist.<ref>{{cite web|url=http://propertyofzack.com/post/94389733991/poz-showcase-starset/ |title=POZ Showcase: Starset — PropertyOfZack |website=Propertyofzack.com |date=August 10, 2014 |access-date=January 29, 2016}}</ref> Bates's interest in [[astronomy]] was first fueled when acquiring his [[Master's degree|master's]] in [[electrical engineering]] as he studied at [[Ohio University]]. He completed research for the [[United States Air Force|US Air Force]] and also taught at the [[International Space University]].<ref>{{cite web|url=http://www.isolmusic.com/download.php?filename=starset%2FAsset+Downloads%2FBiography+band+-+Starset+-+2014.pdf|title= Starset band biography|website=Isolmusic.com|access-date=January 29, 2016|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304041239/http://www.isolmusic.com/download.php?filename=starset/Asset+Downloads/Biography+band+-+Starset+-+2014.pdf|url-status=dead}}</ref> Bates created the fictional backstory for the band that forms the thematic basis for their music and multimedia.<ref name="ohio.edu">{{cite web|url=https://www.ohio.edu/engineering/news/news-story.cfm?newsItem=C65711F1-5056-A81E-8DB09F95E836363A|title= For Russ College alum and Starset frontman Dustin Bates, creativity takes center stage|website=Russ College of Engineering and Technology|access-date=October 17, 2016}}</ref> In the backstory, Starset was formed as part of a public outreach initiative by the Starset Society, whose aims were to alert the public about the contents of "the Message" the society obtained from a mysterious signal from space.<ref>{{cite web|url=http://www.starsetonline.com/timeline.php|title=STARSET|website=Starset official website|access-date=October 17, 2016|archive-date=October 16, 2016|archive-url=https://web.archive.org/web/20161016170400/http://www.starsetonline.com/timeline.php|url-status=dead}}</ref> Starset treats their backstory and the Starset Society as real in interviews, with few exceptions.<ref name="ohio.edu"/>
+
+The band released their debut album, ''[[Transmissions (Starset album)|Transmissions]]'', on July 8, 2014.<ref>{{cite web|url=http://www.razorandtie.com/starset-to-release-new-album-transmissions-on-july-8th/|title=Starset to release new album Transmissions on July 8th : Razor & Tie Direct L.L.C.|access-date= June 3, 2014}}</ref> The release debuted at number 49 on the US [[Billboard 200|''Billboard'' 200]] charts, making it one of the highest debut albums for a rock band in 2014, and as of 2016, had sold over 79,000 copies.<ref name="BillboardFeature"/><ref>{{cite web|last=Malan |first=Jamie |url=https://www.axs.com/starset-premieres-new-music-video-for-carnivore-26493 |title=Starset premieres new music video for "Carnivore" |publisher=AXS |date=November 3, 2014 |access-date=May 24, 2017}}</ref> Three singles were released in promotion of the album: "[[My Demons (song)|My Demons]]", "[[Carnivore (Starset song)|Carnivore]]", and "[[Halo (Starset song)|Halo]]". They also performed well in the charts, reaching fifth, sixteenth, and sixteenth, respectively, on the ''[[Billboard (magazine)|Billboard]]'' US [[Mainstream Rock (chart)|Mainstream Rock]] charts.<ref name="BillboardMainRock">{{cite web|url=http://www.billboard.com/artist/5883713/starset/chart?f=376|title=Starset|work=Billboard.com|access-date=November 23, 2016}}</ref> The band later released an accompanying novel, ''The Prox Transmissions'', further detailing Bates's fictional back-history of the Starset Society story.<ref name="BillboardFeature">{{cite magazine|first=Dan |last=Rys |url=https://www.billboard.com/pro/starset-rock-band-surprising-youtube-success/ |title=How Rock Band Starset Found Huge Success on YouTube, Without Even Trying |magazine=[[Billboard (magazine)|Billboard]] |date=November 9, 2016 |access-date=November 9, 2016}}</ref>
+
+=== ''Vessels'' (2016–2018) ===
+[[Rob Graves]], who produced ''Transmissions,'' announced on January 26, 2016, that the making of Starset's second record has "officially commenced".<ref>{{cite web|url=https://twitter.com/robgrav3s/status/692093855123030016 |title=Rob Graves on Twitter: "As of 4 pm eastern today, the making of Starset 2 has officially commenced". |publisher=Twitter |date=September 10, 2009 |access-date=January 29, 2016}}</ref> Along with the announcement of European tour dates supporting [[Breaking Benjamin]], Starset announced their second album,<ref>{{cite web|first=David|last=Farrell|url=http://planetmosh.com/starset-announce-european-dates-main-suppot-breaking-benjamin/|title=Starset announce European dates as main support to Breaking Benjamin|work=Planet Mosh|date=May 4, 2016|access-date=May 6, 2016}}</ref> which Bates said would be more stylistically diverse than the previous, ranging in genre from metal to pop. On October 4, 2016, Starset posted to their social media an image from a graphic novel produced by [[Marvel Comics]] as a tie-in to ''The Prox Transmissions.''<ref>{{cite web|first=Blair|last=Marnell|url=http://www.craveonline.com/entertainment/1136647-starset-teases-marvel-graphic-novel |title=New York Comic Con 2016 &ndash; Starset Teases Their Marvel Graphic Novel |publisher=CraveOnline |date=October 6, 2016 |access-date=October 16, 2016}}</ref> The 88-page [[graphic novel]] was co-written by Dustin Bates and [[Peter David]], illustrated by Mirko Colak, and released in September 2017.<ref>[https://www.previewsworld.com/Article/195905-Marvel-Unveils-The-Prox-Transmissions-OGN "Marvel Unveils The Prox Transmissions OGN"]. ''[[Previews World]]''. June 17, 2017. Retrieved February 21, 2018.</ref>
+
+The album's first single, "[[Monster (Starset song)|Monster]]" was released on October 28, 2016.<ref>{{cite web|first=Devon|last=Anderson|url=http://rockrevoltmagazine.com/new-single-starset-monster/ |title=NEW SINGLE - STARSET, "Monster" |work=RockRevolt Magazine |date=October 28, 2016 |access-date=October 29, 2016}}</ref> On November 4, 2016, Starset announced their upcoming album ''[[Vessels (Starset album)|Vessels]]'', which was released on January 20, 2017.<ref>{{cite web|url=http://www.blabbermouth.net/news/starset-to-release-vessels-album-in-january-listen-to-monster-single/ |title=STARSET To Release 'Vessels' Album In January; Listen To 'Monster' Single |website=Blabbermouth.net |date=November 4, 2016 |access-date=November 7, 2016}}</ref> The album debuted at number 11 on the ''Billboard 200'' albums chart.<ref>{{cite magazine|url=http://www.billboard.com/artist/5883713/Starset/chart?f=305 |title=Starset - Chart history |magazine=Billboard |access-date=May 24, 2017}}</ref> The band spent much of 2017 touring in support of the album. The band toured with Black Satellite in the first half of 2017.<ref>{{cite magazine|url=https://www.billboard.com/music/rock/black-satellite-endless-new-album-stream-starset-premiere-7857759/|title=Starset-Approved Rockers Black Satellite Premiere Pummeling New LP 'Endless'|magazine=[[Billboard (magazine)|Billboard]]}}</ref> In July 2017, the band performed at [[Seether]] frontman [[Shaun Morgan]]'s "Rise Above Fest", alongside [[Shinedown]] and [[Halestorm]].<ref>{{cite web|url=http://www.revolvermag.com/artist-news/seether-announce-fifth-annual-rise-above-fest-korn-shinedown-halestorm-and-more-perform |title=Seether Announce Fifth Annual Rise Above Fest, Korn, Shinedown, Halestorm and More to Perform |website=Revolvermag.com |date=February 21, 2017 |access-date=May 24, 2017}}</ref> A second single from the album, "[[Satellite (Starset song)|Satellite]]", was released in August 2017, peaking at number 12 on the ''Billboard'' Mainstream Rock Chart.<ref>[http://www.billboard.com/artist/5883713/starset/chart?f=376 "Starset: Chart History"]. ''Billboard''. Retrieved February 21, 2018.</ref>
+
+The band would continue touring through the first half of 2018, though Bates said he would likely take a break before pursuing a third album with the band.<ref name="Billboard2018">{{cite magazine|url=https://www.billboard.com/music/rock/starset-dustin-bates-new-project-mannequin-8095734/|title=Starset Frontman Dustin Bates Details Electronic-Leaning Project MNQN|magazine=[[Billboard (magazine)|Billboard]]}}</ref> Instead, he was planning on releasing music under a different project name, MNQN, which would be far more [[electronic music|electronic-based]].<ref name="Billboard2018"/> Bates stated that he also had been working on some [[progressive rock]]–styled music that he intended to release as well, though he did not disclose when, or if, it would be released under the Starset name.<ref name="Billboard2018"/> In April 2018, the band announced that they had signed to [[Fearless Records]] and released a music video for the ''Vessels'' track "Ricochet".<ref>{{cite web|url=https://www.altpress.com/news/entry/blessthefall_sleepless_in_phoenix_music_video|title=Watch Blessthefall's trippy new music video and other news you might have missed today - Alternative Press|website=[[Alternative Press (magazine)|Alternative Press]]|date=April 2, 2018}}</ref> An alternate acoustic recording of the song was also released shortly after.<ref>{{cite magazine|url=https://www.billboard.com/music/rock/starset-ricochet-acoustic-video-premiere-8376513/|title=Starset Unveils Elegant Acoustic Version of 'Ricochet' With Cosmic Visual: Premiere|magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+In August 2018, the band released a second version of the ''Vessels'' track "Bringing it Down" and announced a deluxe edition of the album, titled ''Vessels 2.0''. Nine new tracks appeared on ''Vessels 2.0'', consisting of "reimagined", acoustic, and remixed versions of songs from the original ''Vessels'' along with a cover of "Love You to Death" by [[Type O Negative]]. The album was released on September 28, 2018. The press release for ''Vessels 2.0'' also stated that the band had plans to release their third studio album in 2019.<ref>{{cite web|url=https://atomsplitterpr.com/starset-announce-vessels-2-0-drop-new-version-of-bringing-it-down-listen/|title=Starset Announce "Vessels 2.0" + Drop New Version Of "Bringing It Down" — LISTEN!|date=August 17, 2018|publisher=Atom Splitter PR}}</ref><ref>{{Cite news|url=http://loudwire.com/starset-cover-type-o-negative-love-you-to-death/|title=Hear Starset's Cover of Type O Negative's 'Love You to Death'|work=Loudwire|access-date=September 6, 2018|language=en}}</ref> MNQN's self-titled debut album released on April 4, 2019, and a live date at the Wonderbus Music and Arts Festival in Columbus, Ohio, on August 18, 2019, was announced.<ref>{{cite web |last1=Bates |first1=Dustin |title=Dustin Bates on Instagram: "The MNQN record is now out on Spotify, YouTube, iTunes, Amazon, etc!" |url=https://www.instagram.com/p/Bv3IImXnwpd/  |archive-url=https://ghostarchive.org/iarchive/s/instagram/Bv3IImXnwpd |archive-date=2021-12-24 |url-access=limited|website=Instagram |access-date=April 5, 2019 |language=en}}{{cbignore}}</ref><ref>{{cite press release |author=The Elevation Group|title=WonderBus Has Arrived |url=https://www.prnewswire.com/news-releases/wonderbus-has-arrived-300823065.html |website=www.prnewswire.com |access-date=April 5, 2019 |language=en}}</ref> Much like Starset, the MNQN project features a fictional backstory, based on the titular artificial intelligence created by the Sentience Corp.<ref>{{cite web |title=SENTIENCE CORP |url=https://www.sentiencecorp.com/ |website=SENTIENCE CORP |access-date=April 5, 2019}}</ref>
+
+===''Divisions'' (2019–2020)===
+On May 13, 2019, Starset announced that the third album would be released on September 13, 2019, along with fall tour dates for the United States.<ref>{{Cite web|url=https://loudwire.com/starset-2019-tour-album-release-date/|title=Starset Announce 2019 U.S. Tour + New Album Release Date|first=Joe|last=DiVita|website=Loudwire|date=May 13, 2019 }}</ref> Spring 2020 tour dates for Europe and the UK were announced on July 2, 2019.<ref>{{Cite web|url=https://twitter.com/starsetonline/status/1145980481927823360|title=RECORD RELEASE DEMONSTRATIONS INITIATE
+|date=July 2, 2019}}</ref> The album's name, ''[[Divisions (album)|Divisions]]'', was announced in August 2019 alongside the release of its first single, "Manifest".<ref>{{Cite web|url=https://www.blabbermouth.net/news/starset-to-release-divisions-album-in-september-manifest-video-available/|title=STARSET To Release 'Divisions' Album In September; 'Manifest' Video Available|date=August 15, 2019|website=BLABBERMOUTH.NET}}</ref> On September 5, 2019 guitarist Brock Richards and violinist Siobhán Richards (née Cronin) were married.<ref>{{Cite news |title=Brock Richards: The First Thing I Do After a Starset Tour |url=https://www.soundtalentmedia.com/show/2020d/brock-richards-the-first-thing-i-do-after-a-starset-tour/ |archive-url=http://web.archive.org/web/20230131135913/https://www.soundtalentmedia.com/show/2020d/brock-richards-the-first-thing-i-do-after-a-starset-tour/ |archive-date=2023-01-31 |access-date=2025-03-03 |work=2020'd |language=en}}</ref> The album was released on September 13, 2019.<ref>{{Cite web|url=https://twitter.com/starsetonline/status/1172361638780882944|title=DIVISIONS The new record is now available.|date=September 12, 2019}}</ref> By 2020, the band had received two billion streams worldwide.<ref>{{Cite web|last=Singer|first=Quentin|title=Cinematic Rock Band, STARSET, Cross Two Billion Streams Worldwide|url=https://www.forbes.com/sites/quentinsinger/2020/06/23/cinematic-rock-band-starset-cross-two-billion-streams-worldwide/|access-date=January 1, 2021|website=Forbes|language=en}}</ref> Due to the COVID-19 pandemic in 2020, most of Starset's tours were first postponed<ref>{{Cite web|author=NextMosh Staff|date=April 8, 2020|title=Starset postpone 'Divisions 2020 Tour'|url=https://nextmosh.com/starset-postpone-divisions-2020-tour/|access-date=February 6, 2021|website=NextMosh|language=en-US}}</ref> and later cancelled.<ref>{{Cite web|title=STARSET on Instagram: "Due to the continued pandemic making it impossible to reschedule, STARSET unfortunately must announce the cancellation of the DIVISIONS…"|url=https://www.instagram.com/p/CEj0L45nkis/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/CEj0L45nkis |archive-date=2021-12-24 |url-access=limited|access-date=February 6, 2021|website=Instagram|language=en}}{{cbignore}}</ref> However, Starset released the reimagined version of the single "TRIALS" and the remix version of "WAKING UP" in August 2020 and December 2020 
+
+=== ''Horizons'' (2021–2023) ===
+[[File:STARSET Performance.jpg|thumb|left|Starset performing in 2021]]
+In April 2021, Starset released a cover of [[Led Zeppelin]]'s "[[Kashmir (song)|Kashmir]]" exclusively for [[Amazon Music]]<ref>{{Cite web|url=https://www.deadpress.co.uk/news-starset-cover-kashmir-by-led-zeppelin/|title = NEWS: Starset cover 'Kashmir' by Led Zeppelin!|date = April 20, 2021}}</ref> and a new song, "Infected", to celebrate the second anniversary of the video game ''[[Arknights]]''.<ref>{{Cite web|url=https://loudwire.com/starset-infected-lyrics-arknights-video-game-anniversary/|title=Starset Release 'Infected' to Mark 'Arknights' Video Game Anniversary|website=[[Loudwire]]|date=April 26, 2021 }}</ref> In May 2021, the band made their first demonstration announcement since the pandemic, saying that they would give a performance on [[Louder Than Life|LouderThanLife]] (September 2021)<ref>{{Cite web|title=Demonstration Announcement {{!}} September 24, 2021 @louderthanlifefest|url=https://www.instagram.com/p/CO3FtIVnPPi/|access-date=2021-08-20|website=www.instagram.com}}</ref> and Rockville (November 2021).<ref>{{Cite web|title=Demonstration Announcement {{!}} November 12, 2021 @welcometorockville|url=https://www.instagram.com/p/CPEZ3yVHeo6/|access-date=2021-08-20|website=www.instagram.com}}</ref> 
+
+In June, Starset announced that they would hold a series of "AE01 Acoustic Event" during the next two months across America,<ref>{{Cite web|title=STARSET AE01 commences today|url=https://www.instagram.com/p/CRjhlwunrXb/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/CRjhlwunrXb |archive-date=2021-12-24 |url-access=limited|access-date=2021-08-20|website=www.instagram.com}}{{cbignore}}</ref> in which the band would give totally acoustic performances and interact intimately with the audience. The upcoming tour of the United States and Europe, which started in November 2021 and February 2022 respectively, were subsequently announced.<ref>{{Cite web|title=ATTN: 2021 {{!}} U.S. DEMONSTRATIONS ANNOUNCED {{!}} TICKETS & VIP ON SALE NOW AT STARSETONLINE.COM|url=https://www.instagram.com/p/CR9DKwdnjaE|access-date=2021-08-20|website=www.instagram.com}}</ref><ref>{{Cite web|title=ATTN: 2022 {{!}} EUROPE DEMONSTRATIONS {{!}} TICKETS & VIP ON SALE NOW AT starsetonline.com|url=https://www.instagram.com/p/CQqVWI5HCEE/|access-date=2021-08-20|website=www.instagram.com}}</ref> On September 10, 2021, the band announced that their fourth studio album, ''[[Horizons (Starset album)|Horizons]]'', was scheduled for release on October 22, 2021.<ref name="LoudwireHorizon">{{Cite web|url=https://loudwire.com/starset-the-breach-video-lyrics-horizons-album/|title = Starset Start Daring Journey with 'The Breach' Video, Announce New Album Details|website = [[Loudwire]]| date=September 10, 2021 }}</ref> They also released a music video for a new song from the album, named "The Breach", and released the track listing for the album, revealing that the previously released song, "Infected", would also be on the album.<ref name="LoudwireHorizon" /> On September 23, 2021, they released a lyric video for "Leaving This World Behind", and on October 7 of the same year, they released a lyric video for "Earthrise".<ref>{{cite web|url=https://loudwire.com/starset-earthrise-lyrics-video/|access-date=November 27, 2022|title=Starset release lyric video for "Earthrise"|website=Loudwire|date=October 8, 2021 }}</ref> On August 19, 2022, Starset released a collaboration song with Breaking Benjamin, called "[[Waiting on the Sky to Change]]", a reworking of a song from Bates's previous band, [[Downplay]].
+
+===''Silos'' (2024–present)===
+On May 3, 2024, Starset released the first single, "Brave New World", and its accompanying music video.<ref>{{cite web|url=https://distortedsoundmag.com/starset-release-new-music-video-for-brave-new-world/|title=Starset release new music video for 'Brave New World'|last=Weaver|first=James|website=Distorted Sound|date=May 3, 2024|access-date=June 27, 2025}}</ref>
+On July 4, 2024, the second single, "Degenerate", was released.<ref>{{cite web|url=https://wallofsoundau.com/2024/07/05/starset-initiate-doomsday-on-latest-single-degenerate/amp/|title=Starset Initiate Doomsday on Latest Single 'Degenerate'|website=Wall of Sound|last=Atlas|first=Ed|date=July 5, 2024|access-date=July 5, 2024}}</ref> On August 15, 2024, the third single, "TokSik", was released.<ref>{{cite web|url=https://www.theprp.com/2024/09/03/news/starset-utilize-puppets-for-their-new-toksik-music-video/|title=Starset Utilize Puppets For Their New "TokSik" Music Video|website=ThePRP|date=September 3, 2024|access-date=June 27, 2025}}</ref> On November 8, 2024, the fourth single, "Dystopia", was released with its accompanying music video.<ref>{{cite web|url=https://www.theprp.com/2024/11/07/news/starset-launch-dystopia-music-video/|title=Starset Launch "Dystopia" Music Video|website=ThePRP|date=November 7, 2024|access-date=June 27, 2025}}</ref> On February 28, 2025, the fifth single, "Dark Things", was released with its accompanying music video.<ref>{{cite web|url=https://www.sputnikmusic.com/news/46206/Starset-release-%5CDark-Things%5C-/|title=Starset release 'Dark Things'|website=[[Sputnikmusic]]|date=February 28, 2025|access-date=June 27, 2025}}</ref> On May 2, 2025, a cover for "[[Head over Heels (Tears for Fears song)|Head Over Heels]]" by [[Tears for Fears|Tears For Fears]], was released with its accompanying music video.<ref>{{cite web|url=https://www.1057thepoint.com/music-news/starset-goes-head-over-heels-with-tears-for-fears-cover/|title=Starset goes 'Head Over Heels' with Tears for Fears cover|website=105.7 The Point|date=May 2, 2025|access-date=June 27, 2025}}</ref> On June 27, 2025, the seventh single, "Silos" was released.<ref>{{cite web|url=https://www.theprp.com/2025/06/26/news/starset-joined-by-ex-as-i-lay-dying-guitarist-phil-sgrosso-on-their-new-single-silos/|title=Starset Joined By Ex-As I Lay Dying Guitarist Phil Sgrosso On Their New Single "SILOS"|website=ThePRP|date=June 26, 2025|access-date=June 27, 2025}}</ref> On August 29th, the eighth single, a cover for "[[Shattered Dreams]]" by [[Johnny Hates Jazz]], was released alongside the official album announcement, titled ''[[Silos (Starset album)|Silos]]'', scheduled to release on September 12.<ref>{{cite web|url=https://www.theprp.com/2025/08/28/news/starset-debut-their-cover-of-johnny-hates-jazzs-shattered-dreams-new-album-silos-headed-for-september/|title=STARSET Debut Their Cover Of Johnny Hates Jazz’s "Shattered Dreams", New Album "SILOS" Headed For September|website=ThePRP|date=August 29, 2025|access-date=August 29, 2025}}</ref>
+
+==Musical style and influences==
+Starset's musical style has been described as [[alternative rock]],<ref>{{cite news|first=Mervis|last=Scott|url=https://www.post-gazette.com/ae/music-reviews/2015/05/07/Review-Halestorm-The-Pretty-Reckless-just-plain-rock-out-at-Stage-AE-pittsburgh/stories/|title=Review: Halestorm, The Pretty Reckless just plain rock out at Stage AE 201505070181|newspaper=[[Pittsburgh Post-Gazette]]|date=May 7, 2015|access-date=May 13, 2024|archive-url=https://web.archive.org/web/20150731204820/https://www.post-gazette.com/ae/music-reviews/2015/05/07/Review-Halestorm-The-Pretty-Reckless-just-plain-rock-out-at-Stage-AE-pittsburgh/stories/201505070181|archive-date=July 31, 2015|url-status=dead}}</ref><ref>{{cite web|first=Timothy|last=Monger|url=https://www.allmusic.com/album/transmissions-mw0002677135#review|title=Transmissions - Starset AllMusic review|work=[[AllMusic]]|access-date=May 13, 2024|archive-url=https://web.archive.org/web/20190819105344/https://www.allmusic.com/album/transmissions-mw0002677135#review|archive-date=August 19, 2019|url-status=live}}</ref> [[electronic rock]],<ref>{{cite magazine|first=Anurag|last=Tagat|url=https://rollingstoneindia.com/starset/|title=Starset: The Must-Watch Electro Rock/Metal Concept Band|magazine=Rolling Stone India|date=July 26, 2017|access-date=May 13, 2024|archive-url=https://web.archive.org/web/20210301220616/https://rollingstoneindia.com/starset/|archive-date=March 1, 2021|url-status=live}}</ref><ref>{{cite web|first=Tyler|last=White|url=https://www.sputnikmusic.com/review/83946/Starset-Horizons/|title=Review: Starset - Horizons - Sputnikmusic|work=[[Sputnikmusic]]|date=July 8, 2014|access-date=May 13, 2024}}</ref> [[hard rock]],<ref name="crucialrhythm genres">{{cite web|first=Timothy|last=Monger|url=https://www.crucialrhythm.com/starset-horizons-review|title=Starset - Horizons|work=Crucial Rhythm|date=October 18, 2021|access-date=May 13, 2024|archive-url=https://web.archive.org/web/20230605042830/https://www.crucialrhythm.com/starset-horizons-review|archive-date=June 5, 2023|url-status=live}}</ref> [[alternative metal]],<ref name="crucialrhythm genres"/> and [[progressive rock]].<ref>{{cite magazine|first=Brian|last=Giffin|url=http://www.loudmag.com.au/news/starset-to-tour/|title=Starset TO Tour|magazine=Loud Mag|date=June 15, 2017|access-date=January 7, 2022|archive-url=https://web.archive.org/web/20200804080133/http://www.loudmag.com.au/news/starset-to-tour/|archive-date=August 4, 2020|url-status=dead}}</ref> Due to the large number of styles, instruments, and influences of the band's work, many outlets, including [[AllMusic]], ''Billboard'', and ''[[Revolver (magazine)|Revolver]]'' all commonly label the band as "[[Rock music|rock]]" or as a "[[Band (rock and pop)|rock band]]".<ref name="BillboardFeature"/><ref name="RevolverMagBio">{{cite magazine|url=http://www.revolvermag.com/news/starset-premiere-video-trailer-for-new-album-transmissions.html|title=Starset Premiere Video Trailer for New Album, Transmissions|magazine=[[Revolver (magazine)|Revolver]]|date=June 2, 2014|access-date=May 24, 2017|archive-url=https://web.archive.org/web/20170624002357/http://www.revolvermag.com/news/starset-premiere-video-trailer-for-new-album-transmissions.html|archive-date=June 24, 2017|url-status=dead}}</ref><ref name="Allbio">{{cite web|first=Mark|last=Deming|url=http://www.allmusic.com/artist/starset-mn0003210853/biography|title=Starset &#124; Biography & History|work=[[AllMusic]]|access-date=May 13, 2024|archive-url=https://web.archive.org/web/20220407170829/http://www.allmusic.com/artist/starset-mn0003210853/biography|archive-date=April 7, 2022|url-status=live}}</ref>
+
+Bates informally describes the music as "cinematic rock".<ref name="Allbio" /> In elaborating further, he said it's "as if a [[hard rock|hard-rock]] band did the soundtrack to an epic blockbuster movie. ... We're blending [[symphony|symphonics]] with [[electronic rock|electronics]] with [[guitar riff|riff-driven]], [[baritone guitar]] hard rock".<ref name="Richards" /> Bates explained the evolution of sound with the band's second album, ''Vessels'': "Whereas [''Transmissions''] was centered in the hard rock lane before, now it goes more [[heavy metal music|metal]] at times, and the guitar work borrows from [[djent]] stylings, and it gets more [[ambient music|ambient]] at times, using [[electronic music|electronics]] at a more deeply integrated level. Whereas the [[String instrument|strings]] were more cinematic, there was more of a [[quartet]] before, on this record it’s more of an [[orchestration]]."<ref name="MusicFeed">{{cite web|last=Kennedy |first=Jade |url=http://musicfeeds.com.au/features/with-starsets-vessels-dustin-bates-seeks-to-bring-out-the-scientist-in-all-of-us/ |title=With Starset's New Album 'Vessels' Dustin Bates Seeks To Bring Out The Scientist In All Of Us |publisher=Music Feeds |date=February 1, 2017 |access-date=May 24, 2017}}</ref> 
+
+Bates also stated he implemented some elements of [[electronic dance music|EDM]] into the second album.<ref>{{cite web|last=Mettler |first=Mike |url=https://www.digitaltrends.com/music/dustin-bates-starset-interview/ |title=Starset's Dustin Bates Talks VR Audio, Hi-res Streaming, and Life On Mars |publisher=Digital Trends |date=April 7, 2017 |access-date=May 24, 2017}}</ref> Dave Richards ''[[Erie Times-News]]''<nowiki/>' described the band's sound as "blending the progressive aspirations of [[Muse (band)|Muse]] with the openhearted approach of emotional and muscular power of bands like [[Breaking Benjamin]]".<ref name="Richards">{{cite web |last= |first= |date=September 10, 2015 |title=Cinematic band Starset opens for Breaking Benjamin |url=https://www.goerie.com/story/entertainment/local/2015/09/10/cinematic-band-starset-opens-for/24940226007/ |access-date=April 11, 2023 |website=Go Erie |publisher=[[Erie Times-News]]}}</ref> Bates also includes a notable amount of [[screaming (music)|harsh vocals]] as well as both raw and [[pitch correction|pitch corrected]] clean vocals for many different effects.<ref>{{cite web |last1=Keller |first1=Elizabeth |title=Album Review: Vessels by Starset |url=https://scrollonline.net/14426/a-e/album-review-vessels-by-starset/ |website=Scroll Online |access-date=December 7, 2020 |date=February 9, 2017 }}</ref>
+
+Influences of Starset include [[Hans Zimmer]], [[Nine Inch Nails]], [[Sigur Ros]], [[Thirty Seconds to Mars]], [[Deftones]], [[Linkin Park]] and [[Breaking Benjamin]].<ref name="Richards"/><ref>{{Cite web|url=http://triblive.com/aande/music/11915264-74/music-starset-bates|title=Dustin Bates boasts atypical background for a musician|last=Behe|first=Rege|date=February 15, 2017|access-date=July 30, 2017}}</ref>
+
+== Members ==
+
+'''Current members'''
+* Dustin Bates – lead vocals, keyboards, piano, synths, guitars, soundboard, programming <small>(2013–present)</small>
+* Ron DeChant – bass, keyboards, backing vocals <small>(2013–present)</small>
+* Brock Richards – guitars, backing vocals <small>(2013–present)</small>
+* Adam Gilbert – drums, percussion <small>(2013–present)</small>
+* Siobhán Richards – violin, keyboards <small>(2020–present; touring 2017–2020)</small>
+* Zuzana Engererova – cello <small>(2020–present; touring 2019-2020)</small>
+* Cory Juba – guitars, synths, soundboard, drum pads <small>(2021–present)</small>
+
+'''Former touring musicians'''
+
+* Mariko Muranaka Friend – cello, violin <small>(2014–2015, 2018–2019)</small><ref>{{cite web|url=https://www.marikocello.com/about|title=Cello, Compose, Violin : MARIKO|website=Wix.com|access-date=February 28, 2017}}</ref>
+* Nneka Lyn – cello <small>(2016)</small><ref>{{cite web|url=https://soundcloud.com/nnekathecellist|title=Nneka Lyn|publisher=SoundCloud|access-date=February 28, 2017}}</ref>
+* Jonathan Kampfe – cello <small>(2017–2018)</small><ref>{{cite web|first=Devon|last=Anderson|url=http://rockrevoltmagazine.com/live-show-review-starset-w-gemini-syndrome/|title=LIVE SHOW REVIEW: Starset w/ Gemini Syndrome|publisher=RockRevolt Mag|website=rockrevoltmagazine.com|date=February 21, 2017|access-date=February 28, 2017}}</ref><ref>{{cite web|first=Joe|last=Hadsall|url=http://www.joplinglobe.com/news/lifestyles/sci-fi-songwriting-dystopian-story-fuels-starset-s-music/article_929f770f-d38a-5915-b203-44fb3f9725a7.html|title=Sci-fi songwriting: Dystopian story fuels Starset's music|publisher=The Joplin Globe|date=June 12, 2015|access-date=February 28, 2017}}</ref>
+'''Timeline'''{{#tag:timeline|ImageSize=width:900 height:auto barincrement:20
+PlotArea   =left:100 bottom:95 top:20 right:20
+Alignbars  =justify
+DateFormat =dd/mm/yyyy
+Period     =from:01/01/2013 till:{{#time:d/m/Y}}
+TimeAxis   =orientation:horizontal format:yyyy #it's best not to use auto-updating timelines as it can cause problems when the graphic updates on a daily basis
+Legend     = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:2 start:2013
+ScaleMinor = increment:1 start:2013
+
+Colors =
+ id:Lvocals       value:red         legend:Lead_vocals
+ id:Bvocals       value:pink        legend:Backing_vocals
+ id:Guitar       value:green   legend:Guitar
+ id:Bass          value:blue     legend:Bass
+ id:Drums         value:orange   legend:Drums
+ id:Violin         value:drabgreen   legend:Violin
+ id:Cello         value:darkblue   legend:Cello 
+ id:Keys        value:purple   legend:Keyboards,_piano
+ id:Pads         value:powderblue2 legend:Soundboard,_synths,_drum_pad,_programming
+ id:Tour    value:yellow   legend:Touring
+ id:Studio      value:black  legend:Studio_album
+ 
+
+LineData = 
+ layer:back
+  color:Studio
+   at:08/07/2014
+   at:20/01/2017
+   at:13/09/2019
+   at:22/10/2021
+   at:12/09/2025
+
+BarData =
+ bar:Bates   text:"Dustin Bates"
+ bar:Richards     text:"Brock Richards" 
+ bar:Juba  text:"Cory Juba"
+ bar:DeChant      text:"Ron DeChant"
+ bar:Gilbert    text:"Adam Gilbert"
+ bar:Siobhan    text:"Siobhan Richards"
+ bar:Friend     text:"Mariko Friend"
+ bar:Lyn    text:"Nneka Lyn"
+ bar:Kampfe   text:"Jonathan Kampfe"
+ bar:Zuzana     text:"Zuzana Engererova"
+ 
+
+PlotData=
+ width:11 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Bates  from:01/01/2013 till:end color:lvocals
+ bar:Bates  from:01/01/2013 till:end color:keys width:9
+ bar:Bates  from:01/01/2013 till:end color:pads width:5
+ bar:Bates  from:01/01/2013 till:end color:guitar width:3
+ bar:Dechant     from:01/01/2013 till:end color:bass
+ bar:Dechant     from:01/01/2013 till:end color:keys width:7
+ bar:DeChant  from:01/01/2013 till:end color:bvocals width:3
+ bar:Richards    from:01/01/2013 till:end        color:guitar
+ bar:Richards    from:01/01/2013 till:end        color:bvocals width:3
+ bar:Gilbert   from:01/01/2013 till:end        color:drums
+ bar:Siobhan   from:01/01/2017 till:end        color:violin 
+ bar:Siobhan   from:01/01/2017 till:22/04/2020    color:tour width:3
+ bar:Siobhan   from:01/01/2017 till:22/04/2020    color:keys width:7
+ bar:Siobhan   from:22/04/2020 till:end    color:keys width:3
+ bar:Zuzana    from:01/01/2019 till:end color:cello
+ bar:Zuzana from:01/01/2019 till:22/04/2020 color:tour width:3
+ bar:Juba    from:01/01/2021 till:end        color:guitar
+ bar:Juba    from:01/01/2021 till:end    color:pads width:3
+ bar:Friend   from:01/01/2014 till:31/12/2015 color:cello
+ bar:Friend   from:01/01/2018 till:31/12/2019 color:violin
+ bar:Friend   from:01/01/2014 till:31/12/2015 color:violin width:7
+ bar:Friend   from:01/01/2018 till:31/12/2019 color:cello width:7
+ bar:Friend   from:01/01/2014 till:31/12/2015 color:tour width:3
+ bar:Friend   from:01/01/2018 till:31/12/2019 color:tour width:3
+ bar:Lyn  from:01/01/2016 till:31/12/2016 color:cello
+ bar:Lyn  from:01/01/2016 till:31/12/2016 color:tour width:3
+ bar:Kampfe    from:01/01/2017 till:31/12/2018        color:cello
+ bar:Kampfe    from:01/01/2017 till:31/12/2018        color:tour width:3}}
+
+== Discography ==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:19em;" | Title
+! scope="col" rowspan="2" style="width:22em;" | Album details
+! scope="col" colspan="10"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard 200|US]]<br /><ref>{{cite magazine|title=Chart History Billboard 200|url=https://www.billboard.com/artist/starset/chart-history/tlp/|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | US Alt.<br /><ref>{{cite magazine|title=Chart History Alternative Albums|url=https://www.billboard.com/artist/starset/chart-history/alt/|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | US Dig.<br /><ref>{{cite magazine|title=Chart History Digital Albums|url=https://www.billboard.com/music/starset/chart-history/digital-albums|archive-url=https://web.archive.org/web/20180514045922/https://www.billboard.com/music/starset/chart-history/digital-albums|url-status=dead|archive-date=May 14, 2018|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | US Hard<br /><ref>{{cite magazine|title=Chart History Hard Rock Albums|url=https://www.billboard.com/artist/starset/chart-history/mtl/|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | US Rock<br /><ref>{{cite magazine|title=Chart History Top Rock Albums|url=https://www.billboard.com/artist/starset/chart-history/rck/|magazine=Billboard|access-date=March 10, 2018}}</ref> 
+! scope="col" style="width:3em;font-size:90%;" | [[ARIA Charts|AUS]]<br /><ref>{{cite web|url=https://www.auspop.com.au/2017/01/chart-watch-405/|title=ARIA Chart Watch #405|website=auspOp|date=January 28, 2017|access-date=April 25, 2023|archive-date=February 2, 2017|archive-url=https://web.archive.org/web/20170202094727/https://www.auspop.com.au/2017/01/chart-watch-405/|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br /><ref>{{cite web|url=https://austriancharts.at/showinterpret.asp?interpret=Starset|title=Discographie Starset|website=austriancharts.at|language=de|access-date=April 25, 2023}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Canadian Albums Chart|CAN]]<br /><ref>{{cite magazine|title=Chart History Billboard Canadian Albums|url=https://www.billboard.com/artist/starset/chart-history/cna/|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref>{{cite web|url=https://www.offiziellecharts.de/suche?artistId=Starset|title=Discographie von Starset|publisher=GfK Entertainment|access-date=September 18, 2019}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Scottish Singles and Albums Charts|SCO]]<br /><ref>{{cite web |title=Official Scottish Albums Chart Top 100: 20 September 2019 - 26 September 2019 |url=https://www.officialcharts.com/charts/scottish-albums-chart/20190920/40/ |publisher=Official Charts Company |access-date=September 20, 2019}}</ref>
+|-
+! scope="row" | ''[[Transmissions (Starset album)|Transmissions]]''
+|
+*Released: July 8, 2014 <span style="font-size:85%;"></span>
+*Label: [[Razor & Tie]]
+*Formats: [[Compact Disc|CD]], [[LP record|LP]], [[Music download|digital download]]
+| 49 || 12 || 24 || 5 || 16 || — || — || — || — || —
+|-
+! scope="row" | ''[[Vessels (Starset album)|Vessels]]''
+|
+*Released: January 20, 2017 <span style="font-size:85%;"></span>
+*Label: Razor & Tie
+*Formats: CD, LP, digital download
+| 11 || 2 || 3 || 2 || 3 || 52 || 56 || 60 || 85 || —
+|-
+! scope="row" |''[[Divisions (album)|Divisions]]''
+|
+*Released: September 13, 2019
+*Label: [[Fearless Records|Fearless]]
+*Formats: CD, LP, digital download
+| 37 || 6 || 7 || 4 || 7 || —{{efn|group=upper-alpha|''Divisions'' did not enter the [[ARIA Charts|ARIA Albums Chart]], but peaked at number 22 on the [[ARIA Digital Album Chart]].<ref>{{cite web|url=http://cdn.aria.com.au/pdfs/5C049EBA18CCF8ADE6B4C5A288C205AA4DAEC1CCC202C4DD38BA33D3819507CE/ARIA%20Digital%20Albums%20Chart.pdf?seq=26|title=ARIA Australian Top 50 Digital Albums|publisher=[[Australian Recording Industry Association]]|date=September 23, 2019|access-date=September 21, 2019}}</ref>}} || — || — || — || 78
+|-
+! scope="row" |''[[Horizons (Starset album)|Horizons]]''
+|
+*Released: October 22, 2021
+*Label: Fearless
+*Formats: CD, LP, digital download
+| — || 22 || — || 10 || 38 || — || — || — || — || —
+|-
+! scope="row" |''[[Silos (Starset album)|Silos]]''
+|
+* Released: September 12, 2025
+* Label: Fearless
+* Formats: CD, LP, digital download
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|-
+| colspan="17" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+'''Notes'''
+{{notelist-ua}}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="6" | Peak chart positions
+! scope="col" rowspan="2" | Certifications
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:4em;font-size:90%;" | [[Billboard charts#Rock|US<br /> Rock<br /> Airplay]]<br /><ref>{{cite magazine|title=Chart History Rock Airplay|url=https://www.billboard.com/artist/starset/chart-history/rka/|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:4em;font-size:90%;" | [[Billboard charts#Rock|US<br /> Rock<br /> Digital]]<br /><ref>{{cite magazine|title=Chart History Rock Digital Song Sales|url=https://www.billboard.com/artist/starset/chart-history/rkt/|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:4em;font-size:90%;" | [[Mainstream Rock (chart)|US Main]]<br /><ref>{{cite magazine|title=Chart History Mainstream Rock|url=https://www.billboard.com/artist/starset/chart-history/rtt/ |magazine=Billboard |access-date=April 7, 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Hot Rock & Alternative Songs|US Rock]]<br /><ref name="auto">{{cite magazine|title=Chart History Hot Rock & Alternative Songs|url=https://www.billboard.com/artist/starset/chart-history/ark/ |magazine=Billboard |access-date=August 30, 2022}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | US Hard Rock Digital<br /><ref name="HRD">{{cite magazine | url=https://www.billboard.com/artist/starset/chart-history/hrd/ | title=Starset Chart History: Hard Rock Digital Song Sales | magazine=[[Billboard (magazine)|Billboard]] | access-date=April 25, 2023}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Hot Hard Rock Songs|US Hard Rock]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/starset/chart-history/rkt/ | title=Starset | magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+|-
+! scope="row" | "[[My Demons]]"
+| 2013
+| 26
+| —
+| 5
+| 36
+| —
+| —
+|
+* [[Recording Industry Association of America|RIAA]]: Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Starset|access-date=July 29, 2018}}</ref>
+* [[Music Canada|MC]]: Gold<ref name="MC">{{cite web|url=https://musiccanada.com/gold-platinum/?_gp_search=Starset|title=Canadian certifications – Starset|publisher=[[Music Canada]]|accessdate=September 10, 2021}}</ref>
+| rowspan="3" | ''[[Transmissions (Starset album)|Transmissions]]''
+|-
+! scope="row" | "[[Carnivore (song)|Carnivore]]"
+| 2014
+| —
+| —
+| 16
+| —
+| —
+| —
+|
+|-
+! scope="row" | "[[Halo (Starset song)|Halo]]"
+| 2015
+| 41
+| —
+| 16
+| —
+| —
+| —
+|
+|-
+! scope="row" | "[[Monster (Starset song)|Monster]]"
+| 2016
+| 14
+| 16
+| 2
+| 27
+| 4
+| —
+|
+| rowspan="2"| ''[[Vessels (Starset album)|Vessels]]''
+|-
+! scope="row" | "[[Satellite (Starset song)|Satellite]]"
+| 2017
+| 40
+| —
+| 12
+| —
+| —
+| —
+|
+|-
+! scope="row" | "Manifest"
+| 2019
+| 50
+| —
+| 14
+| —
+| —
+| —
+|
+| rowspan="2"| ''[[Divisions (album)|Divisions]]''
+|-
+! scope="row" | "Trials"
+| 2020
+| 29
+| —
+| 8
+| —
+| —
+| 11
+|
+|-
+! scope="row" | "Infected"
+| 2021
+| —
+| —
+| 16
+| —
+| 10
+| 21
+|
+| ''[[Horizons (Starset album)|Horizons]]''
+|-
+! scope="row" | "[[Waiting on the Sky to Change]]"<br />{{small|(with [[Breaking Benjamin]]) ([[Downplay]] cover)}}
+| 2022
+| 15
+| 11
+| 2
+| 32
+| 2
+| 3
+|
+| {{n/a|Non-album single}}
+|-
+! scope="row" | "TokSik"
+| 2024
+| 45
+| —
+| 12
+| —
+| 6
+| 15
+|
+| ''Silos''
+|-
+| colspan="15" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="4" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | US Hard Rock Digital<br /><ref name="HRD"/>
+! scope="col" style="width:3em;font-size:90%;" | [[Hot Hard Rock Songs|US Hard Rock]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/starset/chart-history/rkt/ | title=Starset | magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+! scope="col" style="width:4em;font-size:90%;" | [[Billboard charts#Rock|US<br /> Rock<br /> Digital]]<br /><ref>{{cite magazine|title=Chart History Rock Digital Song Sales|url=https://www.billboard.com/artist/starset/chart-history/rkt/|magazine=Billboard|access-date=March 10, 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Hot Rock & Alternative Songs|US Rock]]<br /><ref name="auto">{{cite magazine|title=Chart History Hot Rock & Alternative Songs|url=https://www.billboard.com/artist/starset/chart-history/ark/ |magazine=Billboard |access-date=August 30, 2022}}</ref>
+|-
+! scope="row"| "Down with the Fallen"
+| rowspan="4"| 2014
+| —
+| —
+| —
+| —
+| rowspan="4"| ''Transmissions''
+|-
+! scope="row"| "Let It Die"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "The Future Is Now"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Rise and Fall"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Back to the Earth"
+| rowspan="3"| 2017
+| 14
+| —
+| —
+| —
+| rowspan="4"| ''Vessels''
+|-
+! scope="row"| "Die for You"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Telepathic"
+| —
+| —
+| —
+| —
+|-
+! scope="row" | "Ricochet"
+| rowspan="3"| 2018
+| 7
+| —
+| —
+| 49
+|-
+! scope="row"| "Bringing It Down" (Version 2.0)
+| —
+| —
+| —
+| —
+| rowspan="2"| ''[[Vessels (Starset album)|Vessels 2.0]]''
+|-
+! scope="row"| "Love You to Death" {{small|([[Type O Negative]] cover)}}
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Where the Skies End"
+| rowspan="3"| 2019
+| —
+| —
+| —
+| —
+| rowspan="4"| ''Divisions''
+|-
+! scope="row"| "Diving Bell"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Stratosphere"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Echo"
+| rowspan="6"| 2021
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "[[Kashmir (song)|Kashmir]]" {{small|([[Led Zeppelin]] cover)}}
+| —
+| —
+| —
+| —
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "The Breach"
+| —
+| 22
+| —
+| —
+| rowspan="7" | ''Horizons''
+|-
+! scope="row"| "Leaving This World Behind"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Earthrise"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Devolution"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Otherworldly"
+| rowspan="3"| 2022
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Symbiotic"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Icarus"
+| —
+| —
+| —
+| —
+|-
+! scope="row" | "Brave New World"
+| rowspan="3"| 2024
+| 3
+| 9
+| 14
+| —
+| rowspan="7"| ''Silos''
+|-
+! scope="row" | "Degenerate"
+| 5
+| 13
+| —
+| —
+|-
+! scope="row"| "Dystopia"
+| 6
+| 15
+| —
+| —
+|-
+! scope="row" | "Dark Things"
+| rowspan="4"| 2025
+| 6
+| 12
+| —
+| —
+|-
+! scope="row" | "[[Head Over Heels (Tears for Fears song)|Head Over Heels]]" {{small|([[Tears for Fears]] cover)}}
+| —
+| —
+| —
+| —
+|-
+! scope="row" | "Silos"
+| 5
+| 25
+| —
+| —
+|-
+! scope="row" | "[[Shattered Dreams]]" {{small|([[Johnny Hates Jazz]] cover)}}
+| —
+| —
+| —
+| —
+|-
+|}
+
+=== Other certified songs ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="1" scope="col" | Title
+! rowspan="1" scope="col" | Year
+! rowspan="1" scope="col" | Certifications
+! rowspan="1" scope="col" | Album
+|-
+! scope="row" | "It Has Begun"
+| 2014
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA" />
+| ''[[Transmissions (Starset album)|Transmissions]]''
+|}
+===Music videos===
+{| class="wikitable" style="text-align: center"
+|-
+! Title
+! Year
+! Director
+|-
+! {{nobold|"My Demons"}}
+| 2013
+| Denver Cavins<ref>{{cite web|url=http://www.cmt.com/videos/starset/1040436/my-demons-official-music-video.jhtml|archive-url=https://web.archive.org/web/20170410213916/http://www.cmt.com/videos/starset/1040436/my-demons-official-music-video.jhtml|url-status=dead|archive-date=April 10, 2017|title=My Demons (Official Music Video)|publisher=CMT|access-date=April 9, 2017|date=May 6, 2014}}</ref>
+|-
+! {{nobold|"Carnivore"}}
+| 2014
+| Ramon Boutviseth<ref>{{cite web|first=Aaron|last=Wilschick|url=http://puregrainaudio.com/videos/starset-carnivore-music-video|title=Starset - "Carnivore" [Music Video]|publisher=PureGrainAudio.com|access-date=April 9, 2017|date=October 31, 2014|archive-date=September 4, 2017|archive-url=https://web.archive.org/web/20170904012146/http://puregrainaudio.com/videos/starset-carnivore-music-video|url-status=dead}}</ref>
+|-
+! {{nobold|"Halo"}}
+| 2015
+| Corbin Thomas<ref>{{cite web|first=Corbin|last=Thomas|url=http://wellcan1.rssing.com/chan-6859651/all_p1.html|title=BLOG - wellcan still & motion media|publisher=rssing.com|access-date=April 9, 2017|date=May 8, 2015}}</ref>
+|-
+! {{nobold|"Monster"}}
+| 2016
+| Punk City
+|-
+! {{nobold|"Back to the Earth"}}
+| rowspan="3"| 2017
+| Mungo Creative Group
+|-
+! {{nobold|"Telepathic"}}
+| Dustin Bates
+|-
+! {{nobold|"Satellite"}}
+| Kyle Cogan
+|-
+! {{nobold|"Ricochet"}}
+| rowspan="2"| 2018
+| Nick Peterson
+|-
+! {{nobold|"Bringing It Down" (Version 2.0)}}
+|Brian Cox
+|-
+! {{nobold|"Manifest"}}
+| rowspan="4"| 2019
+| Andrew Donoho
+|-
+! {{nobold|"Where the Skies End"}}
+| rowspan="3"| Caleb Mallery
+|-
+! {{nobold|"Diving Bell"}}
+|-
+! {{nobold|"Stratosphere"}}
+|-
+! {{nobold|"Trials"}}
+| 2020
+| Nick Peterson
+|-
+! {{nobold|"Echo"}}
+| rowspan="2"| 2021
+| Dan Fusselman
+|-
+! {{nobold|"The Breach"}}
+| Nick Peterson
+|-
+! {{nobold|"Symbiotic"}}
+| rowspan="2"| 2022
+| Spencer Sease
+|-
+! {{nobold|"Icarus"}}
+| Nick Peterson
+|-
+! {{nobold|"Brave New World"}}
+| rowspan="4"| 2024
+| Anders Rostad
+|-
+! {{nobold|"Degenerate"}}
+| George Gallardo Kattah
+|-
+! {{nobold|"TokSik"}}
+| rowspan="2"| Christopher Phelps
+|-
+! {{nobold|"Dystopia"}}
+|-
+! {{nobold|"Dark Things"}}
+| rowspan="6"| 2025
+| rowspan="2"| Jeb Hardwick
+|-
+! {{nobold|"Head Over Heels"}}
+|-
+! {{nobold|"Silos"}}
+| Christopher Phelps
+|-
+! {{nobold|"Shattered Dreams"}}
+| {{Unknown}}
+|-
+! {{nobold|"Ad Astra"}}
+| rowspan="2"| Scotty Felix
+|-
+! {{nobold|"Sway"}}
+|-
+|}
+
+==See also==
+* [[Music of Ohio]]
+

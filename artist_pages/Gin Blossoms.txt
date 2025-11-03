@@ -1,0 +1,252 @@
+{{short description|American alternative rock band}}
+{{about|the band Gin Blossoms|the medical condition known by the term|Rhinophyma}}
+{{Use American English|date=June 2023}}
+{{Use mdy dates|date=June 2023}}
+
+{{Infobox musical artist
+| name                = Gin Blossoms
+| image               = GinBlossoms2018.jpg
+| caption             = Gin Blossoms in 2018
+| landscape           = yes
+| alias               =
+| origin              = [[Tempe, Arizona]], U.S.
+| genre               = {{flatlist|<!-- Sourced in musical style section -->
+* [[Alternative rock]]
+* [[jangle pop]]
+* [[power pop]]
+* [[country rock]]
+}}
+| years_active        = {{hlist|1987–1997|2001–present}}
+| label               = [[A&M Records|A&M]], [[Hybrid Recordings|Hybrid]], [[429 Records|429]]<ref>{{Cite web |title=429 Records |url=http://www.429records.com/sites/429records/home.asp |url-status=dead |archive-url=https://web.archive.org/web/20041022110627/http://www.429records.com/sites/429records/home.asp |archive-date=October 22, 2004 |access-date=July 15, 2011 |publisher=429 Records}}</ref>
+| spinoffs=[[Gas Giants (band)|Gas Giants]]
+| website                 = {{URL|http://www.ginblossoms.net/}}
+| current_members     = Bill Leen<br />[[Jesse Valenzuela]]<br />[[Robin Wilson (musician)|Robin Wilson]]<br />Scott "Scotty" Johnson<br />Scott Hessel
+| past_members        = [[Doug Hopkins]]<br />Richard Taylor<br />Chris McCann<br />Steven Severson<br />Dan Henzerling<br /> Phillip "Phil" Rhodes<br />Phil Leavitt<br />Gary Smith<br />Scott Kusmirek<br />[[John Richardson (drummer)|John Richardson]]
+}}
+
+'''Gin Blossoms''' is an American [[alternative rock]] band formed in 1987 in [[Tempe, Arizona]]. They rose to prominence following the 1992 release of their first major label album, ''[[New Miserable Experience]]'', and the first single released from that album, "[[Hey Jealousy]]". "Hey Jealousy" became a Top 25 hit and went gold, and ''New Miserable Experience'' eventually went quadruple platinum; four other charting singles were released from the album. The band's follow-up album, ''[[Congratulations I'm Sorry]]'' (1996), went platinum and the single "[[As Long as It Matters]]" was nominated for a Grammy Award. Gin Blossoms broke up in 1997. Since reuniting in 2001, the band has released ''[[Major Lodge Victory]]'' in 2006, ''[[No Chocolate Cake]]'' in 2010, and ''[[Mixed Reality (Gin Blossoms album)|Mixed Reality]]'' in 2018.
+
+== History ==
+=== Early years ===
+During the band's early years, its members included lead guitarist and songwriter [[Doug Hopkins]], bassist Bill Leen, and lead vocalist [[Jesse Valenzuela]]. The lineup shifted multiple times, such as Richard Taylor and then Steven Severson on rhythm guitar, and also Chris McCann and then Dan Henzerling on drums. Afterwards, [[Robin Wilson (musician)|Robin Wilson]] replaced Severson as rhythm guitarist.<ref>{{Cite web |last=Erlewine |first=Stephen Thomas |title=Biography: Gin Blossoms |url={{AllMusic|class=artist|id=p57420/biography|pure_url=yes}} |access-date=June 3, 2013 |publisher=[[AllMusic]]}}</ref> The band's name comes from a photo of [[W.C. Fields]] in [[Kenneth Anger]]'s book ''[[Hollywood Babylon]]'', which bore the caption "W.C. Fields with gin blossoms", referring to the actor's [[telangiectasia]]-spotted face and [[Rhinophyma|rhinophymic]] nose by the slang term for the skin condition known as [[rosacea]].<ref name="Brody">{{Cite news |last=Brody |first=Jane E. |date=March 16, 2004 |title=Sometimes Rosy Cheeks Are Just Rosy Cheeks |work=The New York Times |url=https://query.nytimes.com/gst/fullpage.html?sec=health&res=9400E5DB1631F935A25750C0A9629C8B63}}</ref>
+
+Gin Blossoms became well known around the band's hometown of [[Phoenix, Arizona|Phoenix]]. The band's frequent touring resulted in an increase in popularity. By 1989, Wilson and Valenzuela had switched roles, with Wilson taking on lead vocal duties and Valenzuela concentrating on rhythm guitar and backing vocals. Around the same time, Phillip Rhodes replaced Henzerling on drums; thus, along with founding members Leen on bass and Hopkins on lead guitar, the band's first recording lineup became stabilized. They independently recorded their first full-length album, ''[[Dusted (Gin Blossoms album)|Dusted]]'', which was released in December 1989.<ref>{{Cite web |title=Dusted – Gin Blossoms |url=https://www.allmusic.com/album/dusted-mw0000230840 |website=Allmusic}}</ref>
+
+After being signed to [[A&M Records]], the band began to work on their first major-label album. Initial attempts faltered and the band released an EP, ''[[Up and Crumbling]]'', instead.<ref>{{Cite web |title=Up & Crumbling – Gin Blossoms |url=https://www.allmusic.com/album/up-crumbling-mw0000272987 |website=Allmusic}}</ref>
+
+=== Mainstream success ===
+Gin Blossoms named their second album ''[[New Miserable Experience]]''. In February 1992, while still working to complete it, founding member and lead guitarist/songwriter Hopkins drank heavily and grew increasingly depressed. With the other members hesitant to fire Hopkins, A&M forcefully removed him from the band and withheld $15,000 owed to Hopkins until he agreed to sign over half of his publishing royalties and relinquish his mechanical royalties. Hopkins reluctantly agreed to these demands because of his dire financial situation.<ref name="RS">Baird, Robert (February 10, 1994), "Ex-Blossom dies". ''Rolling Stone''. (675):15</ref> Scott Johnson was chosen by the band later that month as Hopkins' stand-in on tour, and became a permanent member in 1994.<ref>{{Cite web |title=After 16 years, guitarist Scotty Johnson is singing again |url=http://www.eastvalleytribune.com/get_out/after-years-guitarist-scotty-johnson-is-singing-again/article_314ed124-221d-5f7f-8b53-8efd65e40d40.html |website=East Valley Tribune|date=May 26, 2005 }}</ref>
+
+''New Miserable Experience'' became the band's breakthrough album.<ref name="Hudak">{{Cite magazine |last=Hudak |first=Joseph |date=March 29, 2017 |title=Gin Blossoms' 'New Miserable Experience': The Dark History of a Nineties Classic |url=https://www.rollingstone.com/music/music-features/gin-blossoms-new-miserable-experience-the-dark-history-of-a-nineties-classic-126566/ |access-date=November 3, 2018 |magazine=Rolling Stone}}</ref> The first single released from the album was "[[Hey Jealousy]]", which had been written by Hopkins. The song reached No.&nbsp;25 on the [[Billboard Hot 100|''Billboard'' Hot 100]] and No.&nbsp;4 on ''Billboard''{{'}}s [[Mainstream Rock Tracks]] and later went gold,<ref name="auto1">{{Cite news |last=Masley |first=Ed |date=September 1, 2018 |title=Gin Blossoms' Robin Wilson on why 'Mixed Reality' is their best since 'Miserable' was new |work=AZCentral.com |url=https://www.azcentral.com/story/entertainment/music/2018/09/01/gin-blossoms-tour-bands-mixed-reality-return-classic-form-robin-wilson/1106397002/ |access-date=November 3, 2018}}</ref> largely fueling the success of ''New Miserable Experience''. Estranged from the band, Hopkins died by suicide on December 5, 1993, after a reported five previous attempts (including one for which he was hospitalized two weeks).<ref>{{Cite news |url=https://variety.com/1993/music/news/rock-guitarist-hopkins-32-kills-self-116348/ |title=Rock guitarist Hopkins, 32, kills self |website=Variety |date=December 6, 1993 |agency=Associated Press}}</ref> The following year, another song by Hopkins, "[[Found Out About You]]", also reached No.&nbsp;25 on the ''Billboard'' Hot 100 and climbed to No.&nbsp;1 on ''Billboard''{{'}}s [[Modern Rock Tracks]]. ''New Miserable Experience'' eventually reached quadruple platinum status.<ref name="auto1" />
+
+Between their first and second albums, Gin Blossoms contributed the single "[[Til I Hear It from You]]" for the soundtrack of the 1995 film ''[[Empire Records]]''. It reached No.&nbsp;9 on the ''Billboard'' Hot 100. Their second major album, ''[[Congratulations I'm Sorry]]'', was released in 1996. Yielding one top-ten hit ("[[Follow You Down]]", which peaked at No.&nbsp;9 ''Billboard'' Hot 100), the album went platinum.<ref name="Tribune">{{Cite news |date=January 1, 1998 |title=Gin Blossoms confirm breakup |work=[[Sarasota Herald-Tribune]] |url=https://news.google.com/newspapers?id=40AgAAAAIBAJ&pg=6836,383865&dq=gin-blossoms+robin-wilson&hl=en |access-date=November 3, 2018}}</ref> The song "[[As Long as It Matters]]" was nominated for a [[Grammy Award]] for [[Grammy Award for Best Pop Performance by a Duo or Group with Vocals|Best Pop Performance by a Duo or Group with Vocal]].<ref>{{Cite web |date=June 4, 2019 |title=Gin Blossoms |url=https://www.grammy.com/grammys/artists/gin-blossoms |website=GRAMMY.com}}</ref>
+
+With chart success came opportunities to appear as musical guests on late-night television. Between 1992 and 1996, Gin Blossoms appeared on shows such as ''[[Late Show with David Letterman]]'' (many times between 1992 and 1996), ''[[The Tonight Show with Jay Leno]]'' (1993, 1994, 1996), ''[[The Jon Stewart Show]]'' (1993), ''[[Late Night with Conan O'Brien]]'' (1996), and as a featured musical act on ''[[Saturday Night Live]]'' (1996). One appearance on the ''Late Show With David Letterman'' featured a joint performance with Gin Blossoms and the members of [[Kiss (band)|Kiss]], performing the latter's "[[Christine Sixteen]]". Gin Blossoms became a favorite of ''Late Show'' musical director [[Paul Shaffer]], and their music was often featured as the show cut to and from commercials. The band was also a featured performer in the closing credits of the movie ''[[Wayne's World 2]]'' (1993), performing "Idiot Summer" on-screen as part of the fictional concert "[[Waynestock]]".
+
+{{quote box|quote=Without Doug and his songwriting, we never could have signed a record deal.|source= —Robin Wilson (''People'', 1994)<ref name="People">{{Cite magazine |last1=Dougherty |first1=Steve |last2=Small |first2=Michael |date=April 4, 1994 |title=Haunted by Success |url=http://www.people.com/people/archive/article/0,,20107776,00.html |website=[[People (magazine)|People]] |page=53 |volume=41 |issue=12}}</ref>|width=310px}}
+
+=== Breakup ===
+Gin Blossoms broke up in early 1997. Wilson and Rhodes launched the [[Gas Giants (band)|Gas Giants]] while Leen formed a band called Rai and then retired from music to operate a rare book store. Valenzuela fronted a short-lived outfit called the Low Watts, released a solo album, and kept busy writing and producing. Johnson joined another Tempe-based band, [[Roger Clyne and the Peacemakers]]. Wilson ventured into producing as well, at his Mayberry Studios in Tempe, Arizona (now called Uranus Studios).<ref>{{Cite web |title=So you want to be a Rock 'n' Roll Star |url=https://www.phoenixnewtimes.com/news/so-you-want-to-be-a-rock-n-roll-star-6420905 |website=Phoenix New Times}}</ref>
+[[File:Gin Blossoms 9 06 2014 -11 (15167457941).jpg|thumb|upright=1.00|left|Lead singer Robin Wilson]]
+
+=== Reunion ===
+
+The Gas Giants announced an "indefinite hiatus" in June 2001. On December 4, 2001, it was announced that Scott was leaving Roger Clyne and the Peacemakers to rejoin Gin Blossoms. The band regrouped and began playing together again in earnest in 2002, having done a couple of one-off shows in the interim. In Wilson's words, "We always said our breakup wasn't forever and right now we're all feeling like we want to be Gin Blossoms again. We make a noise together that we can't make otherwise. We respect and appreciate that we need each other to create that sound. This time we hope to avoid being swallowed by the chaos."<ref>{{Cite magazine |title=Taking a Detour: Gin Blossoms Break Tour to Play Phoenix Pride |url=http://www.digitaleditiononline.com/publication/?m=5364&i=15257&p=45&ver=html5 |website=Digital Edition Online (Echo Magazine) |date=April 16, 2009 |last=Christian |first=Bruce}}</ref>
+
+[[File:ScottyJohnson.jpg|thumb|right|upright|Lead guitarist Scotty Johnson]]
+[[File:Jesse Valenzuela of the Gin Blossoms.jpg|thumb|upright|left|Rhythm guitarist Jesse Valenzuela]]
+In preparation for the band's official reunion show, Rhodes suffered a breakdown due to his ongoing battle with alcohol. Shortly after entering rehab, he was formally dismissed from the band.<ref>{{Cite web |title='90s Survivors the Gin Blossoms: "There Won't Be Too Many Left Turns" |url=https://www.houstonpress.com/music/90s-survivors-the-gin-blossoms-there-wont-be-too-many-left-turns-6766276 |website=Houston Press}}</ref> Phil Leavitt of [[Dada (band)|Dada]] originally took Rhodes's place in the line up, and then Gary Smith (of The Pistoleros, another Tempe band) did. Scott Kusmirek took over drumming for the band from 2002 to 2004. In January 2005, it was announced that Rhodes, who had been sober for over two years, would rejoin the band. The re-entry of Rhodes was short-lived, however. Kusmirek returned to the band, taking Rhodes's place until September 30, 2008, when a press release issued by the band explained that he and the group had parted ways. [[John Richardson (Drummer)|John Richardson]] joined as the new drummer.<ref>{{Cite web |title=John Richardson |url=http://www.ginblossoms.net/bandMember.php?id=JOHN |archive-url=https://web.archive.org/web/20110927044303/http://www.ginblossoms.net/bandMember.php?id=JOHN |archive-date=September 27, 2011 |access-date=July 15, 2011 |publisher=Gin Blossoms}}</ref>
+
+[[File:Bass Guitar Bill Leen.jpg|thumb|upright=1.00|Bassist Bill Leen]]
+The band's fourth album, ''[[Major Lodge Victory]]'', was originally recorded at Wilson's Mayberry Studios in Tempe. However, the album was re-recorded at [[Ardent Studios]] in [[Memphis, Tennessee|Memphis]], where the band had recorded all of their previous albums. ''Major Lodge Victory'' was released by [[Hybrid Recordings]] on August 8, 2006, and "Learning the Hard Way" was the first single. ''Major Lodge Victory'' entered the ''Billboard'' 200 album chart at number 159.<ref>{{Cite web |title=Major Lodge Victory – Gin Blossoms |url=https://www.allmusic.com/album/major-lodge-victory-mw0000573958 |website=Allmusic}}</ref>
+
+[[File:Drummer Scott Hessel of Gin Blossoms.jpg|thumb|upright=1.00|left|Drummer Scott Hessel]]
+Gin Blossoms released a [[live album]], ''[[Live in Concert (Gin Blossoms album)|Live In Concert]]'', on May 15, 2009. This album contains live recordings of the band's hits such as "Hey Jealousy" and "Follow You Down", as well as more recent singles such as "[[Learning the Hard Way]]" and "Long Time Gone", and a live cover version of [[Elton John]]'s "[[Rocket Man (song)|Rocket Man]]". The band's fifth studio album, ''[[No Chocolate Cake]]'', was released on September 28, 2010. The first single, "Miss Disarray" was released to radio stations on August 2, 2010. Over the 2010 Thanksgiving holiday the band traveled to [[Iraq]] and played a series of shows for American troops stationed there.<ref>{{Cite web |title=Gin Blossoms to Rock Iraq |url=http://www.antimusic.com/news/10/oct/18Gin_Blossoms_To_Rock_Iraq.shtml |website=Antimusic}}</ref>
+
+The band announced on its website on March 4, 2012, that Richardson had left the band to pursue other recording and performing projects.<ref>{{Cite web |date=March 4, 2012 |title=John Moves Forward, Scott Hessel Moves in! |url=http://www.ginblossoms.net/news_story.php?id=c14b3352eb9b722c7d714285cf7e1d8a |archive-url=https://web.archive.org/web/20120414202813/http://www.ginblossoms.net/news_story.php?id=c14b3352eb9b722c7d714285cf7e1d8a |archive-date=April 14, 2012 |publisher=Gin Blossoms}}</ref> The band stated in its news release, "John is a great drummer and all of us support his passion for recording. We all wish him the very best and thank him for all his hard work and dedication." The band also announced that Scott Hessel would be its road drummer. Hessel had been a member of another Tempe band, [[Let Go (band)|Let Go]]. Gin Blossoms joined [[Everclear (band)|Everclear]], [[Sugar Ray]], [[Lit (band)|Lit]], and [[Marcy Playground]] on the [[Summerland Tour]] 2012, a 31-date nationwide tour that began on June 28 in [[Saratoga, California]] and ended on August 11 in [[Laughlin, Nevada]].<ref>{{Cite web |title=Holy '90s Batman! Everclear, Gin Blossoms, Lit, Marcy Playground & Sugar Ray are Touring Together |url=https://uproxx.com/music/holy-90s-batman-everclear-gin-blossoms-lit-marcy-playground-sugar-ray-are-touring-together/ |website=Uproxx|date=April 24, 2012 }}</ref>
+
+From July 24, 2012, through October 13, 2012, Doug Swartz filled in for Scott Hessel during the Summerland Tour and other performances through the months into the middle of October.<ref>{{Cite web |last=Breedon |first=Frederick |date=August 6, 2012 |title=Drummer Douglas Swartz of the Gin Blossoms Performs at... |url=http://www.wireimage.com/celebrity-pictures/Drummer-Douglas-Swartz-of-the-band-Gin-Blossoms-performs-at/150271275 |access-date=January 14, 2019 |website=Wire Image}}</ref>
+
+In 2016, Johnson announced in an interview that the band was expected to begin recording its sixth studio album with producer [[Mitch Easter]] in the fall.<ref>{{Cite web |date=June 16, 2016 |title=Gin Blossoms are cutting their new album with the R.E.M. production team of Don Dixon and Mitch Easter |url=http://www.azcentral.com/story/entertainment/music/2016/06/16/gin-blossom-new-album-rem-producer-don-dixon/86008266 |website=The Arizona Republic}}</ref> Two years later, ''[[Mixed Reality (Gin Blossoms album)|Mixed Reality]]'' was released on [[Cleopatra Records]] on June 15, 2018. The album was produced by [[Don Dixon (musician)|Don Dixon]].<ref>{{Cite web |title=Robin Wilson on New Gin Blossoms Album Mixed Reality, Celebrating New Miserable Experience on Tour |url=https://www.forbes.com/sites/jimryan1/2019/02/14/interview-robin-wilson-gin-blossoms-new-album-mixed-reality-new-miserable-experience-tour/ |website=Forbes}}</ref>
+
+The band toured in the summer of 2019 with [[Collective Soul]].<ref>{{Cite web |title=Gin Blossoms: A veteran group 'at the top of its game' |url=https://www.postregister.com/features/ticket/gin-blossoms-a-veteran-group-at-the-top-of-its/article_d8dc0d95-0f59-50b8-81d6-f4ce62ccfb2e.html |website=Post Register|date=August 6, 2019 }}</ref>
+
+In January 2022 the band announced a tour to celebrate the 30th anniversary of ''New Miserable Experience''.<ref>{{cite magazine |title=Gin Blossoms Announce Tour for 30th Anniversary of 'New Miserable Experience |magazine=[[Rolling Stone]] |date=January 14, 2022 |url=https://www.rollingstone.com/music/music-news/gin-blossoms-30th-anniversary-new-miserable-experience-1284777/}}</ref> The tour was cut short in March 2022 due to an accident in which bassist Bill Leen broke his arm.<ref>{{cite web |title=Why Gin Blossoms were forced to cancel remaining dates on New Miserable Experience Tour |url=https://www.azcentral.com/story/entertainment/music/2022/03/03/gin-blossoms-cancel-new-miserable-experience-tour-broken-arm/9359926002/ |website=AZ Central}}</ref>
+
+== Musical style ==
+Gin Blossoms has been described as an [[alternative rock]],<ref>{{Cite news |last=Beach |first=Connor |date=June 7, 2018 |title=Gin Blossoms Come Full Circle With Latest Record |work=Long-Islander News |url=http://www.longislandernews.com/life-and-style/2018/6/7/gin-blossoms-come-full-circle-with-latest-record |access-date=November 3, 2018}}</ref><ref>{{cite web |title=20 Questions: Gin Blossoms |url=https://www.popmatters.com/132315-20-questions-gin-blossoms-2496123179.html |website=PopMatters |date=February 4, 2011 |access-date=January 18, 2022}}</ref><ref>{{cite web |last1=Barker |first1=Emily |title=50 Forgotten '90s Bands Who Prove '90s Indie Wasn't Just About Oasis And Blur |url=https://www.nme.com/photos/50-forgotten-90s-bands-who-prove-90s-indie-wasn-t-just-about-oasis-and-blur-1411042 |website=NME |date=August 21, 2014 |access-date=January 18, 2022}}</ref> [[jangle pop]],<ref name="auto">{{Cite news |last=Meuth |first=Gary |date=April 27, 2017 |title=The Gin Blossoms define sound of jangle pop |work=Salina Journal |url=http://www.salina.com/0705c738-cddf-59c2-9a20-b363e43c2953.html |access-date=November 3, 2018 |archive-date=November 4, 2018 |archive-url=https://web.archive.org/web/20181104085523/http://www.salina.com/0705c738-cddf-59c2-9a20-b363e43c2953.html |url-status=dead }}</ref><ref name="auto1" /> [[power pop]],<ref>{{cite book|first1=Nathan|last1=Brackett|first2=Christian|last2=Hoard|title=The New Rolling Stone Album Guide|year=2004|edition=4th|isbn=0-394-72107-1|publisher=[[Simon & Schuster|Fireside]]|url=https://archive.org/details/newrollingstonea00brac|url-access=registration|page=332}}</ref><ref>{{cite web |title=Supremium: Tales |url=https://www.popmatters.com/supremium-tales-2496067979.html |website=PopMatters |date=May 23, 2002 |access-date=January 18, 2022}}</ref> and [[post-grunge]] band.<ref>{{cite web|url=http://stylusmagazine.com/articles/staff_top_10/top-ten-mediocre-post-grunge-alternative-bands.html|title=Top Ten Mediocre Post-Grunge / Alternative Bands|publisher=[[Stylus Magazine]]|last=Unterberger|first=Andrew|date=August 6, 2004|access-date=April 30, 2022|archive-date=February 16, 2022|archive-url=https://web.archive.org/web/20220216205029/http://stylusmagazine.com/articles/staff_top_10/top-ten-mediocre-post-grunge-alternative-bands.html|url-status=dead}}</ref> According to ''[[Rolling Stone]]'', the band excels at "marrying world-weary lyrics with ebullient melodies."<ref name="Hudak" /> In 2017, the Salina Journal described Gin Blossoms as a "Tempe, Ariz.-based indie band [acclaimed] by critics and fans alike for its chiming guitars, introspective lyrics and catchy pop-rock melodies," adding that "Gin Blossoms has maintained its longevity by being mostly a road band."<ref name="auto" /> The group is known for the "[[Mill Avenue]] sound", or "southwestern sound", similar to other bands from Arizona such as [[The Sidewinders]], [[The Refreshments (U.S. band)|The Refreshments]], [[The Meat Puppets]], and [[Dead Hot Workshop]].<ref>{{Cite web |title=Official Tickets and Your Source for Live Entertainment &#124; AXS.com |url=https://www.axs.com/the-tempe-sound-exhibit-opens-at-the-tempe-history-museum-29215 |website=www.axs.com}}</ref>
+
+== Band members ==
+{{col-begin}}
+{{col-2}}
+'''Current members'''<ref>{{Cite web |title=Gin Blossoms |url=https://www.azmusichalloffame.org/inductees/gin-blossoms/ |access-date=November 23, 2020 |website=Azmusichalloffame.org}}</ref>
+* Bill Leen – bass <small>(1987–1997, 2001–present)</small>
+* [[Jesse Valenzuela]] – rhythm guitar, backing vocals <small>(1988–1997, 2001–present)</small>; lead vocals <small>(full-time 1987–1988; occasionally 1988–1997, 2001–present)</small>
+* [[Robin Wilson (musician)|Robin Wilson]] – lead vocals <small>(full-time 1988–1997, 2001–present; occasionally 1988)</small>; acoustic guitar, percussion, harmonica <small>(1988–1997, 2001–present)</small>; rhythm guitar, backing vocals <small>(1988)</small>
+* Scott "Scotty" Johnson – lead guitar, backing vocals <small>(1992–1997, 2001–present)</small>
+
+'''Former members'''
+* [[Doug Hopkins]] – lead guitar <small>(1987–1992; died 1993)</small>
+* Richard Taylor – rhythm guitar, backing vocals <small>(1987–1988)</small>
+* Chris McCann – drums, percussion <small>(1987–1988)</small>
+* Steven Severson – rhythm guitar, backing vocals <small>(1988)</small>
+* Dan Henzerling – drums, percussion <small>(1988)</small>
+* Phillip "Phil" Rhodes – drums, percussion, backing vocals <small>(1988–1997, 2001–2002, 2004–2005)</small>
+* Scott Kusmirek – drums, percussion <small>(2002–2004, 2005–2008)</small>{{efn|Kusmirek performed drums on all tracks of the 2006 album ''Major Lodge Victory'' except "California Sun", and was credited as a session musician, while session musician Dorian Crozier performed drums on "California Sun". Kusmirek also performed drums on the track "Go Crybaby" from the 2010 album ''No Chocolate Cake'', credited as an additional musician.}}
+* [[John Richardson (drummer)|John Richardson]] – drums, percussion <small>(2008–2012)</small>{{efn|Richardson performed drums on all tracks of the 2010 album ''No Chocolate Cake'' except "I'm Ready" and "Go Crybaby", and was credited as a session musician, while session musician Chase Duddy performed drums on "I'm Ready", and session musician Scott "Scotty" Kusmirek performed drums on "Go Crybaby".}}
+* Scott Hessel – drums, percussion <small>(2012–2025)</small>
+
+{{col-2}}
+'''Former touring musicians and substitutes'''
+* Phil Leavitt – drums, percussion <small>(2002)</small>
+* Gary Smith – drums, percussion <small>(2002)</small>
+* Douglas Swartz – drums <small>(2012; substitute for Scott Hessel)</small>
+* Miles Zuniga – bass <small>(2013; substitute for Bill Leen)</small>
+* [[Paul De Lisle]] – bass <small>(2013; substitute for Bill Leen)</small>
+* Chris Serafini – bass <small>(2013; substitute for Bill Leen)</small>
+* Donovan White – rhythm guitar, backing vocals <small>(2018, 2023; substitute for Jesse Valenzuela);</small> lead guitar, backing vocals <small>(2018, 2020; substitute for Scotty Johnson);</small> bass <small>(2022; substitute for Bill Leen)</small>
+
+'''Touring guests'''
+* Kirk "The Judge" Karman – harmonica <small>(2002–present)</small>
+* Michael Klooster – keyboards <small>(2013)</small>
+* [[Sean Hurwitz]] – guitar <small>(2013)</small>
+* Grey Wilson – acoustic guitar <small>(2017)</small>
+
+'''Session musicians'''
+* Dorian Crozier – drums on "California Sun" from ''Major Lodge Victory'' <small>(2006)</small>
+* Darryl Icard – bass on "I'm Ready" from ''No Chocolate Cake'' <small>(2010)</small>
+* Chase Duddy – drums on "I'm Ready" from ''No Chocolate Cake'' <small>(2010)</small>
+{{col-end}}
+
+=== Timeline ===
+<div>
+{{#tag:timeline|
+ImageSize = width:900 height:auto barincrement:20
+PlotArea = left:100 bottom:120 top:10 right:0
+Alignbars = justify
+DateFormat  = mm/dd/yyyy
+Period = from:01/01/1987 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = unit:year increment:4 start:1987
+ScaleMinor = unit:year increment:1 start:1987
+
+Colors =
+  id:lvocals value:red          legend:Lead_vocals
+  id:lguitar value:teal         legend:Lead_guitar
+  id:rguitar value:brightgreen        legend:Rhythm_guitar,_occasional_lead_vocals
+  id:bass    value:blue         legend:Bass
+  id:drums   value:orange       legend:Drums,_percussion
+  id:aguitar value:drabgreen    legend:Acoustic_guitar,_auxiliary_percussion,_harmonica
+  id:bvocals value:pink         legend:Backing_vocals
+  id:Lines   value:black        legend:Studio_albums
+  id:Lines2   value:gray(0.50)        legend:Studio_EPs
+  id:bars    value:gray(0.95)
+
+BackgroundColors =  bars:bars
+
+BarData =
+
+  bar:Valenzuela text:Jesse Valenzuela
+  bar:Taylor     text:Richard Taylor
+  bar:Severson   text:Steven Severson
+  bar:Wilson     text:Robin Wilson
+  bar:Hopkins    text:Doug Hopkins
+  bar:Scotty     text:Scotty Johnson
+  bar:Leen       text:Bill Leen
+  bar:McCann     text:Chris McCann
+  bar:Henzerling text:Dan Henzerling
+  bar:Rhodes     text:Phillip Rhodes
+  bar:Kusmirek   text:Scott Kusmirek
+  bar:Richardson text:John Richardson
+  bar:Hessell    text:Scott Hessell
+
+PlotData=
+  width:11 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Taylor     from:01/01/1987 till:06/01/1987  color:rguitar
+  bar:Taylor     from:01/01/1987 till:06/01/1987  color:bvocals width:3
+  bar:Severson   from:06/01/1987 till:01/01/1988  color:rguitar
+  bar:Severson   from:06/01/1987 till:01/01/1988  color:bvocals width:3
+  bar:Wilson     from:01/01/1988 till:06/01/1988  color:rguitar
+  bar:Wilson     from:01/01/1988 till:06/01/1988  color:bvocals width:3
+  bar:Wilson     from:06/01/1988 till:12/26/1997  color:aguitar  width:3
+  bar:Wilson     from:06/01/1988 till:12/26/1997  color:lvocals
+  bar:Wilson     from:01/01/2002 till:end         color:aguitar  width:3
+  bar:Wilson     from:01/01/2002 till:end         color:lvocals
+  bar:Valenzuela from:01/01/2002 till:end         color:bvocals   width:3
+  bar:Valenzuela from:01/01/1988 till:12/26/1997  color:rguitar
+  bar:Valenzuela from:06/20/1988 till:12/26/1997  color:bvocals   width:3
+  bar:Valenzuela from:01/01/1987 till:06/01/1988  color:lvocals
+  bar:Valenzuela from:01/01/2002 till:end         color:rguitar
+  bar:Hopkins    from:01/01/1987 till:01/01/1992  color:lguitar
+  bar:Scotty     from:01/01/1992 till:12/26/1997  color:lguitar
+  bar:Scotty     from:01/01/2002 till:end         color:lguitar
+  bar:Scotty     from:01/01/1992 till:12/26/1997  color:bvocals width:3
+  bar:Scotty     from:01/01/2002 till:end         color:bvocals width:3
+  bar:Leen       from:01/01/1987 till:12/26/1997  color:bass
+  bar:Leen       from:01/01/2002 till:end         color:bass
+  bar:McCann     from:01/01/1987 till:06/01/1987  color:drums
+  bar:Henzerling from:06/01/1987 till:01/01/1988  color:drums
+  bar:Rhodes     from:01/01/1988 till:12/26/1997  color:drums
+  bar:Rhodes     from:01/01/2002 till:04/01/2002  color:drums
+  bar:Rhodes     from:01/01/2004 till:01/01/2005  color:drums
+  bar:Rhodes     from:01/01/1988 till:12/26/1997  color:bvocals width:3
+  bar:Rhodes     from:01/01/2002 till:04/01/2002  color:bvocals width:3
+  bar:Rhodes     from:01/01/2004 till:01/01/2005  color:bvocals width:3
+  bar:Kusmirek   from:10/01/2002 till:01/01/2004  color:drums
+  bar:Kusmirek   from:01/01/2005 till:01/01/2008  color:drums
+  bar:Richardson from:01/01/2008 till:01/01/2012  color:drums
+  bar:Hessell    from:01/01/2012 till:end         color:drums
+
+LineData =
+
+  at:06/01/1989 color:black layer:back
+  at:10/08/1991 color:lines2 layer:back
+  at:08/04/1992 color:black layer:back
+  at:08/04/1994 color:lines2 layer:back
+  at:02/13/1996 color:black layer:back
+  at:08/08/2006 color:black layer:back
+  at:09/28/2010 color:black layer:back
+  at:06/15/2018 color:black layer:back
+
+}}
+</div>
+
+== Discography ==
+{{Main|Gin Blossoms discography}}
+* ''[[Dusted (Gin Blossoms album)|Dusted]]'' (1989)
+* ''[[New Miserable Experience]]'' (1992)
+* ''[[Congratulations I'm Sorry]]'' (1996)
+* ''[[Major Lodge Victory]]'' (2006)
+* ''[[No Chocolate Cake]]'' (2010)
+* ''[[Mixed Reality (Gin Blossoms album)|Mixed Reality]]'' (2018)
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Sister project links|d=Q2394249|n=no|b=no|s=no|voy=no|v=no|species=no|commons=Category:Gin Blossoms|wikt=no}}
+*{{Official website}}
+*{{allMusic}}
+*{{Discogs artist}}
+*{{MusicBrainz artist}}
+
+{{Gin Blossoms|state=expanded}}
+{{Authority control}}
+
+[[Category:Gin Blossoms| ]]
+[[Category:Musical groups established in 1987]]
+[[Category:Hybrid Recordings artists]]
+[[Category:Musical groups from Tempe, Arizona]]
+[[Category:Musical groups disestablished in 1997]]
+[[Category:Musical groups reestablished in 2002]]
+[[Category:American power pop groups]]
+[[Category:Alternative rock groups from Arizona]]
+[[Category:American jangle pop groups]]
+[[Category:A&M Records artists]]
+[[Category:429 Records artists]]
+[[Category:1987 establishments in Arizona]]
+[[Category:Cleopatra Records artists]]

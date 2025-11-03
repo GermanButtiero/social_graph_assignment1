@@ -1,0 +1,483 @@
+ {{Short description|American rock band}}
+{{Use mdy dates|date=April 2025}}
+{{Infobox musical artist
+| name              = Modest Mouse
+| image             = Modest Mouse Pittsburgh 2021.jpg
+| caption           = Modest Mouse performing in August 2021
+| image_size        = 
+| landscape         = yes
+| background        = group_or_band
+| origin            = [[Issaquah, Washington]], U.S.
+| discography       = [[Modest Mouse discography]]
+| genre             = {{flatlist|
+* [[Indie rock]]
+* [[alternative rock]]
+* [[post punk revival]]
+* [[punk rock]]
+* [[synthpop]] 
+* [[emo]] (early)
+}}
+| years_active      = 1993–present
+| label             = {{flatlist|
+*[[Epic Records|Epic]]
+*[[Up Records|Up]]
+*[[K Records|K]]
+*[[Matador Records|Matador]]
+*[[Glacial Pace|Glacial]]
+}}
+| spinoffs          = [[Ugly Casanova]]
+| website           = {{URL|modestmouse.com}}
+| current_members   = * [[Isaac Brock (musician)|Isaac Brock]]
+* [[Tom Peloso]]
+* Russell Higbee
+* [[Ben Massarella]]
+* Simon O'Connor
+* Damon Cox
+| past_members      = * [[Jeremiah Green]]
+* [[Eric Judy]]
+* [[Joe Plummer]]
+* [[Dann Gallucci]]
+* [[Benjamin Weikel]]
+* [[Jim Fairchild]]
+* [[Lisa Molinaro]]
+* John Wickhart
+* [[Johnny Marr]]
+}}
+
+'''Modest Mouse''' is an American [[rock music|rock]] band formed in 1993 in [[Issaquah, Washington]], and currently based in [[Portland, Oregon]]. The founding members were lead singer/guitarist [[Isaac Brock (musician)|Isaac Brock]], drummer [[Jeremiah Green]] and bassist [[Eric Judy]]. They achieved critical acclaim for their albums ''[[The Lonesome Crowded West]]'' (1997) and ''[[The Moon & Antarctica]]'' (2000) and found mainstream success with the release of ''[[Good News for People Who Love Bad News]]'' (2004) and its singles "[[Float On (Modest Mouse song)|Float On]]" and "[[Ocean Breathes Salty]]".
+
+From their 1996 debut album ''[[This Is a Long Drive for Someone with Nothing to Think About]]'' onwards, the band's lineup mostly centered on Brock and Green, undergoing multiple changes. As of 2024, Brock is the only original member of the band, Green having died in December 2022. Judy performed on every Modest Mouse album until his departure in 2012. Guitarist [[Johnny Marr]] (formerly of [[the Smiths]]) joined the band in 2006, shortly following [[percussion]]ist [[Joe Plummer]] (formerly of [[the Black Heart Procession]]) and multi-instrumentalist [[Tom Peloso]], to work on the album ''[[We Were Dead Before the Ship Even Sank]]'' (2007). Guitarist [[Jim Fairchild]] joined the band in 2009. The band's sixth album, ''[[Strangers to Ourselves]]'', was released in 2015 and their seventh, ''[[The Golden Casket]]'', in 2021.
+
+== History ==
+=== Formation and early years: 1992–1999 ===
+When Isaac Brock was a teenager, he was employed at a local family video store just outside Seattle, where he met bassist [[Eric Judy]]. Brock and Judy later discovered drummer [[Jeremiah Green]],<ref name="Carpenter, Susan 2004">Carpenter, Susan. "THE ARTS; POP MUSIC; from Modest Beginnings ...; nearly 15 Years from its Seattle Grunge Origins, Modest Mouse's Career has Taken a Mighty Turn". Los Angeles TimesMar 18 2004. ProQuest. Web. 20 July 2015.</ref> who also resided near Seattle, at a heavy metal show, at which point they decided to make music together. Brock says he made a point of the band being from [[Issaquah]] to avoid association with the music scenes of Seattle or Olympia and to keep with the band's suburban lyrical themes. In 1994, at [[Calvin Johnson (musician)|Calvin Johnson]]'s Dub Narcotic Studios, Modest Mouse recorded its first [[Extended play|EP]], ''[[Blue Cadet-3, Do You Connect?]]'', which was released by [[K Records]]. This was followed by a single, "[[Broke (Modest Mouse song)|Broke]]", recorded by Steve Wold ({{a.k.a.}} bluesman [[Seasick Steve]]) under [[Sub Pop]] records at Moon Studios in [[Olympia, Washington]]. During this time, Modest Mouse also recorded what would have been its first album, ''[[Sad Sappy Sucker]]'', but constant delays caused the album to be shelved and forgotten. It was not until 2001 that it was officially released. Before the band made its way into the pop music world in 2004, many of Modest Mouse's tours included stops at DIY/punk venues such as [[Speak in Tongues]] in Cleveland, Ohio, where they continued to play even after becoming popular enough to fill larger venues.<ref>{{cite book |last1=Sandy |first1=Eric |title=Speak In Tongues: An Oral History of Cleveland's Infamous DIY Punk Venue |date=2022 |publisher=Microcosm Publishing |location=Portland |isbn=9781648410642 |url=https://microcosmpublishing.com/catalog/books/29099 |access-date=30 August 2022}}</ref>
+
+After moving to [[Up Records]],<ref>"[http://epitonic.com/artists/modest-mouse/ Modest Mouse]" [bio]. ''[[Epitonic]]''. epitonic.com. Retrieved 2017-05-07.</ref> Modest Mouse released two full-length albums and other recordings including the 1996 LP ''[[This Is a Long Drive for Someone with Nothing to Think About]]''. Steve Wold also recorded and produced this album (and at the time was assisting in the recordings as well, but was not officially part of the band) along with the next offering, ''[[Interstate 8 (album)|Interstate 8]]''. The 1997 album, ''[[The Lonesome Crowded West]]'' (also recorded at Moon Studios, by Scott Swayze) served as the band's breakthrough. ''The Lonesome Crowded West'' gained the band a [[cult following]], and is now popularly considered to be one of the defining albums of mid-1990s indie rock.<ref>{{cite book|editor-last=McMurray|editor-first= Jacob|title=Taking Punk to the Masses: From Nowhere to Nevermind: a Visual History from the Permanent Collection of Experience Music Project|publisher=Fantagraphics Books|location=Seattle|year=2011|isbn=9781606994337|oclc=1065713061}}</ref> During this time, Nick Kraft became involved with the task of refining the band's sound. Prior to its release, the band had recorded the EP ''[[The Fruit That Ate Itself]]''. In 2000, Up Records released a singles and rarities collection entitled ''[[Building Nothing Out of Something]]'' that included the entirety of ''Interstate 8'' except for the songs "Edit the Sad Parts" and "Buttons to Push the Buttons".
+
+=== ''The Moon & Antarctica'': 2000–2002 ===
+[[File:TheMoonAntarctica.jpg|thumb|171x171px|[[The Moon & Antarctica]] album cover ]]
+In 2000, Modest Mouse released ''[[The Moon & Antarctica]]'', its first album on [[Epic Records]]. The album, produced by [[Califone]]'s Brian Deck during five months of sessions in Chicago,<ref>{{cite web|url=http://sentireascoltare.com/artisti/modest-mouse/|title=Modest Mouse biography |publisher=sentireascoltare.com |date=2015-03-01|first=Edoardo|last=Bridda|language=it}}</ref> was met with critical acclaim,<ref>{{cite web|url=https://www.metacritic.com/music/artists/modestmouse/moonandantarctica |title=Modest Mouse: The Moon & Antarctica (2000): Reviews |publisher=Metacritic.com |date=2009-12-15 |access-date=2011-07-15}}</ref> including a 9.8/10 score from online music magazine [[Pitchfork Media]], despite concerns about releasing material on a major label.<ref>{{cite web|last=DiCrescenzo|first=Brent|url=https://pitchfork.com/reviews/albums/5358-the-moon-antarctica/ |title=Pitchfork: Album Reviews: Modest Mouse: The Moon & Antarctica |publisher=Pitchforkmedia.com |date=2000-06-13 |access-date=2010-09-08}}</ref> The album would later receive further acclaim.<ref>{{cite web|url=http://www.listology.com/content_show.cfm/content_id.16477 |title=Pitchfork's Top 100 Albums of 2000–2004 |publisher=Listology |access-date=2011-07-15 |archive-url=https://web.archive.org/web/20141201213414/http://www.listology.com/sleestak/list/pitchforks-top-100-albums-2000-2004 |archive-date=2014-12-01}}</ref>
+
+The band licensed "Gravity Rides Everything" for a [[Nissan Quest]] [[minivan]] advertisement, a move that Brock has publicly acknowledged as blatantly commercial but necessary to achieve financial stability. Regarding the commercial, Brock stated, "People who don't have to make their living playing music can bitch about my principles while they spend their parents' money or wash dishes for some asshole."<ref>{{cite web|last=Modell |first=Josh |url=https://avclub.com/content/node/23015 |title=Modest Mouse |publisher=The A.V. Club |date=April 7, 2004 |archive-url=https://web.archive.org/web/20051210193055/http://avclub.com/content/node/23015 |archive-date=December 10, 2005 |access-date=May 28, 2015}}</ref>
+
+In 2001, Modest Mouse released the EP ''[[Everywhere and His Nasty Parlour Tricks]]'', a collection of unused songs from the recording sessions of ''The Moon & Antarctica''. In 2002, the band joined [[Cake (band)|Cake]], [[De La Soul]], [[The Flaming Lips]], [[The Hackensaw Boys]] and [[Kinky (band)|Kinky]] on the [[Unlimited Sunshine Tour]].<ref>{{cite web|last=Mirkin|first=Steven|url=https://variety.com/2002/music/reviews/unlimited-sunshine-tour-1200546853/|title=Unlimited Sunshine Tour|website=Variety.com|date=13 August 2002|access-date=26 June 2021}}</ref>
+
+===''Good News for People Who Love Bad News'' and ''We Were Dead Before the Ship Even Sank'': 2003–2009 ===
+[[File:Modest Mouse UPT.jpg|alt=Shows members of Modest Mouse performing in concert|right|thumb|200x200px|Modest Mouse performing live in 2007]]
+In March 2003, Green left the band after suffering a [[nervous breakdown]];<ref name="Pappademas">{{cite magazine|last=Pappademas|first=Alex|date=August 2004|title=The Long Way Home|url=https://www.spin.com/2019/11/modest-mouse-isaac-brock-good-news-for-people-who-love-bad-news-august-2004-interview-the-long-way-home/|magazine=[[Spin (magazine)|Spin]]|volume=20|issue=8|pages=76–79|access-date=January 1, 2023}}</ref> official reports stated he was leaving to work with his side project, [[Vells]]. The same year, he and Judy appeared on [[Adam Forkner]]'s first solo album, ''[[VVRSSNN]]''. Drummer [[Benjamin Weikel]] joined the band, replacing Green, along with [[The Murder City Devils|Murder City Devils]] guitarist [[Dann Gallucci]], who had previously played with Modest Mouse. Prior to starting the band's writing and recording process, Brock was devastated by the loss of "a couple of the most important people in my life", he said.<ref>{{Cite web|last=Carpenter|first=Susan|date=2004-03-18|title=From Modest beginnings ...|url=https://www.latimes.com/archives/la-xpm-2004-mar-18-wk-pop18-story.html|access-date=2020-07-20|website=Los Angeles Times|language=en-US}}</ref> Following these events, the band released their fourth album, ''[[Good News for People Who Love Bad News]]'', on April 6, 2004. The following August, the album was [[Platinum certification|certified Platinum]],<ref name="Carpenter, Susan 2004"/> having two hits with "[[Float On (Modest Mouse song)|Float On]]" and "[[Ocean Breathes Salty]]" (both of which they performed on ''[[Saturday Night Live]]'' on November 13, 2004).<ref>{{Cite web|url=http://snl.jt.org/ep/|title=SNL Archives &#124; Episodes|website=Snl.jt.org|access-date=26 June 2021}}</ref> The album was nominated for a [[Grammy Award for Best Alternative Music Album]] that year, and "Float On" was nominated for [[Grammy Award for Best Rock Song|Best Rock Song]]. Green rejoined the band in May 2004,<ref name="Pappademas"/> while Weikel returned to drumming exclusively for the Helio Sequence. The public radio program [[Marketplace (radio program)|''Marketplace'']] used "Float On" as bumper music, which helped propel the group to a broader audience.{{Citation needed|date=October 2023}}
+
+In 2006, [[Johnny Marr]] (formerly of [[the Smiths]]) joined the band after Gallucci quit amicably. Modest Mouse released their next album, ''[[We Were Dead Before the Ship Even Sank]]'', on March 20, 2007<ref>[http://www.modestmousemusic.com Music&nbsp;– Modest Mouse] {{webarchive|url=https://web.archive.org/web/20070321024734/http://www.modestmousemusic.com/ |date=2007-03-21 }}. Retrieved November 6, 2008.</ref> after its original release date of December 19, 2006 was delayed. The album also included bonus track and single "[[King Rat (song)|King Rat]]", which actor [[Heath Ledger]] had known about before the track was released; the band was formally introduced to the actor while on their 2007 tour in Australia. Ledger proposed an outline for a music video to the group, and with his film collective, [[The Masses (collective)|the Masses]], immediately began working on it once he had the band's approval.<ref name="nydaily-heath-film">{{cite news| url=http://www.nydailynews.com/entertainment/movies/heath-ledger-music-videos-37th-birthday-article-1.2588029| first= Brian | last= Lisi |  work=New York Daily News | date=2016-04-04 | title=Heath Ledger's sister says it took blessing from Michelle Williams to get new documentary made}}</ref> Upon Ledger's death in January 2008, the video went unfinished.<ref>Ganz, Caryn. "Rock & Roll: Music Video: Inside Heath Ledger's Modest Mouse Video". ''Rolling Stone'' Sep 3 2009: 22. ProQuest. Web. 21 July 2015.</ref>
+[[File:Sasquatch-2008-modest-mouse.jpg|thumb|280x280px|Modest Mouse performing at [[Sasquatch! Music Festival]] in Washington State in 2008. ]]
+''We Were Dead Before the Ship Even Sank'' was the first Modest Mouse album to reach No. 1 on the US [[Billboard 200|''Billboard'' 200]] charts and had the hit single "[[Dashboard (song)|Dashboard]]", as well as "[[Missed the Boat]]" and "[[We've Got Everything]]". Modest Mouse released singles for the songs "[[Satellite Skin]]", "[[Autumn Beds]]" and "Perpetual Motion Machine" in limited edition—a total of 4,000 copies each—vinyl 7&nbsp;inches, featuring artwork by art director and illustrator Joshua Marc Levy, J. Alex Stamos, and [[Natasha Wheat]].
+
+The band began a North American tour in June 2008. They returned to Florida, with three shows in Miami, Orlando and St. Augustine, for the first time since they were cut off stage early during the November 2006 Bang Music Festival show.<ref>{{cite web |title=Modest Mouse announce US headlining tour |url=https://www.nme.com/news/music/modest-mouse-37-1329001 |website=NME |access-date=January 9, 2023 |date=May 5, 2008}}</ref> Modest Mouse finished its tour supporting ''We Were Dead Before the Ship Even Sank'' after two years of promoting the record.
+
+Marr left Modest Mouse to join [[the Cribs]], and was replaced with Jim Fairchild, beginning with the tour of ''[[No One's First and You're Next]]'', which was released on August 4, 2009,<ref>{{cite web|url=http://www.idiomag.com/peek/93275/modest_mouse|title=Modest Mouse Confirm EP Details|access-date=2009-07-24|date=2009-07-23|publisher=[[idiomag]]|archive-url=https://web.archive.org/web/20120227155739/http://www.idiomag.com/peek/93275/modest_mouse|archive-date=2012-02-27}}</ref> composed of unreleased tracks from the recording sessions of ''Good News for People Who Love Bad News'' and ''We Were Dead Before the Ship Even Sank''.<ref>{{cite web|last=Dombal|first=Ryan|title=Heath Ledger Directed a Modest Mouse Video|publisher=[[Pitchfork Media]]|url=https://pitchfork.com/news/34824-heath-ledger-directed-a-modest-mouse-video/|access-date=2009-03-13|date=2009-03-12}}</ref>
+
+=== Touring, lineup changes, and re-releases: 2010–2014 ===
+In 2010, ''The Moon & Antarctica'' was re-released on vinyl as part of [[Record Store Day]].<ref>{{cite web |url=http://www.modestmousemusic.com/news/moon-antarctica-be-reissued-vinyl-10th-anniversary |title=The Moon & Antarctica To Be Reissued on Vinyl For 10th Anniversary &#124; Modest Mouse |publisher=Modestmousemusic.com |access-date=2010-09-08 |url-status=dead |archive-url=https://web.archive.org/web/20101112070859/http://www.modestmousemusic.com/news/moon-antarctica-be-reissued-vinyl-10th-anniversary |archive-date=2010-11-12 }}</ref>
+
+On July 4, 2010 the band headlined the second day of the [[80/35 Music Festival]] in Des Moines, Iowa,<ref>{{cite web|url=http://www.glidemagazine.com/15827/modest-mouse-headlining-80-35-festival |title=Modest Mouse Headlining 80/35 Festival |publisher=Glide Magazine |date=2010-05-03 |access-date=2015-02-04}}</ref> and the first day of the [[End of the Road Festival]] in Dorset, England, on September 10, 2010.<ref>{{cite web|url=http://www.endoftheroadfestival.com/news/modest-mouse-announced-as-friday-headliner-5-more-bands/ |title=Modest Mouse announced as Friday headliner + 5 more bands |publisher=Endoftheroadfestival.com |access-date=2010-09-08 |archive-url=https://web.archive.org/web/20100830030749/http://www.endoftheroadfestival.com/news/modest-mouse-announced-as-friday-headliner-5-more-bands/ |archive-date=2010-08-30}}</ref> At the end of August 2010, Modest Mouse played on the main stage at the Leeds and Reading festivals.
+
+On May 29, Modest Mouse played two new songs during their headline of the Sasquatch festival. The songs were called "Poison the Well" and "Lampshades on Fire".<ref>{{cite web|url=https://stereogum.com/715372/modest-mouse-debut-tunes-at-sasquatch/video/ |title=Modest Mouse Debut Tunes At Sasquatch! |publisher=Stereogum |date=2011-05-31 |access-date=2011-10-16}}</ref>
+They then contributed a cover of the [[Buddy Holly]] song "[[That'll Be the Day]]" to the compilation ''[[Rave On Buddy Holly]]'', which was released on June 28, 2011. Modest Mouse played at [[Splendour in the Grass]] in [[Woodford, Queensland]] on July 29, 2011,<ref>{{cite web|last=Baroni|first=Nastassia|url=http://musicfeeds.com.au/news/several-acts-ruled-out-for-splendour-in-the-grass-2015/|title=Several Acts Ruled Out For Splendour In The Grass 2015|date=14 February 2015|publisher=MusicFeeds|access-date=24 June 2015}}</ref> and at [[The Warfield]] in [[San Francisco]] on January 25, 2012.
+
+In 2012, Modest Mouse underwent a significant lineup change, which included the departure of founding bassist Eric Judy and percussionist Joe Plummer, replaced by Russell Higbee (formerly of [[Man Man]]) and Davey Brozowski, respectively. The lineup also included the additions of multi-instrumentalist and vocalist Lisa Molinaro, and percussionist Ben Massarella, the latter of whom previously played percussion on ''The Moon & Antarctica''.
+
+In June of that same year, [[Pitchfork.tv]] released a 45-minute documentary on ''The Lonesome Crowded West'', which included archival footage taken during live performances and original recording/mix sessions.<ref>{{cite web |url=https://pitchfork.com/news/46894-pitchforktv-presents-documentary-on-modest-mouses-the-lonesome-crowded-west/ |title=Pitchfork.tv Presents Documentary on Modest Mouse's ''The Lonesome Crowded West'' |access-date=2013-02-19 |date=2012-06-18 |publisher=Pitchforkmedia}}</ref>
+
+Modest Mouse played a Saturday afternoon set at the inaugural [[Firefly Music Festival]] in July 2012. Modest Mouse was one of the main acts in the Good Vibes Festival held in Sepang, Malaysia on August 17, 2013. The lineup featured other internationally renowned bands such as [[Smashing Pumpkins]], [[Ash (band)|Ash]], and [[Japandroids]].<ref>{{cite web|url=http://goodvibesfestival.com/|title=Good Vibes Festival|access-date=24 June 2015}}</ref> In April 2013, Modest Mouse performed at [[Coachella Music Festival]] in [[Indio, California]]. They also performed at the 2014 [[Hangout Music Festival]] in [[Gulf Shores, Alabama]], in May 2014. They later performed as a headliner at Shaky Knees music festival in Atlanta, Georgia on May 10, 2014, and also headlined Sunday May 25 at Boston Calling in Massachusetts. Modest Mouse then performed at Hudson Valley Music Project in Saugerties, NY in July, 2014. The band's final performance of 2014 took place in Inglewood, California during the annual [[KROQ Almost Acoustic Christmas]].
+
+In the fall of 2014 Modest Mouse re-released their first two albums, ''This Is a Long Drive for Someone with Nothing to Think About'' and ''The Lonesome Crowded West'', on CD and vinyl through Isaac Brock's Glacial Pace record label.
+
+===''Strangers to Ourselves'', ''The Golden Casket'' and Jeremiah Green's death: 2015–2022===
+Eight years after the release of ''We Were Dead Before the Ship Even Sank'', Modest Mouse released ''[[Strangers to Ourselves]]'' on March 17, 2015. On December 15, 2014, they released the lead single "Lampshades on Fire" which debuted on Twin Cities public radio station [[89.3 The Current]]. On December 16, 2014, Modest Mouse made ''Strangers to Ourselves'' available for pre-order for CD and LP formats on the [[Glacial Pace]] website and on the iTunes store.
+
+In 2015, Brock described the follow-up album to ''Strangers to Ourselves'' as being like a part two to the latter album that they would try to release as soon as legally possible.<ref>{{cite web|last=Gordon |first=Jeremy |url=https://pitchfork.com/news/58793-modest-mouse-to-follow-strangers-to-ourselves-with-new-album-as-quickly-as-its-legally-allowed/ |title=Modest Mouse to Follow ''Strangers to Ourselves'' With New Album "As Quickly As It's Legally Allowed" |date=10 March 2015 |publisher=Pitchfork |access-date=2015-03-16}}</ref> The follow-up album has also been said to feature at least one song with [[Nirvana (band)|Nirvana]] bassist [[Krist Novoselic]].<ref>{{cite web|last=Kaye|first=Ben|url=https://consequence.net/2015/03/modest-mouses-next-album-due-out-in-2016-features-nirvanas-krist-novoselic/|title=Modest Mouse's next album, due out in 2016, features Nirvana's Krist Novoselic|website=Consequence.net|date=24 March 2015|access-date=26 June 2021}}</ref>
+
+Throughout 2019, the band released three standalone singles; "Poison the Well" on March 29, "I'm Still Here" on April 18, and "Ice Cream Party" on November 15.
+[[File:2021 Shaky Knees - Modest Mouse (3).jpg|thumb|231x231px|Modest Mouse performing at [[Shaky Knees Music Festival]] in Atlanta, Georgia in 2021. ]]
+Modest Mouse released their seventh studio album, ''[[The Golden Casket]]'', on June 25, 2021.<ref name="kreps1">{{cite magazine |last1=Kreps |first1=Daniel |title=Modest Mouse Announce New Album 'The Golden Casket,' Drop 'We Are Between' |url=https://www.rollingstone.com/music/music-news/modest-mouse-new-album-the-golden-casket-first-single-we-are-between-1165250/ |magazine=Rolling Stone |date=5 May 2021}}</ref> The album's first single, "We Are Between", was released on May 5,<ref name="kreps1"/> followed by its second single, “Leave a Light On”, released on May 24. Writing for the ''[[Wall Street Journal]]'', music critic Mark Richardson gave a mixed review of the album.<ref name="auto">{{cite news |last1=Richardson |first1=Mark |title='The Golden Casket' by Modest Mouse Review: Float On Past the Noise |url=https://www.wsj.com/articles/the-golden-casket-by-modest-mouse-review-float-on-past-the-noise-11624308364 |website=The Wall Street Journal |date=21 June 2021 |access-date=22 June 2021}}</ref> Richardson described the tracks on the first half of the album as "sound[ing] like busy arrangements in search of a song", and noted that "Mr. Brock's ear for hooks just barely rescues the tracks from the seriously overstuffed production."<ref name="auto"/> Richardson noted that the back half of the album contained the biggest highlights, which he described as "quite good". Richardson was particularly fond of the album's stripped-down finale, "Back to the Middle", which he noted "hints at what should be [the band's] next change-up: Keep it simple. If the songs are strong and the performances are there, guitar, bass and drums will be more than enough.<ref name="auto"/>
+
+In an interview in 2022, celebrating 15 years of ''We Were Dead before The Ship Even Sank'', Isaac Brock and Johnny Marr revealed that they were writing songs together again, the first of which is called "Rivers of Rivers". The writing took place in a "pen pal" kind of way, with Brock saying that there were more songs to be developed in 2022 together "once the world tilts back on its axis".<ref>{{cite web |last1=Clarke |first1=Patrick |title=Johnny Marr and Modest Mouse have been writing new music together |url=https://www.nme.com/en_au/news/music/johnny-marr-and-modest-mouse-have-been-writing-new-music-together-3188108 |website=NME |date=22 March 2022 |publisher=BandLab Technologies |access-date=4 May 2022}}</ref>
+
+In July 2022 the band was mixing a nine-song companion EP to ''The Golden Casket'', with Marr confirmed to appear on one of the tracks.<ref>{{cite web |last1=Ragusa |first1=Paolo |title=Modest Mouse at Mad Cool Festival 2022: The Golden Casket Companion EP and Writing with Johnny Marr |url=https://consequence.net/video/modest-mouse-interview-mad-cool-festival-new-ep/ |website=[[Consequence of Sound]] |publisher= |access-date=22 July 2022 |date=21 July 2022}}</ref>
+
+In the midst of a tour celebrating the 25th anniversary of ''The Lonesome Crowded West'', drummer and founding member [[Jeremiah Green]] took an unannounced leave of absence. Days after his Stage IV cancer diagnosis was revealed to the public, Green died on December 31, 2022.<ref>{{cite magazine|last=Moreau|first=Jordan|date=December 31, 2022|title=Jeremiah Green, Modest Mouse Co-Founder and Drummer, Dies at 45|url=https://variety.com/2022/music/obituaries-people-news/jeremiah-green-modest-mouse-dead-drummer-founder-1235476982/|magazine=[[Variety (magazine)|Variety]]|access-date=January 1, 2023}}</ref><ref>{{cite magazine|last=Legaspi|first=Althea|date=January 1, 2023|title=Jeremiah Green, Founding Member of Modest Mouse, Dead at 45|url=https://www.rollingstone.com/music/music-news/modest-mouse-jeremiah-green-dead-obit-1234654944/|magazine=[[Rolling Stone]]|access-date=January 1, 2023}}</ref>
+
+===''Good News''–era reunion and future: 2023–present===
+In mid-2023, they opened several shows for Weezer during their [[Indie Rock Road Trip]] tour.<ref>{{Cite web |last=Rettig |first=James |date=February 27, 2023 |title=Weezer Announce Tour Dates With Modest Mouse, Spoon, Future Islands, & More |url=https://www.stereogum.com/2215078/weezer-tour-indie-rock-roadtrip-modest-mouse-spoon-future-islands/news/ |url-status=live |archive-url=https://web.archive.org/web/20240625082635/https://www.stereogum.com/2215078/weezer-tour-indie-rock-roadtrip-modest-mouse-spoon-future-islands/news/ |archive-date=June 25, 2024 |access-date=July 9, 2025 |website=[[Stereogum]] |oclc=1142733705}}</ref> The band co-headlined a North American tour with the [[Pixies (band)|Pixies]] in the Summer of 2024.<ref>{{Cite magazine |last=Madarang |first=Charisma |date=2023-03-29 |title=Modest Mouse, Pixies, and Cat Power to Embark on North American Tour |url=https://www.rollingstone.com/music/music-news/modest-mouse-pixies-cat-power-north-american-tour-1234705362/ |access-date=2024-03-07 |magazine=Rolling Stone |language=en-US}}</ref>
+
+In April 2024, Brock announced that he was planning on reuniting the band's 2004 line-up which recorded ''[[Good News for People Who Love Bad News]]'' for a tour in celebration of the record.
+
+The band co-headlined with The Flaming Lips for an "It's Summertime" tour in August and September of 2025.
+
+==Musical style and lyrics==
+Modest Mouse's music has been described as [[indie rock]], [[alternative rock]], [[post punk revival]], [[punk rock]], [[synthpop]] and [[emo]]. Marcy Donelson of [[AllMusic]] called Modest Mouse's sound "a volatile mix of [[Punk rock|punk]]-inspired rawness and simmering atmosphere" showing tendencies of "light-hearted [[Pop music|pop]]". The band's early releases were said to be a mix of [[emo]], [[post-rock]], [[folk music|folk]] and [[progressive music]].<ref name=":0" /> The early releases were also noted for their abrasiveness and sense of experimentation. Jim Alexander of ''[[NME]]'' wrote in a contemporary review of ''[[The Lonesome Crowded West]]'': "Modest Mouse are the sound of the [[Pacific Northwest]] - this is music as rugged as the area it comes from." The band's later output contained pop sensibilities.<ref>{{Cite web |title=NME.COM - MODEST MOUSE - The Lonesome Crowded West - 4 January 1999 |url=http://www.nme.com/reviews/reviews/19990004110452reviews.html |archive-url=https://web.archive.org/web/20001008234635/http://www.nme.com/reviews/reviews/19990004110452reviews.html |archive-date=2000-10-08 |access-date=2025-06-21 |website=www.nme.com}}</ref>
+
+Frontman [[Isaac Brock (musician)|Isaac Brock]]'s lyrical themes tend to explore topics such as small town life and [[religion]].<ref name=":0">{{cite web |last1=Donelson |first1=Marcy |title=Modest Mouse Songs, Albums, Reviews, Bio & Mor |url=https://www.allmusic.com/artist/modest-mouse-mn0000480086#biography |website=AllMusic}}</ref> In 2016, a study conducted by music data company [[Musixmatch]] surveyed 43,414 songs spanning multiple genres found that Modest Mouse was one of the most profane bands among the subjects categorized as "indie rock," second only to [[The Neighbourhood|The Neighborhood]]. It was estimated that the band used profanity every 310 words, and that the top three swear words uttered by the band were "[[shit]]," "[[fuck]]" and "[[Ass (slang)|ass]]," respectively.<ref>{{Cite web |title=Study: These Are the Most Profane Bands in Metal and Rock |url=https://www.ultimate-guitar.com/news/general_music_news/study_these_are_the_most_profane_bands_in_metal_and_rock.html |access-date=2025-08-03 |website=www.ultimate-guitar.com |language=en}}</ref>
+
+==Band members==
+
+=== Current ===
+''Main instruments listed only''
+{| class="wikitable" width="100%" border="1"
+! width="75" |Image
+! width="160" |Name
+! width="90" |Years active
+! width="160" |Instruments
+!Release contributions
+|-
+|{{CSS image crop|Image=Modest Mouse Highwater Festival 2022 (52032239098).jpg|bSize=200|cWidth=75|cHeight=75|oTop=72|oLeft=65}}
+|[[Isaac Brock (musician)|Isaac Brock]]
+|1993–present
+|{{Hlist|lead vocals|rhythm and lead guitar|banjo}}
+|[[Modest Mouse discography|all releases]]
+|-
+|{{CSS image crop|Image=Modest_mouse_(526085945)_(cropped).jpg|bSize=280|cWidth=75|cHeight=75|oTop=45|oLeft=105}}
+|[[Tom Peloso]] 
+|2003–present {{small|(not touring 2022-present)}}
+|{{Hlist|keyboards {{small|(2005–present)}}|upright bass|backing vocals|bass guitar|horns|fiddle {{small|(2003–2005, 2021–present)}}}}
+|all releases from ''[[Good News for People Who Love Bad News]]'' (2004)
+|-
+|
+|Russell Higbee 
+|2012–present {{Small|(touring 2010–2012)}}
+|{{Hlist|bass guitar|rhythm guitar|keyboards|backing vocals|horns {{small|(2010–2012)}}}}
+|all releases from ''[[Strangers to Ourselves]]'' (2015)
+|-
+|{{CSS image crop|Image=Benny_Massarella.jpg|bSize=155|cWidth=75|cHeight=75|oTop=25|oLeft=55}}
+|[[Ben Massarella]] 
+|2014–present
+|{{Hlist|percussion|effects|drums}}
+|{{flatlist|
+* ''[[The Moon & Antarctica]]'' (2000)
+* ''Strangers to Ourselves'' (2015)
+*''[[The Golden Casket]]'' (2021)}}
+|-
+|{{CSS image crop|Image=Modest Mouse Highwater Festival 2022 (52032238753).jpg|bSize=225|cWidth=75|cHeight=75|oTop=72|oLeft=67}}
+|Simon O'Connor 
+|2021–present
+|{{Hlist|lead guitar|backing vocals}}
+| rowspan="2" |none to date
+|-
+|
+|Damon Cox 
+|2023–2024, 2025-present
+|{{Hlist|drums|percussion}}
+|}
+
+=== Former ===
+{| class="wikitable" width="100%" border="1"
+! width="75" |Image
+! width="160" |Name
+! width="90" |Years active
+! width="160" |Instruments
+!Release contributions
+|-
+|{{CSS image crop|Image=Jeremiah_Green_at_Frost_Revival_(7235815918).jpg|bSize=315|cWidth=75|cHeight=75|oTop=55|oLeft=117}}
+|[[Jeremiah Green]]
+|{{Hlist|1993–2003|2004–2022 {{small|(until his death)}}}}
+|{{Hlist|drums|percussion}}
+|all releases to date, except ''Good News for People Who Love Bad News'' (2004)
+|-
+|{{CSS image crop|Image=Flickr_-_moses_namkung_-_Modest_Mouse_3.jpg|bSize=375|cWidth=75|cHeight=75|oTop=50|oLeft=115}}
+|[[Eric Judy]] 
+|{{Hlist|1993–1994|1995–2012}}
+|{{Hlist|bass guitar|acoustic guitar|backing vocals|rhythm guitar and keyboards {{small|(2003–2012)}}}}
+|all releases from ''[[Blue Cadet-3, Do You Connect?]]'' (1994) to ''[[No One's First, and You're Next]]'' (2009)
+|-
+|{{CSS image crop|Image=Cold War Kids at the Fonda (8831832082).jpg|bSize=540|cWidth=75|cHeight=75|oTop=20|oLeft=265}}
+|[[Dann Gallucci]]
+|{{Hlist|1994–1995|1997–1998|2002–2005}}
+|{{Hlist|lead guitar|organ|keyboards|backing vocals}}
+|{{flatlist|
+* ''[[Blue Cadet-3, Do You Connect?]]'' (1994)
+* ''[[The Lonesome Crowded West]]'' (1997)
+* ''Building Nothing Out of Something'' (2000)
+* ''Good News for People Who Love Bad News'' (2004)
+* ''[[Baron von Bullshit Rides Again]]'' (2004)}}
+|-
+|
+|John Wickhart 
+|1994–1995
+|bass guitar
+|none
+|-
+|{{CSS image crop|Image=The Helio Sequence - Benjamin Weikel.jpg|bSize=475|cWidth=75|cHeight=75|oTop=75|oLeft=195}}
+|Benjamin Weikel 
+|{{Hlist|2003–2004|2024}}
+|{{Hlist|drums|percussion}}
+|''Good News for People Who Love Bad News'' (2004)
+|-
+|{{CSS image crop|Image=Modest_Mouse_Joe1f_(495723398).jpg|bSize=370|cWidth=75|cHeight=75|oTop=30|oLeft=115}}
+|[[Joe Plummer]] 
+|2004–2012
+|{{Hlist|percussion|drums}}
+|{{flatlist|
+* ''Baron von Bullshit Rides Again'' (2004)
+* ''[[We Were Dead Before the Ship Even Sank]]'' (2007)
+* ''No One's First, and You're Next'' (2009)}}
+|-
+|{{CSS image crop|Image=JimFairchild(by_Scott_Dudelson).jpg|bSize=500|cWidth=75|cHeight=75|oTop=20|oLeft=197}}
+|[[Jim Fairchild]]
+|{{Hlist|2005–2006|2009–2021}}
+| rowspan="2" |{{Hlist|lead guitar|backing vocals}}
+|{{flatlist|
+* ''Strangers to Ourselves'' (2015)
+* ''The Golden Casket'' (2021)}}
+|-
+|{{CSS image crop|Image=Modest_Mouse_121407_a_5_(2190603766).jpg|bSize=750|cWidth=75|cHeight=75|oTop=75|oLeft=305}}
+|[[Johnny Marr]]
+|2006–2008
+|{{flatlist|
+* ''We Were Dead Before the Ship Even Sank'' (2007)
+* ''No One's First and You're Next'' (2009)}}
+|-
+|{{CSS image crop|Image=Talkdemonic05.jpg|bSize=665|cWidth=75|cHeight=75|oTop=245|oLeft=260}}
+|[[Lisa Molinaro]]
+|2011–2021
+|{{Hlist|viola|bass guitar|keyboards|backing vocals}}
+|{{flatlist|
+* ''Strangers to Ourselves'' (2015)
+* ''The Golden Casket'' (2021)}}
+|-
+|{{CSS image crop|Image=Daveybrozowskidrummerpercussionist.JPG|bSize=550|cWidth=75|cHeight=75|oTop=100|oLeft=295}}
+|[[Davey Brozowski]] 
+|2012–2014
+|{{Hlist|percussion|drums}}
+|''Strangers to Ourselves'' (2015)
+|}
+
+=== Touring ===
+{| class="wikitable" width="100%" border="1"
+! width="75" |Image
+! width="160" |Name
+! width="90" |Years active
+! width="160" |Instruments
+!Release contributions
+|-
+|
+|Tyler Reilly
+|1997–2000
+|violin 
+|{{flatlist|
+* ''The Moon & Antarctica'' (2000)
+* ''[[Everywhere and His Nasty Parlour Tricks]]'' (2001)}}
+|-
+|
+|Robin Peringer 
+|2000–2002
+|{{Hlist|lead guitar|keyboards|effects}}
+| rowspan="5" |none
+|-
+|
+|Brandon Angle
+| rowspan="2" |2007
+| rowspan="2" |{{Hlist|bass guitar|acoustic guitar|pump organ}}
+|-
+|
+|Andy MacLeod
+|-
+|
+|Russell Higbee 
+|2010–2012
+|horns 
+|-
+|
+|Dave Collis
+|2013
+|lead guitar
+|-
+|
+|[[Plastiq Phantom|Darrin Wiener]]
+|2012–2016
+|{{Hlist|effects|keyboards}}
+|''Strangers to Ourselves'' (2015)
+|-
+|{{CSS image crop|Image=Modest Mouse Highwater Festival 2022 (52032718485).jpg|bSize=325|cWidth=75|cHeight=75|oTop=100|oLeft=115}}
+|Keith Karman 
+|2022–present
+|{{Hlist|keyboards|guitar|bass guitar|backing vocals}}
+|none to date
+|}
+
+===Timeline===
+{{#tag:timeline|
+ImageSize = width:900 height:auto barincrement:20
+PlotArea = left:90 bottom:100 top:5 right:10
+Alignbars = justify
+DateFormat  = dd/mm/yyyy
+Period = from:01/01/1993 till:31/12/2025
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom
+ScaleMajor = increment:3 start:1993
+ScaleMinor = increment:1 start:1993
+
+Colors =
+  id:vocals      value:red         legend:Lead_vocals,_banjo
+  id:backing     value:pink        legend:Backing_vocals
+  id:strings     value:drabgreen   legend:Strings
+  id:lguitar     value:teal        legend:Lead_guitar
+  id:rguitar     value:brightgreen legend:Rhythm_guitar
+  id:keys        value:purple      legend:Keyboards
+  id:bass        value:blue        legend:Bass
+  id:drums       value:orange      legend:Drums
+  id:Percussion  value:claret      legend:Percussion
+  id:fx          value:lavender    legend:Effects
+  id:Lines       value:black       legend:Studio_album
+  id:bars        value:gray(0.95)
+
+BackgroundColors = bars:bars
+
+Legend = position:bottom columns:4
+
+BarData =
+  bar:Isaac     text:"Isaac Brock"
+  bar:Dann      text:"Dann Gallucci"
+  bar:Jim       text:"Jim Fairchild"
+  bar:Johnny    text:"Johnny Marr"
+  bar:Simon     text:"Simon O'Connor"
+  bar:Eric      text:"Eric Judy"
+  bar:John      text:"John Wickhart"
+  bar:Russell   text:"Russell Higbee"
+  bar:Tom       text:"Tom Peloso"
+  bar:Lisa      text:"Lisa Molinaro"
+  bar:Jeremiah  text:"Jeremiah Green"
+  bar:Benjamin  text:"Benjamin Weikel"
+  bar:Damon     text:"Damon Cox"
+  bar:Joe       text:"Joe Plummer"
+  bar:Davey     text:"Davey Brozowski"
+  bar:Ben       text:"Ben Massarella"
+
+PlotData=
+
+  width:11 textcolor:black align:left anchor:from shift:(10,-4)
+
+  bar:Isaac     from:start till:end             color:vocals
+  bar:Eric      from:01/01/1993 till:01/01/1994 color:bass
+  bar:Eric      from:01/01/1995 till:01/01/2012 color:bass
+  bar:Jeremiah  from:01/01/1993 till:04/03/2003 color:drums
+  bar:Jeremiah  from:22/05/2004 till:01/12/2022 color:drums
+  bar:John      from:01/01/1994 till:01/01/1995 color:bass
+  bar:Dann      from:01/01/1994 till:01/01/1995 color:lguitar
+  bar:Dann      from:01/06/1997 till:01/06/1998 color:lguitar
+  bar:Dann      from:01/01/2002 till:01/06/2005 color:lguitar
+  bar:Benjamin  from:10/05/2003 till:13/04/2004 color:drums
+  bar:Benjamin  from:27/10/2024 till:08/06/2025 color:drums
+  bar:Tom       from:01/01/2003 till:01/01/2005 color:strings
+  bar:Tom       from:01/01/2005 till:end        color:keys
+  bar:Joe       from:01/07/2004 till:01/01/2012 color:percussion
+  bar:Davey     from:01/01/2012 till:01/01/2014 color:percussion
+  bar:Jim       from:01/06/2005 till:11/05/2006 color:lguitar
+  bar:Jim       from:01/01/2009 till:22/06/2021 color:lguitar
+  bar:Johnny    from:11/05/2006 till:07/04/2008 color:lguitar
+  bar:Russell   from:01/01/2012 till:end        color:bass 
+  bar:Lisa      from:01/01/2011 till:22/06/2021 color:strings
+  bar:Ben       from:01/01/2014 till:end        color:percussion
+  bar:Simon     from:21/06/2021 till:end        color:lguitar
+  bar:Damon     from:01/01/2023 till:27/10/2024 color:drums
+  bar:Damon     from:09/06/2025 till:end        color:drums
+
+  width:7 textcolor:black align:left anchor:from shift:(10,-4)
+
+  bar:Isaac     from:start      till:31/12/1993 color:lguitar
+  bar:Isaac     from:01/01/1995 till:31/05/1997 color:lguitar
+  bar:Isaac     from:01/06/1998 till:31/12/2001 color:lguitar
+  bar:Dann      from:01/01/1994 till:01/01/1995 color:keys
+  bar:Dann      from:01/06/1997 till:01/06/1998 color:keys
+  bar:Dann      from:01/01/2002 till:01/06/2005 color:keys
+  bar:Eric      from:01/01/2003 till:01/01/2012 color:rguitar
+  bar:Isaac     from:01/01/2003 till:07/04/2008 color:rguitar
+  bar:Isaac     from:31/12/2008 till:end        color:rguitar
+  bar:Tom       from:01/01/2003 till:end        color:bass
+  bar:Lisa      from:01/01/2011 till:23/06/2021 color:keys
+  bar:Russell   from:01/01/2012 till:end        color:rguitar
+  bar:Ben       from:01/01/2014 till:end        color:fx
+
+  width:5 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Eric      from:01/01/2003 till:01/01/2012 color:keys
+  bar:Lisa      from:01/01/2011 till:23/06/2021 color:bass
+  bar:Russell   from:01/01/2012 till:end        color:keys
+  bar:Tom       from:22/06/2021 till:end        color:strings
+
+  width:3 textcolor:black align:left anchor:from shift:(10,-4)
+
+  bar:Isaac     from:start      till:01/01/2003 color:rguitar
+  bar:Isaac     from:01/01/2003 till:end color:lguitar
+  bar:Jeremiah  from:start      till:04/03/2003 color:percussion
+  bar:Jeremiah  from:22/05/2004 till:01/12/2022 color:percussion
+  bar:Eric      from:01/01/1993 till:01/01/1994 color:backing
+  bar:Eric      from:01/01/1995 till:01/01/2012 color:backing
+  bar:Dann      from:01/01/1994 till:01/01/1995 color:backing
+  bar:Dann      from:01/06/1997 till:01/06/1998 color:backing
+  bar:Dann      from:01/01/2002 till:01/06/2005 color:backing
+  bar:Benjamin  from:10/05/2003 till:13/04/2004 color:percussion
+  bar:Benjamin  from:27/10/2024 till:08/06/2025 color:percussion
+  bar:Joe       from:01/07/2004 till:01/01/2012 color:drums
+  bar:Davey     from:01/01/2012 till:01/01/2014 color:drums
+  bar:Jim       from:01/06/2005 till:11/05/2006 color:backing
+  bar:Jim       from:01/01/2009 till:23/06/2021 color:backing
+  bar:Lisa      from:01/01/2011 till:22/06/2021 color:backing
+  bar:Russell   from:01/01/2012 till:end        color:backing
+  bar:Ben       from:01/01/2014 till:end        color:drums
+  bar:Simon     from:21/06/2021 till:end        color:backing
+  bar:Johnny    from:11/05/2006 till:07/04/2008 color:backing
+  bar:Tom       from:01/01/2003 till:end        color:backing
+  bar:Damon     from:01/01/2023 till:27/10/2024 color:percussion
+  bar:Damon     from:09/06/2025 till:end        color:percussion
+LineData =
+
+  at:16/04/1996 color:black layer:back
+  at:18/11/1997 color:black layer:back
+  at:13/06/2000 color:black layer:back
+  at:06/04/2004 color:black layer:back
+  at:20/03/2007 color:black layer:back
+  at:17/03/2015 color:black layer:back
+  at:25/06/2021 color:black layer:back
+
+}}
+
+==Discography==
+{{main|Modest Mouse discography}}
+'''Studio albums'''
+*''[[This Is a Long Drive for Someone with Nothing to Think About]]'' (1996)
+*''[[The Lonesome Crowded West]]'' (1997)
+*''[[The Moon & Antarctica]]'' (2000)
+*''[[Good News for People Who Love Bad News]]'' (2004)
+*''[[We Were Dead Before the Ship Even Sank]]'' (2007)
+*''[[Strangers to Ourselves]]'' (2015)
+*''[[The Golden Casket]]'' (2021)
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{refbegin}}
+
+* {{cite magazine |last=Smith |first=RJ |magazine=[[Spin (magazine)|Spin]] |title=Caught in a Trap |date=July 2000 |url=https://books.google.com/books?id=AlN-17xfY88C&pg=PA138 |page=138}}
+
+{{refend}}
+
+== External links ==
+{{wikiquote}}
+* [https://www.modestmouse.com/ Official Modest Mouse website]
+* {{AllMusic|class=artist|id=p200044|label=Modest Mouse}}
+* {{discogs artist|Modest Mouse}}
+* {{IMDb name|1851133}}
+
+{{Modest Mouse}}
+
+{{Authority control}}
+
+[[Category:Indie rock musical groups from Washington (state)]]
+[[Category:Musical groups established in 1993]]
+[[Category:K Records artists]]
+[[Category:Sub Pop artists]]
+[[Category:Issaquah, Washington]]
+[[Category:1993 establishments in Washington (state)]]
+[[Category:Obscenity controversies in music]]
+[[Category:Religious controversies in music]]
+[[Category:Suicide Squeeze Records artists]]
+[[Category:Epic Records artists]]
+[[Category:Matador Records artists]]

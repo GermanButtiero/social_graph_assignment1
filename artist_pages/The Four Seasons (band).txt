@@ -1,0 +1,780 @@
+{{short description|American band}}
+{{for|the Indonesian band|Four Seasons (Indonesian band)}}
+{{Other uses|Four Seasons (disambiguation)}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox musical artist
+| name              = The Four Seasons
+| image             = File:The 4 Seasons (1966).png
+| caption           = The Four Seasons in 1966.<br>Top: Tommy DeVito; left: Bob Gaudio; right: Joe Long; bottom: Frankie Valli.
+| landscape         = yes
+| background        = group_or_band
+| alias             = [[The Four Lovers]] (1956–1960)<br />[[The Wonder Who?]] (1965–1967)
+| origin            = [[Newark, New Jersey]], U.S.
+| genre             = {{Flatlist|
+*[[Pop rock]]<ref>{{cite book|title=That Old-time Rock & Roll – A Chronicle of an Era, 1954–1963|first=Richard|last=Aquila|date=2000|publisher=University of Illinois Press|page=225|isbn=9780252069192|quote=A pop-rock group with a pedigree…a dynamic blend of pop and doo wop, showing how good 1960s pop rock could be.|url=https://books.google.com/books?id=uJxfiKtxrRsC|access-date=7 October 2022}}</ref>
+*[[pop music|pop]]<ref>{{AllMusic|first=Donald A. |last=Guarisco |class=album |id=mw0000652435 |title=The Four Seasons – ''The Genuine Imitation Life Gazette'': Review |accessdate=November 29, 2016}}</ref>
+*[[soul music|soul]]<ref>The following sources cite the Four Seasons as either white soul, blue-eyed soul, pop-soul, or Northern soul:
+*{{cite book|title=Motown Encyclopedia|first=Graham|last=Betts|date=2014|publisher=AC Publishing|isbn= 9781311441546|quote=…including the blue eyed soul of Frankie Valli & The Four Seasons}}
+*{{cite book|title=If You Like the Beatles...: Here Are Over 200 Bands, Films, Records and Other Oddities That You Will Love|first=Bruce|last=Pollock|date=2011|publisher=Row man & Littlefield|isbn=978-1617130731}}
+*{{cite web|publisher=[[AllMusic]]|url=https://www.allmusic.com/song/who-loves-you-mt0017983553|title="Who Loves You" song review|first=Donald|last=A. Guarisco|accessdate=11 November 2022}}
+*{{cite web|work=[[UDiscoverMusic]]|first=Paul|last=Sexton|url=https://www.udiscovermusic.com/stories/four-seasons-the-night-song/?amp|title='The Night': The Four Seasons' Magnificent Motown Surprise|date=19 April 2022|accessdate=11 November 2022}}</ref>
+*[[doo-wop]]<ref name=Unterberger/>
+*[[rock and roll]]<ref name=Unterberger>{{cite web |url=https://www.allmusic.com/artist/the-four-seasons-mn0000764185/biography |title=The Four Seasons Biography  |last=Unterberger |first=Richie |publisher=AllMusic |access-date=2022-08-23}}</ref>
+}}
+| years_active      = 1953–1977, 1979–present
+| label             = {{hlist|[[Gone Records|Gone]]|[[Vee-Jay Records|Vee-Jay]]|[[Philips Records|Philips]]|[[Motown Records|Mowest]]|[[Warner Bros. Records|Warner Bros.]]|[[MCA Records|MCA]]|[[Curb Records|Curb]]}}
+| website           = 
+| current_members   = [[Frankie Valli]]<br />[[Bob Gaudio]]{{efn|name=Touring|Currently not touring with the band.}}<br />[[Robby Robinson (musician)|Robby Robinson]]
+| past_members      = [[Tommy DeVito (musician)|Tommy DeVito]]<br />[[Nick Massi]]<br />[[Charles Calello]]<br />[[Joe Long]]<br />[[Demetri Callas]]<br />Clay Jordan<br />[[Gerry Polci]]<br />[[Don Ciccone]]<br />John Paiva<br />[[Lee Shapiro (musician)|Lee Shapiro]]<br />Larry Lingle<br />[[Jerry Corbetta]]<br />Rex Robinson<br />Chuck Wilsonn<br />Lynn Hammann<br />Tim Stone
+}}
+
+'''The Four Seasons''' are<!-- Proper nouns that are plural in form take a plural verb in both American English and British English. Please do not change "are" to "is". --> an American band formed in 1960 in [[Newark, New Jersey]]. Since 1970, they have also been known at times as '''Frankie Valli and the Four Seasons'''. They are one of the [[List of best-selling music artists|best-selling musical groups of all time]], having sold an estimated 100 million records worldwide.<ref name="stone">{{cite magazine |title=Frankie Valli & The Four Seasons |url=http://www.rollingstone.com/artists/frankievallithefourseasons/biography |archive-url=https://archive.today/20090206230414/http://www.rollingstone.com/artists/frankievallithefourseasons/biography |url-status=dead |archive-date=2009-02-06 |magazine=[[Rolling Stone]] |accessdate=April 19, 2013}}</ref>
+
+The band evolved out of a previous band called [[the Four Lovers]], with [[Frankie Valli]] on lead vocals, [[Bob Gaudio]] on keyboards and vocals, [[Tommy DeVito (musician)|Tommy DeVito]] on guitar and vocals, and [[Nick Massi]] on bass and vocals. The Four Seasons had two distinct eras of widespread success: the 1960s, during which Massi departed in 1965, and was replaced initially by [[Charles Calello]] and more permanently by [[Joe Long]], and the mid- to late 1970s, with the lineup consisting of Valli, [[Don Ciccone]] (bass and vocals), John Paiva (guitar and vocals), [[Gerry Polci]] (drums and vocals), and [[Lee Shapiro (musician)|Lee Shapiro]] (keyboards), with Gaudio still working with the band as a non-performing songwriter and producer. All of the members during the band's hitmaking eras hailed from the state of [[New Jersey]]; they also are or were of [[Italian Americans|Italian]] heritage<ref>{{Cite web|url=https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/four-seasons|title=The Four Seasons {{!}} Encyclopedia.com|website=www.encyclopedia.com}}</ref> except Shapiro, who is Jewish.<ref name="JChronicle"/>
+
+The legal name of the organization is the Four Seasons Partnership, formed by Valli and Gaudio, and was taken after a failed audition in 1960. Valli and Gaudio (who has been a non-performing member of the group since 1972) each own 50% of the act and its assets, including virtually all of its recording catalog.<ref name="Bronson"/><ref>{{cite AV media notes|author=Sasfy, Joe|type=Liner notes|title=Frankie Valli & the Four Seasons: 1962–1967|publisher=Warner Special Products|year=1987}} Time-Life Music The Rock 'N' Era 2RNR-15.</ref> The current touring lineup of the group includes Valli as the sole remaining original member,<ref name="stone" /> backed by a separate vocal quartet and a band led by musician [[Robby Robinson (musician)|Robby Robinson]], who has served as the group's music director since 1982.<ref name="Eggers"/> The touring version of the Four Seasons is slated to end after Valli's farewell tour concludes in 2025.<ref name=farewelltour/>
+
+The band's original lineup was inducted into the [[Rock and Roll Hall of Fame]] in 1990,<ref name="hall">{{cite web|url=http://www.rockhall.com/inductees/the-four-seasons|title=The Four Seasons|publisher=[[Rock and Roll Hall of Fame]]|accessdate=June 9, 2009}}</ref> the [[Vocal Group Hall of Fame]] in 1999<ref name="vocal">{{cite web|url=http://www.vocalgroup.org/inductees/the_four_seasons.html|title=The Four Seasons|archive-url=https://web.archive.org/web/20071024151227/http://www.vocalgroup.org/inductees/the_four_seasons.html|archive-date=2007-10-24|first=Richie|last=Unterberger|publisher=[[Vocal Group Hall of Fame]]|accessdate=June 9, 2009}}</ref> and the [[New Jersey Hall of Fame]] in 2017.<ref>{{cite web |url=https://njhalloffame.org/2017-inductees/ |title=New Jersey Hall of Fame - 2017 Inductees |publisher=New Jersey Hall of Fame |access-date=2018-08-07}}</ref> The [[Hollywood Walk of Fame]] awarded a star, jointly credited to Valli and to the group, in 2024.<ref>{{Cite web |title=FRANKIE VALLI & THE FOUR SEASONS TO BE HONORED WITH STAR ON THE HOLLYWOOD WALK OF FAME |url=https://walkoffame.com/press_releases/frankie-valli-the-four-seasons-to-be-honored-with-star-on-the-hollywood-walk-of-fame/ |access-date=2024-09-03 |website=Hollywood Walk of Fame |language=en-US}}</ref>
+
+==History==
+===1953–1960: Before the Four Seasons===
+{{main|The Four Lovers}}
+Frankie Valli's first commercial release was "My Mother's Eyes" (as Frankie Valley) in 1953. The following year, he and guitarist Tommy DeVito formed '''the Variatones''' (with Hank Majewski, rhythm guitar, Frank Cottone, accordion, and Billy Thompson, drums),<ref name=bimbamboom>Walter Gollender. ''Bim Bam Boom No. 8'' (December 1972).</ref> which between 1954 and 1956 performed and recorded under a variety of names before settling on the name '''the Four Lovers''', based upon a [[Latin lover]] gimmick<ref name="Bronson">{{cite book|author=Bronson, Fred|title=The Billboard Book of Number One Hits|edition=3rd|publisher=Billboard Books|year=1992|isbn=0-8230-8298-9}}</ref><ref>Joe Sasfy. Liner notes to ''Frankie Valli & the Four Seasons: 1962-1967'' (Warner Special Products, 1987: Time-Life Music The Rock 'N' Era 2RNR-15)</ref> and playing [[country music]],<ref name="bimbamboom" /> as Valli's namesake and one of his early mentors was country singer [[Jean Valli|Texas Jean Valli]].<ref name="Herbert2014">{{cite news |last1=Herbert |first1=Geoff |date=20 June 2014 |title=Long before 'Jersey Boys,' Frankie Valli stole his name from a Syracuse hillbilly singer |url=https://www.syracuse.com/entertainment/2014/06/jersey_boys_frankie_valli_name_syracuse_singer_jean_valli.html |access-date=2024-12-14 |website=www.syracuse.com |publisher=[[The Post-Standard]]}}</ref><ref name="McAuliffe2006">{{cite news |last=McAuliffe |first=Josh |date=July 9, 2006 |title=Digging Up Country Roots: Former Carbondale Resident's Career was Medley of Love for the Music |url=https://www.newspapers.com/article/the-times-tribune/49511401/ |publisher=[[The Scranton Times-Tribune]] |page=F1 |via=newspapers.com}}</ref> The same year, the quartet (DeVito, his  brother Nick, Majewski and Valli) released their first record, [[Otis Blackwell]]'s "[[You're the Apple of My Eye]]", which appeared on the ''[[Billboard (magazine)|Billboard]]'' Top 100 singles chart, peaking at No. 62.<ref>{{cite book|author=Whitburn, Joel|title=Top Pop Singles 1955–1993|publisher=Billboard Publications|year=1994|isbn=0-89820-105-5}}</ref> Five more Four Lovers singles (on [[RCA Records|RCA Victor]]) were released over the next year, with virtually no sales, airplay, or jukebox play. In 1957, the band's seventh single (this time on [[Epic Records|Epic]]) had a similar lack of success.<ref>{{cite book|author=Umphred, Neil|title=Goldmine's Rock 'n' Roll 45RPM Record Price Guide|edition=3rd|publisher=Krause Publications|year=1994|isbn=0-87341-287-7}}</ref>
+
+From 1956 until 1958, the group stayed together, performing in clubs and lounges as the Four Lovers and recording on music labels under various names: Frankie Tyler, Frankie Valli, Frankie Valli and the Travelers, Frankie Valli and the Romans, the Village Voices, and the Topics are some of the 18 "stage names" used individually or collectively by the members of the band. Majewski left the band due to creative differences,<ref name=bimbamboom/> while Nick DeVito left the group (portrayed in ''Jersey Boys'' as being due to an extended prison sentence, though Tommy DeVito stated in 2008 that he had fired the two because he had booked a gig opening up for [[Tony Bennett]], believing it would be the group's big break, only for Majewski and Nick DeVito to refuse to travel several hundred miles to the venue, forcing him to cancel).<ref>{{Cite web|url=https://lasvegassun.com/news/2008/apr/02/vegas-man-knows-jersey-boys/|title=Vegas man knows 'Jersey Boys'|first=Jerry|last=Fink|date=April 2, 2008|website=Lasvegassun.com|access-date=September 23, 2020}}</ref> To fill the gap, two members of the Hollywood Playboys, another touring group in North Jersey, joined Valli and Tommy DeVito: lead keyboardist Hugh Garrity and guitarist [[Nick Massi|Nickie Massey]],<ref name=bimbamboom/><ref>Florio, Steve (December 28, 2000). [https://www.rollingstone.com/music/music-news/four-seasons-member-succumbs-to-cancer-120790/ Four Seasons member succumbs to cancer], ''Rolling Stone''. Retrieved May 21, 2023.</ref> who had been another of Valli's early mentors.<ref name="overshadow">{{Cite web |last=Pinchot |first=Joe |date=December 28, 2000 |title=Valli's unusual falsetto didn't overshadow Four Seasons' sound |url=http://www2.sharonherald.com/localnews/recentnews/0012/ln122800k.html |access-date=2024-06-03 |website=The Sharon Herald}}</ref>
+
+In 1959, the band started working with [[Record producer|producer]]/[[songwriter]] [[Bob Crewe]], primarily for [[session musician|session work]] (Crewe wrote "I Go Ape", which Valli recorded with the intention of releasing it as a "solo" single, only to be beaten to the punch by an [[I Go Ape|unrelated song of the same name]] from [[Neil Sedaka]], who became friends with Valli later on). Later that year, the Four Lovers were performing in [[Baltimore]] on the same stage as the [[Royal Teens]], who were riding the wave of success of "[[Short Shorts]]", a song co-written by then-15-year-old [[Bob Gaudio]], who was also the Royal Teens' keyboardist. In late 1959, Gaudio became the group's keyboardist; Garrity returned to the Hollywood Playboys without Massey, who briefly launched a solo career.<ref>"Record Reviews." [https://worldradiohistory.com/Archive-All-Music/Cash-Box/50s/1959/CB-1959-10-24.pdf ''Cashbox''. October 24, 1959]. p. 12</ref> During this time, [[Charles Calello]] filled in as the fourth member of the quartet. Early in 1960, a now-renamed Nick Massi returned, now playing [[electric bass]] in addition to vocals and arrangement duties.
+
+In 1960, despite the changes of personnel, the fortunes of the Four Lovers had not changed—they failed an audition for a lounge at a [[Union Township, Union County, New Jersey]] bowling establishment. According to Gaudio, "We figured we'll come out of this with something. So we took the name of the bowling alley. It was called the Four Seasons." Despite the last few years of frustration of the Four Lovers, this proved to be the turning point for the band. Later, on a handshake agreement between keyboardist/composer Bob Gaudio and lead singer Frankie Valli, the Four Seasons Partnership was formed.
+
+===1961–1963: Rise===
+[[File:Nick Massi.png|thumb|right|[[Nick Massi]] was the Four Seasons' bassist from 1960 to 1965, and briefly returned in 1973. He featured prominently on countermelodies during his tenure.]] The Four Seasons signed as artists to Crewe's production company, and they released their first Crewe-produced single under their new name in 1961 ("[[Bermuda (song)|Bermuda]]"/"Spanish Lace" on [[Gone Records]]); the non-charting record would be their only record for Gone, which was itself gone by July 1962 when [[Morris Levy]] bought and dissolved the label.<ref>"Roulette Unveils Billing Plan; Absorbs Gone and End Records." ''Billboard Music Week''. July 7, 1962. p. 22</ref> The band continued working with producer Bob Crewe as background vocalists and sometimes leads under different names, for productions on Crewe's own Topix label. As a follow-up, Bob Gaudio wrote a song that, after some discussion between Crewe and Gaudio, was titled "Sherry". After the song was recorded, Crewe and the members of the band solicited record labels to release it. It was Frankie Valli who spoke with [[Randy Wood (music executive)|Randy Wood]], West Coast sales manager for [[Vee-Jay Records]] (not [[Randy Wood (record producer)|the founder]] of [[Dot Records]]) who, in turn, suggested the release of "Sherry" to the decision-makers at Vee-Jay. "Sherry" made enough of an impression that Crewe was able to sign a deal between his production company and Vee-Jay for its release. They were the first white artists to sign with Vee-Jay.<ref>''[[Goldmine (magazine)|Goldmine]]''. Issue 60. May 1981.</ref>
+
+In 1962, the band released their first album, featuring the single "[[Sherry (song)|Sherry]]", which drew the attention of [[WPOP]] in [[Hartford, Connecticut]], known for launching new hit songs; WPOP disc jockey [[Joey Reynolds]] heavily promoted the record.<ref>{{Cite web |last= |date=2002-11-10 |title=JOEY ALL NIGHT |url=https://www.courant.com/2002/11/10/joey-all-night/ |access-date=2024-03-08 |website=Hartford Courant |language=en-US}}</ref> "Sherry" gave the Four Seasons their first No. 1 song. Under the guidance of Bob Crewe, the Four Seasons followed up "Sherry" with several [[music recording sales certification|million-selling]] singles, generally composed by Crewe and Gaudio, including "[[Big Girls Don't Cry (The Four Seasons song)|Big Girls Don't Cry]]" (their second No. 1 hit), "[[Walk Like a Man (The Four Seasons song)|Walk Like a Man]]" (their third No. 1), "[[Candy Girl (The Four Seasons song)|Candy Girl]]" (written by [[Larry Santos]]), "[[Ain't That a Shame]]", and several others. Also, they released a Christmas album in December 1962 and charted with a unique rendition of "[[Santa Claus Is Coming to Town]]".
+
+From 1962 to early 1964, [[the Beach Boys]] were the only band to match the Four Seasons in record sales in the United States, and their first three Vee-Jay non-holiday single releases (i.e., ignoring their version of "Santa Claus Is Coming to Town") marked the first time that a rock band hit No. 1 on the ''[[Billboard (magazine)|Billboard]]'' singles charts with three consecutive entries.
+
+In 1962, they were invited to perform their hit "[[Big Girls Don't Cry (The Four Seasons song)|Big Girls Don't Cry]]" on the show ''[[American Bandstand]].''
+
+===1964: From Vee-Jay to Philips===
+In January 1964, after several successful albums but a lack of money from Vee-Jay, the Seasons left Vee-Jay and moved to [[Philips Records]], then a division of [[Mercury Records]].<ref>{{cite book|url=https://books.google.com/books?id=I0UEAAAAMBAJ&q=%22vee-jay%22+%2B+%22four+seasons%22+%2B+crewe+%2B+%22philips+records%22&pg=PA6 |title=Billboard – Google Books |date=1964-01-18 |access-date=2011-07-16}}</ref> In the 1965 settlement of a lawsuit between the two parties, Vee-Jay retained release rights for all material the band recorded for the label. Vee-Jay exercised those rights liberally over the following year. The group was obligated to deliver one final album to Vee-Jay, which they did in the form of a "faux" live LP. At the same time, Vee-Jay was overwhelmed when it found itself as the rightsholder not only to the Four Seasons, but [[the Beatles]], which it had acquired in a sidecar deal with [[Frank Ifield]] in 1962;<ref>[http://www.archer2000.com/chronicles/Labels/VeeJay.html Chris Norby, "Vee-Jay label"], '' Archer2000.com''. Retrieved 19 January 2017</ref> unable to meet demand for both bands, and with the Beatles' rights eventually reverting to [[Capitol Records]] in October 1964 after another protracted legal battle,<ref>{{cite book|url=https://archive.org/details/howtheybecamebea0000pawl|url-access=registration|quote=gareth how they became the beatles.|title=How they became the Beatles|via=[[Internet Archive]]|publisher=E.P. Dutton|access-date=2012-08-14|isbn=9780525248231|year=1989}}</ref> Vee-Jay was finally declared bankrupt in 1966. With the bankruptcy, the Four Seasons' Vee-Jay catalog reverted to the band, who promptly licensed the rights to Philips.<ref>{{cite book|url=https://books.google.com/books?id=AhEEAAAAMBAJ&q=%22vee-jay%22+%2B+auction&pg=PA7 |title=Billboard – Google Books |date=1966-08-13 |access-date=2011-07-16}}</ref> 
+
+The change of label did not diminish the popularity of the Four Seasons in 1964, nor did the onslaught of the [[British Invasion]] and [[Beatlemania]]. However, "[[Dawn (Go Away)]]" was kept from the No. 1 spot on the Hot 100 by no fewer than three [[The Beatles|Beatles]] singles in the March 21, 1964, edition (two weeks later, the top five slots were filled by Beatles singles). In a two-record set dubbed ''[[The Beatles vs. the Four Seasons|The Beatles vs the Four Seasons: The International Battle of the Century!]]'', Vee-Jay created an elaborate two-disc package that the purchaser could use to write on and score individual recordings by their favorite artist. The discs were reissues of the albums ''[[Introducing... The Beatles]]'' and ''[[Golden Hits of the Four Seasons]]'', featuring each original album's label, title, and catalog number. Today, this album package is a collector's item.<ref>{{cite web|last1=York|first1=Robert|title=The Beatles vs the Four Seasons|url=http://www.eskimo.com/~bpentium/beatles/seasons.html|website=The Beatles at the Web Spot|publisher=Robert's Web Spot|access-date=9 September 2014|url-status=dead|archive-url=https://web.archive.org/web/20111009043442/http://www.eskimo.com/~bpentium/beatles/seasons.html|archive-date=9 October 2011}}</ref> Valli credited the band's continued success in the face of the British Invasion to staying true to their original mission of an original sound and not trying to imitate British acts.<ref name=vallis2023interview>{{Cite web |last=Willman |first=Chris |date=2023-08-27 |title=Frankie Valli on the Four Seasons' Legacy and Their Massive New 45-Disc Boxed Set: 'We Didn't Want to Try to Sound Like Anybody Else' |url=https://variety.com/2023/music/news/frankie-valli-four-seasons-boxed-set-ultimate-collection-interview-1235705611/ |access-date=2023-08-27 |website=Variety |language=en-US}}</ref> The summer of 1964 saw the Seasons achieve their fourth US No. 1 single with "[[Rag Doll (The_Four_Seasons_song)|Rag Doll]]", which also became their biggest hit in the UK to that point, reaching No. 2 there.
+
+===1965–1968: Departure of Nick Massi; One band, several acts===
+[[File:Charles Calello Conducting.jpg|thumb|right|[[Charles Calello]] (seen here in 2018), in addition to briefly being a band member in 1965, did extensive arrangement for Valli and the Seasons throughout the 1960s and 1970s.]]
+Nick Massi left the Four Seasons in September 1965, the same month another big hit for the band, the No. 3 charted "[[Let's Hang On!]]", was released. Although this was Massi's last "Four Seasons" single, he also appeared on the band's follow-up single, a cover of [[Bob Dylan]]'s "[[Don't Think Twice, It's All Right]]", which was issued under the name "[[the Wonder Who?]]", and went top 20. The band's musical arranger, [[Charles Calello]] (a former member of the Four Lovers), stepped in as a temporary replacement. During Calello's brief tenure as a member, the band scored their first hit without Massi, "[[Working My Way Back to You]]", which went top 10. A few months later, [[Joe Long]] was hired to replace Calello, who returned to his role as musical arranger. Long would be a member of the band, on bass and backing vocals, until 1975. His first single with the Four Seasons was "[[Opus 17 (Don't You Worry 'bout Me)]]", which reached No. 13 in mid-1966. 
+
+Massi's departure coincided with the addition of new songwriters, such as [[Sandy Linzer]] and [[Denny Randell]], who eased the burden on Gaudio, while Randell absorbed some of Massi's arranging duties.<ref>McIntosh, Danny (November 7, 2011). [https://www.songfacts.com/blog/interviews/denny-randell Songfacts Interview with Denny Randell], Retrieved September 27, 2023.</ref> This period also saw Valli launch a parallel solo career, although every Valli "solo" recording from 1965's "[[The Sun Ain't Gonna Shine (Anymore)]]" to 1974's "[[My Eyes Adored You]]" was recorded with the Four Seasons at the same time and in the same sessions as material released under the Four Seasons' name; these were usually distinguished in that material written and marketed as Valli solo numbers did not have Valli's trademark falsetto.<ref>{{Cite web |url=https://frankievallifourseasons.com/bio/ |title =Bio – Frankie Valli and the Four Seasons|date =September 14, 2019}}</ref> Valli's first post-1960 single without the Seasons was 1975's "[[Swearin' to God]]".
+
+More top 20 singles followed in 1966 and 1967, including "[[I've Got You Under My Skin]]", "[[Beggin']]" (later covered by Norwegian duo [[Madcon]] and Italian band [[Måneskin]]), "[[Tell It to the Rain]]", and "[[C'mon Marianne]]", as well as Valli "solo" singles "[[Can't Take My Eyes Off You]]" and "I Make a Fool of Myself". Also, other Crewe/Gaudio songs that did not become hits for either Valli or the Four Seasons became international hits in cover versions, such as "[[Silence Is Golden (song)|Silence Is Golden]]" for [[the Tremeloes]] and "The Sun Ain't Gonna Shine (Anymore)" for [[the Walker Brothers]]. 1968's "[[Will You Love Me Tomorrow]]" would be the band's last top 40 hit for seven years, reaching No. 24, following Valli's last "solo" hit of the 1960s, the No. 29 charted "To Give (The Reason I Live)".
+
+===1969–1975: ''The Genuine Imitation Life Gazette''; Departure of Tommy DeVito; Declining record sales; Move to Motown===
+By 1969, the band's popularity had declined, with public interest moving towards rock with a harder edge and music with more socially conscious lyrics. Aware of that, Bob Gaudio partnered with folk-rock songwriter [[Jake Holmes]] to write a concept album titled ''[[The Genuine Imitation Life Gazette]]'', which discussed contemporary issues from the band's standpoint, including divorce ("Saturday's Father"), and [[Kinks]]-style satirical looks at modern life (e.g., "American Crucifixion and Resurrection" and "Genuine Imitation Life"). The decision to create a concept album was a major departure for the group, which Bob Crewe had purposely marketed as a singles act (so much so that the group's early albums were simply the name of a major hit single appended with [[snowclone|some variation of]] "and Other Songs").<ref name=vallis2023interview/>
+
+The album cover was designed to resemble the front page of a newspaper, pre-dating [[Jethro Tull (band)|Jethro Tull]]'s ''[[Thick as a Brick]]'' by three years. The record was a commercial failure (by the group's usual standards; according to Stuart Miller, owner of a Four Seasons fansite named after the album, and Joe Long, the album sold about 150,000 copies)<ref name="Joe Long interview with Stuart Miller">{{cite web |last1=Miller |first1=Stuart |last2=Long |first2=Joe |title=Joe Long: His Story |url= http://www.genuine-imitation-life-gazette.com/Bios/Long_Bio.html |date=2004|website=The Genuine Imitation Life Gazette |archive-url= https://web.archive.org/web/20040724113020/http://www.genuine-imitation-life-gazette.com/Bios/Long_Bio.html|archive-date=24 July 2004}}</ref> and led to the band's departure from Philips shortly after that, but it did catch the attention of [[Frank Sinatra]], whose 1969 album, ''[[Watertown (album)|Watertown]]'', involved Gaudio, Holmes, Valli and Calello. The Seasons' last single on Philips, 1970's "Patch of Blue", featured the band's name as "Frankie Valli & the Four Seasons", but the change in billing did not revive the band's fortunes. Reverting to the "Four Seasons" billing without Valli's name upfront, the group issued a single on Crewe's eponymous label, a rendition of "[[And That Reminds Me]]", which peaked at No. 45 on the Billboard chart. Frustrated by the group's workload, and facing debts from gambling and a divorce, DeVito accepted a buyout and left the band in 1970.<ref name=lvinterview>{{Cite web|last=Elfman|first=Doug|url=https://www.reviewjournal.com/news/how-a-jersey-boy-worked-his-way-back/|title=How a Jersey boy worked his way back|website=[[Las Vegas Review-Journal]]|date=June 1, 2009|access-date=November 23, 2021}}</ref> Following a UK tour with Bob Grimm on guitar, the Seasons hired [[Demetri Callas]] as DeVitto's permanent replacement. Callas, a native of Maryland and fixture in the Washington, DC music scene with multiple hits as a session guitarist, was the first ever member of the Four Seasons not to hail from New Jersey.<ref name="obit"/>  He would stay with the group until 1974,<ref name=Callas2023article>{{Cite web |last=McGuire |first=Colin |date=2020-01-16 |title='He was built like a superhero': Local legend 'Penny' Callas dies |url=https://www.fredericknewspost.com/places/local/frederick_county/frederick/he-was-built-like-a-superhero-local-legend-penny-callas-dies/article_23c08ada-5069-5883-8842-67271269eb67.html |access-date=2023-12-19 |archive-date=2023-12-19 |archive-url=https://web.archive.org/web/20231219040302/https://www.fredericknewspost.com/places/local/frederick_county/frederick/he-was-built-like-a-superhero-local-legend-penny-callas-dies/article_23c08ada-5069-5883-8842-67271269eb67.html |website=The Frederick News-Post |language=en}}</ref> later acknowledging that he had been behaving wildly during his time with the band and chose to resign voluntarily rather than risk being fired.<ref>{{Cite web |last=Crowe |first=Katie |date=2012-06-28 |title=Longtime rocker returns to area for hometown gigs |url=https://www.fredericknewspost.com/archive/longtime-rocker-returns-to-area-for-hometown-gigs/article_44d429e9-f7f0-5245-ba77-81c06e5fb9c5.html |access-date=2025-08-18 |website=The Frederick News-Post |language=en}}</ref>
+
+After leaving Philips, the Four Seasons recorded a one-off single for the [[Warner Bros. Records|Warner Bros.]] label in England, "Sleeping Man", backed by "Whatever You Say", which was never released in the USA. John Stefan, the band's lead trumpeter, arranged the horn parts. Following that single, the band signed to [[Motown]]. The first LP, ''[[Chameleon (The Four Seasons album)|Chameleon]]'', released by Motown subsidiary label [[Motown#Secondary R&B labels|MoWest Records]] in 1972, failed to sell. A 1971 Frankie Valli solo single on Motown, "Love Isn't Here", and two Four Seasons singles, "Walk On, Don't Look Back" on MoWest in 1972, and "How Come" on Motown in 1973, sank without a trace. A song from ''Chameleon'', "[[The Night (Frankie Valli and The Four Seasons song)|The Night]]", later became a [[Northern Soul]] hit and reached the top 10 of the [[UK Singles Chart]], but was not commercially released in the United States as a single, although promotional copies were distributed in 1972, showing the artist as Frankie Valli. Valli has consistently spoken of how much of the group's late 1960s and early 1970s material was poorly marketed and only later received the appreciation that he felt it deserved.<ref name=vallis2023interview/>
+
+Over the course of this period, a new lineup of the Four Seasons would slowly be assembled. In 1972, Gaudio stopped touring with the band, to focus on songwriting, production, and recording.  Long later told a Four Seasons fansite that he believed that Gaudio stopped touring because of constant stage fright.<ref name="Joe Long interview with Stuart Miller"></ref> His divorce from his first wife was also affecting him at the time, as was the worsening relationship between the band and an increasingly erratic Bob Crewe, forcing Gaudio to take over Crewe's responsibilities.<ref name=":1">Seasonally.co.uk - [https://www.seasonally.co.uk/The%20Four%20Seasons%20at%20Motown%20Part%202.pdf Page 2 ''The Four Seasons at Motown—Part 2'']</ref> The band recruited Clay Jordan as their new keyboardist; Jordan was unable to handle the vocal strain of Gaudio's tenor parts,<ref name=":1" /> and Valli recruited 19-year old [[Lee Shapiro (musician)|Lee Shapiro]] the following year. Shapiro would also become the band's musical arranger and would contribute to the songwriting.<ref name="JChronicle" /> Shortly before Shapiro's arrival, a member of the group's backing band recruited drummer [[Gerry Polci]], who would eventually take over a large portion of lead vocals to ease the load on Frankie Valli, who was gradually losing his hearing due to [[otosclerosis]], though eventually surgery restored most of it.<ref name="gjames" />
+[[File:The Four Seasons.png|left|thumb|A 1973 Four Seasons advertisement published by Motown for Billboard. Clockwise from top: [[Demetri Callas]], [[Joe Long]], [[Frankie Valli]], [[Bob Gaudio]].]]
+In late 1973 and early 1974, the Four Seasons recorded eight songs for a second MoWest album. These sessions marked the return of Nick Massi to the studio for arrangement and vocal work,<ref name=":1" /> and were where Gaudio met his next songwriting partner and future wife, [[Judy Parker]].<ref name="obituary">{{Cite web |last= |first= |date=September 2017 |title=Judy Gaudio, Co-Writer of Four Seasons Hits, Dies |url=https://bestclassicbands.com/judy-parker-gaudio-9-19-17/ |access-date=2024-01-12 |website=Best Classic Bands |language=en-GB}}</ref> The sessions produced the single "Hickory," a minor hit— it peaked at No. 90 on the ''Cash Box'' charts—despite no promotion from MoWest, which was winding down operations and dropped the band without releasing the unfinished album (it would eventually be released as ''Inside You'', branded as a Valli solo album in 1975).<ref name=":1" /> On behalf of the Four Seasons Partnership, Valli tried to purchase the entire collection of master recordings the group had made for Motown and MoWest. After hearing the amount needed to buy them all, Valli arranged to purchase "[[My Eyes Adored You]]" for $4,000.<ref name="vallis2023interview" /> He took the tape to [[Larry Uttal]], the owner and founder of [[Private Stock Records]], who wanted to release it as a Frankie Valli solo single. Although the band remained unsigned in the later part of 1974, Valli had a new label—and a new solo career.
+
+Following Demetri Callas' departure in 1974, Polci recommended [[the Happenings]]' guitarist John Paiva (who had also worked as a session musician) as replacement.<ref>{{Cite web |last=Limnios |first=Michael |date=January 26, 2012 |title=An Interview with the brilliant guitarist John Paiva: I have learned from everyone including my students. You never stop learning. |url=https://blues.gr/profiles/blogs/an-interview-with-the-brilliant-guitarist-john-paiva-i-have |access-date=2024-01-07 |website=blues.gr |language=en}}</ref> [[Don Ciccone]], whose career with [[the Critters]] had come to an abrupt end due to his entry into the armed forces, also joined in 1974, and for a brief time, the Seasons were a sextet, before Joe Long chose to leave in 1975.<ref name="james-ciccone">{{cite web|title=Gary James' Interview With Don Ciccone Of The Four Seasons|url= http://www.classicbands.com/FourSeasonsInterview.html|access-date= July 24, 2020|publisher= classicbands.com|first=Gary|last=James}}</ref> 
+[[File:Lee Shapiro 2022.jpg|thumb|right|[[Lee Shapiro (musician)|Lee Shapiro]] (seen here in 2022) joined as keyboardist and arranger in 1973.]]
+
+===1975–1977: Signing with Warner Bros.; Resurgence of commercial success===
+As "My Eyes Adored You" climbed the Hot 100 singles chart in early 1975, Uttal was persuaded to release ''[[The Four Seasons Story]]'', a two-record compilation of the band's biggest hit singles from 1962 to 1970. It quickly became a [[Music recording sales certification|gold record]], selling over one million copies before the [[Recording Industry Association of America|RIAA]] started awarding [[Music recording sales certification|platinum records]] for million-selling albums.  Uttal was unwilling to sign the group as a whole, but left a loophole in Valli's contract allowing him to stay with the group if they signed with another label. Gaudio then approached [[Mike Curb]] with a new song, "[[Who Loves You (song)|Who Loves You]]," with Ciccone on lead vocal due to Valli being overseas during the recording; Curb, who appreciated the band for their drug-free, clean-cut reputation,<ref name="cleanlooks">{{cite web |author=Beverly Keel |date=October 2, 1997 |title=Can Mike Curb Be as Clean as He Looks? |url=https://www.nashvillescene.com/nashville/can-mike-curb-be-as-clean-as-he-looks/content/?oid=1181622 |archive-url=https://web.archive.org/web/20120404192940/https://www.nashvillescene.com/nashville/can-mike-curb-be-as-clean-as-he-looks/content/?oid=1181622 |archive-date=April 4, 2012 |access-date=September 22, 2021 |work=[[Nashville Scene]]}}</ref> helped secure an agreement with [[Warner Bros. Records]], who was intrigued by a new Four Seasons lead singer. Valli was unwilling to give up lead vocal duties and managed to halt the release of "Who Loves You" until he could replace Ciccone's vocal with his own.<ref name=james-ciccone/> Long departed the band following the release of "Who Loves You," amid disagreements with the newer, younger members of the band; Ciccone would take over as the band's bassist full-time after Long's resignation.<ref name="Joe Long interview with Stuart Miller" /> The album ''[[Who Loves You]]'' became a surprise million-seller for the band, as Valli ultimately agreed to cede some lead vocals to Polci and Ciccone, making it the first album since Massi's departure to feature a lead or co-lead other than Valli prominently.
+
+In 1975, record sales exploded for both Valli and the Four Seasons as both acts had million-selling singles in the United States ("My Eyes Adored You" hit No. 1 on the Hot 100 for Valli in March, "Who Loves You" (with Valli on lead) peaked at No. 3 in November for the band and No. 6 in the UK chart). In the United Kingdom, [[Motown|Tamla Motown]] released "The Night" as a single on the 'Mowest' label and saw it reach the No. 7 position on the [[UK Singles Chart]]. "My Eyes Adored You" was also a top 10 hit in the United Kingdom in February of that year. Valli had his first truly solo hit in the summer of 1975 when the Bob Crewe-produced "[[Swearin' to God]]" followed "My Eyes Adored You" into the upper reaches of the Hot 100, peaking at the No. 6 position and capitalizing on the growing disco craze. The song was released in three forms: the eight-minute album version, the ten-minute extended [[12-inch single]] version, and the four-minute single version. This record featured [[Patti Austin]] on bridge vocals before she became well known. Valli followed this with a discofied No. 11 hit version of [[Ruby & the Romantics]]' "[[Our Day Will Come]]", also featuring Austin.
+
+The Four Seasons opened 1976 atop the Billboard chart with their fifth No. 1 single, "[[December, 1963 (Oh, What a Night)]]", co-written by Bob Gaudio and Judy Parker. The single also hit No. 1 in the United Kingdom. "December, 1963 (Oh, What a Night)" had Polci singing lead on the verses, Ciccone featured on specific sections, and Valli on lead vocals only on the two bridge sections and backup vocals on the chorus.
+
+Although the band also scored minor chart placements with "[[Silver Star (The Four Seasons song)|Silver Star]]" (with Valli on harmony vocals) (No. 38 in 1976) and "Down the Hall" (No. 65 in 1977), both sung by Polci, and "Spend the Night in Love" (No. 91 in 1980), which again featured Polci as main lead vocalist and Valli singing the bridge section and contributing to backup group vocals, "December, 1963" marked the end of the Seasons' hit-making run. Both singles were hits in the United Kingdom, with "Silver Star" making the top 10. (A dance remix of "December, 1963" returned them briefly to the upper reaches of the ''Billboard'' singles charts almost two decades later).
+
+The success of ''Who Loves You'' increased the popularity of the Four Seasons as a touring group and reignited recording unit. In 1977, the band recorded ''Helicon'' as a follow-up to ''Who Loves You''; it proved to be not as successful, with its lone American single "Down the Hall" peaking in the lower half of the Hot 100 and narrowly reaching the top 40 of the American [[Adult Contemporary (chart)|easy listening charts]] and the UK charts. Additional top-40 UK hits would come with "Rhapsody," and a non-album [[cover version]] of [[the Beatles]]' "[[We Can Work It Out]]" (from ''[[All This and World War II]]'').
+
+===1977–1999: Brief split and reunion; Final studio recordings as a band; Increased focus on touring===
+The band broke up in 1977 as Shapiro got married,<ref name="JChronicle">{{Cite web |last=Bloom |first=Nate |date=27 June 2014 |title=There had to be a Jewish "Jersey Boy" – and there is. And he's local! |url=https://jewishstandard.timesofisrael.com/there-had-to-be-a-jewish-jersey-boy%C2%9D-and-there-is-and-hes-local/ |url-status=live |archive-url=https://web.archive.org/web/20200712235027/https://jewishstandard.timesofisrael.com/there-had-to-be-a-jewish-jersey-boy%C2%9D-and-there-is-and-hes-local/ |archive-date=12 July 2020 |access-date=12 July 2020 |publisher=[[Jewish Standard]]}}</ref>  Polci began working for [[Barry Manilow]],<ref name="gjames">{{Cite web |last=James |first=Gary |date=2015 |title=Gary James' Interview With Gerry Polci Of The Four Seasons |url=http://www.classicbands.com/FourSeasonsGerryPolciInterview.html |url-status=live |archive-url=https://web.archive.org/web/20190516181032/http://www.classicbands.com/FourSeasonsGerryPolciInterview.html |archive-date=16 May 2019 |access-date=4 July 2020 |website=classicbands.com |language=en}}</ref> and Valli—who also had surgery to restore his worsening hearing<ref name="Robins">{{cite magazine |url=http://www.billboard.com/articles/news/5680100/frankie-valli-qa-looking-back-at-50-years-of-the-four-seasons |title = Frankie Valli Q&A: Looking Back at 50 Years of The Four Seasons |magazine=[[Billboard (magazine)|Billboard]] |date=September 3, 2013 |first=Wayne |last=Robins |access-date=October 12, 2019}}</ref>—accepted an offer to sing [[Grease (song)|the theme song]] for the movie ''[[Grease (film)|Grease]]''. Both the film and song were major hits, the latter reaching No. 1, and by 1980 the band had reunited, with a lineup consisting of Valli, Polci, Ciccione, and two new members, singer and keyboardist [[Jerry Corbetta]], who had been lead singer of [[Sugarloaf (band)|Sugarloaf]],<ref name="corbettaobit">{{cite news |title= Jerry Corbetta, Sugarloaf Singer, Dies at 68 |url= http://bestclassicbands.com/sugarloaf-jerry-corbetta-obituary-9-18-16// |accessdate=4 November 2016 |publisher=Best Classic Bands.com }}</ref> and guitarist Larry Lingle, with Gaudio back for studio work. Corbetta would remain with the group until the mid-1980s, while Lingle would remain until the mid-1990s.<ref>{{Cite web |last=By |date=1991-02-06 |title=FRANKI VALLI'S VOICE A CONSTANT AS THE FOUR SEASONS CHANGE |url=https://www.orlandosentinel.com/1991/02/06/franki-vallis-voice-a-constant-as-the-four-seasons-change/ |access-date=2024-05-23 |website=Orlando Sentinel |language=en-US}}</ref><ref name="scotsman">{{Cite news |date=July 7, 2015 |title=Gig review: Frankie Valli & the Four Seasons, Glasgow |url=https://www.scotsman.com/arts-and-culture/gig-review-frankie-valli-the-four-seasons-glasgow-1500522 |access-date=May 22, 2024 |work=The Scotsman}}</ref> Polci and Ciccione both left the group in 1982, though Polci would return during the late 1980s, before leaving again in 1990, when he married Valli's daughter Toni.<ref name="nytimes">{{Cite web |last=Klausner |first=Howard |date=5 February 1995 |title=A Four Seasons Singer Is Back in the Limelight |url=https://www.nytimes.com/1995/02/05/nyregion/a-four-seasons-singer-is-back-in-the-limelight.html/ |url-status=live |archive-url=https://web.archive.org/web/20200703170911/https://www.nytimes.com/1995/02/05/nyregion/a-four-seasons-singer-is-back-in-the-limelight.html/ |archive-date=3 July 2020 |access-date=4 July 2020 |work=[[The New York Times]] |language=en}}</ref>  In January 1981, Warners released ''Frankie Valli & the Four Seasons Reunited Live''. Produced by Bob Gaudio, it was a double album of concert recordings which included the two studio recordings "[[Spend the Night in Love]]" and "Heaven Must Have Sent You (Here in the Night)" sung by Valli. The latter became a UK single but failed to chart, while the former was released as a single in America, inching its way into the [[Billboard Hot 100|Hot 100]] and became a top-5 hit, the group's last, in [[South Africa]].<ref>{{cite web|title=SA Charts 1965–March 1989|url=http://www.rock.co.za/files/springbok_top_20_(F).html|access-date=5 December 2018}}</ref> Valli had planned to add his daughter Francine to the act in 1980, but Francine unexpectedly died that year.<ref>{{Cite web |last= |date=May 26, 2008 |title=Frankie Valli Oh, What a Life! |url=https://people.com/archive/frankie-valli-oh-what-a-life-vol-69-no-20/ |access-date=2023-06-28 |website=[[People (magazine)|People]] |language=en}}</ref>
+
+The early 1980s saw the addition of keyboardist/music director [[Robby Robinson (musician)|Robby Robinson]], who has remained a member of the Four Seasons for the rest of their history.<ref name="Eggers">{{cite web | last=Eggers | first=Kerry | title=Frankie Valli: a man for all seasons | website=Pamplin Media Group | date=20 June 2018 | url=https://pamplinmedia.com/pt/11-features/398839-293392-frankie-valli-a-man-for-all-seasons | access-date=2021-12-01|quote= Valli: Including four singers, we have 15 or 16 in our group. We have a couple of new members. I feel good about what we have now. It's something you put together very slowly to make sure you have the right people. My musical director, Robby Robinson (and longtime keyboardist and honorary "Fifth Season" for the group), has been with me about 40 years.}}</ref> In 1984, a long-awaited collaboration between the Four Seasons and the Beach Boys, "East Meets West", was released on FBI Records, owned by the Four Seasons Partnership, which included most of the surviving Beach Boys (including Brian Wilson). However, the record did not sell well. Even after the rise and fall of the band's sales in the disco era, the Four Seasons, in one version or another, continued to be a popular touring act.  
+
+In August 1985, MCA Records released the band album ''Streetfighter'', which yielded two singles in the title track and "Book of Love", a [[post-disco]]-style revamp of the Monotones' 1957 recording.  In September 1992, the band released an album entitled ''Hope + Glory'' on the MCA/Curb label; this is the most recent band studio album to date, but Valli has released three solo albums since then. On at least one or two occasions, starting in the late 1980s or early 1990s, former member Joe Long would make guest appearances with Valli and the band at select shows, but it is unclear if this included full performances or parts of concerts.<ref name="Joe Long interview with Stuart Miller"></ref> Nick Massi also had occasional brief reunions with the group.<ref>{{Cite web |last=Waldo |first=Anetta |date=2023-10-29 |title=14 Surprising Facts About Nick Massi |url=https://facts.net/celebrity/14-surprising-facts-about-nick-massi/ |access-date=2024-06-03 |website=Facts.net |language=en-US}}</ref> In 1990, the original four members - Frankie Valli, Bob Gaudio, Tommy DeVito, and Nick Massi - appeared together for the first time in 25 years, at the Four Seasons' induction to [[the Rock and Roll Hall of Fame]]. Valli had unsuccessfully fought to have Joe Long included in the induction.<ref name="realjersey">{{Cite web |last=Mark |first=Voger |date=July 2, 2016 |title=Four Seasons singer a real Jersey |url=https://www.nj.com/entertainment/2016/07/four_seasons.html |access-date=2024-02-26 |website=[[Nj.com]]}}</ref> In 1994, "December 1963 (Oh What A Night)" re-entered the Hot 100 by way of a remix.
+
+===2000–present: Valli-led tours and ''Jersey Boys''===
+[[File:Frankie Valli and The Four Seasons.jpg|thumb|right|Valli with the Modern Gentlemen, who served as the Four Seasons from 2003 to 2018]]
+By the early 2000s, the Four Seasons tours were falling in attendance and revenue, prompting Valli to seriously consider retirement.<ref name=vegasmanknows>{{Cite web|url=https://lasvegassun.com/news/2008/apr/02/vegas-man-knows-jersey-boys/|title=Vegas man knows 'Jersey Boys'|first=Jerry|last=Fink|date=April 2, 2008|website=Lasvegassun.com|access-date=September 23, 2020}}</ref> He instead assembled a new backing quartet consisting of Landon Beard, Todd Fournier, and brothers Brian Brigham and Brandon Brigham. The success of the musical ''[[Jersey Boys]]'' largely saved the Four Seasons.<ref name=vegasmanknows/>
+
+A 3CD + 1DVD box set ''...Jersey Beat... The Music of Frankie Valli & the 4 Seasons'' was released in mid-2007, marketed as the most comprehensive collection of Four Seasons music yet. The album title ''Jersey Beat'' is a play on ''[[Jersey Boys]],'' a successful Broadway musical about the Four Seasons, as well as on ''[[Mersey Beat]]'', a term first coined as the title of a music magazine published in Liverpool, England, from 1961, but subsequently also used to describe Liverpool's "beat music" culture of the early 1960s.
+
+In 2008, the Four Seasons' "Beggin'" was revived by two acts. Pilooski made an electro remix of that song, while rap act [[Madcon]] used it as the basis of their song "Beggin'". The latter reached No. 5 in the UK charts and was a hit across Europe. The song was featured in a TV commercial for [[adidas]] shoes entitled "Celebrate Originality". The Adidas commercial is a popular hit on [[YouTube]] and features a house party with famous celebrities such as [[David Beckham]], [[Russel Simmons]], [[Kevin Garnett]], [[Missy Elliott]], [[Katy Perry]], and [[Mark Gonzales]].<ref>{{Cite web|url=https://www.youtube.com/watch?v=TT3Jj9OGMA0|archive-url=https://web.archive.org/web/20150704231449/https://www.youtube.com/watch?v=TT3Jj9OGMA0|url-status=dead|title=YouTube|archive-date=July 4, 2015|website=Youtube.com}}</ref><ref>{{cite web | url=http://www.cleveland.com/popmusic/index.ssf/2011/12/frankie_valli_the_original_jer.html | title=Frankie Valli, the original Jersey Boy, can't wait to get to Cleveland for two shows Dec. 10–11 at Palace Theatre | website=Cleveland.com | date=December 9, 2011 | access-date=June 29, 2012}}</ref> Also in 2008, Gaudio and Robinson recorded ''Jersey Babys: The Instrumental Music of Frankie Valli and the Four Seasons for Kids'', an instrumental [[children's music|children's album]], under the Four Seasons brand but without Valli's direct involvement. ''Jersey Babys'' {{sic}} was originally envisioned by Danielle Lahlezar, Gaudio's daughter from his first marriage to Brit Olsen (to whom the album was dedicated). ''Jersey Babys'' was re-released in 2024 with an additional bonus track.<ref>{{Cite web |date=2024-05-31 |title=Green Hill Music Re-releases "Jersey Babys: The Instrumental Music of Frankie Valli & The 4 Seasons For Kids" |url=https://www.newjerseystage.com/asburymusic.com/getarticle2.php?titlelink=green-hill-music-re-releases-jersey-babys-the-instrumental-music-of-frankie-valli-and-the-4-seasons-for-kids052024 |access-date=2024-12-06 |website=ThePenguinRocks.com |language=en}}</ref>
+
+Members of the 1970s lineup of the group (Polci, Ciccone, and Shapiro) reunited without Valli in 2011 as '''the Hit Men'''; it toured with several other [[session musician]]s of good repute. Shapiro has continued the Hit Men as a standalone project after Ciccone died in 2016 and Polci withdrew from the group in 2017.<ref name="NashvilleHoF">{{Cite magazine |date=17 October 2019 |title=Musicians Hall of Fame to Honor Session Legends The Hit Men |url=https://www.billboard.com/music/rock/musicians-hall-of-fame-to-honor-session-legends-hit-men-8533302/ |url-status=live |archive-url=https://web.archive.org/web/20191019012729/https://www.billboard.com/articles/columns/rock/8533302/musicians-hall-of-fame-to-honor-session-legends-hit-men |archive-date=19 October 2019 |access-date=12 July 2020 |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Associated Press]]}}</ref>
+
+In 2015, former longtime guitarist Larry Lingle rejoined the band, and he left for the second time after a concert on May 1, 2016.<ref name="Larry Lingle briefly rejoins 2015-2016">{{cite web |last1=Boleyn |first1=Lynn |last2=Lingle |first2=Larry |title=Thanks for the Music: Larry Lingle's Last Show with Frankie Valli |url=https://thatfourseasonssound.typepad.com/seasonally/2016/04/thanks-for-the-music.html |website=That "Four Seasons" Sound |publisher=Four Seasons UK Appreciation Society |access-date=May 27, 2024 |date=April 24, 2016}}</ref>  On September 10, 2016, the band performed with the BBC Concert Orchestra in [[Hyde Park, London|Hyde Park]], as part of the ''BBC Proms in the Park''.<ref>{{cite web |title=BBC Proms in the Park Hyde Park |url=https://www.bbc.co.uk/events/e2bxj5 |website=BBC.co.uk |publisher=BBC |access-date=3 June 2022}}</ref>
+
+In 2018, the Beard/Fournier/Brigham quartet spun off and began performing as '''the Modern Gentlemen''', with Valli's blessing, and Valli recruited a new quartet of singers to back him. Beard, Fournier, and the Brigham brothers performed as the Four Seasons for 15 years,<ref name="The Modern Gentlemen">{{cite web |title=The Modern Gentlemen: Bio |url=https://www.themoderngentlemen.net/bio |website=The Modern Gentlemen |access-date=May 27, 2024}}</ref> longer than any other lineup and longer than any of the band's other members except Valli, Gaudio and Robinson. 
+
+In 2020, the group launched a [[YouTube]] channel.  During that same year, and continuing into 2021, during earlier phases of the [[COVID-19 pandemic in the United States|coronavirus (COVID-19) pandemic]], the group virtually re-recorded three of their songs ("Harmony, Perfect Harmony", "Let's Hang On" and "Silence Is Golden"), as well as Valli's hit, "Grease", for their YouTube channel. The channel has since added archival videos from the group's television appearances and records by Four Seasons [[tribute act]]s, such as former ''Jersey Boys'' cast members.<ref>{{cite web|url=https://www.youtube.com/channel/UC0alO7vH9B-o7Yi8RpsaFzw/videos|title=Frankie Valli and the Four Seasons|publisher=[[YouTube]]|accessdate=March 24, 2021}}</ref>
+
+A limited-edition 44-disc career box set called ''Working Our Way Back to You: The Ultimate Collection'' was initially going to be released in the summer of 2021 by The Four Seasons Partnership and Snapper Records,<ref>{{cite web | url=http://allyourscreens.com/en/component/k2/item/688-2021-brings-long-awaited-44-cd-career-set-for-four-seasons-fans | title=2021 Brings Long-Awaited 44-Disc Career Set For Four Seasons Fans | website=AllYourScreens.com | date=January 9, 2021 | access-date=March 9, 2021}}</ref> but it missed the release due to the COVID-19 pandemic. However, the box set was later rescheduled for release on December 9, 2022, before the release date was pushed back to April 14, 2023. The box set was eventually released on June 2, 2023, by The Four Seasons Partnership and Madfish/Snapper Music. It includes every album released by the band (including both mono and stereo mixes, where available), a CD of unreleased tracks from the band's Mowest years, three live shows taken from soundboard recordings as well as numerous other rare tracks and alternative versions.
+
+The Four Seasons announced their farewell tour, The Last Encores Tour, to run through 2024, including several extended stays at the [[Westgate Las Vegas Resort & Casino]].<ref name=farewelltour>{{Cite web |date=2023-10-04 |title=Frankie Valli Announces "The Last Encores" 2023-2024 Tour Dates |url=https://consequence.net/2023/10/frankie-valli-four-seasons-last-encores-2023-2024-tour-dates/ |access-date=2023-10-05 |language=en-US}}</ref> In an interview with the ''Los Angeles Times'', Valli did not rule out future appearances after the tour, stating that "I'm not sure whether I'm gonna keep going out."<ref>{{Cite web |last=Wood |first=Mikael |date=2023-10-25 |title=At 89, Frankie Valli is ready for one last encore |url=https://www.latimes.com/entertainment-arts/music/story/2023-10-25/frankie-valli-four-seasons-beggin |access-date=2023-10-26 |website=Los Angeles Times |language=en-US}}</ref> The tour was eventually extended into 2025, with representatives for Valli responding to criticism of him touring at such an advanced age and fears of [[elder abuse]] by assuring that Valli was "doing just fine and super happy to be still performing."<ref>{{Cite web |last=Jordan |first=Chris |date=2024-08-14 |title=Frankie Valli, 90, pushes back at critics who say he's too old to perform |url=https://www.aol.com/frankie-valli-90-pushes-back-192535680.html |access-date=2024-08-29 |website=Asbury Park Press via AOL |language=en-US}}</ref> In a statement to ''[[People (magazine)|People]]'', Valli indicated a willingness to continue performing as long as audiences continued to buy tickets, responding to accusations of [[lip sync]]ing by noting that his touring production was using a strategy it had long relied on for studio recordings "layering vocals and instruments" to allow the Seasons to maintain a sound similar to that heard in the 1960s despite Valli's age.<ref>{{Cite web |title=Frankie Valli Breaks Silence After Performance Videos Spark Concern: Nobody Is 'Forcing Me to Go on Stage' (Exclusive) |url=https://people.com/frankie-valli-speaks-out-after-performance-videos-spark-concern-exclusive-8720930 |access-date=2024-10-04 |website=People.com |language=en}}</ref>
+
+Throughout the Four Seasons' {{years ago|1960}}-year existence, no incarnation of the group has ever won a competitive [[Grammy Award]]. In 2025, Valli was awarded the [[Grammy Lifetime Achievement Award]], the only Grammy the group has yet received.<ref>{{cite web|url=https://www.grammy.com/news/2025-grammys-special-merit-awards-recipients|title=The Recording Academy Announces 2025 Special Merit Award Honorees: Prince, The Clash, Taj Mahal, Roxanne Shante & Many More |publisher=GRAMMY.com |date=2024-12-20}}</ref>
+
+== Other names ==
+From 1956 until "My Eyes Adored You" in 1975, records which the Four Seasons recorded had the following artist credit (a sampling):
+
+===Pre-1960===
+* Frankie Vall
+* Frankie Valley
+* Frankie Valle and the Romans
+* The Four Lovers
+* Frankie Tyler
+* The Variatones
+
+===1960 and after===
+* The Four Seasons
+* Hal Miller and the Rays
+* Billy Dixon and the Topics
+* Johnny Halo featuring the Four Seasons
+* The 4 Seasons
+* The Wonder Who?
+* Frankie Valli
+* The Valli Boys
+* Frankie Valli and the Four Seasons
+* The Romans
+* The Village Voices
+
+==Members==
+Partial credits before 1994.<ref>{{Cite web |url=https://www.seasonally.co.uk/FourSeasonsMembers.htm |title=Four Seasons 'Rock Family Tree' |website=Seasonally.co.uk |access-date=23 September 2020}}</ref><ref>{{Cite web |url=https://teachrock.org/article/the-four-seasons-ten-years-and-still-hanging-on/ |title=The Four Seasons: Ten Years And Still Hanging On |website=Teachrock.org |access-date=23 September 2020}}</ref>
+
+===Current members===
+* [[Frankie Valli]] – vocals <small>(1960–present)</small>
+* [[Bob Gaudio]] – vocals, keyboards, guitar <small>(1960–present; ''not touring 1972–present'')</small>
+* [[Robby Robinson (musician)|Robby Robinson]] – keyboards, musical director <small>(1982–1996, 2004–present)</small>
+
+===Current touring musicians===
+{{div col|colwidth=30em}}
+* Rick Keller – saxophone, flute, keyboards, percussion <small>(2010–present)</small>
+* Basil Fung – guitar <small>(2018–present)</small>
+* Andy Sanesi – drums <small>(2018–present)</small>
+* Craig Cady – backing vocals (second tenor) <small>(2018–present)</small>
+* Carmen Grillo – guitar <small>(2021–present)</small>
+* Alfredo Lopez – bass <small>(2021–present)</small>
+* Aaron Alexander Gordon – backing vocals (baritone) <small>(2022–present)</small>
+* Justin Michael Rodriguez – backing vocals (first tenor) <small>(2024–present)</small>
+* Erik Garcia – keyboards <small>(2024–present)</small>
+* Heath Francis – backing vocals <small>(2025–present)</small>
+{{div col end}}
+
+===Former members===
+{{div col|colwidth=30em}}
+* [[Tommy DeVito (musician)|Tommy DeVito]] – vocals, guitar <small>(1960–1970; died 2020)</small> <!-- <ref group=note>test for future notes.</ref> --><!-- <ref group=note>test for future notes.</ref> -->
+* [[Nick Massi]] – vocals, bass <small>(1960–1965, 1973–1974; died 2000)</small> <!-- <ref group=note>test for future notes.</ref> -->
+* [[Charles Calello]] – vocals, bass <small>(1965)</small>
+* [[Joe Long]] – vocals, bass <small>(1965–1975; died 2021)</small> <!-- <ref group=note>test for future notes.</ref> -->
+* [[Demetri Callas]] – vocals, guitar <small>(1971–1974; died 2020)</small><ref name="obit">{{cite web |url=https://www.legacy.com/obituaries/fredericknewspost/obituary.aspx?n=pantelis-callas-demetri&pid=195174918|title=Pantelis "Demetri" Callas|last=|first=|date=January 27, 2020|accessdate=May 20, 2021|website=The Frederick News-Post}}</ref><ref name=Callas2023article></ref>
+* Clay Jordan – vocals, keyboards <small>(1971–1972, 1973)</small>
+* [[Gerry Polci]] – vocals, drums <small>(1973–1977, 1979–1982, 1988–1990)</small><ref>{{Cite web|url=http://www.classicbands.com/FourSeasonsGerryPolciInterview.html|title=Gary James' Interview With The Four Seasons' Gerry Polci|website=Classicbands.com|access-date=23 September 2020}}</ref>
+* [[Lee Shapiro (musician)|Lee Shapiro]] – vocals, keyboards <small>(1973–1977)</small><ref>{{Cite web|url=http://jewishstandard.timesofisrael.com/there-had-to-be-a-jewish-jersey-boy%c2%9d-and-there-is-and-hes-local/|title=There had to be a Jewish "Jersey Boy" – and there is. And he's local!|first=Nate|last=Bloom|website=Jewishstandard.timesofisrael.com|access-date=23 September 2020}}</ref>
+* {{interlanguage link|John Paiva|de}} – vocals, lead and rhythm guitars <small>(1974–1977)</small><ref>{{Cite web |url=http://blues.gr/profiles/blogs/an-interview-with-the-brilliant-guitarist-john-paiva-i-have |title=An Interview with the brilliant guitarist John Paiva: I have learned from everyone including my students. You never stop learning. |first1=Michael |last1=Limnios |website=Blues.gr |access-date=23 September 2020}}</ref><!-- source for 1974 date: Paiva's appearance with the Four Seasons at the Tulsa State Fair September 1974, aired on The Midnight Special January 10, 1975 -->
+* [[Don Ciccone]] – vocals, bass, rhythm guitar <small>(1975–1977, 1979–1982; died 2016)</small><ref>{{Cite web|url=https://www.legacy.com/amp/obituaries/heraldnews/181823950|title=Don Ciccone (1946–2016) – Obituary|website=Legacy.com|date=October 10, 2016 |access-date=23 September 2020}}</ref>
+* Larry Lingle – lead and rhythm guitars <small>(1979–1993, 2015–2016)</small><ref>{{Cite web |last=By |date=1991-02-06 |title=FRANKIE VALLI'S VOICE A CONSTANT AS THE FOUR SEASONS CHANGE |url=https://www.orlandosentinel.com/1991/02/06/franki-vallis-voice-a-constant-as-the-four-seasons-change/ |access-date=2024-05-23 |website=Orlando Sentinel |language=en-US}}</ref><ref name="scotsman" /><ref name="Larry Lingle briefly rejoins 2015-2016"/>
+* [[Jerry Corbetta]] – vocals, keyboards <small>(1979–1985; died 2016)</small><ref>{{Cite web |url=https://bestclassicbands.com/jerry-corbetta-obituary-9-18-16/ |title=Sugarloaf Sings About a 'Green-Eyed Lady' |website=Bestclassicbands.com |date=27 August 2018 |access-date=23 September 2020}}</ref>
+* Rex Robinson – vocals, bass <small>(1982–2003)</small>
+* Chuck Wilson – backing vocals <small>(1982–1993)</small>; percussion <small>(1982–1990)</small>; drums <small>(1990–1993)</small>
+* Lynn Hammann – vocals, drums <small>(1982–1988)</small>
+* Tim Stone – vocals, keyboards <small>(1991–1996; died 2023)</small><ref>{{Cite web |date=May 8, 2023 |title=TIM STONE - OUR SILVER STAR - 18 APRIL 1958 - 5 MAY 2023 |url=https://thatfourseasonssound.typepad.com/seasonally/2023/05/tim-stone-our-silver-star.html |access-date=October 10, 2024 |website=thatfourseasonsound}}</ref>
+{{div col end}}
+
+===Former touring musicians===
+{{div col|colwidth=30em}}
+* Ron Roach – drums <small>(1960–1966)</small><ref>{{Cite web |url=https://www.seasonally.co.uk/FourSeasonsMembers.htm|title=Four Seasons Family Tree}}</ref>
+* Joey Cass – drums <small>(1966–1970; died 2009)</small><ref>{{Cite web |date=May 8, 2023 |title=SHOP TALK |url=https://www.nytimes.com/1972/09/17/archives/about-hasbrouck-heights.html |access-date=January 27, 2025 |website=[[The New York Times]]}}</ref>
+* Billy Long – drums <small>(1970)</small><ref>{{Cite web |url=https://www.seasonally.co.uk/FourSeasonsMembers.htm|title=Four Seasons Family Tree}}</ref>
+* Bob Grimm – vocals, guitar <small>(1970–1971)</small>
+* Gary Volpe – drums <small>(1970–1971)</small><ref>{{Cite web |url=https://www.seasonally.co.uk/FourSeasonsMembers.htm|title=Four Seasons Family Tree}}</ref>
+* Al Ruzicka - organs and keyboards <small>(1971-1972)</small><ref>Angelfire - [https://www.angelfire.com/music/SeasonologyInstitute/history.html The History of Frankie Valli and the Four Seasons, And here are the Seasons: Al Ruzicka : Organs and Keyboards (1971-1972 or 1975)]</ref><ref>Jazz Rock Soul - [https://jazzrocksoul.com/artists/the-four-seasons/ The Four Seasons, Members: Al Ruzicka (keyboards, vocals, 1972-75)]</ref>
+* Paul Wilson – drums <small>(1971–1973)</small><ref>{{Cite web |url=https://www.seasonally.co.uk/FourSeasonsMembers.htm|title=Four Seasons Family Tree}}</ref>
+* Bill DeLoach – vocals, keyboards <small>(1972–1973)</small>
+* Mike Lingle – drums <small>(1982–1985)</small>
+* Robin Swenson – keyboards <small>(1985–1991)</small>
+* Howard Larrabee – vocals, keyboards <small>(1988–1990)</small>
+* Richie Gajate-Garcia – percussion <small>(1990–2019)</small>
+* Daniel "Zoro" Donelly – drums <small>(1994–2005)</small>
+* [[Adrian Baker]] – vocals, guitar <small>(1994–1995)</small>
+* Tommy Alvarado – saxophone, percussion <small>(1994–1996)</small>
+* Fino Roverato – guitar <small>(1994–2003?)</small>
+* [[Warren Ham]] – saxophone <small>(1996–2000)</small>
+* Todd Fournier – backing and lead vocals (second tenor) <small>(2002–2018)</small>
+* Jason Martinez – backing and lead vocals (second tenor) <small>(2002–2007, 2018)</small>
+* Rich Callaci – keyboards <small>(2003)</small>
+* Landon Beard – backing and lead vocals (bass) <small>(2003–2018)</small>
+* Brian Brigham – backing and lead vocals (first tenor, baritone, bass) <small>(2003–2018)</small>
+* Keith Hubacher – bass <small>(2004–2007, 2016–2018)</small>
+* Craig Pilo – drums <small>(2005–2018)</small><ref>{{Cite web |url=https://www.feelingthevibe.com/interviews/craigpilo/ |title=Craig Pilo Exclusive Interview :: Drummer for Frankie Valli & The Four Seasons &#124; Feeling the Vibe Magazine |website=Feelingthevibe.com |access-date=23 September 2020}}</ref>
+* Val Martinez – backing and lead vocals <small>(2006)</small>
+* Brandon Brigham – backing and lead vocals (first tenor) <small>(2006–2018)</small>
+* John Schroeder – guitar <small>(c. 2012)</small>
+* Robbie Angelucci – guitar <small>(2010-2014)</small>
+* John Menzano – bass <small>(2010-2014)</small>
+* Brad Sharp <small>(2014–2016)</small>
+* Ronen Bay – backing and lead vocals (first tenor) <small>(2018–2024)</small>
+* Joseph Ott – backing and lead vocals (baritone) <small>(2018–2022)</small>
+* Erik Bates – backing and lead vocals (bass) <small>(2018–2020)</small>
+* Noah Rivera – backing vocals (bass) <small>(2020–2024)</small>
+* Sandro Rebel – keyboards <small>(2018–2020)</small>
+* Wil Roberts – bass <small>(2018–2020)</small>
+* Christian Moraga – percussion <small>(2019–2020)</small>
+* Edwin Livingston – bass <small>(2020)</small>
+* [[Jamie Kime]] – guitar <small>(2020–2021)</small>
+* Steve Warren – bass <small>(2021)</small>
+{{div col end}}
+
+===Timeline===
+{{#tag:timeline|
+ImageSize  = width:900 height:auto barincrement:20
+PlotArea   = left:100 bottom:90 top:0 right:0
+Alignbars  = justify
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1960 till:{{#time:d/m/Y}}
+TimeAxis   = orientation:horizontal format:yyyy
+Legend     = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:7 start:1960
+ScaleMinor = increment:1 start:1960
+
+Colors =
+ id:vocals        value:red          legend:Lead_vocals
+ id:guitar        value:green        legend:Guitar
+ id:bass          value:blue         legend:Bass
+ id:keys          value:purple       legend:Keyboards
+ id:drums         value:orange       legend:Drums
+ id:perc          value:claret       legend:Percussion
+ id:trump         value:skyblue      legend:Trumpet
+ id:sax           value:tan2      legend:Saxophone
+ id:backvox       value:pink         legend:Backing_vocals
+ id:studio        value:black        legend:Studio_album
+ id:bars          value:gray(0.9)
+
+BackgroundColors = bars:bars
+
+BarData =
+   bar:Frankie     text:"Frankie Valli"
+
+   bar:Tommy       text:"Tommy DeVito"
+   bar:Bob2        text:"Bob Grimm"
+   bar:Demetri     text:"Demetri Callas"
+   bar:Don         text:"Don Ciccone"
+   bar:John        text:"John Paiva"
+   bar:Larry       text:"Larry Lingle"
+   bar:Fino        text:"Fino Roverato"
+   bar:Adrian      text:"Adrian Baker"
+   bar:Matt        text:"Matt Baldoni"
+   bar:Gary        text:"Gary Melvin"
+   bar:Robbie      text:"Robbie Angelucci"
+   bar:JohnS       text:"John Schroeder"
+   bar:Basil       text:"Basil Fung"
+   bar:Jamie       text:"Jamie Kime"
+   bar:Carmen      text:"Carmen Grillo"
+
+   bar:Nick        text:"Nick Massi"
+   bar:Charlie     text:"Charlie Calello"
+   bar:Joe         text:"Joe Long"
+   bar:Rex         text:"Rex Robinson"
+   bar:Keith       text:"Keith Hubacher"
+   bar:JohnM       text:"John Menzano"
+   bar:Wil         text:"Wil Roberts"
+   bar:Edwin       text:"Edwin Livingston"
+   bar:Alfredo     text:"Alfredo Lopez"
+   bar:SteveW      text:"Steve Warren"
+
+   bar:Bob         text:"Bob Gaudio"
+   bar:Joe2        text:"Joseph Stefanelli"
+   bar:Al          text:"Al Ruzicka"
+   bar:Clay        text:"Clay Jordan"  
+   bar:Billy1      text:"Billy DeLoach"
+   bar:Lee         text:"Lee Shapiro"
+   bar:Robby       text:"Robby Robinson"
+   bar:Jerry       text:"Jerry Corbetta"
+   bar:Robin       text:"Robin Swenson"
+   bar:Howard      text:"Howard Laravea"
+   bar:Tim         text:"Tim Stone"
+   bar:Rich        text:"Rich Callaci"
+   bar:Sandro      text:"Sandro Rebel"
+   bar:ErikG       text:"Erik Garcia"
+
+   bar:Ralph       text:"Ralph Roach"
+   bar:Joey        text:"Joey Cass"
+   bar:Billy2      text:"Billy Long"
+   bar:Gary2       text:"Gary Volpe"
+   bar:Paul        text:"Paul Wilson"
+   bar:Gerry       text:"Gerry Polci"
+   bar:Lynn        text:"Lynn Hamman"
+   bar:MikeL       text:"Mike Lingle"
+   bar:Zoro        text:"Daniel "Zoro" Donelly"
+   bar:Craig       text:"Craig Pilo"
+   bar:AndyS       text:"Andy Sanesi"
+   bar:Chuck       text:"Chuck Wilson"
+   bar:RichieGG    text:"Richie Gajate-Garcia"
+   bar:Christian   text:"Christian Moraga"
+   bar:John2       text:"John Stefan"
+   bar:Tom         text:"Tommy Alvarado"
+   bar:Warren      text:"Warren Hamm"
+   bar:Steve       text:"Steve Gregory"
+   bar:RickK       text:"Rick Keller"
+
+   bar:Todd        text:"Todd Fournier"
+   bar:JasonM      text:"Jason Martinez"
+   bar:Brian       text:"Brian Brigham"
+   bar:Landon      text:"Landon Beard"
+   bar:Brandon     text:"Brandon Brigham"
+   bar:Val         text:"Val Martinez"
+   bar:CraigC      text:"Craig Cady"
+   bar:Ronen       text:"Ronen Bay"
+   bar:JosephO     text:"Joseph Ott"
+   bar:ErikB       text:"Erik Bates"
+   bar:NoahR       text:"Noah Rivera"
+   bar:AAG         text:"Aaron Alexander Gordon"
+   bar:JMR         text:"Justin Michael Rodriguez"
+   bar:HeathF      text:"Heath Francis"
+
+PlotData =
+   width:11 textcolor:black align:left anchor:from shift:(10,-4)
+   bar:Frankie  from:01/01/1960  till:end         color:vocals
+   bar:Frankie  from:01/04/1973  till:31/12/1978  color:backvox width:3
+   bar:Frankie  from:01/01/1981  till:31/12/1982  color:backvox width:3
+   bar:Tommy    from:01/01/1960  till:30/04/1970  color:guitar
+   bar:Tommy    from:01/01/1960  till:30/04/1970  color:backvox width:3
+   bar:Bob2     from:01/05/1970  till:31/12/1970  color:guitar
+   bar:Bob2     from:01/05/1970  till:31/12/1970  color:backvox width:3
+   bar:Demetri  from:01/01/1971  till:31/12/1974  color:guitar
+   bar:Demetri  from:01/01/1971  till:31/12/1974  color:backvox width:3
+   bar:John     from:01/01/1975  till:31/12/1977  color:guitar
+   bar:Larry    from:01/06/1979  till:01/06/1993  color:guitar
+   bar:Larry    from:01/06/2015  till:01/05/2016  color:guitar
+   bar:Fino     from:01/06/1993  till:31/12/1993  color:guitar
+   bar:Adrian   from:01/01/1994  till:31/12/1994  color:guitar
+   bar:Adrian   from:01/01/1994  till:31/12/1994  color:vocals width:3
+   bar:Fino     from:01/01/1995  till:31/12/1999  color:guitar
+   bar:Matt     from:01/01/2005  till:31/12/2005  color:guitar
+   bar:Gary     from:01/01/2006  till:end         color:guitar
+   bar:Robbie   from:01/01/2010  till:31/12/2014  color:guitar
+   bar:JohnS     from:01/01/2012  till:31/12/2012  color:guitar
+   bar:Matt     from:01/01/2014  till:end         color:guitar
+   bar:Basil    from:01/01/2018  till:end         color:guitar
+   bar:Jamie    from:01/01/2020  till:31/12/2021  color:guitar
+   bar:Carmen   from:01/01/2021  till:end         color:guitar
+   bar:Nick     from:01/01/1960  till:31/08/1965  color:bass
+   bar:Nick     from:01/01/1960  till:31/08/1965  color:backvox width:3
+   bar:Charlie  from:01/09/1965  till:30/11/1965  color:bass
+   bar:Charlie  from:01/09/1965  till:30/11/1965  color:backvox width:3
+   bar:Joe      from:01/12/1965  till:30/04/1975  color:bass
+   bar:Joe      from:01/12/1965  till:30/04/1975  color:backvox width:3
+   bar:Don      from:01/10/1972  till:30/04/1975  color:guitar
+   bar:Don      from:01/10/1972  till:30/04/1975  color:backvox width:3
+   bar:Don      from:30/04/1975  till:31/12/1977  color:bass
+   bar:Don      from:30/04/1975  till:31/12/1977  color:vocals  width:3 
+   bar:Rex      from:01/01/1978  till:01/06/1979  color:bass
+   bar:Rex      from:01/06/1982  till:01/06/2003  color:bass
+   bar:Don      from:01/01/1981  till:31/12/1982  color:bass
+   bar:Don      from:01/01/1981  till:31/12/1982  color:vocals  width:3 
+   bar:Rex      from:01/01/1983  till:31/12/2000  color:bass
+   bar:Keith    from:01/01/2004  till:01/06/2007  color:bass
+   bar:Keith    from:01/06/2016  till:01/04/2018  color:bass
+   bar:JohnM    from:01/01/2010  till:31/12/2014  color:bass
+   bar:Wil      from:01/01/2018  till:31/12/2020  color:bass
+   bar:Edwin    from:01/01/2020  till:31/12/2020  color:bass
+   bar:Alfredo  from:01/01/2021  till:end         color:bass
+   bar:SteveW   from:01/01/2021  till:31/12/2021  color:bass
+   bar:Bob      from:01/01/1960  till:31/08/1971  color:keys
+   bar:Bob      from:31/08/1971  till:01/01/1986  color:keys
+   bar:Bob      from:01/01/1960  till:31/08/1971  color:backvox width:3
+   bar:Bob      from:01/01/1986  till:01/01/1991  color:keys    width:7
+   bar:Bob      from:01/01/1991  till:01/01/1993  color:keys    
+   bar:Bob      from:01/01/1993  till:end         color:keys    width:7
+   bar:Clay     from:01/01/1972  till:31/12/1973  color:keys
+   bar:Billy1   from:01/01/1973  till:31/03/1973  color:keys
+   bar:Al       from:01/09/1971  till:31/12/1972  color:keys
+   bar:Joe2     from:01/01/1971  till:31/12/1972  color:keys
+   bar:Lee      from:01/01/1973  till:31/12/1977  color:keys
+   bar:Robby    from:01/01/1978  till:01/06/1979  color:keys
+   bar:Robby    from:01/06/1982  till:01/06/1996 color:keys
+   bar:Robby    from:01/01/2004  till:end         color:keys
+   bar:Jerry    from:01/01/1980  till:31/12/1984  color:keys
+   bar:Jerry    from:01/01/1980  till:31/12/1984  color:vocals width:3
+   bar:Robin    from:01/06/1985  till:01/06/1988  color:keys
+   bar:Howard   from:01/06/1988  till:01/06/1990  color:keys
+   bar:Tim      from:15/11/1990  till:31/12/1997  color:keys
+   bar:Tim      from:15/11/1990  till:31/12/1997  color:vocals  width:3
+   bar:Rich     from:01/01/1998  till:08/08/2000  color:keys
+   bar:Sandro   from:01/01/2018  till:31/12/2020  color:keys
+   bar:ErikG    from:01/01/2024  till:end         color:keys
+   bar:Ralph    from:01/01/1960  till:01/01/1966  color:drums
+   bar:Joey     from:01/02/1966  till:01/01/1970  color:drums
+   bar:Billy2   from:01/02/1970  till:06/01/1970  color:drums
+   bar:Gary2    from:06/02/1970  till:06/01/1971  color:drums
+   bar:Paul     from:06/02/1971  till:31/03/1973  color:drums
+   bar:Gerry    from:01/04/1973  till:31/12/1977  color:drums
+   bar:Gerry    from:01/04/1973  till:31/12/1977  color:vocals  width:3
+   bar:Gerry    from:01/01/1979  till:28/02/1982  color:drums
+   bar:Gerry    from:01/01/1979  till:28/02/1982  color:vocals  width:3
+   bar:Lynn     from:01/03/1982  till:01/06/1988  color:drums
+   bar:MikeL    from:01/03/1982  till:31/12/1985  color:drums
+   bar:Gerry    from:01/06/1988  till:31/12/1993  color:drums
+   bar:Gerry    from:01/06/1988  till:01/06/1990  color:vocals  width:3
+   bar:Chuck    from:01/01/1982  till:31/12/1993  color:backvox width:3
+   bar:Chuck    from:01/01/1982  till:01/06/1990  color:perc
+   bar:Chuck    from:01/06/1990  till:31/12/1993  color:drums
+   bar:RichieGG from:01/01/1990  till:31/12/2019  color:perc
+   bar:Christian from:01/01/2019 till:31/12/2020  color:perc
+   bar:Zoro     from:01/01/1994  till:01/10/2005  color:drums
+   bar:Craig    from:01/10/2005  till:01/01/2019  color:drums
+   bar:AndyS    from:01/01/2018  till:end         color:drums
+   bar:John2    from:01/01/1970  till:31/12/1971  color:trump
+   bar:Tom      from:01/01/1994  till:06/01/1996  color:sax
+   bar:Tom      from:01/01/1994  till:06/01/1996  color:perc width:3
+   bar:Warren   from:06/01/1996  till:31/12/2000  color:sax
+   bar:Steve    from:01/01/2001  till:31/12/2005  color:sax
+   bar:RickK    from:01/01/2010  till:end         color:sax
+   bar:RickK    from:01/01/2010  till:end         color:keys width:3
+   bar:Todd     from:01/01/2002  till:01/01/2019  color:backvox
+   bar:Brian    from:06/01/2003  till:01/01/2019  color:backvox
+   bar:JasonM   from:01/01/2002  till:31/12/2007  color:backvox
+   bar:JasonM   from:01/01/2018  till:31/12/2018  color:backvox
+   bar:Brandon  from:01/01/2006  till:01/01/2019  color:backvox
+   bar:Val      from:01/01/2006  till:31/12/2006  color:backvox
+   bar:Landon   from:06/01/2003  till:01/01/2019  color:backvox
+   bar:CraigC   from:01/01/2018  till:end         color:backvox
+   bar:Ronen    from:01/01/2018  till:31/12/2024  color:backvox
+   bar:JosephO  from:01/01/2018  till:31/12/2022  color:backvox
+   bar:ErikB    from:01/01/2018  till:31/12/2020  color:backvox
+   bar:NoahR    from:01/01/2020  till:31/12/2024  color:backvox
+   bar:AAG      from:01/01/2022  till:end         color:backvox
+   bar:JMR      from:01/01/2024  till:end         color:backvox
+   bar:HeathF   from:01/01/2025  till:end         color:backvox
+
+LineData =
+ layer:back
+ color:studio
+ at:01/09/1962
+ at:01/12/1962
+ at:01/02/1963
+ at:01/06/1963
+ at:01/02/1964
+ at:01/03/1964
+ at:01/07/1964
+ at:01/03/1965
+ at:01/10/1965
+ at:01/01/1966
+ at:01/05/1967
+ at:01/02/1969
+ at:01/05/1970
+ at:01/05/1972
+ at:01/11/1975
+ at:01/04/1977
+ at:01/01/1981
+ at:01/08/1985
+ at:01/09/1992
+}}
+
+==Discography==
+{{Main|The Four Seasons discography}}
+
+=== Studio albums ===
+
+{| class="wikitable"
+|-
+!Date of release
+!Title
+![[Billboard 200|''Billboard'']]<br/>peak<ref name="allmusic">{{cite web|url=http://www.allmusic.com/artist/the-four-seasons-p12974/charts-awards |title=The Four Seasons |publisher=AllMusic |date=2007-11-08 |access-date=2012-04-04}}</ref><ref name="AllmusicFV">{{cite web|url=http://www.allmusic.com/artist/frankie-valli-p5738/charts-awards |title=Frankie Valli |publisher=AllMusic |date=n.d. |access-date=2012-04-04}}</ref>
+!Label
+!Catalog number
+|-
+|September 1962
+|''[[Sherry & 11 Others]]''
+| style="text-align:center;"|6
+|rowspan="4"|[[Vee-Jay Records|Vee-Jay]]
+|LP-1053 (Mono) / SR-1053 (Stereo)
+|-
+|December 1962
+|''[[The 4 Seasons Greetings]]''
+| style="text-align:center;"|13
+|LP / SR-1055
+|-
+|February 1963
+|''Big Girls Don't Cry and Twelve Others...''
+| style="text-align:center;"|8
+|LP / SR-1056
+|-
+|June 1963
+|''The 4 Seasons Sing Ain't That a Shame and 11 Others''
+| style="text-align:center;"|47
+|LP / SR-1059
+|-
+|February 1964
+|''Born to Wander''
+| style="text-align:center;"|84
+|rowspan="5"|[[Philips Records|Philips]]
+|200–129 (Mono) / 600–129 (Stereo)
+|-
+|March 1964
+|''Dawn (Go Away) and 11 Other Great Songs''
+| style="text-align:center;"|6
+|200–124 / 600–124
+|-
+|July 1964
+|''Rag Doll''
+| style="text-align:center;"|7
+|200–146 / 600–146
+|-
+|March 1965
+|''The 4 Seasons Entertain You''
+| style="text-align:center;"|77
+|200–164 / 600–164
+|-
+|November 1965
+|''The 4 Seasons Sing Big Hits by Burt Bacharach... Hal David... Bob Dylan...''
+| style="text-align:center;"|106
+|200–193 / 600–193
+|-
+|November 1965
+|''On Stage with The 4 Seasons''<br /><small>(studio album with audience overdubs)</small>
+| style="text-align:center;"|68
+||[[Vee-Jay Records|Vee-Jay]]
+|VJS-1154
+|-
+|January 1966
+|''[[Working My Way Back to You and More Great New Hits]]''
+| style="text-align:center;"|50
+|rowspan="4"|[[Philips Records|Philips]]
+|200–201 / 600–201
+|-
+|May 1967
+|''New Gold Hits''
+| style="text-align:center;"|37
+|200–243 / 600–243
+|-
+|January 1969
+|''[[The Genuine Imitation Life Gazette]]''
+| style="text-align:center;"|85
+|600–290
+|-
+|May 1970
+|''Half & Half''
+| style="text-align:center;"|190
+|600–341
+|-
+|May 1972
+|''[[Chameleon (The Four Seasons album)|Chameleon]]''
+| style="text-align:center;"|—
+|[[Motown|MoWest]]
+|MW108L
+|-
+|November 1975
+|''[[Who Loves You]]''
+| style="text-align:center;"|38
+|rowspan="2"|[[Warner Bros. Records|Warner Bros.]]
+|BS 2900
+|-
+|April 1977
+|''Helicon''
+| style="text-align:center;"|168
+|BS 3016
+|-
+|August 1985
+|''Streetfighter''
+| style="text-align:center;"|—
+|[[MCA Records|MCA]]/[[Curb Records|Curb]]
+|MCA-5632
+|-
+|September 1992
+|''Hope + Glory''
+| style="text-align:center;"|—
+|[[Curb Records|Curb]]
+|D2-77546
+|}
+
+===Live albums===
+{| class="wikitable"
+|-
+!Date of release
+!Title
+![[Billboard 200|''Billboard'']]<br/>peak<ref name="allmusic" /><ref name="AllmusicFV" />
+!Label
+!Catalog number
+|-
+|January 1981
+|''Reunited Live'' <small>(includes two new studio tracks)<ref>{{Cite web|url=https://www.discogs.com/Frankie-Valli-4-Seasons-Reunited-Live/release/4259244|title = Frankie Valli, 4 Seasons – Reunited Live (1980, Gatefold , Vinyl) | website=[[Discogs]] | date=1980 }}</ref></small>
+| style="text-align:center;"|—
+|[[Warner Bros. Records|Warner Bros]]/[[Curb Records|Curb]]
+|2WB 3497
+|}
+
+===Selected compilation albums===
+{| class="wikitable"
+|-
+!Date of release
+!Title
+![[Billboard 200|''Billboard'']]<br/>peak<ref name="allmusic" /><ref name="AllmusicFV" />
+!US sales certification
+!Label
+!Catalog number
+|-
+|August 1963
+|''[[Golden Hits of the 4 Seasons]]'' <small>(includes two new tracks)</small>
+| style="text-align:center;"|15
+| style="text-align:center;"|—
+|rowspan="4"|[[Vee-Jay Records|Vee-Jay]]
+|SR-1065
+|-
+|September 1963
+|''Folk-Nanny'' <small>(reissued as ''Stay & Other Great Hits'' in 1964)</small>
+| style="text-align:center;"|100
+| style="text-align:center;"|—
+|VJS-1082
+|-
+|August 1964
+|''More Golden Hits by The Four Seasons''
+| style="text-align:center;"|105
+| style="text-align:center;"|—
+|VJS-1088
+|-
+|October 1964
+|''The International Battle of the Century: The Beatles vs The Four Seasons'' <small>(split with [[The Beatles]])</small>
+| style="text-align:center;"|142
+| style="text-align:center;"|—
+|DXS 30
+|-
+|November 1965
+|''The 4 Seasons' Gold Vault of Hits'' <small>(includes two new tracks)</small>
+| style="text-align:center;"|10
+| style="text-align:center;"|Gold<ref name=":0">{{Cite web |url=https://www.riaa.com/gold-platinum/ |title=Gold & Platinum |website=RIAA |language=en-US |access-date=2020-03-02}}</ref>
+|rowspan="4"|[[Philips Records|Philips]]
+|200–196 / 600–196
+|-
+|November 1966
+|''The 4 Seasons' 2nd Vault of Golden Hits'' <small>(includes three new tracks)</small>
+| style="text-align:center;"|22
+| style="text-align:center;"|Gold<ref name=":0" />
+|200–221 / 600–221
+|-
+|November 1966
+|''Lookin' Back''
+| style="text-align:center;"|107
+| style="text-align:center;"|—
+|200–222 / 600–222
+|-
+|December 1968
+|''Edizione D'Oro: The 4 Seasons Gold Edition – 29 Gold Hits'' <small>(includes two new tracks)</small>
+| style="text-align:center;"|37
+| style="text-align:center;"|Gold<ref name=":0" />
+|2-6501
+|-
+|December 1975
+|''[[The Four Seasons Story]]''
+| style="text-align:center;"|51
+| style="text-align:center;"|Gold
+|Private Stock
+|PS 7000
+|-
+|December 1988
+|''Hits'' <small>(includes one new track)</small>
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|[[MCA Records|MCA]]/[[Curb Records|Curb]]
+|MCA-39114
+|-
+|June 1990
+|''Rarities Volume 1''
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|rowspan="2"|[[Rhino Records|Rhino]]
+|R2 70973
+|-
+|June 1990
+|''Rarities Volume 2''
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|R2 70974
+|-
+|July 1993
+|''December 1963 (Oh, What a Night): The Dance Album''
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|rowspan="2"|Curb
+|D2-77634
+|-
+|January 1995
+|''Oh, What a Night''
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|D2-77693
+|-
+|2002
+|''[[The Very Best of Frankie Valli & The Four Seasons]]''
+| style="text-align:center;"|—
+| style="text-align:center;"|Gold
+|rowspan="2"|Rhino
+|R2 74494
+|-
+|June 2006
+|''...Jersey Beat... The Music of Frankie Valli & The 4 Seasons'' <small>(3-CD + 1-DVD box set)</small>
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|R2 74852
+|-
+|December 2022
+|''Working Our Way Back to You: The Ultimate Collection'' <small>(44-CD + 1-LP box set)</small>
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|Madfish
+|SMABX1132
+|}
+
+===US Top 40 singles===
+The US chart position on the ''[[Billboard (magazine)|Billboard]]'' [[Billboard Hot 100|Hot 100]] singles chart follows the song title. 
+
+{{div col}}
+*1962: "[[Sherry (song)|Sherry]]", No. 1
+*1962: "[[Big Girls Don't Cry (The Four Seasons song)|Big Girls Don't Cry]]", No. 1
+*1962: "[[Santa Claus Is Comin' to Town]]", No. 23
+*1963: "[[Walk Like a Man (The Four Seasons song)|Walk Like a Man]]", No. 1
+*1963: "[[Ain't That a Shame]]", No. 22
+*1963: "[[Candy Girl (The Four Seasons song)|Candy Girl]]", No. 3 / "[[Candy Girl (Four Seasons song)|Marlena]]", No. 36 <small>(double-sided hit)</small>
+*1963: "[[New Mexican Rose]]", No. 36
+*1964: "[[Dawn (Go Away)]]", No. 3
+*1964: "[[Stay (Maurice Williams song)|Stay]]", No. 16
+*1964: "[[Ronnie (The Four Seasons song)|Ronnie]]", No. 6
+*1964: "[[Alone (Why Must I Be Alone)|Alone]]", No. 28
+*1964: "[[Rag Doll (The Four Seasons song)|Rag Doll]]", No. 1
+*1964: "[[Save It for Me]]", No. 10
+*1964: "[[Big Man in Town]]", No. 20
+*1965: "[[Bye, Bye, Baby (Baby Goodbye)]]", No. 12 <small>("Bye Bye Baby" on initial release)</small>
+*1965: "[[Girl Come Running]]", No. 30
+*1965: "[[Let's Hang On!]]", No. 3
+*1965: "[[Don't Think Twice, It's All Right|Don't Think Twice]]", No. 12 <small>(credited to The Wonder Who?)</small>
+*1966: "[[Working My Way Back to You]]", No. 9
+*1966: "[[Opus 17 (Don't You Worry 'bout Me)]]", No. 13
+*1966: "[[I've Got You Under My Skin]]", No. 9
+*1966: "[[Tell It to the Rain]]", No. 10
+*1967: "[[Beggin']]", No. 16
+*1967: "[[C'mon Marianne]]", No. 9
+*1967: "[[Watch the Flowers Grow]]", No. 30
+*1968: "[[Will You Love Me Tomorrow]]", No. 24
+*1975: "[[Who Loves You (song)|Who Loves You]]", No. 3
+*1975: "[[December, 1963 (Oh, What a Night)]]", No. 1
+*1976: "[[Silver Star (The Four Seasons song)|Silver Star]]", No. 38
+*1994: "December, 1963 (Oh, What a Night)", No. 14 <small>(remixed dance version)</small>
+{{div col end}}
+
+==''Jersey Boys''==
+{{See also|Jersey Boys|Jersey Boys (film)}}
+''Jersey Boys'', a [[musical theatre|musical play]] based on the lives of the Four Seasons and directed by [[Des McAnuff]] (''[[The Who's Tommy]]'', ''[[700 Sundays]])'', premiered at his [[La Jolla Playhouse]] and opened on November 6, 2005, to generally positive reviews. It subsequently won multiple [[Tony Award]]s after its move to Broadway. The original cast included [[John Lloyd Young]] as Frankie Valli, Daniel Reichard as Bob Gaudio, Christian Hoff as Tommy DeVito, and J. Robert Spencer as Nick Massi.<ref name="story">{{cite book|year=2007|publisher=Broadway Books|title=Jersey Boys: The Story of Frankie Valli & the Four Seasons|first=David|last=Cote|isbn=978-0-7679-2843-4}}</ref> The play portrays the history of the Four Seasons in four parts, with each part narrated by a different member of the band and supposedly reflecting that band member's perspective on the band's history. The author of the book of the play, Rick Elice, interviewed Valli, Gaudio, and DeVito in writing the play, and pieced together Nick Massi's point of view based on those interviews (Massi had died before the play was written.) The Broadway production won four 2006 Tony Awards, including Best Musical, Best Actor (for [[John Lloyd Young]] as Frankie Valli), Best Featured Actor (for Christian Hoff as Tommy DeVito), and Best Lighting Design. There are currently three U.S. productions of ''Jersey Boys'' running outside New York and other productions overseas including productions in Toronto, London, Australia, South Africa and The Netherlands.
+
+The [[Jersey Boys (film)|movie adaptation]], directed and produced by [[Clint Eastwood]], starred [[John Lloyd Young]] as Frankie Valli, [[Vincent Piazza]] as Tommy DeVito, Michael Lomenda as Nick Massi and [[Erich Bergen]] as Bob Gaudio. This film was released on June 20, 2014.<ref>{{cite web|url=http://www.womanaroundtown.com/sections/playing-around/clint-eastwood-is-bringing-jersey-boys-to-the-big-screen|title=Clint Eastwood Is Bringing Jersey Boys to the Big Screen|work=Woman Around Town}}</ref>
+
+== Notes ==
+{{notelist}}
+

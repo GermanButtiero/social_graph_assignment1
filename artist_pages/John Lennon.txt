@@ -1,0 +1,735 @@
+{{Short description|English musician and activist (1940–1980)}}
+{{Redirect|Lennon|other uses|Lennon (disambiguation)|and|John Lennon (disambiguation)}}
+{{Featured article}}
+{{Pp-semi-indef}}
+{{Pp-move}}
+{{Use British English|date=March 2024}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox person
+| name               = John Lennon
+| honorific_suffix   = 
+| image              = John Lennon "Walls and Bridges" 1974 press photo 2 (color) (cropped).jpg
+| alt                = A colour photograph of John Lennon in his mid-thirties
+| caption            = Lennon in 1974
+| birth_name         = John Winston Lennon<!--Do not change birth name to new name; he changed it-->
+| birth_date         = {{Birth date|1940|10|9|df=y}}
+| birth_place        = [[Liverpool]], England
+| death_date         = {{Death date and age|1980|12|8|1940|10|9|df=y}}
+| death_place        = New York City, US<!-- "US" does not take full stops/points in British English -->
+| death_cause        = [[Murder of John Lennon|Murder by gunshot]]
+| resting_place      = Cremated; ashes scattered in [[Central Park]], New York City
+| education          = [[Liverpool College of Art]] (expelled) <ref>{{cite web|title=John Lennon – Dyslexia Success Story|url=https://dyslexiahelp.umich.edu/success-story/john-lennon/}}</ref><ref>{{cite web|title=John Lennon’s Art College Days|url=https://www.liverpoolmuseums.org.uk/stories/john-lennons-art-college-days}}</ref>
+| occupation         = {{hlist|Singer|songwriter|musician|author|artist<ref>{{Cite web |last=Christgau |first=Robert |author-link=Robert Christgau |title=John Lennon {{!}} Biography, Songs, Albums, Death, & Facts |url=https://www.britannica.com/biography/John-Lennon |access-date=18 February 2024 |website=[[Britannica]]}}</ref>|peace activist}}
+| years_active       = 1956–1980
+| spouse             = {{plainlist|
+* {{marriage|[[Cynthia Lennon|Cynthia Powell]]|23 August 1962|8 November 1968|end=div}}
+* {{marriage|[[Yoko Ono]]|20 March 1969|<!--Omission per template instructions-->}}
+}}
+| partner            = [[May Pang]] (1973–1975)
+| children           = {{hlist|[[Julian Lennon|Julian]]|[[Sean Lennon|Sean]]}}
+| parents            = {{ubl|[[Alfred Lennon]]|[[Julia Lennon|Julia Stanley]]}}
+| relatives          = {{plainlist|
+* [[Julia Baird (teacher)|Julia Baird]] (half-sister)
+* [[Mimi Smith]] (aunt)
+}}
+| module             = {{Infobox musical artist
+| embed            = yes
+| background       = solo_singer
+| genre            = {{hlist|[[Rock music|Rock]]|[[Pop music|pop]]|[[Experimental music|experimental]]}}
+ | works            = {{flatlist|
+* [[John Lennon discography|Discography]]
+* [[List of songs recorded by John Lennon|songs]]
+}}
+| instruments      = {{hlist|Vocals|guitar|keyboards|harmonica}}<!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instruments--->
+| label            = {{hlist|[[Parlophone]]|[[Capitol Records|Capitol]]|[[Apple Records|Apple]]|[[Geffen Records|Geffen]]|[[Polydor Records|Polydor]]}}
+| past_member_of   = {{hlist|[[The Quarrymen]]|[[The Beatles]]|[[The Dirty Mac]]|[[Plastic Ono Band]]}}
+}}
+| website            = {{URL|johnlennon.com}}
+| signature          = Firma de John Lennon.svg
+}}
+
+'''John Winston Ono Lennon'''{{refn|group=nb|Lennon changed his name by [[deed poll]] on 22 April 1969, adding "Ono" as a middle name. Although he used the name John Ono Lennon thereafter, official documents referred to him as John Winston Ono Lennon.{{sfn|Coleman|1984b|p=64}}}}<!-- This has been subject of debate, but both "Winston" AND "Winston Ono" are correct; Lennon wished for it to be solely Ono. See the YOKO ONO section of the article.--> (born '''John Winston Lennon'''; 9 October 1940{{snds}}8 December 1980) was an English musician and activist. He gained global fame as the founder, co-lead vocalist and rhythm guitarist of [[the Beatles]]. Lennon's [[Lennon–McCartney|songwriting partnership]] with [[Paul McCartney]] remains the most successful in history.<ref>{{cite magazine |last1=Newman |first1=Jason |title=It Takes Two: 10 Songwriting Duos That Rocked Music History |url=http://www.billboard.com/articles/news/467781/it-takes-two-10-songwriting-duos-that-rocked-music-history |magazine=Billboard |access-date=5 October 2017 |date=23 August 2011 |quote=By any measure, no one comes close to matching the success of The Beatles' primary songwriters. |archive-date=23 June 2018 |archive-url=https://web.archive.org/web/20180623105510/https://www.billboard.com/articles/news/467781/it-takes-two-10-songwriting-duos-that-rocked-music-history |url-status=live}}</ref>
+
+Born in [[Liverpool]], Lennon became involved in the [[Skiffle revival|skiffle craze]] as a teenager. In 1956, he formed [[the Quarrymen]], which evolved into the Beatles in 1960. He initially was the group's ''de facto'' leader, a role he gradually seemed to cede to McCartney, writing and co-writing songs with increasing innovation, including "[[Strawberry Fields Forever]]", which he later cited as his finest work with the band. Lennon soon expanded his work into other media by participating in numerous films, including ''[[How I Won the War]]'' (1967), and authoring ''[[In His Own Write]]'' (1964) and ''[[A Spaniard in the Works]]'' (1965), both collections of [[literary nonsense|nonsense writings]] and line drawings. Starting with "[[All You Need Is Love]]", his songs were adopted as anthems by the [[anti-war movement]] and the [[counterculture of the 1960s]].
+
+In 1969, he started the [[Plastic Ono Band]] with his second wife, multimedia artist [[Yoko Ono]], held the two-week-long anti-war demonstration [[bed-in]] for peace, and [[Break-up of the Beatles|left the Beatles]] to embark on a solo career. Lennon and Ono collaborated on many works, including a trilogy of [[avant-garde music|avant-garde]] albums and several more films. After the [[Break-up of the Beatles|Beatles disbanded]], Lennon released his solo debut ''[[John Lennon/Plastic Ono Band]]'' and the international top-10 singles <!-- Before adding to this list of Lennon's most significant songs, please seek consensus on the talk page first. Thank you. -->"[[Give Peace a Chance]]", "[[Instant Karma!]]", "[[Imagine (song)|Imagine]]", and "[[Happy Xmas (War Is Over)]]". Moving to New York City in 1971, his [[Opposition to United States involvement in the Vietnam War|criticism of the Vietnam War]] resulted in a three-year deportation attempt by the [[Nixon administration]]. Lennon and Ono separated from 1973 to 1975, during which time he produced [[Harry Nilsson]]'s album ''[[Pussy Cats]]''. He also had chart-topping collaborations with [[Elton John]] ("[[Whatever Gets You thru the Night]]") and [[David Bowie]] ("[[Fame (David Bowie song)|Fame]]"). Following a five-year hiatus, Lennon returned to music in 1980 with the Ono collaboration ''[[Double Fantasy]]''. He was [[Murder of John Lennon|shot and killed]] by [[Mark David Chapman]], three weeks after the album's release.
+
+As a performer, writer or co-writer, Lennon had 25 number-one singles in the [[Billboard Hot 100|''Billboard'' Hot 100]] chart. ''Double Fantasy'', his second-best-selling non-Beatles album, won the 1981 [[Grammy Award for Album of the Year]].<ref name="grammy">{{Cite web |url=https://www.grammy.com/awards/24th-annual-grammy-awards |title=24th Annual GRAMMY Awards &#124; GRAMMY.com |website=grammy.com}}</ref> That year, he won the [[Brit Award for Outstanding Contribution to Music]]. In 2002, Lennon was voted eighth in a [[BBC]] history poll of the ''[[100 Greatest Britons]]''. ''[[Rolling Stone]]'' ranked him the fifth-greatest singer and 38th-[[Rolling Stone's 100 Greatest Artists of All Time|greatest artist of all time]]. He was inducted into the [[Songwriters Hall of Fame]] (in 1997) and the [[Rock and Roll Hall of Fame]] (twice, as a member of the Beatles in 1988 and as a solo artist in 1994).
+
+==Early years: 1940–1956==
+[[File:Mendipsnationaltrust.JPG|thumb|alt=A grey two-storey building, with numerous windows visible on both levels|Lennon's home at [[251 Menlove Avenue]]]]
+John Winston Lennon was born on 9 October 1940 at [[Liverpool Maternity Hospital]], the only child of [[Alfred Lennon|Alfred]] and [[Julia Lennon]] ([[née]] Stanley). Alfred was a [[Merchant Navy|merchant seaman]] of [[Irish people|Irish]] descent who was away at the time of his son's birth.{{sfn|Harry|2000b|p=504}} His parents named him John Winston Lennon after his paternal grandfather, John "Jack" Lennon, and Prime Minister [[Winston Churchill]].{{sfn|Spitz|2005|p=24: "Julia offered the name in honour of{{nbsp}}[...] Winston Churchill"}} His father was often away from home but sent regular pay cheques to 9{{nbsp}}Newcastle Road, Liverpool, where Lennon lived with his mother;{{sfn|Spitz|2005|p=24: "The entire Stanley clan gathered nightly at Newcastle Road"}} the cheques stopped when he went [[AWOL|absent without leave]] in February 1944.{{sfn|Lennon|2005|p=54: "Until then he had sent her money each month from his wages, but now it stopped"}}{{sfn|Spitz|2005|p=26: "In February 1944{{nbsp}}[...] he was arrested and imprisoned. Freddie subsequently disappeared for six months"}} When he eventually came home six months later, he offered to look after the family, but Julia, by then pregnant with another man's child, rejected the idea.{{sfn|Spitz|2005|p=27}} After her sister [[Mimi Smith|Mimi]] complained to Liverpool's Social Services twice, Julia gave her custody of Lennon.
+
+In July 1946, Lennon's father visited her and took his son to [[Blackpool]], secretly intending to emigrate to [[New Zealand]] with him.{{sfn|Lennon|2005|p=56: "Alf admitted to her that he had planned to take John to live in New Zealand"}} Julia followed them – with her partner at the time, Bobby Dykins – and after a heated argument, his father forced the five-year-old to choose between them. In one account of this incident, Lennon twice chose his father, but as his mother walked away, he began to cry and followed her.{{sfn|Spitz|2005|p=30: "Julia went out of the door{{nbsp}}[...] John ran after her"}} According to author [[Mark Lewisohn]], however, Lennon's parents agreed that Julia should take him and give him a home. Billy Hall, who witnessed the incident, has said that the dramatic portrayal of a young John Lennon being forced to make a decision between his parents is inaccurate.{{sfn|Lewisohn|2013|pp=41–42}} Lennon had no further contact with Alf for close to 20 years.{{sfn|Spitz|2005|p=497}}
+
+Throughout the rest of his childhood and adolescence, Lennon lived at [[251 Menlove Avenue|Mendips, 251{{nbsp}}Menlove Avenue]], Woolton, with Mimi and her husband [[George Toogood Smith]], who had no children of their own.{{sfn|Lennon|2005|p=56: "Hard to see why Mimi wanted John, as she had always said she didn't want children"}} His aunt purchased volumes of short stories for him, and his uncle, a dairyman at his family's farm, bought him a mouth organ and engaged him in solving {{linktext|crossword}} puzzles.{{sfn|Spitz|2005|p=32: "When he was old enough, taught John how to solve crossword puzzles"}} Julia visited Mendips on a regular basis, and John often visited her at 1 Blomfield Road, Liverpool, where she played him [[Elvis Presley]] records, taught him the banjo, and showed him how to play "[[Ain't That a Shame]]" by [[Fats Domino]].{{sfn|Spitz|2005|p=48: "To get them started, she applied the triad to 'Ain't That a Shame{{'"}}}} In September 1980, Lennon commented about his family and his rebellious nature:
+
+{{blockquote|A part of me would like to be accepted by all facets of society and {{em|not}} be this loudmouthed lunatic poet/musician. But I cannot be what I am not{{nbsp}}[...] I was the one who all the other boys' parents – including Paul's father – would say, "Keep away from him"{{nbsp}}[...] The parents instinctively recognised I was a troublemaker, meaning I did not conform and I would influence their children, which I did. I did my best to disrupt every friend's home{{nbsp}}[...] Partly out of envy that I didn't have this so-called home{{nbsp}}[...] but I {{em|did}}{{nbsp}}[...] There were five women that were my family. Five {{em|strong}}, {{em|intelligent}}, {{em|beautiful}} women, five sisters. One happened to be my mother. [She] just couldn't deal with life. She was the youngest and she had a husband who ran away to sea and the war was on and she couldn't cope with me, and I ended up living with her elder sister. Now those women were fantastic{{nbsp}}[...] And that was my first feminist education{{nbsp}}[...] I would infiltrate the other boys' minds. I could say, "Parents are not gods because I don't live with mine and, therefore, I know."{{sfn|Sheff|2000|pp=158–59, 160–61}}}}
+
+He regularly visited his cousin Stanley Parkes, who lived in [[Fleetwood]] and took him on trips to local cinemas.{{sfn|Spitz|2005|p=32: "Parkes recalled{{nbsp}}[...] Leila and John to the cinema as often as three times a day"}} During the school holidays Parkes often visited Lennon with Leila Harvey, another cousin, and the three often travelled to Blackpool two or three times a week to watch shows. They would visit the [[Blackpool Tower Circus]] and see artists such as [[Dickie Valentine]], [[Arthur Askey]], [[Max Bygraves]] and [[Joe Loss]], with Parkes recalling that Lennon particularly liked [[George Formby, Jr.|George Formby]].{{sfn|Harry|2009}} After Parkes's family moved to Scotland, the three cousins often spent their school holidays together there. Parkes recalled, "John, cousin Leila and I were very close. From Edinburgh we would drive up to the family croft at [[Durness]], which was from about the time John was nine years old until he was about 16."{{sfn|Harry|2000b|p=702}} Lennon's uncle George died of a liver haemorrhage on 5 June 1955, aged 52.{{sfn|Harry|2000b|p=819}}
+
+Lennon was raised as an [[Anglican]] and attended [[Dovedale Primary School]].{{sfn|Harry|2000b|p=411}} After passing his [[eleven-plus]] exam, he attended [[Quarry Bank High School]] in Liverpool from September 1952 to 1957, and was described by Harvey at the time as a "happy-go-lucky, good-humoured, easy going, lively lad".{{sfn|Spitz|2005|pp=32–33}} However, he was also known to frequently engage in fights, bully and disrupt classes.<ref>{{Cite book |last=Kenny |first=Francis |url=https://books.google.com/books?id=eMNjDwAAQBAJ&dq=The+Making+of+John+Lennon,+he+was+into+fight+and+bullying&pg=PT73 |title=The Making of John Lennon |date=11 July 2018 |publisher=Indiana University Press |isbn=978-1-68435-036-0 |language=en |access-date=25 February 2023 |archive-date=12 April 2023 |archive-url=https://web.archive.org/web/20230412065826/https://books.google.com/books?id=eMNjDwAAQBAJ&dq=The+Making+of+John+Lennon,+he+was+into+fight+and+bullying&pg=PT73 |url-status=live}}</ref> Despite this, he quickly built a reputation as the class clown<ref>{{cite book |url=https://books.google.com/books?id=plZzEAAAQBAJ&dq=John+Lennon+class+clown&pg=PT10 |title=&#91;Must Read Personalities&#93; A life Story of John Lennon |date=5 June 2022 |publisher=by Mocktime Publication |pages=10 |access-date=19 March 2023 |archive-date=12 April 2023 |archive-url=https://web.archive.org/web/20230412065826/https://books.google.com/books?id=plZzEAAAQBAJ&dq=John+Lennon+class+clown&pg=PT10 |url-status=live}}</ref> and often drew comical cartoons that appeared in his self-made school magazine, the ''Daily Howl''.{{sfn|Spitz|2005|p=40}}{{refn|group=nb|In 2005, the [[National Postal Museum]] in the US acquired a stamp collection that Lennon had assembled when he was a boy.<ref>[http://www.smithsonianmag.com/history/john-lennons-first-album-71943851/ John Lennon's First Album.] {{Webarchive|url=https://web.archive.org/web/20230102052711/https://www.smithsonianmag.com/history/john-lennons-first-album-71943851/ |date=2 January 2023 }} Owen Edwards, Smithsonian.com, September 2005. Retrieved 17 September 2016.</ref>}}
+
+In 1956, Julia bought John his first guitar. The instrument was an inexpensive [[Gallotone Champion]] acoustic for which she lent her son five pounds and ten shillings on the condition that the guitar be delivered to her own house and not Mimi's, knowing well that her sister was not supportive of her son's musical aspirations.{{sfn|Spitz|2005|p=45}} Mimi was sceptical of his claim that he would be famous one day, and she hoped that he would grow bored with music, often telling him, "The guitar's all very well, John, but you'll never make a living out of it."{{sfn|Norman|2008|p=89}}
+
+Lennon's senior school years were marked by a shift in his behaviour. Teachers at [[Quarry Bank High School]] described him thus: "He has too many wrong ambitions and his energy is often misplaced", and "His work always lacks effort. He is content to 'drift' instead of using his abilities."<ref>{{cite web |url=https://dustyoldthing.com/john-lennons-bad-report-card/ |title=John Lennon's Abysmal 1956 Report Card Shows Grades Aren't Everything |last=Heichelbech |first=Rose |date=19 December 2018 |website=Dusty Old Thing |language=en |access-date=3 October 2019 |archive-date=3 December 2019 |archive-url=https://web.archive.org/web/20191203042327/https://dustyoldthing.com/john-lennons-bad-report-card/ |url-status=live}}</ref> Lennon's misbehaviour created a rift in his relationship with his aunt.
+
+On 15 July 1958, at the age of 44, Julia Lennon was struck and killed by a car while she was walking home after visiting the Smiths' house.{{sfn|Miles|1997|p=48}} His mother's death traumatised the teenage Lennon, who, for the next two years, drank heavily and frequently got into fights, consumed by a "blind rage".{{sfn|MacDonald|2005|p=326}} Julia's memory would later serve as a major creative inspiration for Lennon, inspiring songs such as the 1968 Beatles song "[[Julia (Beatles song)|Julia]]".{{sfn|MacDonald|2005|p=327}}
+
+Lennon failed his O-level examinations, and was accepted into the [[Liverpool College of Art]] after his aunt and headmaster intervened.{{sfn|Spitz|2005|p=100}} At the college he began to wear [[Teddy Boy]] clothes and was threatened with expulsion for his behaviour.{{sfn|Harry|2000b|pp=553–555}} In the description of [[Cynthia Powell]], Lennon's fellow student and subsequently his wife, he was "thrown out of the college before his final year".{{sfn|Lennon|2005|p=50}}
+
+Lennon faced significant challenges throughout his education due to [[dyslexia]], which negatively affected his reading and writing skills.<ref>{{cite web|title=John Lennon – Dyslexia Success Story|url=https://dyslexiahelp.umich.edu/success-story/john-lennon/}}</ref> Lennon's academic performance was poor, and was often described as a “troublemaker” in the classroom. While he was drawn to art and music from a young age, his struggles with dyslexia negatively impacted his studies and ultimately resulted in his expulsion from the Liverpool College of Art.<ref>{{cite web|title=John Lennon’s Art College Days|url=https://www.liverpoolmuseums.org.uk/stories/john-lennons-art-college-days}}</ref>
+
+==The Quarrymen to the Beatles: 1956–1970==
+<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+{{Further|The Quarrymen|Lennon–McCartney|The Beatles|Beatlemania|British Invasion|More popular than Jesus}}
+
+===Formation, fame and touring: 1956–1966===
+[[File:The Beatles i Hötorgscity 1963.jpg|thumb|[[Ringo Starr]], [[George Harrison]], Lennon and [[Paul McCartney]] in 1963]]
+At the age of 15, Lennon formed a [[skiffle group]], the [[Quarrymen]]. Named after Quarry Bank High School, the group was established by Lennon in September 1956.{{sfn|Harry|2000b|p=738}} By the summer of 1957, the Quarrymen played a "spirited set of songs" made up of half skiffle and half [[rock and roll]].{{sfn|Spitz|2005|p=95}} Lennon first met Paul McCartney at the Quarrymen's second performance, which was held in Woolton on 6 July at the [[St Peter's Church, Woolton, Liverpool|St Peter's Church]] garden fête. Lennon then asked McCartney to join the band.{{sfn|Spitz|2005|pp=93–99}}
+
+McCartney said that Aunt Mimi "was very aware that John's friends were lower class", and would often patronise him when he arrived to visit Lennon.{{sfn|Miles|1997|p=44}} According to McCartney's brother [[Mike McGear|Mike]], their father similarly disapproved of Lennon, declaring that Lennon would get his son "into trouble".{{sfn|Miles|1997|p=32}} McCartney's father nevertheless allowed the fledgling band to rehearse in the family's front room at [[20 Forthlin Road|20{{nbsp}}Forthlin Road]].{{sfn|Miles|1997|pp=38–39}}{{sfn|Lennon|2005|p=47}} During this time Lennon wrote his first song, "[[Hello Little Girl]]", which became a UK top 10 hit for [[the Fourmost]] in 1963.{{sfn|Harry|2000b|pp=337–338}}
+
+McCartney recommended that his friend [[George Harrison]] become the lead guitarist.{{sfn|Miles|1997|pp=47, 50}} Lennon thought that Harrison, then 14 years old, was too young. McCartney engineered an audition on the upper deck of a Liverpool bus, where Harrison played "[[Raunchy (instrumental)|Raunchy]]" for Lennon and was asked to join.{{sfn|Miles|1997|p=47}} [[Stuart Sutcliffe]], Lennon's friend from art school, later joined as bassist.{{sfn|Lennon|2005|p=64}} Lennon, McCartney, Harrison and Sutcliffe became "The Beatles" in early 1960. In August that year, the Beatles were engaged for a 48-night [[The Beatles in Hamburg|residency in Hamburg]], in West Germany, and were desperately in need of a drummer. They asked [[Pete Best]] to join them.{{sfn|Miles|1997|p=57}} Lennon's aunt, horrified when he told her about the trip, pleaded with Lennon to continue his art studies instead.{{sfn|Lennon|2005|p=53}} After the first Hamburg residency, the band accepted another in April 1961, and a third in April 1962. As with the other band members, Lennon was introduced to [[Preludin]] while in Hamburg,{{sfn|Miles|1997|pp=66–67}} and regularly took the drug as a stimulant during their long, overnight performances.{{sfn|Lennon|2005|p=57}}
+[[File:John Lennon on The Ed Sullivan Show.jpg|thumb|242x242px|Lennon in 1964]]
+[[Brian Epstein]] managed the Beatles from 1962 until his death in 1967. He had no previous experience managing artists, but he had a strong influence on the group's dress code and attitude on stage.{{sfn|The Beatles|2000|p=67}} Lennon initially resisted his attempts to encourage the band to present a professional appearance, but eventually complied, saying "I'll wear a bloody balloon if somebody's going to pay me."{{sfn|Frankel|2007}} McCartney took over on bass after Sutcliffe decided to stay in Hamburg, and Best was replaced with drummer [[Ringo Starr]]; this completed the four-piece line-up that would remain until the group's break-up in 1970. The band's first single, "[[Love Me Do]]", was released in October 1962 and reached No. 17 on the British charts. They recorded their debut album, ''[[Please Please Me]]'', in under 10 hours on 11 February 1963,{{sfn|Harry|2000b|p=721}} a day when Lennon was suffering the effects of a cold,{{sfn|Lewisohn |1988|pp=24–26: "Twist and Shout, which had to be recorded last because John Lennon had a particularly bad cold"}} which is evident in the vocal on the last song to be recorded that day, "[[Twist and Shout]]".{{sfn|Spitz|2005|p=376: "He had been struggling all day to reach notes, but this was different, this hurt"}} The Lennon–McCartney songwriting partnership yielded eight of its fourteen tracks. With a few exceptions, one being the album title itself, Lennon had yet to bring his love of wordplay to bear on his song lyrics, saying: "We were just writing songs{{nbsp}}... pop songs with no more thought of them than that – to create a sound. And the words were almost irrelevant".{{sfn|Harry|2000b|p=721}} In a 1987 interview, McCartney said that the other Beatles idolised Lennon: "He was like our own little Elvis{{nbsp}}... We all looked up to John. He was older and he was very much the leader; he was the quickest wit and the smartest."{{sfn|Doggett|2010|p=33}}
+
+The Beatles achieved mainstream success in the UK early in 1963. Lennon was on tour when his first son, [[Julian Lennon|Julian]], was born in April. During their [[Royal Variety Show]] performance, which was attended by the Queen Mother and other British royalty, Lennon poked fun at the audience: "For our next song, I'd like to ask for your help. For the people in the cheaper seats, clap your hands{{nbsp}}... and the rest of you, if you'll just rattle your jewellery."{{sfn|Shennan|2007}} After a year of [[Beatlemania in the United Kingdom|Beatlemania in the UK]], the group's historic February 1964 US debut appearance on ''[[The Ed Sullivan Show]]'' marked their breakthrough to international stardom. A two-year period of constant touring, filmmaking, and songwriting followed, during which Lennon wrote two books, ''[[In His Own Write]]'' and ''[[A Spaniard in the Works]]''.{{sfn|Coleman|1984a|pp=239–240}} The Beatles received recognition from the British establishment when they were appointed [[Order of the British Empire|Members of the Order of the British Empire]] (MBE) in the [[1965 Birthday Honours|1965 Queen's Birthday Honours]].{{sfn|London Gazette|1965|pp=5487–5489}}
+
+[[File:Paul, George & John.png|thumb|McCartney, Harrison and Lennon, 1964]]Lennon grew concerned that fans who attended Beatles concerts were unable to hear the music above the screaming of fans, and that the band's musicianship was beginning to suffer as a result.{{sfn|Coleman|1984a|p=288}} Lennon's "[[Help! (song)|Help!]]" expressed his own feelings in 1965: "I ''meant'' it{{nbsp}}... It was me singing 'help{{'"}}.{{sfn|Gould|2008|p=268}} He had put on weight (he would later refer to this as his "Fat Elvis" period),{{sfn|Lawrence|2005|p=62}} and felt he was subconsciously seeking change. A hurtful comment from a reporter would lead him to undergo several bouts with weight loss and appearance changes throughout the rest of his life. {{sfn|The Beatles|2000|p=171}} In March that year he and Harrison were unknowingly introduced to [[LSD]] when a dentist, hosting a dinner party attended by the two musicians and their partners, spiked the guests' coffee with the drug.{{sfn|Rodriguez|2012|pp=51–52}} When they wanted to leave, their host revealed what they had taken, and strongly advised them not to leave the house because of the likely effects. Later, in a lift at a nightclub, they all believed it was on fire; Lennon recalled: "We were all screaming{{nbsp}}... hot and hysterical."{{sfn|Harry|2000b|p=570}}
+{{Anchor|BiggerThanJesus}} In March 1966, during an interview with ''Evening Standard'' reporter [[Maureen Cleave]], Lennon remarked, "Christianity will go. It will vanish and shrink{{nbsp}}... We're more popular than Jesus now – I don't know which will go first, rock and roll or Christianity."{{sfn|Cleave|2007}} The comment went virtually unnoticed in England but caused [[More popular than Jesus|great offence in the US]] when quoted by a magazine there five months later. The furore that followed, which included the burning of Beatles records, [[Ku Klux Klan]] activity and threats against Lennon, contributed to the band's decision to stop touring.{{sfn|Gould|2008|pp=5–6, 249, 281, 347}}
+
+===Studio years, break-up and solo work: 1966–1970===
+After the band's final concert on 29 August 1966, Lennon filmed the anti-war black comedy ''[[How I Won the War]]'' – his only appearance in a non-Beatles feature film – before rejoining his bandmates for an extended period of recording, beginning in November.{{sfn|Hoppa|2010}} Lennon had increased his use of LSD{{sfn|Gould|2008|p=319}} and, according to author [[Ian MacDonald]], his continuous use of the drug in 1967 brought him "close to [[Egolessness|erasing his identity]]".{{sfn|MacDonald|2005|p=281}} The year 1967 saw the release of "[[Strawberry Fields Forever]]", hailed by ''[[Time (magazine)|Time]]'' magazine for its "astonishing inventiveness",{{sfn|Time|1967}} and the group's landmark album ''[[Sgt. Pepper's Lonely Hearts Club Band]]'', which revealed lyrics by Lennon that contrasted strongly with the simple love songs of the group's early years.{{sfn|Gould|2008|pp=399–400}}
+
+In late June, the Beatles performed Lennon's "[[All You Need Is Love]]" as Britain's contribution to the ''[[Our World (1967 TV program)|Our World]]'' satellite broadcast, before an international audience estimated at up to 400&nbsp;million.{{sfn|Lewisohn|1988|p=116}} Intentionally simplistic in its message,{{sfn|Schaffner|1978|p=86}} the song formalised his [[Pacifism|pacifist]] stance and provided an anthem for the [[Summer of Love]].{{sfn|Wiener|1990|pp=39–40}} After the Beatles were introduced to the [[Maharishi Mahesh Yogi]], the group attended an August weekend of personal instruction at his [[Transcendental Meditation]] seminar [[The Beatles in Bangor|in Bangor]], Wales.{{sfn|BBC News|2007b}} During the seminar, they were informed of Epstein's death. "I knew we were in trouble then", Lennon said later. "I didn't have any misconceptions about our ability to do anything other than play music. I was scared – I thought, 'We've fucking had it now.{{'"}}{{sfn|Brown|1983|p=276}} McCartney organised the group's first post-Epstein project,{{sfn|Miles|1997|pp=349–373}} the self-written, -produced and -directed television film ''[[Magical Mystery Tour (film)|Magical Mystery Tour]]'', which was released in December that year. While the film itself proved to be their first critical flop, its [[Magical Mystery Tour|soundtrack release]], featuring Lennon's [[Lewis Carroll]]–inspired "[[I Am the Walrus]]", was a success.{{sfn|Logan|1967}}{{sfn|Lewisohn|1988|p=131}}
+
+Led by Harrison and Lennon's interest, the Beatles travelled to the Maharishi's [[ashram]] in India in February 1968 for further guidance.{{sfn|Doggett|2010|pp=33, 34}} While there, they composed most of the songs for their double album ''[[The Beatles (album)|The Beatles]]'',{{sfn|Miles|1997|p=397}} but the band members' mixed experience with Transcendental Meditation signalled a sharp divergence in the group's camaraderie.{{sfn|Schaffner|1978|p=89}} On their return to London, they became increasingly involved in business activities with the formation of [[Apple Corps]], a multimedia corporation composed of [[Apple Records]] and several other subsidiary companies. Lennon described the venture as an attempt to achieve "artistic freedom within a business structure".{{sfn|Harry|2000b|p=31}} Released amid the [[Protests of 1968]], the band's debut single for the Apple label included Lennon's B-side "[[Revolution (Beatles song)|Revolution]]", in which he called for a "plan" rather than committing to [[Maoist]] revolution. The song's pacifist message led to ridicule from political radicals in the [[New Left]] press.{{sfn|Wiener|1990|p=60}} Adding to the tensions at the Beatles' recording sessions that year, Lennon insisted on having his new girlfriend, the Japanese artist [[Yoko Ono]], beside him, thereby contravening the band's policy regarding wives and girlfriends in the studio. He was especially pleased with his songwriting contributions to the double album and identified it as a superior work to ''Sgt. Pepper''.<ref>{{cite magazine |first=Ian |last=Fortnam |title=You Say You Want a Revolution ... |magazine=[[Classic Rock (magazine)|Classic Rock]] |date=October 2014 |page=46}}</ref> At the end of 1968, Lennon participated in ''[[The Rolling Stones Rock and Roll Circus]]'', a television special that was not broadcast. Lennon performed with [[the Dirty Mac]], a [[Supergroup (music)|supergroup]] composed of Lennon, [[Eric Clapton]], [[Keith Richards]] and [[Mitch Mitchell]]. The group also backed a vocal performance by Ono. A film version was released in 1996.{{sfn|Harry|2000b|pp=774–775}}
+
+[[File:John Lennon en echtgenote Yoko Ono vertrekken van Schiphol naar Wenen in de vert, Bestanddeelnr 922-2496 (cropped).jpg|thumb|[[Yoko Ono]] and Lennon in March 1969]]
+By late 1968, Lennon's increased drug use and growing preoccupation with Ono, combined with the Beatles' inability to agree on how the company should be run, left Apple in need of professional management. Lennon asked [[Lord Beeching]] to take on the role but he declined, advising Lennon to go back to making records. Lennon was approached by [[Allen Klein]], who had managed [[the Rolling Stones]] and other bands during the [[British Invasion]]. In early 1969, Klein was appointed as Apple's chief executive by Lennon, Harrison and Starr,{{sfn|TelegraphKlein|2010}} but McCartney never signed the management contract.{{sfn|Miles|1997|p=549: "Paul never did sign the management contract"}}
+
+Lennon and Ono were married on 20 March 1969 and soon released a series of 14 [[lithograph]]s called "Bag One" depicting scenes from their honeymoon,{{sfn|Fawcett|1976|p=185}} eight of which were deemed indecent and most of which were banned and confiscated.{{sfn|Coleman|1984a|p=279}} Lennon's creative focus continued to move beyond the Beatles, and between 1968 and 1969 he and Ono recorded three albums of experimental music together: ''[[Unfinished Music No. 1: Two Virgins]]''{{sfn|Coleman|1984a|pp=48–49}} (known more for its cover than for its music), ''[[Unfinished Music No. 2: Life with the Lions]]'' and ''[[Wedding Album]]''. In 1969, they formed the [[Plastic Ono Band]], releasing ''[[Live Peace in Toronto 1969]]''. Between 1969 and 1970, Lennon released the singles "Give Peace a Chance", which was widely adopted as an anti-[[Vietnam War]] anthem,{{sfn|Perone|2001|pp=57–58}} "[[Cold Turkey]]", which documented his withdrawal symptoms after he became addicted to [[heroin]],{{sfn|Harry|2000b|pp=160–161}} and "[[Instant Karma!]]".
+
+{{listen|type=music|filename=Give Peace a Chance.ogg|title=Give Peace a Chance|description=Sample of "[[Give Peace a Chance]]", recorded in Montreal in 1969 during Lennon and Ono's second bed-in. As described by biographer [[Bill Harry]], Lennon wanted to "write a peace anthem that would take over from the song '[[We Shall Overcome]]' – and he succeeded{{nbsp}}... it became the main anti-[[Vietnam War|Vietnam]] protest song."{{sfn|Harry|2000b|pp=276–278}}|pos=right}}
+In protest at Britain's involvement in "the Nigeria-Biafra thing"<ref>{{cite news |date=27 October 2016 |title=John Lennon MBE refusal letter valued at £60k |url=https://www.bbc.co.uk/news/uk-england-merseyside-37787297 |newspaper=[[BBC News]] |location=Liverpool |access-date=27 October 2016 |url-status=live |archive-url=https://web.archive.org/web/20161027122505/http://www.bbc.co.uk/news/uk-england-merseyside-37787297 |archive-date=27 October 2016}}</ref> (namely, the [[Nigerian Civil War]]),{{sfn|Miles|2001|p=360}} its support of America in the Vietnam War and (perhaps jokingly) against "Cold Turkey" slipping down the charts,<ref name=MBEreturn>{{cite news |url=https://www.telegraph.co.uk/culture/culturenews/4128022/MBE-medal-that-John-Lennon-rejected-unearthed-in-royal-vault.html |title=Beatles fans call for return of MBE medal rejected by John Lennon |newspaper=The Daily Telegraph |date=2 August 2013 |access-date=2 August 2013 |url-status=live |archive-url=https://web.archive.org/web/20131215005411/http://www.telegraph.co.uk/culture/culturenews/4128022/MBE-medal-that-John-Lennon-rejected-unearthed-in-royal-vault.html |archive-date=15 December 2013}}</ref> Lennon returned his [[Member of the Most Excellent Order of the British Empire|MBE]] medal to the Queen. This gesture had no effect on his MBE status, which could be renounced but ultimately only the Sovereign has the power to annul the original award.<ref>{{Cite web |date=30 September 2021 |title=Having honours taken away (forfeiture) |url=https://www.gov.uk/guidance/having-honours-taken-away-forfeiture |access-date=10 January 2024 |website=GOV.UK |language=en}}</ref>{{sfn|Harry|2000b|pp=615–617}} The medal, together with Lennon's letter, is held at the [[Central Chancery of the Orders of Knighthood]].<ref name=MBEreturn/>
+
+Lennon left the Beatles on 20 September 1969,{{sfn|Norman|2008|pp=622–624}} but agreed not to inform the media while the group renegotiated their recording contract. He was outraged that McCartney publicised his own departure on releasing [[McCartney (album)|his debut solo album]] in April 1970. Lennon's reaction was, "Jesus Christ! He gets all the credit for it!"{{sfn|Spitz|2005|pp=853–54}} He later wrote, "I started the band. I disbanded it. It's as simple as that."{{sfn|Loker|2009|p=348}} In a December 1970 interview with [[Jann Wenner]] of ''[[Rolling Stone]]'' magazine, he revealed his bitterness towards McCartney, saying, "I was a fool not to do what Paul did, which was use it to sell a record."{{sfn|Wenner|2000|p=32}} Lennon also spoke of the hostility he perceived the other members had towards Ono, and of how he, Harrison and Starr "got fed up with being sidemen for Paul&nbsp;... After Brian Epstein died we collapsed. Paul took over and supposedly led us. But what is leading us when we went round in circles?"{{sfn|Wenner|2000|p=24}}
+
+==Solo career: 1970–1980==
+===Initial solo success and activism: 1970–1972===
+[[File:John Lennon Imagine 1971.jpg|thumb|left|Advertisement for "[[Imagine (song)|Imagine]]" from ''Billboard'', 18 September 1971]]
+{{quote box|width=23em|When it gets down to having to use violence, then you are playing the system's game. The establishment will irritate you – pull your beard, flick your face – to make you fight. Because once they've got you violent, then they know how to handle you. The only thing they don't know how to handle is non-violence and humor.|salign=right|source=—John Lennon<ref>{{Cite web |url=https://www.huffpost.com/entry/playing-the-governments-g_b_8913516 |title=Playing the Government's Game: When It Comes to Violence, We All Lose |date=6 January 2016 |website=HuffPost}}</ref>}}
+Between 1 April and 15 September 1970, Lennon and Ono went through [[Primal therapy#John Lennon|primal therapy]] with [[Arthur Janov]] at Tittenhurst, in London and at Janov's clinic in Los Angeles, California. Designed to release emotional pain from early childhood, the therapy entailed two half-days a week with Janov for six months; he had wanted to treat the couple for longer, but their American visa ran out and they had to return to the UK.<ref name="Madinger-2015">Madinger, Raille, Lennonology, Open Your Books 2015 {{ISBN|978-1-63110-175-5}}</ref> Lennon's debut solo album, ''[[John Lennon/Plastic Ono Band]]'' (1970), was received with praise by many music critics, but its highly personal lyrics and stark sound limited its commercial performance.{{sfn|Schaffner|1978|pp=144, 146}} The album featured the song "[[Mother (John Lennon song)|Mother]]", in which Lennon confronted his feelings of childhood rejection,{{sfn|Harry|2000b|pp=640–641}} and the Dylanesque "[[Working Class Hero]]", an attack on Western social systems which, due to the lyrics "you're so fucking crazy" and "you're still fucking peasants", fell foul of broadcasters.{{sfn|Riley|2002|p=375}}{{sfn|Schechter|1997|p=106}}
+
+In January 1971, [[Tariq Ali]] expressed his revolutionary political views when he interviewed Lennon, who immediately responded by writing "[[Power to the People (song)|Power to the People]]". In his lyrics to the song, Lennon reversed the non-confrontational approach he had espoused in "Revolution", although he later disowned "Power to the People", saying that it was borne out of guilt and a desire for approval from radicals such as Ali.{{sfn|Blaney|2005|pp=70–71}} Lennon became involved in a protest against the prosecution of ''[[Oz (magazine)|Oz]]'' magazine for alleged obscenity. Lennon denounced the proceedings as "disgusting fascism", and he and Ono (as Elastic Oz Band) released the single "God Save Us/Do the Oz" and joined marches in support of the magazine.{{sfn|Wiener|1990|p=157}}
+
+{{Listen|type=music|filename=Imagine.ogg|title="Imagine"|description=Sample of "[[Imagine (song)|Imagine]]", Lennon's most widely known post-Beatles song.{{sfn|Harry|2000b|p=382}} Like "Give Peace a Chance", the song became an anti-war anthem, but its lyrics offended religious groups. Lennon's explanation was: "If you can imagine a world at peace, with no denominations of religion – not without religion, but without this 'my god is bigger than your god' thing – then it can be true."{{sfn|Harry|2000b|pp=382–383}} }}
+
+Eager for a major commercial success, Lennon adopted a more accessible sound for his next album, ''[[Imagine (John Lennon album)|Imagine]]'' (1971).{{sfn|Schaffner|1978|p=146}} ''Rolling Stone'' reported that "it contains a substantial portion of good music" but warned of the possibility that "his posturings will soon seem not merely dull but irrelevant".{{sfn|Gerson|1971}} [[Imagine (song)|The album's title track]] later became an anthem for anti-war movements,{{sfn|Vigilla|2005}} while the song "[[How Do You Sleep? (John Lennon song)|How Do You Sleep?]]" was a musical attack on McCartney in response to lyrics on ''[[Ram (album)|Ram]]'' that Lennon felt, and McCartney later confirmed,{{sfn|Goodman|1984}} were directed at him and Ono.{{sfn|Harry|2000b|pp=354–356}}{{refn|group=nb|Lennon softened his stance in the mid-1970s, however, and said he had written "How Do You Sleep?" about himself.{{sfn|Harry|2000b|pp=354–356}} In 1980, he said that rather than the song representing a "terrible vicious horrible vendetta" against McCartney, "I used my resentment and withdrawing from Paul and the Beatles, and the relationship with Paul, to write 'How Do You Sleep'. I don't really go 'round with those thoughts in my head all the time."{{sfn|Peebles|1981|p=44}}}} In "[[Jealous Guy]]", Lennon addressed his demeaning treatment of women, acknowledging that his past behaviour was a result of long-held insecurity.{{sfn|Sheff|2000|p=210}}
+
+In gratitude for his guitar contributions to ''Imagine'', Lennon initially agreed to perform at Harrison's [[Concert for Bangladesh]] benefit shows in New York.{{sfn|Rodriguez|2010|pp=48–49}} Harrison refused to allow Ono to participate at the concerts, however, which resulted in the couple having a heated argument and Lennon pulling out of the event.{{sfn|Badman|2001|p=44}}[[File:John Lennon "Walls and Bridges" 1974 press photo (color).jpg|thumb|Lennon in a 1974 photograph by [[Bob Gruen]]]]
+Lennon and Ono moved to New York in August 1971 and immediately embraced US [[Far-left politics|radical left politics]]. The couple released their "[[Happy Xmas (War Is Over)]]" single in December.{{sfn|Allmusic|2010f}} During the new year, the [[Presidency of Richard Nixon|Nixon administration]] took what it called a "strategic counter-measure" against Lennon's anti-war and anti-Nixon propaganda. The administration embarked on what would be a [[#Deportation attempt|four-year attempt to deport him]].<ref name="DeMain">{{cite web |url=http://performingsongwriter.com/john-lennon-fbi-files/ |title=John Lennon and the FBI |work=Dangerous Liaisons: The FBI Files of Musicians |publisher=Performing Songwriter | access-date=19 January 2013 |first=Bill |last=DeMain | url-status=live | archive-url=https://web.archive.org/web/20130117225323/http://performingsongwriter.com/john-lennon-fbi-files/ | archive-date=17 January 2013}}</ref>{{sfn|Glenn|2009}} Lennon was embroiled in a continuing legal battle with the immigration authorities, and he was denied [[Permanent residence (United States)|permanent residency in the US]]; the issue would not be resolved until 1976.{{sfn|Wiener|1990|p=204}}
+
+''[[Some Time in New York City]]'' was recorded as a collaboration with Ono and was released in 1972 with backing from the New York band [[Elephant's Memory]]. A double LP, it contained songs about women's rights, race relations, Britain's role in Northern Ireland and Lennon's difficulties in obtaining a green card.{{sfn|BBC News|2006a}} The album was a commercial failure and was maligned by critics, who found its political sloganeering heavy-handed and relentless.{{sfn|Rodriguez|2010|pp=95, 180–82}} The ''[[NME]]''{{'}}s review took the form of an [[open letter]] in which [[Tony Tyler]] derided Lennon as a "pathetic, ageing revolutionary".<ref>{{cite book|editor-last=Hunt|editor-first=Chris |title=NME Originals: Beatles – The Solo Years 1970–1980 |year=2005 |publisher=IPC Ignite! |location=London |page=65|title-link=NME}}</ref> In the US, "[[Woman Is the Nigger of the World]]" was released as a single from the album and was televised on 11 May, on ''[[The Dick Cavett Show]]''. Many radio stations refused to broadcast the song because of the word "[[nigger]]".{{sfn|Harry|2000b|pp=979–980}}
+
+Lennon and Ono gave two benefit concerts with Elephant's Memory and guests in New York in aid of patients at the [[Willowbrook State School]] mental facility.{{sfn|Badman|2001|p=81}} Staged at [[Madison Square Garden]] on 30 August 1972, they were his last full-length concert appearances.{{sfn|Rodriguez|2010|pp=56–57}} After [[George McGovern]] lost the 1972 presidential election to Richard Nixon, Lennon and Ono attended a post-election wake held in the New York home of activist [[Jerry Rubin]].<ref name="DeMain" /> Lennon was depressed and got intoxicated; he left Ono embarrassed after he had sex with a female guest. Ono's song "[[Death of Samantha (song)|Death of Samantha]]" was inspired by the incident.<ref>''LennoNYC'', PBS Television 2010</ref>
+
+===<span class="anchor" id="Lost weekend"></span> "Lost weekend": 1973–1975===
+[[File:John Lennon last television interview Tomorrow show 1975.JPG|thumb|Publicity photo of Lennon and host [[Tom Snyder]] from the television programme ''[[The Tomorrow Show|Tomorrow]]''. Aired in 1975, this was the last television interview Lennon gave before his death in 1980.]]
+As Lennon was about to record ''[[Mind Games (John Lennon album)|Mind Games]]'' in 1973, he and Ono decided to separate. The ensuing 18-month period apart, which he later called his "lost weekend" in reference to the [[The Lost Weekend (film)|film of the same name]],{{sfn|Harry|2000b|pp=698–699}}<ref name="InterviewMayPang">{{cite web |first=Dave |last=White |url=http://classicrock.about.com/od/johnlennon/a/may_pang.htm |title=Lennon's "Lost Weekend" Lover |publisher=About, Classic Rock |access-date=9 June 2011 |archive-date=7 February 2012 |archive-url=https://web.archive.org/web/20120207203838/http://classicrock.about.com/od/johnlennon/a/may_pang.htm |url-status=dead}}</ref> was spent in Los Angeles and New York City in the company of [[May Pang]].<ref>{{cite web |first=Owen |last=Gleiberman |url=https://variety.com/2022/film/reviews/the-lost-weekend-review-may-pang-john-lennon-1235290486/ |title='The Lost Weekend: A Love Story' Review: May Pang Tells Her Story, and a Piece of John Lennon's, in a Compelling Documentary |date=11 June 2022 |work=Variety |access-date=11 June 2022}}</ref> ''Mind Games'', credited to the "Plastic U.F.Ono Band", was released in November 1973. Lennon also contributed "[[I'm the Greatest]]" to Starr's album ''[[Ringo (album)|Ringo]]'' (1973), released the same month. With Harrison joining Starr and Lennon at the recording session for the song, it marked the only occasion when three former Beatles recorded together between the band's break-up and Lennon's death.{{sfn|Jackson|2012|p=97}}{{refn|group=nb|An alternate take of "I'm the Greatest", with Lennon singing a guide vocal, appears on ''[[John Lennon Anthology]]''.{{sfn|Urish|Bielen|2007|p=47}}}}
+
+In early 1974, Lennon was drinking heavily and his alcohol-fuelled antics with [[Harry Nilsson]] made headlines. In March, two widely publicised incidents occurred at [[Troubadour (West Hollywood, California)|The Troubadour]] club. In the first incident, Lennon stuck an unused [[menstrual pad]] on his forehead and scuffled with a waitress. The second incident occurred two weeks later, when Lennon and Nilsson were ejected from the same club after heckling the [[Smothers Brothers]].{{sfn|Harry|2000b|pp=927–929}} Lennon decided to produce Nilsson's album ''[[Pussy Cats]]'', and Pang rented a Los Angeles beach house for all the musicians.{{sfn|Harry|2000b|p=735}} After a month of further debauchery, the recording sessions were in chaos, and Lennon returned to New York with Pang to finish work on the album. In April, Lennon had produced the [[Mick Jagger]] song "Too Many Cooks (Spoil the Soup)" which was, for contractual reasons, to remain unreleased for more than 30 years. Pang supplied the recording for its eventual inclusion on ''[[The Very Best of Mick Jagger]]'' (2007).<ref>''[[The Very Best of Mick Jagger]]'' liner notes</ref>
+
+Lennon had settled back in New York when he recorded the album ''[[Walls and Bridges]]''. Released in October 1974, it included "[[Whatever Gets You thru the Night]]", which featured [[Elton John]] on backing vocals and piano, and became Lennon's only single as a solo artist to top the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart during his lifetime.{{sfn|Badman|2001|loc=1974}}{{refn|group=nb|"Imagine" topped the US singles chart compiled by ''[[Record World]]'' magazine, however, in 1971.{{sfn|Spizer|2005|p=59}}}} A second single from the album, "[[Number 9 Dream|#9 Dream]]", followed before the end of the year. Starr's ''[[Goodnight Vienna]]'' (1974) again saw assistance from Lennon, who wrote the title track and played piano.{{sfn|Harry|2000b|p=284}} On 28 November, Lennon made a surprise guest appearance at Elton John's Thanksgiving concert at Madison Square Garden, in fulfilment of his promise to join the singer in a live show if "Whatever Gets You thru the Night", a song whose commercial potential Lennon had doubted, reached number one. Lennon performed the song along with "[[Lucy in the Sky with Diamonds]]" and "[[I Saw Her Standing There]]", which he introduced as "a song by an old estranged fiancé of mine called Paul".{{sfn|Harry|2000b|p=970}}
+
+In the first two weeks of January 1975, Elton John topped the US [[Billboard Hot 100|''Billboard'' Hot 100]] singles chart with his cover of "[[Lucy in the Sky with Diamonds]]", featuring Lennon on guitar and backing vocals - Lennon is credited on the single under the moniker of "Dr. Winston O'Boogie". As January became February, Lennon and Ono reunited as Lennon and Bowie completed recording of their co-composition "[[Fame (David Bowie song)|Fame]]",<ref name="Madinger-2015"/><ref>Jones, David Bowie A Life, Windmill Books 2018 {{ISBN|978-1-78609-043-0}}</ref>{{sfn|Cherry|2022|p=137}}<ref>{{cite web |url=https://www.johnlennon.com/music/collaborations/david-bowie-fame |title=Fame |website=John Lennon official website|access-date=5 July 2022|archive-date=28 June 2022|archive-url=https://web.archive.org/web/20220628234356/https://www.johnlennon.com/music/collaborations/david-bowie-fame/|url-status=live}}</ref> which became [[David Bowie]]'s first US number one, featuring guitar and backing vocals by Lennon. In February, Lennon released ''[[Rock 'n' Roll (John Lennon album)|Rock 'n' Roll]]'' (1975), an album of cover songs. "[[Stand by Me (Ben E. King song)|Stand by Me]]", taken from the album and a US and UK hit, became his last single for five years.{{sfn|Harry|2000b|pp=240, 563}} He made what would be his final stage appearance in the [[Associated TeleVision|ATV]] special ''A Salute to [[Lew Grade]]'', recorded on 18 April and televised in June.{{sfn|Harry|2000b|p=758}} Playing acoustic guitar and backed by an eight-piece band, Lennon performed two songs from ''Rock 'n' Roll'' ("Stand by Me", which was not broadcast, and "Slippin' and Slidin{{'"}}) followed by "Imagine".{{sfn|Harry|2000b|p=758}} The band, known as Etc., wore masks behind their heads, a dig by Lennon, who thought Grade was two-faced.<ref>Madinger, ''Eight Arms to Hold You'', 44.1 Publishing, 2000, {{ISBN|0-615-11724-4}}</ref>
+
+===Hiatus and return: 1975–1980===
+[[File:Lennon's Green Card.jpg|thumb|Lennon's [[green card]], which allowed him to live and work in the United States]]
+Lennon began what would be a five-year hiatus from the music industry, during which time, he later said, he "baked bread" and "looked after the baby".{{sfn|Sheff|2000|p=4}} He devoted himself to Sean, rising at 6{{nbsp}}am daily to plan and prepare his meals and to spend time with him.{{sfn|Harry|2000b|p=553}} He wrote "Cookin' (In the Kitchen of Love)" for Starr's ''[[Ringo's Rotogravure]]'' (1976), performing on the track in June in what would be his last recording session until 1980.{{sfn|Harry|2000b|p=166}}
+
+[[Sean Lennon]], Lennon's only child with Ono, was born on 9 October 1975 (Lennon's thirty-fifth birthday), after which Lennon took on the role of househusband.  He formally announced his break from music in Tokyo in 1977, saying, "we have basically decided, without any great decision, to be with our baby as much as we can until we feel we can take time off to indulge ourselves in creating things outside of the family."{{sfn|Bennahum|1991|p=87}} During his career break he created several series of drawings, and drafted a book containing a mix of autobiographical material and what he termed "mad stuff",{{sfn|Harry|2000b|p=814}} all of which would be published posthumously.
+
+Lennon emerged from his hiatus in October 1980, when he released the single "[[(Just Like) Starting Over]]". In November, he and Ono released the album ''[[Double Fantasy]]'', which included songs Lennon had written in [[Bermuda]]. In June, Lennon chartered a 43-foot sailboat and embarked on a sailing trip to Bermuda. En route, he and the crew encountered a storm, rendering everyone on board seasick, except Lennon, who took control and sailed the boat through the storm. This experience re-invigorated him and his creative muse. He spent three weeks in Bermuda in a home called Fairylands writing and refining the tracks for the upcoming album.{{sfn|BBC News|2006b}}<ref>{{Cite web |url=http://forums.stevehoffman.tv/threads/lennon-article-circa-1980-double-fantasy.76587/ |title=Lennon article (circa 1980/ Double Fantasy) |website=Steve Hoffman Music Forums|access-date=29 August 2020|archive-date=2 August 2020|archive-url=https://web.archive.org/web/20200802170250/https://forums.stevehoffman.tv/threads/lennon-article-circa-1980-double-fantasy.76587/|url-status=live}}</ref><ref>{{Cite web |url=http://www.independent.co.uk/arts-entertainment/music/news/john-lennon-and-sons-double-fantasy-trip-8629345.html |archive-url=https://ghostarchive.org/archive/20220613/http://www.independent.co.uk/arts-entertainment/music/news/john-lennon-and-sons-double-fantasy-trip-8629345.html |archive-date=13 June 2022 |url-access=subscription |url-status=live |title=John Lennon and son's double-fantasy trip |date=24 May 2013 |website=The Independent}}</ref><ref>{{Cite web |url=http://www.royalgazette.com/article/20120622/NEWS/706219892 |title=Yoko Ono thanks Bermuda for tribute to John Lennon &#124; The Royal Gazette:Bermuda News |first=Scott |last=Neil |website=The Royal Gazette |date=22 June 2012 |access-date=21 February 2020|archive-date=21 February 2020|archive-url=https://web.archive.org/web/20200221234123/http://www.royalgazette.com/article/20120622/NEWS/706219892|url-status=live}}</ref>
+
+The music reflected Lennon's fulfilment in his new-found stable family life.{{sfn|Schinder|Schwartz|2007|p=178}} Sufficient additional material was recorded for a planned follow-up album ''[[Milk and Honey (album)|Milk and Honey]]'', which was issued posthumously, in 1984.{{sfn|Ginell|2009}} ''Double Fantasy'' was not well received initially and drew comments such as ''[[Melody Maker]]'''s "indulgent sterility{{nbsp}}... a godawful yawn".{{sfn|Badman|2001|p=268}}
+
+==Assassination==
+{{Main|Assassination of John Lennon}}
+[[File:Strawberry Fields in the Central Park with The Dakota behind.jpg|thumb|Wintertime at Strawberry Fields in [[Central Park]] with the Dakota in the background]]
+In New York, at approximately 5:00&nbsp;p.m. on 8 December 1980, Lennon autographed a copy of ''Double Fantasy'' for [[Mark David Chapman]] before leaving [[The Dakota]] with Ono for a recording session at the [[Record Plant]].{{sfn|Harry|2000b|p=145}} After the session, Lennon and Ono returned to the Dakota in a limousine at around 10:50{{nbsp}}p.m. (EST). They left the vehicle and walked through the archway of the building. Chapman then shot Lennon twice in the back and twice in the shoulder<ref>{{cite magazine |url=https://nymag.com/nymetro/news/people/columns/intelligencer/15265/ |first=Stacia |last=Thiel |title=Revolver |magazine=[[New York (magazine)|New York]] |date=2 December 2005|access-date=17 October 2020|archive-date=17 October 2020|archive-url=https://web.archive.org/web/20201017222913/https://nymag.com/nymetro/news/people/columns/intelligencer/15265/|url-status=live}}</ref> at close range. Lennon was rushed in a police cruiser to the emergency room of [[Mount Sinai West|Roosevelt Hospital]], where he was pronounced dead on arrival at 11:15{{nbsp}}p.m. (EST); he was 40 years old.{{sfn|Ingham|2006|p=82}}<ref>{{cite web |url=https://www.biography.com/news/john-lennon-death-timeline |title=John Lennon's Death: A Timeline of Events |date=16 June 2020 |website=Biography.com|access-date=29 December 2020|archive-date=8 December 2020|archive-url=https://web.archive.org/web/20201208113219/https://www.biography.com/news/john-lennon-death-timeline|url-status=live}}</ref>
+
+<!-- Deleted image removed: [[File:Lennon and Chapman.jpg|thumb|left|Lennon autographing a copy of ''[[Double Fantasy]]'' for [[Mark David Chapman|Chapman]], six hours before his death.]] -->
+Ono issued a statement the next day, saying "There is no funeral for John. Later in the week we will set the time for a silent vigil to pray for his soul. We invite you to participate from wherever you are at the time." She requested that instead of flowers, people could donate to Lennon's personal charitable foundation, the Spirit Foundation. "John loved and prayed for the human race. Please pray the same for him. Love. Yoko and Sean."<ref>Joyce Wadler and Mike Sager, "[https://www.washingtonpost.com/archive/politics/1980/12/10/i-just-shot-john-lennon-he-said-coolly/41d37bda-f5dd-4133-b9eb-4bf40935ae78/ 'I Just Shot John Lennon,' He Said Coolly]." ''Washington Post'', Dec. 8, 1980.</ref>{{sfn|Harry|2000b|p=692}} His remains were [[Cremation|cremated]] at [[Ferncliff Cemetery]] in [[Hartsdale, New York]]. Ono scattered his ashes in New York's [[Central Park]], where the [[Strawberry Fields (memorial)|Strawberry Fields memorial]] was later created.{{sfn|Harry|2000b|p=510}} Chapman avoided going to trial when he ignored his lawyer's advice and pleaded guilty to second-degree murder and was sentenced to 20-years-to-life.<ref>{{cite web |url=http://nysdoccslookup.doccs.ny.gov/GCA00P00/WIQ3/WINQ130 |title=Inmate Population Information Search |publisher=Nysdoccslookup.doccs.ny.gov|access-date=27 September 2014|url-status=live|archive-url=https://web.archive.org/web/20141016225037/http://nysdoccslookup.doccs.ny.gov/GCA00P00/WIQ3/WINQ130|archive-date=16 October 2014}}</ref>{{refn|group=nb|In September 2022, he was denied parole for the 12th time.<ref>{{cite magazine |url=https://www.rollingstone.com/music/music-news/mark-david-chapman-john-lennon-killer-denied-parole-1234592079/ |title=John Lennon's Killer, Mark David Chapman, Denied Parole for the 12th Time |date=12 September 2022 |magazine=Rolling Stone | access-date=23 December 2022 | archive-date=23 December 2022 | archive-url=https://web.archive.org/web/20221223084011/https://www.rollingstone.com/music/music-news/mark-david-chapman-john-lennon-killer-denied-parole-1234592079/ | url-status=live}}</ref>}}
+
+In the weeks following the assassination, "(Just Like) Starting Over" and ''Double Fantasy'' topped the charts in the UK and the US.{{sfn|Badman|2001|p=277}} "Imagine" hit number one in the UK in January 1981 and "Happy Xmas" peaked at number two.{{sfn|Badman|2001|p=279}} "Imagine" was succeeded at the top of the UK chart by "[[Woman (John Lennon song)|Woman]]", the second single from ''Double Fantasy''.<ref>{{cite web |url=https://www.officialcharts.com/chart-news/all-the-number-1-singles__7931/#1980s |title=All The Number 1 Singles |website=The Official Charts Company|access-date=29 March 2021|archive-date=26 March 2021|archive-url=https://web.archive.org/web/20210326223222/https://www.officialcharts.com/chart-news/all-the-number-1-singles__7931/#1980s|url-status=live}}</ref> Later that year, [[Roxy Music]]'s cover version of "[[Jealous Guy#Roxy Music version|Jealous Guy]]", recorded as a tribute to Lennon, was also a UK number-one.{{sfn|Harry|2000b|p=411}}
+
+==Personal relationships==
+<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+
+===Cynthia Lennon===
+[[File:John and Cynthia Lennon, 1964.jpg|thumb|John and [[Cynthia Lennon]] sitting in an airplane on a stopover in Los Angeles in 1964]]
+<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+Lennon met [[Cynthia Powell]] (1939–2015) in 1957, when they were fellow students at the [[Liverpool College of Art]].{{sfn|Lennon|2005|pp=17–23}} Although Powell was intimidated by Lennon's attitude and appearance, she heard that he was obsessed with the French actress [[Brigitte Bardot]], so she dyed her hair blonde. Lennon asked her out, but when she said that she was engaged, he shouted, "I didn't ask you to fuckin' marry me, did I?"{{sfn|Lennon|2005|p=21}} She often accompanied him to Quarrymen gigs and travelled to Hamburg with McCartney's girlfriend to visit him.{{sfn|Lennon|2005|pp=89–95}}
+
+Lennon was jealous by nature and eventually grew possessive, often terrifying Powell with his anger.{{sfn|Harry|2000b|pp=492–493}} In her 2005 memoir ''[[John (2005 book)|John]]'', Powell recalled that, when they were dating, Lennon once struck her after he observed her dancing with Stuart Sutcliffe.{{sfn|Lennon|2005|p=37}} She ended their relationship as a result, until three months later, when Lennon apologised and asked to reunite.{{sfn|Lennon|2005|p=38: "After three months, he phoned me and asked me to go back to him. It had taken him that long to pluck up the courage. He apologized for hitting me and said it would never happen again"}} She took him back and later noted that he was never again physically abusive towards her, although he could still be "verbally cutting and unkind".{{sfn|Lennon|2005|p=38: "He was deeply ashamed of what he had done: I think he had been shocked to discover he had it in him to hit me. So, although he was still verbally cutting and unkind, he was never again physically violent to me. As we grew closer, in the second phase of our romance, even his verbal putdowns and attacks diminished"}} Lennon later said that until he met Ono, he had never questioned his chauvinistic attitude towards women. He said that the Beatles song "[[Getting Better]]" told his (or his peers') own story. "I used to be cruel to my woman, and physically – any woman. I was a hitter. I couldn't express myself and I hit. I fought men and I hit women. That is why I am always on about peace".{{sfn|Sheff|2000|p=182}}
+
+Recalling his July 1962 reaction when he learned that Cynthia was pregnant, Lennon said, "There's only one thing for it Cyn. We'll have to get married."{{sfn|Lennon|2005|p=91}} The couple wed on 23 August at the [[Mount Pleasant, Liverpool|Mount Pleasant]] [[Register Office]] in Liverpool, with Brian Epstein serving as best man. His marriage began just as [[Beatlemania in the United Kingdom|Beatlemania]] was taking off across the UK. He performed on the evening of his wedding day and would continue to do so almost daily from then on.{{sfn|Harry|2000b|pp=493–495}} Epstein feared that fans would be alienated by the idea of a married Beatle, and he asked the Lennons to keep their marriage secret. Julian was born on 8 April 1963; Lennon was on tour at the time and did not see his infant son until three days later.{{sfn|Lennon|2005|p=113}}
+
+Cynthia attributed the start of the marriage breakdown to Lennon's use of [[LSD]], and she felt that he slowly lost interest in her as a result of his use of the drug.{{sfn|Harry|2000b|pp=496–497}} When the group travelled by train to [[Bangor, Gwynedd|Bangor]], Wales in 1967 for the [[Maharishi Yogi]]'s Transcendental Meditation seminar, a policeman did not recognise her and stopped her from boarding. She later recalled how the incident seemed to symbolise the end of their marriage.{{sfn|Warner Brothers|1988}} After spending a holiday in Greece,{{sfn|Lennon|2005|pp=211–213}} Cynthia arrived home at [[Kenwood, St. George's Hill|Kenwood]] to find Lennon sitting on the floor with Ono in terrycloth robes{{sfn|Lennon|2005|p=213}} and left the house to stay with friends, feeling shocked and humiliated.{{sfn|Lennon|2005|pp=214–215: "I was in shock, [...] It was clear that they had arranged for me to find them like that and the cruelty of John's betrayal was hard to absorb", "I felt utterly humiliated, and longed to disappear. [...] Their intimacy had been so powerful that I had felt like a stranger in my own home"}} A few weeks later, [[Magic Alex|Alexis Mardas]] informed Powell that Lennon was seeking a divorce and custody of Julian.{{sfn|Lennon|2005|p=221}} She received a letter stating that Lennon was doing so on the grounds of her adultery with Italian hotelier Roberto Bassanini, an accusation which Powell denied.{{sfn|Lennon|2005|p=222: "It was laughable. Roberto had been kind and a good friend, but I had never been unfaithful to John. It was his attempt to make himself feel better about what he was doing"}} After negotiations, Lennon capitulated and agreed to let her divorce him on the same grounds (adultery).{{sfn|Lennon|2005|p=229}} The case was settled out of court in November 1968, with Lennon giving her £100,000, a small annual payment, and custody of Julian.{{sfn|Lennon|2005|pp=305–306: "He had agreed that I should have custody of Julian", "He raised his offer to £100,000"}}
+
+===Brian Epstein===
+[[File:Aankomst Brian Epstein (manager Beatles) op Schiphol (Grand Gala du Disque 1965), Bestanddeelnr 918-2516 ShiftN.jpg|thumb|upright|[[Brian Epstein]] in 1965]]
+The Beatles were performing at Liverpool's [[The Cavern Club|Cavern Club]] in November 1961 when they were introduced to [[Brian Epstein]] after a midday concert. Epstein was homosexual and [[closeted]], and according to biographer [[Philip Norman (author)|Philip Norman]], one of Epstein's reasons for wanting to manage the group was that he was attracted to Lennon.{{Sfn|Lewisohn|2013|pp=261, 498–499, p849n29}} Later biographer [[Mark Lewisohn]] called the claim unsubstantiated and wrote: 
+
+{{Block quote|text=Suggestions that it was ''only'' homoerotic fantasy that drew Brian Epstein to the Beatles are distortion{{nbsp}}... and perform a malign disservice to both him and them. It may have been part of the mix, but he was, above all else, simply the latest in an ever-lengthening line of people seduced by the Beatles' singular mix of talents.{{sfn|Lewisohn|2013|p=499}}}}
+
+Almost as soon as Julian was born, Lennon went on holiday to Spain with Epstein, which led to speculation about their relationship. When he was later questioned about it, Lennon said, "Well, it was almost a love affair, but not quite. It was never consummated. But it was a pretty intense relationship. It was my first experience with a homosexual that I was conscious was homosexual. We used to sit in a café in [[Torremolinos]] looking at all the boys and I'd say, 'Do you like that one? Do you like this one?' I was rather enjoying the experience, thinking like a writer all the time: I am experiencing this."{{sfn|Harry|2000a|p=232}} Soon after their return from Spain, at McCartney's twenty-first birthday party in June 1963, Lennon physically attacked Cavern Club master of ceremonies [[Bob Wooler]] for saying "How was your honeymoon, John?" The MC, known for his wordplay and affectionate but cutting remarks, was making a joke,{{sfn|Harry|2000a|pp=1165, 1169}} but ten months had passed since Lennon's marriage, and the deferred honeymoon was still two months in the future.{{sfn|Lennon|2005|pp=94, 119–120}} Lennon was drunk. He later said: "He called me a [[queer]] so I battered his bloody ribs in."{{sfn|Harry|2000a|p=1169}}
+
+Lennon delighted in mocking Epstein for his homosexuality and for the fact that he was Jewish.{{sfn|Harry|2000b|p=232}} When Epstein invited suggestions for the title of his autobiography, Lennon offered ''Queer Jew''; on learning of the eventual title, ''[[A Cellarful of Noise]]'', he parodied, "More like ''A Cellarful of Boys''".{{sfn|Coleman|1992|pp=298–299}} He demanded of a visitor to Epstein's flat, "Have you come to blackmail him? If not, you're the only bugger in London who hasn't."{{sfn|Harry|2000b|p=232}} During the recording of "[[Baby, You're a Rich Man]]", he sang altered choruses of "Baby, you're a rich fag Jew".{{sfn|Norman|2008|p=503}}{{sfn|MacDonald|2005|p=206}}
+
+===Julian Lennon===
+[[File:Julian Lennon.jpg|thumb|upright|[[Julian Lennon]] at the unveiling of the John Lennon Peace Monument]]
+During his marriage to Cynthia, Lennon's first son [[Julian Lennon|Julian]] was born at the same time that his commitments with the Beatles were intensifying at the height of [[Beatlemania in the United Kingdom|Beatlemania]]. Lennon was touring with the Beatles when Julian was born on 8 April 1963. Julian's birth, like his mother Cynthia's marriage to Lennon, was kept secret because Epstein was convinced that public knowledge of such things would threaten the Beatles' commercial success. Julian recalled that as a small child in [[Weybridge]] some four years later, "I was trundled home from school and came walking up with one of my watercolour paintings. It was just a bunch of stars and this blonde girl I knew at school. And Dad said, 'What's this?' I said, 'It's Lucy in the sky with diamonds.{{'"}}{{sfn|Harry|2000b|p=517}} Lennon used it as the title of a [[Lucy in the Sky with Diamonds|Beatles song]], and though it was later reported to have been derived from the initials [[Lysergic acid diethylamide|LSD]], Lennon insisted, "It's not an acid song."{{sfn|Harry|2000b|p=574}} Lennon was distant from Julian, who felt closer to McCartney than to his father. During a car journey to visit Cynthia and Julian during Lennon's divorce, McCartney composed a song, "Hey Jules", to comfort him. It would evolve into the Beatles song "[[Hey Jude]]". Lennon later said, "That's his best song. It started off as a song about my son Julian{{nbsp}}... he turned it into 'Hey Jude'. I always thought it was about me and Yoko but he said it wasn't."{{sfn|Harry|2000b|p=341}}
+
+Lennon's relationship with Julian was already strained, and after Lennon and Ono moved to New York in 1971, Julian did not see his father again until 1973.{{sfn|Pang|2008|loc=back cover}} With Pang's encouragement, arrangements were made for Julian and his mother to visit Lennon in Los Angeles, where they went to [[Disneyland]].{{sfn|Lennon|2005|pp=252–255}} Julian started to see his father regularly, and Lennon gave him a drumming part on a ''[[Walls and Bridges]]'' track.{{sfn|Lennon|2005|p=258}} He bought Julian a [[Gibson Les Paul]] guitar and other instruments, and encouraged his interest in music by demonstrating guitar chord techniques.{{sfn|Lennon|2005|p=258}} Julian recalls that he and his father "got on a great deal better" during the time he spent in New York: "We had a lot of fun, laughed a lot and had a great time in general."{{sfn|Times Online|2009}}
+
+In a ''Playboy'' interview with David Sheff shortly before his death, Lennon said, "Sean is a planned child, and therein lies the difference. I don't love Julian any less as a child. He's still my son, whether he came from a bottle of whiskey or because they didn't have pills in those days. He's here, he belongs to me, and he always will."{{sfn|Sheff|2000|p=63}} He said he was trying to reestablish a connection with the then 17-year-old, and confidently predicted, "Julian and I will have a relationship in the future."{{sfn|Sheff|2000|p=63}} After his death it was revealed that he had left Julian very little in his will.{{sfn|Badman|2003|p=393}}
+
+===Yoko Ono===
+{{redirects here|John and Yoko}}
+<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+[[File:Lennons by Jack Mitchell.jpg|thumb|Lennon and Ono in 1980 by [[Jack Mitchell (photographer)|Jack Mitchell]]]]
+[[File:John Lennon en zijn echtgenote Yoko Ono op huwelijksreis in Amsterdam. John Lenn, Bestanddeelnr 922-2305.jpg|left|thumb|280x280px|Lennon with Ono in 1969]]
+Lennon first met Yoko Ono on 9 November 1966 at the [[Indica Gallery]] in London, where Ono was preparing her conceptual art exhibit. They were introduced by gallery owner [[John Dunbar (artist)|John Dunbar]].{{sfn|Harry|2000b|p=682}} Lennon was intrigued by Ono's "Hammer A Nail": patrons hammered a nail into a wooden board, creating the art piece. Although the exhibition had not yet begun, Lennon wanted to hammer a nail into the clean board, but Ono stopped him. Dunbar asked her, "Don't you know who this is? He's a millionaire! He might buy it." According to Lennon's recollection in 1980, Ono had not heard of the Beatles, but she relented on condition that Lennon pay her five [[wikt:shilling|shillings]], to which Lennon said he replied, "I'll give you an imaginary five shillings and hammer an imaginary nail in."{{sfn|Sheff|2000|p=104}} Ono subsequently related that Lennon had taken a bite out of the apple on display in her work ''[[Apple (artwork)|Apple]]'', much to her fury.<ref name='MOMA'>{{cite web |title=Apple. Yoko Ono. 1966. |url=https://www.moma.org/audio/playlist/15/368 |publisher=Museum of Modern Art|access-date=11 January 2018|archive-date=13 January 2018|archive-url=https://web.archive.org/web/20180113092939/https://www.moma.org/audio/playlist/15/368|url-status=live}}</ref>{{refn|group=nb|According to McCartney, he himself met Ono a few weeks before this event,{{sfn|Miles|2001|p=246}} when she visited him in the hope of obtaining a Lennon–McCartney song manuscript for a book [[John Cage]] was working on, ''[[Notations]]''. McCartney declined to give her any of his own manuscripts but suggested that Lennon might oblige. When asked, Lennon gave Ono the original handwritten lyrics to "[[The Word (song)|The Word]]".{{sfn|Miles|1997|p=272}}}}
+
+Ono began to telephone and visit Lennon at his home. When Cynthia asked him for an explanation, Lennon explained that Ono was only trying to obtain money for her "avant-garde bullshit".{{sfn|Harry|2000b|p=683}} While his wife was on holiday in Greece in May 1968, Lennon invited Ono to visit. They spent the night recording what would become the ''[[Two Virgins]]'' album, after which, he said, they "made love at dawn".<ref>''[[Two Virgins]]'' liner notes</ref> When Lennon's wife returned home she found Ono wearing her bathrobe and drinking tea with Lennon who simply said, "Oh, hi."{{sfn|Lennon|1978|p=183}} Ono became pregnant in 1968 and miscarried a male child on 21 November 1968,{{sfn|Harry|2000b|p=510}} a few weeks after Lennon's divorce from Cynthia was granted.{{sfn|Spitz|2005|p=800}}
+
+Two years before the Beatles disbanded, Lennon and Ono began public protests against the [[Vietnam War]]. They were married in [[Gibraltar]] on 20 March 1969,{{sfn|Coleman|1992|p=705}} and spent their honeymoon at the [[Hilton Amsterdam]], campaigning with a week-long bed-in. They planned another bed-in in the United States, but were denied entry,{{sfn|Kruse|2009|p=16}} so held one instead at the [[Queen Elizabeth Hotel]] in Montreal, where they recorded "[[Give Peace a Chance]]".{{sfn|Harry|2000b|p=276}} They often combined advocacy with performance art, as in their "[[Bagism]]", first introduced during a Vienna press conference. Lennon detailed this period in the Beatles song "[[The Ballad of John and Yoko]]".{{sfn|Coleman|1992|p=550}} Lennon changed his name by [[deed poll]] on 22 April 1969, adding "Ono" as a middle name. The brief ceremony took place on the roof of the [[Apple Corps]] building, where the Beatles had performed [[The Beatles' rooftop concert|their rooftop concert]] three months earlier. Although he used the name John Ono Lennon thereafter, some official documents referred to him as John Winston Ono Lennon.{{sfn|Coleman|1984b|p=64}} The couple settled at [[Tittenhurst Park]] at [[Sunninghill, Berkshire|Sunninghill]] in [[Berkshire]].{{sfn|Norman|2008|p=615 et seq}} After Ono was injured in a car accident, Lennon arranged for a king-size bed to be brought to the recording studio as he worked on the Beatles' album, ''[[Abbey Road]]''.{{sfn|Emerick|Massey|2006|pp=279–280}}
+
+Ono and Lennon moved to New York, to a flat on [[Bank Street (Manhattan)|Bank Street]], Greenwich Village. Looking for somewhere with better security, they relocated in 1973 to the more secure [[The Dakota|Dakota]] overlooking [[Central Park]] at 1{{nbsp}}West{{nbsp}}[[72nd Street (Manhattan)|72nd Street]].<ref>{{cite news |url=https://www.nytimes.com/2010/12/07/nyregion/07appraisal.html |archive-url=https://ghostarchive.org/archive/20220103/https://www.nytimes.com/2010/12/07/nyregion/07appraisal.html |archive-date=3 January 2022 |url-access=subscription |url-status=live |title=Sharing the Dakota With John Lennon |work=The New York Times |date=6 December 2010|access-date=19 April 2019}}{{cbignore}}</ref>
+
+===May Pang===
+<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+[[File:May Pang, Famous Music.jpg|thumb|upright|alt=Picture of an Asian woman in her thirties sitting on a table|May Pang in 1983]]
+ABKCO Industries was formed in 1968 by [[Allen Klein]] as an umbrella company to [[ABKCO Records]]. Klein hired [[May Pang]] as a receptionist in 1969. Through involvement in a project with ABKCO, Lennon and Ono met her the following year. She became their personal assistant. In 1973, after she had been working with the couple for three years, Ono confided that she and Lennon were becoming estranged. She went on to suggest that Pang should begin a physical relationship with Lennon, telling her, "He likes you a lot." Astounded by Ono's proposition, Pang nevertheless agreed to become Lennon's companion. The pair soon left for Los Angeles, beginning an 18-month period he later called his "[[May Pang#"Lost Weekend"|lost weekend]]".{{sfn|Harry|2000b|pp=698–699}} In Los Angeles, Pang encouraged Lennon to develop regular contact with Julian, whom he had not seen for two years. He also rekindled friendships with Starr, McCartney, Beatles roadie [[Mal Evans]], and [[Harry Nilsson]].
+
+In June, Lennon and Pang returned to Manhattan in their newly rented penthouse apartment where they prepared a spare room for Julian when he visited them.{{sfn|Harry|2000b|p=700}} Lennon, who had been inhibited by Ono in this regard, began to reestablish contact with other relatives and friends. By December, he and Pang were considering a house purchase, and he refused to accept Ono's telephone calls. In February 1975, he agreed to meet Ono, who claimed to have found a cure for smoking. After the meeting, he failed to return home or call Pang. When Pang telephoned the next day, Ono told her that Lennon was unavailable because he was exhausted after a hypnotherapy session. Two days later, Lennon reappeared at a joint dental appointment; he was stupefied and confused to such an extent that Pang believed he had been brainwashed. Lennon told Pang that his separation from Ono was now over, although Ono would allow him to continue seeing her as his [[mistress (lover)|mistress]].{{sfn|Harry|2000b|pp=700–701}}
+
+===Sean Lennon===
+[[File:Sean Lennon.jpg|thumb|left|upright|[[Sean Lennon]] at a [[Free Tibet]] event in 1998]]
+[[Sean Lennon|Sean Ono Lennon]] was born on 9 October 1975, his father's 35th birthday. Ono had previously suffered three [[miscarriage]]s in her attempt to have a child with Lennon. After Ono and Lennon were reunited, she became pregnant again. She initially said that she wanted to have an abortion but changed her mind and agreed to allow the pregnancy to continue on the condition that Lennon adopt the role of [[househusband]], which he agreed to do.{{sfn|Harry|2000b|pp=535, 690}}
+
+Following Sean's birth, Lennon's subsequent hiatus from the music industry would span five years. He had a photographer take pictures of Sean every day of his first year and created numerous drawings for him, which were posthumously published as ''Real Love: The Drawings for Sean''. Lennon later proudly declared, "He didn't come out of my belly but, by God, I made his bones, because I've attended to every meal, and to how he sleeps, and to the fact that he swims like a fish."{{sfn|Harry|2000b|p=535}}
+
+===Former Beatles===
+{{Further|Collaborations between ex-Beatles}}
+[[File:The Beatles arrive at JFK Airport.jpg|thumb|alt=Black-and-white picture of four young men outdoors in front of a staircase, surrounded by a large assembled crowd. All four are waving to the crowd.|Lennon (left) and the rest of the Beatles [[The Beatles#First visit to United States and British Invasion|arriving in New York City in 1964]]]]
+While Lennon remained consistently friendly with Starr during the years that followed the Beatles' break-up in 1970, his relationships with McCartney and Harrison varied. He was initially close to Harrison, but the two drifted apart after Lennon moved to the US in 1971. When Harrison was in New York for his December 1974 ''[[Dark Horse (George Harrison album)|Dark Horse]]'' tour, Lennon agreed to join him on stage but failed to appear after an argument over Lennon's refusal to sign an agreement that would finally dissolve the Beatles' legal partnership.{{sfn|Harry|2000b|p=195}}{{refn|group=nb|Lennon eventually signed the papers while he was on holiday in Florida with Pang and Julian.{{sfn|Harry|2000b|p=195}}}} Harrison later said that when he visited Lennon during his five years away from music, he sensed that Lennon was trying to communicate, but his bond with Ono prevented him.{{sfn|Doggett|2010|pp=247–48}}{{sfn|The Editors of ''Rolling Stone''|2002|p=146}} Harrison offended Lennon in 1980 when he published ''[[I, Me, Mine]]'', an autobiography that Lennon felt made little mention of him.{{sfn|Tillery|2011|p=121}} Lennon told ''[[Playboy]]'', "I was hurt by it. By glaring omission{{nbsp}}... my influence on his life is absolutely zilch{{nbsp}}... he remembers every two-bit sax player or guitarist he met in subsequent years. I'm not in the book."{{sfn|Harry|2000b|p=327}}
+
+Lennon's most intense feelings were reserved for McCartney. In addition to attacking him with the lyrics of "[[How Do You Sleep? (John Lennon song)|How Do You Sleep?]]", Lennon argued with him through the press for three years after the group split. The two later began to reestablish something of the close friendship they had once known, and, on one occasion in 1974, even recorded music together (later bootlegged as ''[[A Toot and a Snore in '74]]'') before eventually growing apart once more. During McCartney's final visit in April 1976, Lennon said that they watched the episode of ''[[Saturday Night Live]]'' in which [[Lorne Michaels]] made a $3,000 offer to get the Beatles to reunite on the show.{{sfn|Harry|2000b|pp=934–935}} According to Lennon, the pair considered going to the studio to make a joke appearance, attempting to claim their share of the money, but they were too tired.{{sfn|Sheff|2000|pp=81–82}} Lennon summarised his feelings towards McCartney in an interview three days before his death: "Throughout my career, I've selected to work with{{nbsp}}... only two people: Paul McCartney and Yoko Ono{{nbsp}}... That ain't bad picking."{{sfn|Cohn|2010–2011|p=95}}
+
+Along with his estrangement from McCartney, Lennon always felt a musical competitiveness with him and kept an ear on his music. During his career break from 1975 until shortly before his death, according to Fred Seaman, Lennon and Ono's assistant at the time, Lennon was content to sit back as long as McCartney was producing what Lennon saw as mediocre material.{{sfn|Seaman|1991|p=122}} Lennon took notice when McCartney released "[[Coming Up (song)|Coming Up]]" in 1980, which was the year Lennon returned to the studio. "It's driving me crackers!" he jokingly complained, because he could not get the tune out of his head.{{sfn|Seaman|1991|p=122}} That same year, Lennon was asked whether the group were dreaded enemies or the best of friends, and he replied that they were neither, and that he had not seen any of them in a long time. But he also said, "I still love those guys. The Beatles are over, but John, Paul, George and Ringo go on."{{sfn|Sheff|2000|p=82}}
+
+==Political activism==
+{{Further|Bed-in|Bagism}}
+[[File:John Lennon performing Give Peace a Chance 1969.jpg|thumb|left|alt=Lennon and Ono sit in front of flowers and placards bearing the word "peace". Lennon is only partly visible, and he holds an acoustic guitar. Ono wears a white dress, and there is a hanging microphone in front of her. In the foreground of the image are three men, one of them a guitarist facing away, and a woman.|Recording "[[Give Peace a Chance]]" during the bed-in at the [[Queen Elizabeth Hotel]], Montreal]]
+Lennon and Ono used their [[honeymoon]] as a bed-in at the [[Amsterdam Hilton Hotel]]; the March 1969 event attracted worldwide media ridicule.{{sfn|Miles|2001|p=337: "They were ridiculed by the world's media"}}{{sfn|Anderson|2010|p=83: "The bed-in stunt was ridiculed by the press"}} During a second bed-in three months later at the Queen Elizabeth Hotel in Montreal,{{sfn|Harry|2000b|pp=745–748}} Lennon wrote and recorded "Give Peace a Chance". Released as a single, the song was quickly interpreted as an anti-war anthem and sung by a quarter of a million demonstrators against the [[Vietnam War]] in Washington,&nbsp;DC, on 15 November, the second [[Moratorium to End the War in Vietnam|Vietnam Moratorium Day]].{{sfn|Perone|2001|pp=57–58}}{{sfn|Holsinger|1999|p=389}} In December, they paid for billboards in 10 cities around the world which declared, in the national language, "War Is Over! If You Want It".<ref>"John Lennons Convey Greetings via Billboards" ''The New York Times'' 16 December 1969: 54</ref>
+
+During the year, Lennon and Ono began to support efforts by the family of [[James Hanratty]] to prove his innocence.{{sfn|Wenner|2000|p=43}} Hanratty had been hanged in 1962. According to Lennon, those who had condemned Hanratty were "the same people who are running guns to South Africa and killing blacks in the streets&nbsp;... The same bastards are in control, the same people are running everything, it's the whole bullshit bourgeois scene."{{sfn|Clark|2002}} In London, Lennon and Ono staged a "Britain Murdered Hanratty" banner march and a "Silent Protest For James Hanratty",{{sfn|Miles|2001|p=362}} and produced a 40-minute documentary on the case. At an [[Court of Appeal (England and Wales)|appeal hearing]] more than thirty years later, Hanratty's conviction was upheld after [[DNA evidence]] was found to match, validating those who condemned him.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/wales/1980731.stm |title=Hanratty: The damning DNA |work=BBC News |date=10 May 2002 |access-date=27 September 2014 |url-status=live |archive-url=https://web.archive.org/web/20140405134202/http://news.bbc.co.uk/2/hi/uk_news/wales/1980731.stm |archive-date=5 April 2014}}</ref>
+
+[[File:Yoko Ono and John Lennon at John Sinclair Freedom Rally.jpg|thumb|Lennon and Ono performing at the [[John Sinclair Freedom Rally]] in December 1971]]
+Lennon and Ono showed their solidarity with the [[Clydeside]] [[Upper Clyde Shipbuilders|UCS]] workers' [[work-in]] of 1971 by sending a bouquet of red roses and a cheque for £5,000.{{sfn|McGinty|2010}} On moving to New York City in August that year, they befriended two of the [[Chicago Seven]], [[Youth International Party|Yippie]] peace activists [[Jerry Rubin]] and [[Abbie Hoffman]].{{sfn|Harry|2000b|p=344}} Another political activist, [[John Sinclair (poet)|John Sinclair]], poet and co-founder of the [[White Panther Party]], was serving ten years in prison for selling two [[Joint (cannabis)|joints]] of marijuana after previous convictions for possession of the drug.{{sfn|Buchanan|2009}} In December 1971 at [[Ann Arbor, Michigan]], 15,000 people attended the "[[John Sinclair Freedom Rally]]", a protest and benefit concert with contributions from Lennon, [[Stevie Wonder]], [[Bob Seger]], [[Bobby Seale]] of the [[Black Panther Party]], and others.{{sfn|Harry|2000b|pp=789–790, 812–813}} Lennon and Ono, backed by [[David Peel (musician)|David Peel]] and Jerry Rubin, performed an acoustic set of four songs from their forthcoming ''Some Time in New York City'' album including "John Sinclair", whose lyrics called for his release. The day before the rally, the [[Michigan Senate]] passed a bill that significantly reduced the penalties for possession of marijuana and four days later Sinclair was released on an appeal bond.{{sfn|Glenn|2009}} The performance was recorded and two of the tracks later appeared on ''[[John Lennon Anthology]]'' (1998).{{sfn|Calkin|2002}}
+
+Following the [[Bloody Sunday (1972)|Bloody Sunday]] incident in [[Northern Ireland]] in 1972, Lennon said that given the choice between the British army and the [[Official Irish Republican Army|IRA]] he would side with the latter. Lennon and Ono wrote two songs protesting British presence and actions in Ireland for their ''Some Time in New York City'' album: "[[The Luck of the Irish (song)|The Luck of the Irish]]" and "[[Sunday Bloody Sunday (John Lennon and Yoko Ono song)|Sunday Bloody Sunday]]". In 2000, [[David Shayler]], a former member of Britain's domestic security service MI5, suggested that Lennon had given money to the IRA, though this was swiftly denied by Ono.{{sfn|Bright|2000}} Biographer Bill Harry records that following Bloody Sunday, Lennon and Ono financially supported the production of the film ''The Irish Tapes'', a political documentary with an [[Irish republicanism|Irish Republican]] slant.{{sfn|Harry|2000b|p=403}} In February 2000 Lennon's cousin Stanley Parkes stated that the singer had given money to the IRA during the 1970s.<ref>{{Cite web |url=https://www.independent.ie/world-news/john-lennons-family-hit-the-roof-when-funds-were-donated-to-ira-26125005.html |title=John Lennon's family 'hit the roof' when funds were donated to IRA |website=independent|access-date=17 December 2022|archive-date=8 December 2022|archive-url=https://web.archive.org/web/20221208202737/https://www.independent.ie/world-news/john-lennons-family-hit-the-roof-when-funds-were-donated-to-ira-26125005.html|url-status=live}}</ref> After the events of Bloody Sunday Lennon and Ono attended a protest in London while displaying a ''[[Red Mole]]'' newspaper with the headline "For the IRA, Against British Imperialism".<ref>{{cite book |last1=Wiener |first1=Jon |title=Come Together John Lennon in His Time |date=1984 |publisher=University of Illinois Press |page=159}}</ref>
+
+{{quote box|width=23em|Our society is run by insane people for insane objectives. I think we're being run by maniacs for maniacal ends and I think I'm liable to be put away as insane for expressing that. That's what's insane about it.|align=left|source=—John Lennon<ref name=liberal>{{cite web |last1=Lennon |first1=John |title=Quote by John Lennon |website=[[The Independent]] |url=https://www.independent.co.uk/arts-entertainment/music/news/john-lennon-death-anniversary-mark-david-chapman-the-beatles-yoko-ono-a6765266.html|access-date=25 June 2019 |date=8 December 2016|archive-date=24 June 2019|archive-url=https://web.archive.org/web/20190624172851/https://www.independent.co.uk/arts-entertainment/music/news/john-lennon-death-anniversary-mark-david-chapman-the-beatles-yoko-ono-a6765266.html|url-status=live}}</ref>}}
+
+According to FBI surveillance reports, and confirmed by [[Tariq Ali]] in 2006, Lennon was sympathetic to the [[International Marxist Group]], a [[Trotskyist]] group formed in Britain in 1968.{{sfn|Ali|2006}} However, the FBI considered Lennon to have limited effectiveness as a revolutionary, as he was "constantly under the influence of narcotics".{{sfn|Brooks|2005}}
+
+In 1972, Lennon contributed a drawing and limerick titled "Why Make It Sad to Be Gay?" to Len Richmond and Gary Noguera's ''The Gay Liberation Book''.<ref name=GayLiberation>{{cite web |author-last=Lennon |author-first=John |editor1=Richmond, Len |editor2=Noguera, Gary |url=https://thegayliberationbook.com/john-lennon |title=The Gay Liberation Book |access-date=8 December 2021 |archive-date=8 December 2021 |archive-url=https://web.archive.org/web/20211208185841/https://thegayliberationbook.com/john-lennon |url-status=live}}</ref> Lennon's last act of political activism was a statement in support of the striking minority sanitation workers in San Francisco on 5 December 1980. He and Ono planned to join the workers' protest on 14 December.<ref>{{cite web |url=http://crowdog89.tumblr.com/post/42004051247/john-lennons-last-public-political-statement |title=John Lennon's last public political statement. – Dynamic Tension |publisher=Crowdog89.tumblr.com |access-date=4 May 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131105001018/http://crowdog89.tumblr.com/post/42004051247/john-lennons-last-public-political-statement |archive-date=5 November 2013}}</ref>
+
+===Deportation attempt===
+[[File:John Lennon en echtgenote Yoko Ono vertrekken van Schiphol naar Wenen in de vert, Bestanddeelnr 922-2494.jpg|thumb|Lennon with Ono in 1969]]<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+Following the impact of "Give Peace a Chance" and "[[Happy Xmas (War Is Over)]]" on the anti-war movement, the Nixon administration heard rumours of Lennon's involvement in a concert to be held in San Diego at the same time as the [[1972 Republican National Convention]]{{sfn|Wiener|1999|p=2}} and tried to have him deported. Nixon believed that Lennon's anti-war activities could cost him his reelection;{{sfn|BBC News|2000}} Republican Senator [[Strom Thurmond]] suggested in a February 1972 memo that "deportation would be a strategic counter-measure" against Lennon.{{sfn|Wiener|1990|p=225}} The next month the United States [[Immigration and Naturalization Service]] (INS) began deportation proceedings, arguing that his 1968 misdemeanour conviction for cannabis possession in London had made him ineligible for admission to the United States. Lennon spent the next {{frac|3|1|2}} years in and out of deportation hearings until 8 October 1975, when a court of appeals barred the deportation attempt, stating "the courts will not condone selective deportation based upon secret political grounds".{{sfn|Coleman|1992|pp=576–583}}{{sfn|BBC News|2006a}} While the legal battle continued, Lennon attended rallies and made television appearances. He and Ono co-hosted ''[[The Mike Douglas Show]]'' for a week in February 1972, introducing guests such as [[Jerry Rubin]] and [[Bobby Seale]] to mid-America.{{sfn|BBC News|2006c}} In 1972, [[Bob Dylan]] wrote a letter to the INS defending Lennon, stating:
+
+<blockquote>John and Yoko add a great voice and drive to the country's so-called art institution. They inspire and transcend and stimulate and by doing so, only help others to see pure light and in doing that, put an end to this dull taste of petty commercialism which is being passed off as Artist Art by the overpowering mass media. Hurray for John and Yoko. Let them stay and live here and breathe. The country's got plenty of room and space. Let John and Yoko stay!<ref>Wiener, Jon. [http://www.thenation.com/print/blog/155298/bob-dylans-defense-john-lennon "Bob Dylan's defense of John Lennon".] {{webarchive |url=https://web.archive.org/web/20150502162859/http://www.thenation.com/print/blog/155298/bob-dylans-defense-john-lennon |date=2 May 2015}} ''[[The Nation]]'', 8 October 2010</ref><ref>{{cite web |url=http://lennonfbifiles.com/natl_comm_john_yoko/bob_dylan.html |title=Photo Copy of Bob Dylan's 1972 Letter to the INS in Defense of John Lennon |publisher=Lennonfbifiles.com |access-date=8 December 2010 |archive-date=13 July 2011 |archive-url=https://web.archive.org/web/20110713200731/http://lennonfbifiles.com/natl_comm_john_yoko/bob_dylan.html |url-status=live}}</ref></blockquote>
+
+On 23 March 1973, Lennon was ordered to leave the US within 60 days.{{sfn|Wiener|1999|p=326}} Ono, meanwhile, was granted permanent residence. In response, Lennon and Ono held a press conference on 1 April 1973 at the [[New York City Bar Association]], where they announced the formation of the state of [[Nutopia]]; a place with "no land, no boundaries, no passports, only people".{{sfn|Harry|2000b|p=663}} Waving the white flag of Nutopia (two handkerchiefs), they asked for political asylum in the US. The press conference was filmed, and appeared in a 2006 documentary, ''[[The U.S. vs. John Lennon]]''.{{sfn|Urish|Bielen|2007|p=143}}{{refn|group=nb|Lennon's ''[[Mind Games (John Lennon album)|Mind Games]]'' (1973) included the track "Nutopian International Anthem", which comprised three seconds of silence.{{sfn|Harry|2000b|p=664}}}} Soon after the press conference, Nixon's involvement in a political scandal came to light, and in June the [[Watergate scandal|Watergate]] hearings began in [[Washington, D.C.]]. They led to the president's resignation 14 months later.{{sfn|Coleman|1984a|p=289}} In December 1974, when he and members of his tour entourage visited the [[White House]], Harrison asked [[Gerald Ford]], Nixon's successor, to intercede in the matter.{{sfn|Lavezzoli|2006|p=196}} Ford's administration showed little interest in continuing the battle against Lennon, and the deportation order was overturned in 1975. The following year, Lennon received his [[green card]] certifying his [[permanent residency]], and when [[Jimmy Carter]] was inaugurated as president in January 1977, Lennon and Ono attended the Inaugural Ball.{{sfn|Coleman|1984a|p=289}}
+
+===FBI surveillance and declassified documents===
+<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+{{Further|Jon Wiener#Wiener and the Lennon FBI files}}
+[[File:Lennon FBI Files after ny19p1.jpg|thumb|alt=Document with portions of text blacked out, dated 1972.|Confidential (here declassified and censored) letter by [[J. Edgar Hoover]] about FBI surveillance of John Lennon]]
+After Lennon's death, historian [[Jon Wiener]] filed a [[Freedom of Information Act (United States)|Freedom of Information Act]] request for [[Federal Bureau of Investigation|FBI]] files that documented the Bureau's role in the deportation attempt.{{sfn|Wiener|1999|p=13}} The FBI admitted it had 281 pages of files on Lennon, but refused to release most of them on the grounds that they contained national security information. In 1983, Wiener sued the FBI with the help of the [[American Civil Liberties Union]] of [[Southern California]]. It took 14 years of litigation to force the FBI to release the withheld pages.{{sfn|Friedman|2005|p=252}} The ACLU, representing Wiener, won a favourable decision in their suit against the FBI in the [[United States Court of Appeals for the Ninth Circuit|Ninth Circuit]] in 1991.<ref>{{cite court |litigants=Wiener v. F.B.I. |vol=943 |reporter=F.2d |opinion=972 |court=9th Cir. |date=12 July 1991 |url=https://scholar.google.com/scholar_case?case=7189886552569743506}}</ref>{{sfn|Wiener|1999|p=315}} The [[United States Department of Justice|Justice Department]] appealed the decision to the [[Supreme Court of the United States|Supreme Court]] in April 1992, but the court declined to review the case.{{sfn|Wiener|1999|pp=52–54, 76}} In 1997, respecting President [[Bill Clinton]]'s newly instigated rule that documents should be withheld only if releasing them would involve "foreseeable harm", the Justice Department settled most of the outstanding issues outside court by releasing all but 10 of the contested documents.{{sfn|Wiener|1999|pp=52–54, 76}}
+
+Wiener published the results of his 14-year campaign in January 2000. ''Gimme Some Truth: The John Lennon FBI Files'' contained facsimiles of the documents, including "lengthy reports by confidential informants detailing the daily lives of anti-war activists, memos to the White House, transcripts of TV shows on which Lennon appeared, and a proposal that Lennon be arrested by local police on drug charges".{{sfn|Wiener|1999|p=27}} The story is told in the documentary ''The US vs. John Lennon''. The final 10 documents in Lennon's FBI file, which reported on his ties with London anti-war activists in 1971 and had been withheld as containing "national security information provided by a foreign government under an explicit promise of confidentiality", were released in December 2006. They contained no indication that the British government had regarded Lennon as a serious threat; one example of the released material was a report that two prominent British leftists had hoped Lennon would finance a left-wing bookshop and reading room.{{sfn|The Associated Press|2006}}
+
+==Writing==
+<!-- Put in-line references into this article from books (with page numbers) or from web pages. -->
+
+Beatles biographer [[Bill Harry]] wrote that Lennon began drawing and writing creatively at an early age with the encouragement of his uncle. He collected his stories, poetry, cartoons and caricatures in a Quarry Bank High School exercise book that he called the ''Daily Howl''. The drawings were often of crippled people, and the writings satirical, and throughout the book was an abundance of wordplay. According to classmate Bill Turner, Lennon created the ''Daily Howl'' to amuse his best friend and later Quarrymen bandmate [[Pete Shotton]], to whom he would show his work before he let anyone else see it. Turner said that Lennon "had an obsession for [[Wigan Pier]]. It kept cropping up", and in Lennon's story ''A Carrot in a Potato Mine'', "the mine was at the end of Wigan Pier." Turner described how one of Lennon's cartoons depicted a bus stop sign annotated with the question, "Why?" Above was a flying pancake, and below, "a blind man wearing glasses leading along a blind dog – also wearing glasses".{{sfn|Harry|2000b|pp=179–181}}
+
+Lennon's love of wordplay and nonsense with a twist found a wider audience when he was 24. Harry writes that ''[[In His Own Write]]'' (1964) was published after "Some journalist who was hanging around the Beatles came to me and I ended up showing him the stuff. They said, 'Write a book' and that's how the first one came about". Like the ''Daily Howl'' it contained a mix of formats including short stories, poetry, plays and drawings. One story, "Good Dog Nigel", tells the tale of "a happy dog, urinating on a lamp post, barking, wagging his tail – until he suddenly hears a message that he will be killed at three o'clock". ''[[The Times Literary Supplement]]'' considered the poems and stories "remarkable&nbsp;... also very funny&nbsp;... the nonsense runs on, words and images prompting one another in a chain of pure fantasy". ''Book Week'' reported, "This is nonsense writing, but one has only to review the [[Literary nonsense|literature of nonsense]] to see how well Lennon has brought it off. While some of his homonyms are gratuitous word play, many others have not only double meaning but a double edge." Lennon was not only surprised by the positive reception, but that the book was reviewed at all, and suggested that readers "took the book more seriously than I did myself. It just began as a laugh for me".{{sfn|Harry|2000b|pp=393–394}}
+
+In combination with ''[[A Spaniard in the Works]]'' (1965), ''In His Own Write'' formed the basis of the stage play ''[[The Lennon Play: In His Own Write]]'',{{sfn|Lewisohn|2000|p=287}} co-adapted by [[Victor Spinetti]] and [[Adrienne Kennedy]].{{sfn|Harry|2000b|pp=396–397}} After negotiations between Lennon, Spinetti and the artistic director of the [[Royal National Theatre|National Theatre]], [[Laurence Olivier|Sir Laurence Olivier]], the play opened at [[The Old Vic]] in 1968. Lennon and Ono attended the opening night performance, their second public appearance together.{{sfn|Harry|2000b|pp=396–397}} In 1969, Lennon wrote "Four in Hand", a skit based on his teenage experiences of [[Circle jerk (sexual practice)|group masturbation]], for [[Kenneth Tynan]]'s play ''[[Oh! Calcutta!]]''<ref>{{cite web |url=http://www.specialsections.absoluteelsewhere.net/LennonLoreLegacy/oh_calcutta.html |title=Oh! Calcutta! |publisher=specialsections.absoluteelsewhere.net|access-date=2 January 2015|url-status=live|archive-url=https://web.archive.org/web/20150401000506/http://specialsections.absoluteelsewhere.net/LennonLoreLegacy/oh_calcutta.html|archive-date=1 April 2015}}</ref> After Lennon's death, further works were published, including ''[[Skywriting by Word of Mouth]]'' (1986), ''Ai: Japan Through John Lennon's Eyes: A Personal Sketchbook'' (1992), with Lennon's illustrations of the definitions of Japanese words, and ''Real Love: The Drawings for Sean'' (1999). ''[[The Beatles Anthology]]'' (2000) also presented examples of his writings and drawings.
+
+==Art==
+In 1967, Lennon, who had attended art school, funded and anonymously participated in Ono's art exhibition [[Half-A-Room]] that was held at [[Lisson Gallery]]. Following his collaborating with Ono in the form of The [[Plastic Ono Band]] that began in 1968, Lennon became involved with the [[Fluxus]] art movement. In the summer of 1968, Lennon began showing his painting and [[conceptual art]] at his You Are Here art exhibition held at [[Robert Fraser (art dealer)|Robert Fraser]] Gallery in London.<ref>{{Cite web |url=https://www.beatlesbible.com/1968/07/01/john-lennon-yoko-ono-launch-art-exhibition-you-are-here/ |title=John Lennon and Yoko Ono launch art exhibition You Are Here |date=30 June 2018 |website=The Beatles Bible|access-date=19 February 2022|archive-date=19 February 2022|archive-url=https://web.archive.org/web/20220219080240/https://www.beatlesbible.com/1968/07/01/john-lennon-yoko-ono-launch-art-exhibition-you-are-here/|url-status=live}}</ref> The show, that was dedicated to Ono, included a six foot in diameter round white [[monochrome painting]] called ''You Are Here'' (1968). Besides the white [[monochrome]] paint, its surface contained only the tiny hand written inscription "you are here". This painting, and the show in general, was conceived as a response to Ono's conceptual art piece ''This is Not Here'' (1966) that was part of her Fluxus installation of wall text pieces called ''Blue Room Event'' (1966). ''Blue Room Event'' consisted of sentences that Ono wrote directly on her white New York apartment walls and ceiling. Lennon's You Are Here show also included sixty charity collection boxes, a pair of Lennon's shoes with a sign that read "I take my shoes off to you", a [[Readymades of Marcel Duchamp|ready made]] black bike (an apparent homage to [[Marcel Duchamp]] and his 1917 [[Bicycle Wheel]]), an overturned white hat labeled ''For The Artist'', and a large glass jar full of free-to-take ''you are here'' white [[pin]] [[badge]]s.<ref>''John & Yoko/Plastic Ono Band'' book by Yoko Ono and John Lennon, published by Thames & Hudson Ltd, October 2020, pp. 196-199</ref> A hidden camera secretly filmed the public reaction to the show.<ref>''John & Yoko/Plastic Ono Band'' book by Yoko Ono and John Lennon, published by Thames & Hudson Ltd, October 2020, pp. 202-203</ref> For the 1 July opening, Lennon, dressed all in white (as was Ono), released 365 white balloons into the city sky. Each ballon had attached to it a small paper card to be mailed back to Lennon at the Robert Fraser Gallery at 69 [[Duke Street, St James's|Duke Street]], with the finder's comments.<ref>''John & Yoko/Plastic Ono Band'' book by Yoko Ono and John Lennon, published by Thames & Hudson Ltd, October 2020, pp. 200-201</ref>
+
+After moving to New York City, from 18 April to 12 June 1970, Lennon and Ono presented a series of [[Fluxus]] conceptual art events and concerts at [[Joe Jones (Fluxus musician)|Joe Jones]]'s Tone Deaf Music Store called ''GRAPEFRUIT FLUXBANQUET''. Performances included ''Come Impersonating John Lennon & Yoko Ono, Grapefruit Banquet'' and ''Portrait of John Lennon as a Young Cloud by Yoko + Everybody''.<ref>{{Cite web |url=https://specificobject.com/objects/info.cfm?inventory_id=23254&object_id=19915&page=5&search=George%20Maciunas&sort=pubdate&search_type=basic&pobject_status=All&options=artist |title=Joint Yoko Ono, John Lennon, & Fluxgroup Project / Press Release -- April 1, 1970 |access-date=15 January 2021 |archive-date=21 January 2021 |archive-url=https://web.archive.org/web/20210121071320/https://specificobject.com/objects/info.cfm?inventory_id=23254&object_id=19915&page=5&search=George%20Maciunas&sort=pubdate&search_type=basic&pobject_status=All&options=artist |url-status=live}}</ref> That same year, Lennon also made ''The Complete Yoko Ono Word Poem Game'' (1970): a conceptual art poem [[collage]] that utilized the [[cut-up technique|cut-up]] (or ''découpé'') [[aleatory]] technique typical of the work of [[John Cage]] and many Fluxus artists. The cut-up technique can be traced to at least the [[Dada]]ists of the 1920s, but was popularized in the early 1960s by writer [[William S. Burroughs]]. For ''The Complete Yoko Ono Word Poem Game'', Lennon took the portrait photo of himself that was included in the packaging of the 1968 ''[[The Beatles (album)|The Beatles]]'' LP (aka ''The White Album'') and cut it into 134 small rectangles. A single word was written on the back of each fragment, to be read in any order. The portrait image was meant to be reassembled in any order. ''The Complete Yoko Ono Word Poem Game'' was presented by Lennon to Ono on 28 July in an inscribed envelope for her to randomly assemble and reassemble at will.<ref>''John & Yoko/Plastic Ono Band'' book by Yoko Ono and John Lennon, published by Thames & Hudson Ltd, October 2020, pp. 212-213</ref>
+
+Lennon made whimsical drawings and fine art prints on occasion until the end of his life.<ref>{{Cite web |url=https://www.independent.co.uk/arts-entertainment/art/news/john-lennon-drawings-go-on-show-in-new-york-8193722.html |archive-url=https://ghostarchive.org/archive/20220613/https://www.independent.co.uk/arts-entertainment/art/news/john-lennon-drawings-go-on-show-in-new-york-8193722.html |archive-date=13 June 2022 |url-access=subscription |url-status=live |title=John Lennon drawings go on show in New York |date=2 October 2012 |website=The Independent}}</ref> For example, he drew a 1968 comic for the macrobiotic magazine ''Harmony'' and one printed inside the sleeve of his ''[[Wedding Album]]'' (1969).<ref>{{cite web|url=https://www.lambiek.net/artists/l/lennon_john.htm|title=John Lennon|website=lambiek.net|access-date=27 December 2024}}</ref> Lennon exhibited at Eugene Schuster's London Arts Gallery his ''Bag One'' [[lithograph]]s in an exhibition that included several depicting [[erotic]] imagery. The show opened on 15 January 1970 and 24 hours later it was raided by police officers who confiscated 8 of the 14 lithos on the grounds of [[indecency]]. The lithographs had been drawn by Lennon in 1969 chronicling his wedding and honeymoon with Yoko Ono and one of their [[bed-in]]s staged in the interests of world peace.<ref>{{Cite web |url=https://www.beatlesbible.com/1970/01/16/john-lennon-bag-one-exhibition-raided-by-police/ |title=The Beatles Bible - John Lennon's Bag One exhibition is raided by police |date=16 January 1970 |website=The Beatles Bible|access-date=19 February 2022|archive-date=19 February 2022|archive-url=https://web.archive.org/web/20220219130430/https://www.beatlesbible.com/1970/01/16/john-lennon-bag-one-exhibition-raided-by-police/|url-status=live}}</ref>
+
+In 1969, Lennon appeared in the Yoko Ono Fluxus art film [[Self-Portrait (1969 film)|''Self-Portrait'']], which consisted of a single forty-minute shot of Lennon's penis.<ref>{{Cite news |last=French |first=Philip |date=4 July 2009 |title=John Lennon's rise and fall |language=en-GB |work=The Observer |url=https://www.theguardian.com/music/2009/jul/05/john-lennon-yoko-ono-film |access-date=12 July 2023 |issn=0029-7712}}</ref> The film was premiered at the [[Institute of Contemporary Arts]].<ref>{{cite book |url=https://books.google.com/books?id=kJq0AAAAIAAJ |title=Show: The Magazine of Films and the Arts |date=January 1970 |publisher=H & R Publications |page=50|access-date=19 February 2022|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417075416/https://books.google.com/books?id=kJq0AAAAIAAJ|url-status=live}}</ref><ref name="Doggett2009">{{cite book |first=Peter |last=Doggett |url=https://books.google.com/books?id=16h6ju_-5dYC&pg=PT230 |title=The Art and Music of John Lennon |date=17 December 2009 |publisher=Omnibus Press |isbn=978-0-85712-126-4 |pages=230–|access-date=19 February 2022|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417075420/https://books.google.com/books?id=16h6ju_-5dYC&pg=PT230|url-status=live}}</ref> In 1971, Lennon made an experimental art film called [[Erection (film)|''Erection'']] that was edited on [[16 mm film]]<ref name="Cinema Project 2004">{{cite web |title=Oh Yoko: Four by Yoko Ono |url=http://cinemaproject.org/screenings/fall/2004/yoko-ono/ |website=Cinema Project|access-date=15 October 2014|archive-url=https://web.archive.org/web/20110309100053/http://cinemaproject.org/screenings/fall/2004/yoko-ono/|archive-date=9 March 2011|url-status=dead}}</ref> by [[George Maciunas]], founder of the [[Fluxus]] art movement and [[avant-garde]] contemporary of Ono.<ref name="Postiar 2011">{{cite web |title=Erection (John Lennon & Yoko Ono, 1971) |url=http://www.postiar.com/post/20552/erection-john-lennon-amp%3B-yoko-ono-1971.html |website=Postiar|access-date=15 October 2014|archive-date=2 April 2015|archive-url=https://web.archive.org/web/20150402115717/http://www.postiar.com/post/20552/erection-john-lennon-amp%3B-yoko-ono-1971.html|url-status=live}}</ref> The film uses the songs "Airmale" and "You" from Ono's 1971 album ''[[Fly (Yoko Ono album)|Fly]]'', as its soundtrack.<ref name="Bloch 2004 233">{{cite book |last=Levitz |first=Tamara |chapter=Yoko Ono and the Unfinished Music of 'John & Yoko': Imagining Gender and Racial Equality in the Late 1960s|editor-last1=Bloch|editor-first1=Avital H.|editor-last2=Umansky|editor-first2=Lauri |title=Impossible to hold : women and culture in the 1960s |date=2004 |publisher=New York University Press |location=New York |isbn=0814799108 |page=233}}<!--|access-date=15 October 2014--></ref>
+
+==Musicianship==
+===Instruments===
+{{Further|John Lennon's musical instruments|List of the Beatles' instruments}}
+[[File:John Lennon's Les Paul Jr..jpg|thumb|Lennon's [[Gibson Les Paul Junior|Les Paul Jr.]]]]
+Lennon played a mouth organ during a bus journey to visit his cousin in Scotland. Impressed, the driver told Lennon of a harmonica he could have if he came to Edinburgh the following day, where one had been stored in the bus depot since a passenger had left it on a bus.{{sfn|Harry|2000b|p=313}} The professional instrument quickly replaced Lennon's toy; he often used the instrument during the Beatles' Hamburg years, and it became a signature sound in the group's early recordings. His mother taught him how to play the banjo, later buying him an acoustic guitar. At 16, he played rhythm guitar with the Quarrymen.{{sfn|Harry|2000b|pp=738–740}}
+
+As his career progressed, he played a variety of electric guitars, predominantly the [[Rickenbacker 325]], [[Epiphone Casino]] and [[Gibson J-160E]], and, from the start of his solo career, the [[Gibson Les Paul Junior]].{{sfn|Prown and Newquist|2003|p=213}}{{sfn|Lawrence|2009|p=27}} ''[[Double Fantasy]]'' producer Jack Douglas claimed that since his Beatle days Lennon habitually tuned his D-string slightly flat, so his Aunt Mimi could tell which guitar was his on recordings.<ref>{{cite magazine |first=Steve |last=Appleford |title=Yoko Ono Discusses New John Lennon Documentary |magazine=Rolling Stone |date=6 August 2010 |url=https://www.rollingstone.com/music/news/yoko-ono-discusses-new-john-lennon-documentary-20100806 |url-status=live |archive-url=https://web.archive.org/web/20170614163611/http://www.rollingstone.com/music/news/yoko-ono-discusses-new-john-lennon-documentary-20100806#ixzz2myfyJ4yY |archive-date=14 June 2017}}</ref> Occasionally he played a six-string bass guitar, the [[Fender Bass VI]], providing bass on some Beatles numbers ("[[Back in the U.S.S.R.]]", "[[The Long and Winding Road]]", "[[Helter Skelter (song)|Helter Skelter"]]) that occupied McCartney with another instrument.{{sfn|Everett|1999|p=297}} His other instrument of choice was the piano, on which he composed many songs, including "Imagine", described as his best-known solo work.{{sfn|Blaney|2005|p=83}} His jamming on a piano with McCartney in 1963 led to the creation of the Beatles' first US number one, "[[I Want to Hold Your Hand]]".{{sfn|Everett|2001|p=200}} In 1964, he became one of the first British musicians to acquire a [[Mellotron]] keyboard, though it was not heard on a Beatles recording until "Strawberry Fields Forever" in 1967.{{sfn|Babiuk|2002|pp=164–165}}
+
+In 2024, a guitar of Lennon's that was thought to have been lost was found in an attic and auctioned at [[Julien's Auctions]] for $2.9 million (2.68 million euros)<ref>{{cite web |title=Найденная гитара Джона Леннона была продана почти за три миллиона долларов |url=https://ru.euronews.com/culture/2024/05/30/john-lennons-long-lost-guitar-record-sale |accessdate=6 June 2024 |website=ru.euronews.com |date=30 May 2024 |lang=ru}}</ref>
+
+===Vocal style===
+Lennon's vocal style was heavily influenced by [[Little Richard]], [[Larry Williams]] and [[Little Willie John]]; the British music writer [[Ian MacDonald]] noted that "no white singer" had been able to imitate them successfully before Lennon and McCartney. MacDonald contrasted Lennon's singing voice, a "brassy [[Northern England|northern]] roar flecked with bluesy moans", with the "conventionally glamorous" voices of earlier artists such as [[Elvis Presley]], [[Dean Martin]] and [[Cliff Richard]].<ref>{{Cite book |last=MacDonald |first=Ian |author-link=Ian MacDonald |url=https://archive.org/details/peoplesmusic0000macd |title=The People's Music |date=2003 |publisher=[[Pimlico]] |isbn=978-1-84413-093-1 |edition= |series= |location=London |pages=107–108}}</ref> The British critic [[Nik Cohn]] observed of Lennon, "He owned one of the best pop voices ever, rasped and smashed and brooding, always fierce." Cohn wrote that Lennon, performing "[[Twist and Shout]]", would "rant his way into total incoherence, half rupture himself".<ref>{{cite book |url=https://books.google.com/books?id=ImX4CwAAQBAJ&pg=PT210 |title=The Beatles: Paperback Writer: 40 Years of Classic Writing|editor-last=Evans|editor-first=Mike |year=2014 |publisher=Plexus Publishing |isbn=978-0-8596-589-66|access-date=28 October 2020|archive-date=17 April 2023|archive-url=https://web.archive.org/web/20230417075421/https://books.google.com/books?id=ImX4CwAAQBAJ&pg=PT210|url-status=live}}</ref> When the Beatles recorded the song, the final track during the one-day session that produced the band's 1963 debut album, ''[[Please Please Me]]'', Lennon's voice, already compromised by a cold, came close to giving out. Lennon said, "I couldn't sing the damn thing, I was just screaming."{{sfn|Wenner|2000|p=14}} In the words of biographer Barry Miles, "Lennon simply shredded his vocal cords in the interests of rock 'n' roll."{{sfn|Miles|2001|p=90}} The Beatles' producer, [[George Martin]], tells how Lennon "had an inborn dislike of his own voice which I could never understand. He was always saying to me: 'DO something with my voice!{{nbsp}} ... put something on it{{nbsp}}... Make it ''different''.{{'"}}{{sfn|Coleman|1992|pp=369–370}} Martin obliged, often using [[double tracking|double-tracking]] and other techniques.<ref>{{Cite news |last=Andrews |first=Travis |date=3 October 2018 |title=He did the impossible and made John Lennon sound like the Dalai Lama |url=https://www.washingtonpost.com/arts-entertainment/2018/10/03/he-did-impossible-made-john-lennon-sound-like-dalai-lama/ |newspaper=[[The Washington Post]]}}</ref><ref>{{Cite magazine |last=Hodenfield |first=Chris |date=15 July 1976 |title=George Martin Recalls the Boys in the Band |url=https://www.rollingstone.com/music/music-features/george-martin-recalls-the-boys-in-the-band-115547/2/ |access-date=1 June 2024 |magazine=[[Rolling Stone]]}}</ref>
+
+As his Beatles era segued into his solo career, his singing voice found a widening range of expression. Biographer Chris Gregory writes of Lennon "tentatively beginning to expose his insecurities in a number of acoustic-led 'confessional' ballads, so beginning the process of 'public therapy' that will eventually culminate in the primal screams of '[[Cold Turkey]]' and the cathartic ''[[John Lennon/Plastic Ono Band]]''."{{sfn|Gregory|2007|p=75}} Music critic [[Robert Christgau]] called this Lennon's "greatest vocal performance{{nbsp}}... from scream to whine, is modulated electronically{{nbsp}}... echoed, filtered, and double tracked."{{sfn|Wiener|1990|p=143}} David Stuart Ryan described Lennon's vocal delivery as ranging from "extreme vulnerability, sensitivity and even naivety" to a hard "rasping" style.{{sfn|Ryan|1982|pp=118, 241}} Wiener too described contrasts, saying the singer's voice can be "at first subdued; soon it almost cracks with despair".{{sfn|Wiener|1990|p=35}} Music historian Ben Urish recalled hearing the Beatles' ''[[The Ed Sullivan Show|Ed Sullivan Show]]'' performance of "[[This Boy]]" played on the radio a few days after Lennon's murder: "As Lennon's vocals reached their peak{{nbsp}}... it hurt too much to hear him scream with such anguish and emotion. But it was my emotions I heard in his voice. Just like I always had."{{sfn|Urish|Bielen|2007|p=123}}
+
+==Legacy==
+[[File:Lennon Statue, Liverpool.jpg|thumb|alt=A statue depicting a young Lennon outside a brick building. Next to the statue are three windows, with two side-by-side above the lower, which bears signage advertising the Cavern pub.|Statue of Lennon outside [[The Cavern Club]], Liverpool|207x207px]]
+[[File:Reflection on Liverpool John Lennon Airport - geograph.org.uk - 4227976.jpg|left|thumb|[[Liverpool John Lennon Airport|John Lennon Airport]] in Liverpool]]
+Music historians Schinder and Schwartz wrote of the transformation in popular music styles that took place between the 1950s and the 1960s. They said that the Beatles' influence cannot be overstated: having "revolutionised the sound, style, and attitude of popular music and opened rock and roll's doors to a tidal wave of British rock acts", the group then "spent the rest of the 1960s expanding rock's stylistic frontiers".{{sfn|Schinder|Schwartz|2007|p=160}} On [[National Poetry Month#International Poetry Celebrations|National Poetry Day]] in 1999, the BBC conducted a poll to identify the UK's favourite song lyric and announced "Imagine" as the winner.{{sfn|Harry|2000b|pp=382–383}}
+
+Two home recording demos by Lennon, "[[Free as a Bird]]" and "[[Real Love (Beatles song)|Real Love]]", were finished by the three surviving members of the Beatles when they reunited in 1994 and 1995.<ref name="Demos">{{cite web |last1=Petridis |first1=Alexis |author1-link=Alexis Petridis |title=The Beatles: Now and Then review – 'final' song is a poignant act of closure |url=https://www.theguardian.com/music/2023/nov/02/the-beatles-now-and-then-review |website=[[The Guardian]] |access-date=6 November 2023 |date=2 November 2023}}</ref> Both songs were released as Beatles singles in conjunction with ''[[The Beatles Anthology]]'' compilations. A third song, "[[Now and Then (Beatles song)|Now and Then]]", was also worked on but not released until 2023 whereupon it was dubbed "the last Beatles song", topping the UK charts.<ref name="Demos" /><ref name="N&TChart">{{cite magazine |last1=Brandle |first1=Lars |title=The Beatles Blast to No. 1 in U.K. With 'Now and Then' |url=https://www.billboard.com/music/chart-beat/the-beatles-no-1-uk-now-and-then-1235470065/ |magazine=[[Billboard (magazine)|Billboard]] |access-date=15 November 2023 |date=13 November 2023}}</ref>
+
+In 1997, Yoko Ono and the [[Broadcast Music, Inc.|BMI]] Foundation established an annual music competition programme for songwriters of contemporary musical genres to honour John Lennon's memory and his large creative legacy.<ref name="BMI Foundation's John Lennon Scholarships">{{cite web |url=http://bmifoundation.org/programs/info/john_lennon_scholarships |title=BMI Foundation's John Lennon Scholarships|url-status=live|archive-url=https://web.archive.org/web/20170215191638/http://bmifoundation.org/programs/info/john_lennon_scholarships|archive-date=15 February 2017}}</ref> Over $400,000 have been given through BMI Foundation's ''John Lennon Scholarships'' to talented young musicians in the United States.<ref name="BMI Foundation's John Lennon Scholarships"/>
+
+In a 2006 ''[[The Guardian|Guardian]]'' article, Jon Wiener wrote: "For young people in 1972, it was thrilling to see Lennon's courage in standing up to [US President] Nixon. That willingness to take risks with his career, and his life, is one reason why people still admire him today."{{sfn|Wiener|2006}} For music historians Urish and Bielen, Lennon's most significant effort was "the self-portraits&nbsp;... in his songs [which] spoke to, for, and about, the human condition."{{sfn|Urish|Bielen|2007|pp=121–122}} Writing for ''[[El País]]'' in 2024, Amaia Odriozola described Lennon's [[Windsor glasses]] as being "known all over the world" and credited him with pioneering glasses as a "style statement" for musicians.<ref>{{cite web |last1=Odriozola |first1=Amaia |title=The Meaning of 'Lennon's Disobedient Glasses,' Which Are Beloved by Everyone from Denzel Washington to Harry Potter |url=https://english.elpais.com/culture/2024-03-03/the-meaning-of-lennons-disobedient-glasses-which-are-beloved-by-everyone-from-denzel-washington-to-harry-potter.html |website=[[El País]] |access-date=16 August 2024 |date=3 March 2024}}</ref>
+[[File:JohnLennonPark Havana2.JPG|thumb|227x227px|[[John Lennon Park]] in [[Havana|Havana, Cuba]]]]
+In 2013, [[Downtown Music Publishing]] signed a publishing administration agreement for the US with Lenono Music and Ono Music, home to the song catalogues of John Lennon and [[Yoko Ono]], respectively. Under the terms of the agreement, Downtown represents Lennon's solo works, including "[[Imagine (John Lennon song)|Imagine]]", "[[Instant Karma (We All Shine On)]]", "[[Power to the People (song)|Power to the People]]", "[[Happy Xmas (War Is Over)]]", "[[Jealous Guy]]", "[[(Just Like) Starting Over]]" and others.<ref>{{Cite magazine |url=http://www.billboard.com/biz/articles/news/legal-and-management/1531099/exclusive-john-lennon-yoko-ono-catalogs-sign-with |title=Exclusive: John Lennon, Yoko Ono Catalogs Sign With Downtown Music Publishing |magazine=[[Billboard (magazine)|Billboard]]|access-date=26 July 2016|url-status=live|archive-url=https://web.archive.org/web/20160924124615/http://www.billboard.com/biz/articles/news/legal-and-management/1531099/exclusive-john-lennon-yoko-ono-catalogs-sign-with|archive-date=24 September 2016 |date=25 January 2013}}</ref>
+
+[[File:Los Angeles (California, USA), Hollywood Boulevard, John Lennon -- 2012 -- 4990.jpg|thumb|left|"John Lennon" Star at the Hollywood Walk of Fame, [[Los Angeles, California]]]]
+Lennon has been the subject of [[Death of John Lennon#Memorials and tributes|numerous memorials and tributes]]. In 2002, the airport in Lennon's home town was renamed the [[Liverpool John Lennon Airport]].<ref>{{cite web |publisher=Friends of Liverpool Airport |url=http://www.fola.org.uk/current.html |title=Recent History and Current Developments |access-date=10 February 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120624063000/http://www.fola.org.uk/current.html |archive-date=24 June 2012}}</ref> On what would have been Lennon's 70th birthday in 2010, Cynthia and Julian Lennon unveiled the [[John Lennon Peace Monument]] in [[Chavasse Park]], Liverpool.<ref>{{cite news |url=https://www.telegraph.co.uk/culture/music/music-news/8052634/Monument-to-John-Lennon-unveiled-in-Liverpool-on-his-70th-birthday.html |title=Monument to John Lennon unveiled in Liverpool on his '70th birthday' |location=London |work=The Daily Telegraph |date=9 October 2010|url-status=live|archive-url=https://web.archive.org/web/20151019002438/http://www.telegraph.co.uk/culture/music/music-news/8052634/Monument-to-John-Lennon-unveiled-in-Liverpool-on-his-70th-birthday.html|archive-date=19 October 2015}}</ref> The sculpture, entitled ''Peace & Harmony'', exhibits [[peace symbols]] and carries the inscription "Peace on Earth for the Conservation of Life · In Honour of John Lennon 1940–1980".<ref>{{cite web |url=https://www.youtube.com/watch?v=zcHcCxVKKxs |title=Unveiling of 'Peace & Harmony', European Peace Monument – Dedicated to John Lennon |via=YouTube |date=8 November 2010 |access-date=10 July 2013 |url-status=live |archive-url=https://web.archive.org/web/20130701070518/http://www.youtube.com/watch?v=zcHcCxVKKxs |archive-date=1 July 2013}}</ref> In December 2013, the [[International Astronomical Union]] named one of the craters on [[Mercury (planet)|Mercury]] after Lennon.<ref>{{cite web |url=http://www.space.com/24034-mercury-crater-name-john-lennon.html |title=Mercury Crater Named After John Lennon |date=20 December 2013 |publisher=Space.com | access-date =13 January 2014 | url-status=live | archive-url =https://web.archive.org/web/20140114090808/http://www.space.com/24034-mercury-crater-name-john-lennon.html | archive-date =14 January 2014}}</ref>
+
+There is a [[John Lennon Park]] in [[Havana]], Cuba which features a statue in his likeness sitting on a bench.<ref>{{cite news |title=She has one job: Guard John Lennon's glasses |url=https://edition.cnn.com/travel/article/john-lennon-glasses-guard-trnd/index.html |agency=CNN |access-date=12 April 2023 |archive-date=10 January 2022 |archive-url=https://web.archive.org/web/20220110160440/https://edition.cnn.com/travel/article/john-lennon-glasses-guard-trnd/index.html |url-status=live}}</ref>
+
+===Accolades===
+{{See also|List of awards and nominations received by the Beatles}}
+The Lennon–McCartney songwriting partnership is regarded as one of the most influential and successful of the 20th century. As performer, writer or co-writer, Lennon had 25 number one singles in the US Hot 100 chart.{{refn|group=nb|Lennon was responsible for 25 ''Billboard'' Hot 100 number-one singles as performer, writer or co-writer.
+* Solo (2): "[[Whatever Gets You thru the Night]]", "[[(Just Like) Starting Over]]".{{sfn|Allmusic|2010a}}
+* With the Beatles (20): "[[Can't Buy Me Love]]", "[[I Feel Fine]]", "[[I Want to Hold Your Hand]]", "[[Love Me Do]]", "[[She Loves You]]", "[[A Hard Day's Night (song)|A Hard Day's Night]]", "[[Eight Days a Week]]", "[[Help! (song)|Help!]]", "[[Ticket to Ride (song)|Ticket to Ride]]", "[[Yesterday (Beatles song)|Yesterday]]", "[[Paperback Writer]]", "[[We Can Work It Out]]", "[[All You Need Is Love]]", "[[Hello, Goodbye]]", "[[Penny Lane]]", "[[Hey Jude]]", "[[Something (Beatles song)|Something]]"/"[[Come Together]]", "[[Get Back]]", "[[Let It Be (song)|Let It Be]]", "[[The Long and Winding Road]]"/"[[For You Blue]]".<ref>{{cite magazine |url=http://www.billboard.com/articles/news/1044523/hot-100-anniversary-most-no-1s-by-artist |title=Most No. 1s By Artist (All-Time) |magazine=Billboard|access-date=18 December 2014|url-status=live|archive-url=https://web.archive.org/web/20140222231708/http://www.billboard.com/articles/news/1044523/hot-100-anniversary-most-no-1s-by-artist|archive-date=22 February 2014}}</ref>
+* As co-writer of and performer on releases by another artist (2): "[[Fame (David Bowie song)|Fame]]" (David Bowie),{{sfn|Allmusic|2010e}} "[[Lucy in the Sky with Diamonds]]" (Elton John).{{sfn|Allmusic|2010c}}
+* As co-writer of releases by other artists (1): "[[A World Without Love]]" ([[Peter and Gordon]]){{sfn|Allmusic|2010d}}}} His album sales in the US stand at 14&nbsp;million units.{{sfn|RIAA|2010b}} ''[[Double Fantasy]]'' was his best-selling album,{{sfn|Greenberg|2010|p=202}} at three million shipments in the US.{{sfn|RIAA|2010a}} Released shortly before his death, it won the 1981 [[Grammy Award for Album of the Year]].<ref name="grammy" /> That year, the [[BRIT Awards|BRIT Award]] for Outstanding Contribution to Music was given to Lennon.{{sfn|Brit Awards|1982}}[[File:Streetart Bild von John Lennon (Prag).jpg|alt=Lennon Wall in Prague|thumb|upright=0.7|Street art image of Lennon on the [[Lennon Wall]] in [[Prague]]]]Participants in a 2002 BBC poll voted him eighth of "[[100 Greatest Britons]]".{{sfn|BBC News|2002}} Between 2003 and 2008, ''[[Rolling Stone]]'' recognised Lennon in several reviews of artists and music, ranking him fifth of "100 Greatest Singers of All Time"{{sfn|Browne|2008}} and 38th of "100 Greatest Artists of All Time",{{sfn|Rolling Stone|2008}} and his albums ''[[John Lennon/Plastic Ono Band]]'' and ''Imagine'', 22nd and 76th respectively of "[[Rolling Stone's 500 Greatest Albums of All Time]]".{{sfn|Rolling Stone|2008}}{{sfn|Rolling Stone|2003}} He was appointed [[Order of the British Empire|Member of the Order of the British Empire (MBE)]] with the other Beatles in 1965, but returned his medal in 1969 because of "[[Nigerian Civil War|Britain's involvement in the Nigeria-Biafra thing]], against our support of [[United States in the Vietnam War|America in Vietnam]], and against [[Cold Turkey]] slipping down the charts".<ref>{{Cite news |url=https://www.bbc.com/news/uk-16736495 |title=Queen's honours: People who have turned them down named |newspaper=BBC News|access-date=27 September 2014|url-status=live|archive-url=https://web.archive.org/web/20150512201145/http://www.bbc.com/news/uk-16736495|archive-date=12 May 2015 |date=26 January 2012}}</ref>{{sfn|London Gazette|1965|p=5488}} Lennon was posthumously inducted into the [[Songwriters Hall of Fame]] in 1987{{sfn|Songwriters Hall of Fame|2015}} and into the [[Rock and Roll Hall of Fame]] in 1994.{{sfn|The Rock and Roll Hall of Fame and Museum|1994}}
+
+==Discography==
+{{Main|John Lennon discography|List of songs recorded by John Lennon}}
+{{See also|The Beatles albums discography|The Beatles singles discography}}
+
+===Studio albums===
+* ''[[John Lennon/Plastic Ono Band]]'' (Apple, 1970)
+* ''[[Imagine (John Lennon album)|Imagine]]'' (Apple, 1971)
+* ''[[Some Time in New York City]]'' (with Yoko Ono, Apple, 1972)
+* ''[[Mind Games (John Lennon album)|Mind Games]]'' (Apple, 1973)
+* ''[[Walls and Bridges]]'' (Apple, 1974)
+* ''[[Rock 'n' Roll (John Lennon album)|Rock 'n' Roll]]'' (Apple, 1975)
+* ''[[Double Fantasy]]'' (with Yoko Ono, Geffen, 1980)
+* ''[[Milk and Honey (album)|Milk and Honey]]'' (Posthumous with Yoko Ono, Polydor, 1984)
+
+===Experimental studio albums with Yoko Ono===
+* ''[[Unfinished Music No. 1: Two Virgins]]'' (Apple, 1968)
+* ''[[Unfinished Music No. 2: Life with the Lions]]'' (Zapple, 1969)
+* ''[[Wedding Album]]'' (Apple, 1969)
+
+==Filmography==
+{{Further|John Lennon discography#Videography}}
+{{See also|The Beatles in film}}
+All releases after his death in 1980 use archival footage.
+
+===Film===
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col"|Year
+! scope="col"|Title
+! scope="col"|Role
+! scope="col" class="unsortable"| Notes
+|-
+| style="text-align:center;"| 1964
+! scope="row"| ''{{sort|Hard Day's Night|[[A Hard Day's Night (film)|A Hard Day's Night]]}}''
+| Himself
+|
+|-
+| style="text-align:center;"| 1965
+! scope="row"| ''[[Help! (film)|Help!]]''
+| Himself
+|
+|-
+| style="text-align:center;"| 1967
+! scope="row"| ''[[Yoko Ono|Bottoms]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1967
+! scope="row"| ''[[How I Won the War]]''
+| Gripweed
+|
+|-
+| style="text-align:center;"| 1967
+! scope="row"| ''[[Magical Mystery Tour (film)|Magical Mystery Tour]]''
+| Himself / Ticket Salesman / Magician with Coffee
+| Also narrator, writer and director (producer uncredited)
+|-
+| style="text-align:center;"| 1967
+! scope="row"| ''[[London '66–'67|Pink Floyd: London '66-'67]]''
+| Himself (uncredited)
+| Documentary short
+|-
+| style="text-align:center;"| 1968
+! scope="row"| ''[[Yellow Submarine (film)|Yellow Submarine]]''
+| Himself
+| Cameo at the end
+|-
+| style="text-align:center;"| 1968
+! scope="row"| ''[[Unfinished Music No. 1: Two Virgins|Two Virgins]]''
+| Himself
+| Short film, writer, producer, director
+|-
+| style="text-align:center;"| 1968
+! scope="row"| ''No. 5''
+| Himself
+| Short film, writer, producer, director
+|-
+| style="text-align:center;"| 1969
+! scope="row"| ''[[Bed-in|Bed Peace]]''
+| Himself
+| Writer, producer, director
+|-
+| style="text-align:center;"| 1969
+! scope="row"| ''[[Bed-in|Honeymoon]]''
+| Himself
+| Writer, producer, director
+|-
+| style="text-align:center;"| 1969
+! scope="row"| ''[[Self-Portrait (Yoko Ono film)|Self-Portrait]]''
+| Himself
+| Short film, writer, producer, director
+|-
+| style="text-align:center;"| 1969
+! scope="row"| ''[[Walden (1968 film)|Walden]] (Diaries, Notes, and Sketches)''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1969
+! scope="row"| ''[[William Klein (photographer)|Muhammad Ali, the Greatest]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1970
+! scope="row"| ''[[Apotheosis (film)|Apotheosis]]''
+| Himself
+| Short film, writer, producer, director
+|-
+| style="text-align:center;"| 1970
+! scope="row"| ''[[Let It Be (1970 film)|Let It Be]]''
+| Himself
+| Documentary (executive producer – as The Beatles)
+|-
+| style="text-align:center;"| 1970
+! scope="row"| ''[[Fly (1970 film)|Fly]]''
+| {{NA}}
+| Short film, writer, producer, director
+|-
+| style="text-align:center;"| 1970
+! scope="row"| ''Freedom''
+| {{NA}}
+| Short film, music, writer, producer, director
+|-
+| style="text-align:center;"| 1970
+! scope="row"| ''[[Anthony Cox (producer)|3 Days in the Life]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1971
+! scope="row"| ''Breathing Together: Revolution of the Electric Family''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1971
+! scope="row"| ''[[Up Your Legs Forever]]''
+| {{NA}}
+| Producer, director
+|-
+| style="text-align:center;"| 1971
+! scope="row"| ''[[Erection (film)|Erection]]''
+| {{NA}}
+| Short film, producer, director
+|-
+| style="text-align:center;"| 1971
+! scope="row"| ''Clock''
+| Himself / Singer
+| Music, writer, producer, director
+|-
+| style="text-align:center;"| 1971
+! scope="row"| ''[[Sweet Toronto]]''
+| Himself
+| Concert film
+|-
+| style="text-align:center;"| 1971
+! scope="row"| ''The Museum of Modern Art Show''
+| Himself
+| Documentary short
+|-
+| style="text-align:center;"| 1972
+! scope="row"| ''[[John Sinclair Freedom Rally|Ten for Two: The John Sinclair Freedom Rally]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1972
+! scope="row"| ''[[Eat the Document]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1976
+! scope="row"| ''[[Michel Auder|Chelsea Girls with Andy Warhol]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1977
+! scope="row"| ''[[The Day the Music Died]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1982
+! scope="row"| ''[[The Compleat Beatles]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1988
+! scope="row"| ''[[Imagine: John Lennon]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|1990
+! scope="row"| ''[[The Beatles: The First U.S. Visit]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 1996
+! scope="row"| ''[[The Rolling Stones Rock and Roll Circus]]''
+| Himself
+| Concert film from 1968
+|-
+| style="text-align:center;"| 2003
+! scope="row"| ''[[Lennon Legend: The Very Best of John Lennon (DVD)|Lennon Legend: The Very Best of John Lennon]]''
+| Himself
+| Remastered music video collection
+|-
+| style="text-align:center;"| 2006
+! scope="row"| ''[[The U.S. vs. John Lennon]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2006
+! scope="row"| ''[[Bed-in|John & Yoko: Give Peace a Song]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 2007
+! scope="row"| ''[[I Met the Walrus]]''
+| Himself (voice)
+| Short film, recorded 1969
+|-
+| style="text-align:center;"|2008
+! scope="row"| ''[[All Together Now (2008 film)|All Together Now]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"| 2010
+! scope="row"| ''[[LennoNYC]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2016
+! scope="row"| ''[[The Beatles: Eight Days a Week]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2018
+! scope="row"| ''Looking for Lennon''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2021
+! scope="row"| ''[[The Beatles: Get Back]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2022
+! scope="row"| ''The Lost Weekend : A Love Story''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2024
+! scope="row"| ''Daytime Revolution''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2024
+! scope="row"| ''[[One to One: John & Yoko]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2024
+! scope="row"| ''No Hamburg No Beatles''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2024
+! scope="row"| ''[[Beatles '64]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2025
+! scope="row"| ''Borrowed Time: Lennon's Last Decade''
+| Himself
+| Documentary
+|}
+
+===Television===
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col"|Year
+! scope="col"|Title
+! scope="col"|Role
+! scope="col" class="unsortable"| Notes
+|-
+| style="text-align:center;"|1963–64
+! scope="row"| ''[[Ready Steady Go!]]''
+| Himself
+| Music program, 4 episodes
+|-
+| style="text-align:center;"|1964
+! scope="row"| ''[[Around the Beatles]]''
+| Himself
+| Concert special
+|-
+| style="text-align:center;"|1964
+! scope="row"| ''[[The Beatles: The First U.S. Visit|What's Happening! The Beatles in the U.S.A.]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|1964–65
+! scope="row"| ''[[The Ed Sullivan Show]]''
+| Himself
+| Variety show, 4 episodes
+|-
+| style="text-align:center;"|1965
+! scope="row"| ''[[The Music of Lennon & McCartney]]''
+| Himself
+| Variety tribute special
+|-
+| style="text-align:center;"|1965–66
+! scope="row"| ''[[Not Only... But Also]]''
+| Lavatory Attendant / Guest
+| Episodes: "Episode #1.1" (1965) and "Christmas Special" (1966)
+|-
+| style="text-align:center;"|1966
+! scope="row"| ''[[The Beatles at Shea Stadium]]''
+| Himself
+| Concert special
+|-
+| style="text-align:center;"|1966
+! scope="row"| ''[[The Beatles' 1966 tour of Germany, Japan and the Philippines#Japan|The Beatles in Japan]]''
+| Himself
+| Concert special
+|-
+| style="text-align:center;"|1969
+! scope="row"| ''Rape''
+| Himself
+| Drama/thriller, sound, editor, writer, producer, director
+|-
+| style="text-align:center;"|1971–72
+! scope="row"| ''[[The Dick Cavett Show]]''
+| Himself
+| Talk show, 3 episodes
+|-
+| style="text-align:center;"| 1972
+! scope="row"| ''[[Live in New York City (John Lennon album)|John Lennon and Yoko Ono Present the One-to-One Concert]]''
+| Himself
+| Concert special
+|-
+| style="text-align:center;"|1972
+! scope="row"| ''[[The Mike Douglas Show]]''
+| Himself
+| Talk show, 5 episodes
+|-
+| style="text-align:center;"|1972
+! scope="row"| ''[[Imagine (1972 film)|Imagine]]''
+| Himself
+| Music film special
+|-
+| style="text-align:center;"|1975
+! scope="row"| ''[[A Salute to the Beatles: Once upon a Time]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|1975
+! scope="row"| ''[[The Tomorrow Show]]''
+| Himself
+| Talk show
+|-
+| style="text-align:center;"|1977
+! scope="row"| ''[[All You Need Is Love: The Story of Popular Music]]''
+| Himself
+| Documentary mini-series
+|-
+| style="text-align:center;"|1987
+! scope="row"| ''[[It Was Twenty Years Ago Today (film)|It Was Twenty Years Ago Today]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|1995
+! scope="row"| ''[[The Beatles Anthology (TV series)|The Beatles Anthology]]''
+| Himself
+| Documentary mini-series
+|-
+| style="text-align:center;"|2000
+! scope="row"| ''Gimme Some Truth: The Making of John Lennon's Imagine Album''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2000
+! scope="row"| ''[[Bed-in|John & Yoko's Year of Peace]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2008
+! scope="row"| ''[[Classic Albums]]: [[John Lennon/Plastic Ono Band]]''
+| Himself
+| Documentary
+|-
+| style="text-align:center;"|2018
+! scope="row"| ''[[John & Yoko: Above Us Only Sky]]''
+| Himself
+| Documentary
+|}
+
+==Bibliography==
+* ''[[In His Own Write]]'' (1964)
+* ''[[A Spaniard in the Works]]'' (1965)
+* ''[[Skywriting by Word of Mouth]]'' (1986)
+* ''Lyrics of John Lennon'' (1997) 
+* ''The John Lennon Letters'' (2012)
+
+==See also==
+* [[Outline of the Beatles]]
+* [[The Beatles timeline]]
+* [[List of peace activists]]
+* [[List of most valuable celebrity memorabilia]]
+
+==Notes==
+{{reflist|30em|group=nb}}
+
