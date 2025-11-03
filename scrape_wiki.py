@@ -101,7 +101,7 @@ for name in tqdm(artists_joined):
             
             # Clean up: strip whitespace and remove any entries with control characters
             genres = [re.sub(r'\s+', ' ', genre.strip()) for genre in genres]
-            genres = [genre.lowercase() for genre in genres if genre and not re.search(r'[\x00-\x1F\x7F-\x9F]', genre)]
+            genres = [genre.lower() for genre in genres if genre and not re.search(r'[\x00-\x1F\x7F-\x9F]', genre)]
             
             if len(genres) != 0:
                 artist_genre_dict[clean_artist_name] = genres
