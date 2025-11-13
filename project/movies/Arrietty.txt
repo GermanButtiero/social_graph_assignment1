@@ -1,0 +1,40 @@
+{{Infobox film
+| name           = Arrietty
+| native_name      = {{Infobox Japanese
+ | kanji           = 借りぐらしのアリエッティ
+ | revhep          = Karigurashi no Arietti}}
+| image          = Karigurashi no Arrietty poster.png
+| alt            = A young woman is hiding under a group of leaves with an image of a house behind her. Text below reveals the film's title and credits.
+| caption        = Theatrical poster for ''Arrietty''
+| director       = [[Hiromasa Yonebayashi]]
+| producer       = [[Toshio Suzuki (producer)|Toshio Suzuki]]
+| screenplay     = [[Hayao Miyazaki]]{{Clear}}Keiko Niwa
+| based_on       = {{Based on|''[[The Borrowers (novel)|The Borrowers]]''|[[Mary Norton (author)|Mary Norton]]}}
+| starring       = [[Mirai Shida]]{{Clear}}[[Ryunosuke Kamiki]]{{Clear}}[[Shinobu Otake]]{{Clear}}[[Keiko Takeshita]]{{Clear}}[[Tatsuya Fujiwara]]{{Clear}}[[Tomokazu Miura]]{{Clear}}[[Kirin Kiki]]
+| music          = [[Cécile Corbel]]
+| cinematography = Atsushi Okui
+| editing        = Keiko Kadokawa{{Clear}}Rie Matsubara{{Clear}}Hiromi Sasaki{{Clear}}[[Takeshi Seyama]]
+| studio         = [[Studio Ghibli]]
+| distributor    = [[Toho]]
+| released       = {{Film date|df=yes|2010|7|17|}}
+| runtime        = 95 minutes
+| country        = Japan
+| language       = Japanese
+| budget         = $23{{nbsp}}million
+| gross          = $146{{nbsp}}million<ref name="Box Office Mojo">{{cite web|url=https://www.boxofficemojo.com/movies/?id=arrietty.htm|title=The Secret World of Arrietty (2012)|work=Box Office Mojo|publisher=Internet Movie Database|access-date=October 2, 2019}}</ref>
+}}
+
+==Plot==
+A boy named Shō tells the story of the week in summer he spent at his mother's home with his maternal great-aunt, Sadako, and the housemaid, Haru. When Shō arrives, he gets a glimpse of Arrietty, a Borrower girl, hiding in the plants.
+
+At night, Arrietty's father, Pod, takes her on her first "borrowing" mission, to get sugar and tissue paper. After obtaining a sugar cube from the kitchen, they travel to a bedroom which they enter through a dollhouse. It is Shō's bedroom; he sees Arrietty when she tries to take a tissue from his table. Startled, she drops the sugar cube. Shō tries to call out to her, but Pod and Arrietty leave.
+
+The next day, Shō places the sugar cube and a little note beside the air vent. Pod warns Arrietty not to take it because their existence must be kept secret from humans. Nevertheless, she sneaks out to visit Shō in his bedroom. Without showing herself, she tells him to leave her family alone, but they soon have a conversation, which is interrupted by a crow. The crow attacks Arrietty, but Shō saves her. On her return home, Arrietty is intercepted by her father. Realizing they have been detected, Pod and his wife Homily decide they must move out. Shō learns from Sadako that his mother and grandfather had noticed the presence of Borrowers in the house and had the dollhouse built for them. The Borrowers had not been seen since.
+
+Pod returns injured from a borrowing mission and is helped home by Spiller, a Borrower who lives in the wild. Shō removes the floorboard concealing the Borrower household and replaces their kitchen with the kitchen from the dollhouse to show he hopes for them to stay. However, the Borrowers are frightened by this and speed up their moving process. Pod recovers and Arrietty bids farewell to Shō. Shō apologizes that he has forced them to move out and reveals he has had a heart condition since birth and will undergo an operation in a few days. The operation does not have a good chance of success. He is accepting, saying that every living thing dies.
+
+Haru notices the floorboards have been disturbed. She unearths the Borrowers' house and captures Homily. Alerted by her mother's screams, Arrietty goes to investigate. Saddened by her departure, Shō returns to his room. Haru locks him in and calls a pest control company to capture the other Borrowers alive. Arrietty comes to Shō for help; they rescue Homily and he removes all traces of the Borrowers' presence, including putting the kitchen back in the dollhouse.
+
+On their way out during the night, the Borrowers are spotted by the cat Niya. Thereupon Niya leads Shō to the "river", a small rivulet, where the Borrowers are waiting for Spiller to take them further. Shō gives Arrietty a sugar cube and tells her that she will always be a part of him and that her courage and the Borrowers' fight for survival have made him want to live through the operation. In return, Arrietty gives him her hairclip, a small clothespin, as a token of remembrance. The Borrowers leave in a floating teapot with Spiller in search of a new home.
+
+The Disney international dubbed version contains a final monologue, where Shō states that he never saw Arrietty again. He returned to the house a year later, indicating that the operation had been successful. However, he overhears rumors of objects disappearing in neighboring homes.

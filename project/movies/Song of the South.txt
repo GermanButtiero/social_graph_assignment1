@@ -1,0 +1,57 @@
+{{Infobox film
+| name           = Song of the South
+| image          = Song of the South (three sheet poster).jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* '''Live action:'''
+* Harve Foster
+* '''Animation:'''
+* [[Wilfred Jackson]]
+}}
+| producer       = [[Walt Disney]]<br>[[Perce Pearce]]
+| screenplay     = {{Plainlist|
+* '''Live action:'''
+* Morton Grant
+* [[Maurice Rapf]]
+* [[Dalton S. Reymond]]
+* '''Animation:'''
+* [[Bill Peet]]
+* [[Vernon Stallings|George Stallings]]
+* [[Ralph Wright]]
+}}
+| based_on       = {{based on|"[[Uncle Remus]]"|[[Joel Chandler Harris]]}}
+| starring       = {{Plainlist|
+* [[Ruth Warrick]]
+* [[Lucile Watson]]
+* [[Hattie McDaniel]]
+* [[James Baskett]]
+* [[Bobby Driscoll]]
+* [[Luana Patten]]
+}}
+| music          = {{Plainlist|<!-- Only list composers. -->
+* [[Daniele Amfitheatrof]]
+* [[Paul Smith (composer)|Paul J. Smith]]
+}}
+| cinematography = [[Gregg Toland]]
+| editing        = William M. Morgan
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[RKO Pictures|RKO Radio Pictures]]
+| released       = {{Film date|1946|11|12|Atlanta, premiere|1947|01|30|Los Angeles}}<ref>{{Cite magazine|url=https://www.billboard.com/music/awards/disneyland-cuts-zip-a-dee-doo-dah-from-parade-1235281228/|title=Disneyland Cuts Oscar-Winning Classic From Its 'Magic Happens' Parade|first=Paul|last=Grein|magazine=[[Billboard (magazine)|Billboard]] |date=March 7, 2023}}</ref>
+| runtime        = 94 minutes<!--Theatrical runtime: 94:32--><ref>{{cite web | url=https://www.bbfc.co.uk/releases/song-south-1970-1 | archive-url=https://web.archive.org/web/20170901150135/http://bbfc.co.uk/releases/song-south-1970-1 | url-status=dead | archive-date=September 1, 2017 | title=''Song Of The South'' (U) | work=[[British Board of Film Classification]] | date=October 23, 1946 | access-date=November 28, 2015}}</ref>
+| country        = United States
+| language       = English
+| budget         = $2.125 million<ref>{{cite book|last=Solomon|first=Charles|title=Enchanted Drawings: The History of Animation|url=https://archive.org/details/enchanteddrawing0000solo|url-access=limited|isbn=0-394-54684-9|publisher=[[Alfred A. Knopf]]|year=1989|page=[https://archive.org/details/enchanteddrawing0000solo/page/186 186]}}</ref>
+| gross          = $65 million<ref>{{cite web|url=https://www.the-numbers.com/movie/Song-of-the-South#tab=summary|title=Song of the South (1946)|website=The Numbers|access-date=September 19, 2019}}</ref>
+}}
+
+== Plot ===
+Seven-year-old Johnny is excited about what he believes to be a vacation at his grandmother's Georgia plantation with his parents, Sally and John Sr. When they arrive at the plantation, he discovers that his parents will be living apart temporarily, and he will live at the plantation with his mother and grandmother while his father returns to Atlanta to continue his controversial editorship of that city's newspaper. Distraught at his father's departure, Johnny secretly leaves for Atlanta that night with a [[bindle]].
+
+As Johnny sneaks away from the plantation, he discovers [[Uncle Remus]] telling tales of a character named [[Br'er Rabbit]] to other sharecroppers on the plantation. By this time, word had gotten out that Johnny was missing, and some plantation residents are looking for him. Johnny evades being discovered, but Uncle Remus catches up with him, offers him food for his journey, and takes him back to his cabin, where he tells the boy the traditional African-American folktale, "[[Br'er Rabbit Earns a Dollar a Minute]]". In the story, Br'er Rabbit attempts to run away from home only to change his mind after an encounter with [[Br'er Fox and Br'er Bear]]. Johnny takes the advice and lets Uncle Remus take him back to Sally.
+
+Johnny makes friends with Toby, a young black boy who lives on the plantation, and Ginny Favers, a poor white girl. Ginny gives Johnny a puppy after her two older brothers, Joe and Jake, threaten to drown it. Sally refuses to let him take care of the puppy, so he takes it to Uncle Remus. Uncle Remus takes the dog in and delights Johnny and his friends with [[Tar-Baby|the fable of Br'er Rabbit and the Tar-Baby]], stressing that people should not get involved with something they have no business with in the first place. Johnny imitates Br'er Rabbit's use of [[reverse psychology]] from the tale and begs the Favers brothers not to tell their mother about the dog. The trick works and the boys get in trouble after telling their mother. In an act of revenge, they tell Sally about the dog. Sally becomes upset that Johnny and Uncle Remus kept the dog despite her order (which was unknown to Uncle Remus), and she instructs him not to tell any more stories to Johnny.
+
+Johnny's birthday arrives and Johnny picks up Ginny to take her to his party. On the way there, Joe and Jake push Ginny into a mud puddle. With her dress ruined, Ginny is unable to go to the party and runs off crying. Johnny begins fighting with the boys, but their fight is broken up by Uncle Remus, who reprimands Joe and Jake and warns them to keep away from Johnny and Ginny. Johnny runs off to comfort Ginny. He explains that he does not want to go to the party either, especially since his father will not be there. Uncle Remus discovers both dejected children and cheers them up by telling the story of [[The Laughing Place|Br'er Rabbit and his "Laughing Place"]]. When the three return to the plantation, Sally becomes angry at Johnny for missing his party, and tells Uncle Remus to stay away from him. Saddened by the misunderstanding of his good intentions, Uncle Remus packs his bags and begins to leave for Atlanta. Johnny rushes to intercept him, but is attacked by a bull and seriously injured after taking a shortcut through a pasture. While Johnny hovers between life and death, his father returns. Johnny calls for Uncle Remus, and his grandmother escorts him in. Uncle Remus begins telling a Br'er Rabbit tale, and the boy miraculously survives.
+
+Later, a fully recovered Johnny sings with Ginny and Toby while Johnny's returned puppy runs alongside them. Nearby, Uncle Remus is shocked when Br'er Rabbit and several of the other characters from his stories appear in front of them and interact with the children. Uncle Remus rushes to join the group, and, together, they all walk into the sunset.

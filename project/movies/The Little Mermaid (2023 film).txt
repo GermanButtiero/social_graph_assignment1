@@ -1,0 +1,63 @@
+{{Infobox film
+| image          = The Little Mermaid (2023 film).png
+| alt            = A mermaid with long hair sits at the bottom of the ocean and stares longingly at the surface as an assortment of characters are shown in the background.
+| caption        = Theatrical release poster
+| director       = [[Rob Marshall]]
+| screenplay     = [[David Magee]]
+| based_on       = {{Plainlist|
+* {{Based on|"[[The Little Mermaid]]"|[[Hans Christian Andersen]]}}
+* {{Based on|[[Walt Disney Animation Studios|Disney]]'s ''[[The Little Mermaid (1989 film)|The Little Mermaid]]''|[[Ron Clements]]|[[John Musker]]}}
+}}
+| producer       = {{Plainlist|
+* [[Marc Platt (producer)|Marc Platt]]
+* [[Lin-Manuel Miranda]]
+* [[John DeLuca (producer)|John DeLuca]]
+* Rob Marshall
+}}
+| starring       = {{Plainlist|<!-- From end credits billing order. -->
+* [[Halle Bailey]]
+* [[Jonah Hauer-King]]
+* [[Daveed Diggs]]
+* [[Awkwafina]]
+* [[Jacob Tremblay]]
+* [[Noma Dumezweni]]
+* [[Art Malik]]
+* [[Javier Bardem]]
+* [[Melissa McCarthy]]
+}}
+| cinematography = [[Dion Beebe]]
+| editing        = Wyatt Smith
+| music          = [[Alan Menken]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* DeLuca Marshall
+* Marc Platt Productions
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures]]
+| released       = {{Film date|2023|5|8|[[Dolby Theatre]]|2023|5|26|United States}}
+| runtime        = 135 minutes<!--Theatrical runtime: 135:04--><ref>{{cite web|date=May 10, 2023|title=''The Little Mermaid'' (PG)|url=https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0xmda3ndk4|url-status=live|archive-url=https://web.archive.org/web/20230511135853/https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0xmda3ndk4|archive-date=May 11, 2023|access-date=May 10, 2023|website=[[British Board of Film Classification]]}}</ref>
+| country        = United States
+| language       = English
+| budget         = $240.2&nbsp;million<ref name="ForbesOct23">{{cite magazine|last=Reid|first=Caroline|date=October 2, 2023|title=Disney Sinks $300 Million Into 'Over Budget' 'Little Mermaid' Movie|url=https://www.forbes.com/sites/carolinereid/2023/10/02/disney-sinks-300-million-into-over-budget-little-mermaid-movie/|url-status=live|archive-url=https://web.archive.org/web/20231007183357/https://www.forbes.com/sites/carolinereid/2023/10/02/disney-sinks-300-million-into-over-budget-little-mermaid-movie/amp/|archive-date=October 7, 2023|access-date=October 7, 2023|magazine=[[Forbes]]|quote=Its financial statements reveal that a total of $297 million (£243.5 million) had been spent on the movie by August 31, 2022 and then comes the cash reimbursement… ''The Little Mermaid'' received $56.8 million (£46.6 million) from the UK government bringing its net spending down to $240.2 million.}}</ref>
+| gross          = $569.6&nbsp;million<ref name="BoxOfficeMojo">{{cite Box Office Mojo|id=5971474|title=The Little Mermaid (2023)|access-date=September 16, 2023}}</ref><ref name="TheNumbers">{{cite the numbers|id=Little-Mermaid-The-(2023)|title=The Little Mermaid (2023)|access-date=September 16, 2023}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films are to be between 400 to 700 words. -->
+[[Ariel (The Little Mermaid)|Ariel]] is a mermaid princess and the youngest daughter of [[List_of_The_Little_Mermaid_characters#King Triton|King Triton]], ruler of the [[Merfolk|merpeople]] of Atlantica.  She is fascinated with the human world despite never having seen it, as Triton forbids all merfolk from surfacing there after Ariel's mother was killed by a human.
+
+One night, Ariel sees fireworks above the ocean and surfaces to see them better. They come from the ship of [[Prince Eric|Eric]], the prince of a nearby island. When a storm arrives, the ship crashes against rocks, forcing all to go for the lifeboats. Ariel rescues Eric, brings him to shore, and sings to him, fleeing before he can regain full consciousness.
+
+Noticing Ariel's absent-minded behavior, Triton questions his advisor Sebastian the crab, who reveals that she saved a human. Enraged, Triton travels to Ariel's grotto and demands that she swear to never return to the surface. She refuses and he destroys her collection of human objects. Ariel is later approached by two [[moray eel]]s sent by the sea witch [[Ursula (The Little Mermaid)|Ursula]], Triton's estranged sister and Ariel's aunt who was banished from Atlantica fifteen years prior.
+
+Ariel makes a deal with Ursula: she will turn Ariel human for three days in exchange for her voice, which Ursula will keep in a [[nautilus shell]]. During these three days, Ariel she must receive [[true love's kiss]] to remain human permanently. If Ariel fails, she will transform back into a mermaid and Ursula will claim her soul. After receiving human legs, she swims to the surface with Sebastian and her friend [[Flounder]]. In the human world, she is rescued and taken to Eric's castle. Eric, who has been searching for the woman who saved his life, rushes to meet Ariel. While exploring the castle, Ariel finds Eric's collection of items he accumulated over his travels. Eric spends time with her poring over his collection.
+
+The next day, Eric takes Ariel sightseeing around the kingdom. Sebastian, who has followed Ariel, discovers that Ursula has rigged the spell to make Ariel forget that she needs to kiss Eric. Along with Scuttle, a [[northern gannet]], and Flounder, Sebastian takes it upon himself to get the pair to kiss. They are almost successful but are thwarted by Ursula's eels. Enraged by the close call, Ursula turns into a human and uses Ariel's voice to hypnotize Eric. Back in Atlantica, Triton has the kingdom search for Ariel and begins to regret the way he treated her.
+
+The next morning, Ariel and her friends discover that Eric will be announcing his engagement to "Vanessa" (Ursula's alter ego) later that day, believing she is the woman who saved him and sang to him on the beach. Ariel rushes to the engagement party, confronts Ursula, and breaks the shell. She gains back her voice, and the enchantment on Eric is broken. However, before they can kiss, the sun sets and Ariel transforms back into a mermaid. Reverting to her original form, Ursula drags Ariel back into the ocean.
+
+Wanting to save Ariel, Triton confronts Ursula. However, the deal that she made with Ariel is unbreakable. Triton trades himself for Ariel and is turned to dust by Flotsam and Jetsam before losing his authority over Atlantica, much to her horror. Ursula declares herself the Queen of the Seven Seas and claims Triton's trident when Eric arrives with a harpoon. Ursula attempts to kill Eric, but Ariel intervenes and  attacks Ursula who accidentally kills Flotsam and Jetsam. Enraged, Ursula uses the trident to grow in size.
+
+Ariel and Eric reunite on the surface just before a gigantic Ursula separates them. She then gains full control of the ocean, creating a storm and bringing sunken ships to the surface before Ariel gets on one. Just as Eric is about to be killed, Ariel commandeers a wrecked ship and impales Ursula with its splintered [[bowsprit]]. Once Ursula dies, Triton comes back to life; he and Ariel recognize the other's sacrifice for them.
+
+Ariel returns home, where she is unhappy without Eric. On Sebastian's advice, Triton transforms Ariel into a human permanently, and she reunites with Eric. As Eric and Ariel are on the beach, the pair decide to travel together, with the blessing of both their parents and the support of people from both their worlds.

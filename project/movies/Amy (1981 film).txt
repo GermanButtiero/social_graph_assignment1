@@ -1,0 +1,21 @@
+{{Infobox film
+| name = Amy
+| image = Amy 1981 Film.jpg
+| caption = Theatrical release poster
+| director = [[Vincent McEveety]]
+| writer = Noreen Stone
+| producer = [[Jerome Courtland]]
+| starring = [[Jenny Agutter]]<br />[[Barry Newman]]<br />[[Kathleen Nolan]]<br />[[Chris Robinson (American actor)|Chris Robinson]]<br />[[Lou Fant]]<br />[[Margaret O'Brien]]<br />[[Nanette Fabray]] 
+| cinematography = Leonard J. South
+| editing = Gregg McLaughlin
+| music = Robert F. Brunner
+| studio = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released = {{Film date|1981|03|20}}
+| runtime = 97 minutes
+| country = United States
+| language = English
+}}
+
+== Plot ==
+In 1913, Amy Medford leaves her possessive, wealthy husband to begin a new life teaching speech to deaf students in the rural [[Appalachian Mountains]] at a school for [[Blindness and education|blind]] and [[Deaf education|deaf]] children. Though encountering resistance from those who question whether it's even possible to teach speech to children with hearing impairments, Amy becomes close to the staff and children, building a new life for herself and gaining the personal strength she will need to stand up to the domineering husband who is not content to let her live her own life.

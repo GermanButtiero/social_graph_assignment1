@@ -1,0 +1,36 @@
+{{Infobox film
+| name           = Angels in the Outfield
+| image          = Angels in the outfield.jpg
+| caption        = Theatrical release poster
+| director       = [[William Dear]]
+| producer       = Irby Smith<br>[[Joe Roth]]<br>[[Roger Birnbaum]]
+| screenplay     = [[Holly Goldberg Sloan]]
+| based_on       = {{based on|''[[Angels in the Outfield (1951 film)|Angels in the Outfield]]''<br>1951 film|[[Dorothy Kingsley]]<br>[[George Wells (screenwriter)|George Wells]]<br>Richard Conlin}}
+| starring       = {{Plainlist|
+* [[Danny Glover]]
+* [[Tony Danza]]
+* [[Brenda Fricker]]
+* [[Ben Johnson (actor)|Ben Johnson]]
+* [[Jay O. Sanders]]
+* [[Christopher Lloyd]]
+}}
+| music          = [[Randy Edelman]]
+| cinematography = [[Matthew F. Leonetti]]
+| editing        = [[Bruce Green]]
+| studio         = [[Walt Disney Pictures]]<br>[[Caravan Pictures]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{film date|1994|7|15}}
+| runtime        = 102 minutes
+| country        = United States
+| language       = English
+| budget         = $31 million<ref name=wrap>{{cite web|url=http://powergrid.thewrap.com/project/angels-outfield|title=Angels in the Outfield – PowerGrind|work=[[The Wrap]]|access-date=July 29, 2017|archive-url=https://web.archive.org/web/20170731072819/http://powergrid.thewrap.com/project/angels-outfield|archive-date=July 31, 2017|url-status=dead}}</ref>
+| gross          = $50.2 million<ref name=wrap/>
+}}
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films are 400 to 700 words. -->
+Young foster child Roger Bomman and his friend, J.P., love to sneak into baseball games of the struggling [[Los Angeles Angels|California Angels]]. Still in limited contact with his widowed father, Roger asks when they will be a family again. His father replies sarcastically, "I'd say when the Angels win the pennant". Taking his father's words literally, he prays for [[God]] to help the Angels win. The next day, at a game against the [[Toronto Blue Jays]], Roger sees a group of [[angel]]s led by Al helping the team. Although he can see them quite clearly, everyone else can only explain the seemingly impossible acts as freak occurrences. Roger's unique ability to see which players are receiving help from angels leads their skeptical manager George Knox to keep him around as a [[good luck charm]] and consultant. Due to the much-needed help, the Angels start to win games and make a surprising second-half surge to the top of their [[division (sport)|division]].
+
+Roger's father permanently gives up [[child custody|custody]] of him, believing it is in Roger's best interest. As Roger laments his loss, an equally distraught J.P. accidentally reveals to antagonistic sportscaster Ranch Wilder that Roger has the ability to see angels, and that Knox has been winning through the advice Roger gave him. Hoping to permanently end Knox's career in baseball since their days as players, Ranch informs the press of this, and their owner Hank Murphy threatens to relieve Knox of his management responsibilities. Roger comes clean to his caretaker Maggie Nelson about his special ability, and at a press conference, they and the entire team defend Knox in front of the press. Moved by their faith, Murphy allows him to remain as the Angels' manager.
+
+During the final game of the season against the rival [[Chicago White Sox]], none of the angels show up to help the team. Later on, Al appears to Roger and explains that championships have to be won on their own. He also says that he is there to check on pitcher Mel Clark, who only has months to live due to his years of smoking and will become an angel himself. Mel struggles in the ninth inning but perseveres after encouragement from Knox, his team, and the fans in attendance. The Angels ultimately win the game on their own and clinch the division title and the pennant, while Murphy fires Ranch for insulting the team on the air. Knox adopts Roger and J.P., as he wants to try to be a father. J.P. sees Al and says, "I knew it could happen". Al flies off and says, "We're always watching".

@@ -1,0 +1,32 @@
+{{Infobox film 
+| name           = Johnny Tremain 
+| image          = Johnny Tremain poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Robert Stevenson (director)|Robert Stevenson]] 
+| producer       = [[Walt Disney]]
+| based_on       = {{based on|''[[Johnny Tremain]]''|[[Esther Forbes]]}}
+| screenplay     = [[Thomas W. Blackburn|Tom Blackburn]]
+| starring       = {{Plainlist|
+* [[Hal Stalmaster]]
+* [[Luana Patten]]
+* [[Jeff York]]
+* [[Sebastian Cabot (actor)|Sebastian Cabot]]
+}}
+| music          = [[George Bruns]]
+| cinematography = [[Charles P. Boyle]]
+| editing        = [[Stanley E. Johnson]]
+| studio          = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]] 
+| released       = {{Film date|1957|6|19}}
+| runtime        = 80 minutes
+| country        = United States
+| language       = English
+| budget         = $700,000<ref>NEW DISNEY MOVIE TO GO TO THEATRES By THOMAS M. PRYOR The New York Times 22 Oct 1956: 25.</ref>
+}}
+
+==Plot==
+In 1770s [[Boston]], Johnny Tremain is apprenticed to a [[silversmith]], Mr. Lapham. One day, wealthy Jonathan Lyte asks Mr. Lapham to make a sugar basin to match his grand silverware set. Lapham refuses because he believes he is too old for such jobs. Tremain believes he is skilled enough to do the job, and accepts. After trying several times but failing, he asks fellow silversmith, [[Paul Revere]], for help designing a new handle. Revere tells him to make the handle deeper and larger. Eager to try the new design, Johnny breaks the [[Sabbath#Christianity|Sabbath]] and accidentally burns his hand. The damage is so severe that he will never have full use of the hand again, and cannot continue as a silversmith apprentice. No one will hire him with only one usable hand. The [[Sons of Liberty]] recruited him as a messenger, to secretly inform members of the times and locations of meetings.
+
+Johnny tells Priscilla Lapham, Mr. Lapham's granddaughter, that he is secretly related to Mr. Lyte. He shows her a [[Infant baptism|christening]] cup bearing the Lyte [[Crest (heraldry)|family crest]] as evidence. Desperate for money, he approaches Lyte and shows him the christening cup. Lyte assumes that Johnny stole the cup, and files charges against him. [[Josiah Quincy II|Josiah Quincy]] defends Johnny in court. Introducing Priscilla as a witness, Quincy proves Johnny's innocence.
+
+Afterward, Tremain and the Sons of Liberty became active in several notable events leading to the [[American Revolution]], including the [[Boston Tea Party]], [[Paul Revere's Ride]], and the [[Battles of Lexington and Concord]]. During the Boston Tea Party, Dr. [[Joseph Warren]] offers to restore Tremain's hand, allowing him to return to his profession.

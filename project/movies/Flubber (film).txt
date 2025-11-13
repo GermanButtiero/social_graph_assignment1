@@ -1,0 +1,52 @@
+{{Infobox film
+| name           = Flubber
+| image          = Flubber.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Les Mayfield]]
+| screenplay         = {{plainlist|
+* [[John Hughes (filmmaker)|John Hughes]]
+* [[Bill Walsh (producer)|Bill Walsh]]
+}} <!-- Bill Walsh received a screenplay credit on this version -->
+| based_on       = {{Based on|"A Situation of Gravity"|[[Samuel W. Taylor]]}}
+| producer       = {{plainlist|
+* John Hughes<ref name=afi>{{cite web|url=https://catalog.afi.com/Film/60734-FLUBBER|title=Flubber|work=[[American Film Institute]]|access-date=October 28, 2016}}</ref>
+* Ricardo Mestres<ref name=afi/>
+}}<!-- producer only, not exec producer -->
+| starring       = {{plainlist|
+* [[Robin Williams]]
+* [[Marcia Gay Harden]]
+* [[Christopher McDonald]]
+* [[Raymond J. Barry]]
+* [[Clancy Brown]]
+* [[Ted Levine]]
+}}
+| cinematography = [[Dean Cundey]]
+| editing        = {{plainlist|
+* Harvey Rosenstock
+* Michael A. Stevenson
+}}
+| music          = [[Danny Elfman]]
+| studio         = [[Walt Disney Pictures]]<ref name=afi/>
+| distributor    = [[Buena Vista Pictures Distribution]]<ref name=afi/>
+| released       = {{Film date|1997|11|16|[[Pennsylvania]]|1997|11|26|United States}}
+| runtime        = 93 minutes
+| country        = United States<ref name=afi/>
+| language       = English
+| budget         = $80 million<ref>{{cite web|url=http://www.the-numbers.com/movie/Flubber#tab=summary|title=Flubber (1997)|work=[[The Numbers (website)|The Numbers]]|access-date=October 28, 2016}}</ref>
+| gross          = $178 million<ref name=mojo>{{cite web|url=http://www.boxofficemojo.com/movies/?id=flubber.htm|title=Flubber|work=[[Box Office Mojo]]|publisher=[[Amazon.com]]|access-date=October 28, 2016}}</ref>
+}}
+
+==Plot==
+<!--Plot summaries should be between 400 and 700 words per [[MOS:FILMPLOT]]-->
+[[Absentminded professor]] Philip Brainard is [[Energy development|developing a new energy source]], hoping to save Medfield College from closure. His preoccupation with his research has caused him to miss two wedding dates, much to the ire of his fiancée, college president Sara Jean Reynolds. On their third attempted wedding day, Brainard is approached by his former partner Wilson Croft of rival Rutland College, who has profited from stealing his ideas and now intends to steal Sara.
+
+While preparing for the wedding, Brainard has a breakthrough with the help of his robot assistant Weebo, who is secretly in love with him. Their experiment results in a sentient [[green goo]] with enormous [[Elasticity (physics)|elasticity]] and [[kinetic energy]], which wreaks havoc on the neighborhood before the professor recaptures it. Weebo classifies the substance as "flying rubber", leading Brainard to christen it "Flubber". Working on Flubber into the following morning, Brainard realizes too late that he has again missed his own wedding. He unsuccessfully attempts to explain his absence to a heartbroken Sara, leaving Brainard determined to prove Flubber's worth and win her back.
+
+Medfield College's wealthy sponsor Chester Hoenicker, who is threatening to close the school, sends his henchmen Smith and Wesson to persuade Brainard to give Hoenicker's entitled son Bennett a better grade. Brainard, too busy experimenting with Flubber, unknowingly subdues the goons with a Flubber-coated golf ball and bowling ball. Brainard also uses Flubber to enable his vintage [[Ford Thunderbird]] to fly, and overhears Wilson make a flirtatious bet with Sara about Medfield's upcoming basketball game against Rutland.
+
+Struggling to confess her feelings for the professor, Weebo creates a holographic human version of herself and tries to kiss a sleeping Brainard, but he awakens with another idea for Flubber. Sneaking into the vacant basketball arena, he tests the effects of Flubber on a basketball and his shoes, allowing him to bounce incredibly far. At the game, he secretly applies Flubber to the abysmally unskilled Medfield team, enabling them to beat Rutland, but his attempt to win back Sara fails. Meanwhile, a mischievous Weebo releases Flubber to [[dance]] around the house.
+
+Returning home, Brainard talks to Weebo, declaring that his absentmindedness is due to his love for Sara. Weebo, putting the professor's happiness before her own, shows Sara footage of Brainard's declaration, and the couple reconciles. Brainard demonstrates Flubber's abilities to Sara, but Hoenicker has discovered Flubber's profitable potential, offering to buy it and forgive the college's debt. Brainard and Sara refuse, making a deal with the [[Ford Motor Company]] instead and saving the school. Hoenicker sends Smith and Wesson to raid Brainard's house, where Weebo attempts to fend them off but is destroyed as they steal Flubber.
+
+Mourning the loss of his beloved robot, Brainard discovers a farewell video from Weebo along with a backup of herself, her "daughter" Weebette. Brainard and Sara confront Hoenicker under the guise of selling him additional Flubber, and discover he is in league with Wilson. Unleashing Flubber, Brainard and Sara defeat Wilson, the Hoenickers, and their henchmen. Sometime later, Brainard saves Medfield from closing with Flubber and the happy couple finally have a successful wedding and embark on their [[honeymoon]] to [[Hawaii]] in the flying [[Ford Thunderbird]] with Weebette and Flubber.

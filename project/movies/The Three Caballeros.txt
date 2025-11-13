@@ -1,0 +1,83 @@
+{{Infobox film 
+| name           = The Three Caballeros
+| image          = Three caballeros poster.png
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Norm Ferguson (animator)|Norman Ferguson]] (supervising)
+* [[Clyde Geronimi]] (sequences)
+* [[Jack Kinney]] (sequences)
+* Bill Roberts (sequences)
+* [[Harold Young (director)|Harold Young]] (sequences)
+}}
+| producer       = [[Walt Disney]]<br />Norman Ferguson
+| story          = {{Plainlist|
+* Homer Brightman
+* Ernest Terrazas
+* [[Ted Sears]]
+* [[Bill Peet]]
+* [[Ralph Wright]]
+* Elmer Plummer
+* [[Roy Williams (artist)|Roy Williams]]
+* William Cottrell
+* Del Connell
+* James Bodrero
+}}
+| based_on       = {{based on|''[[Donald Duck universe|Donald Duck]]''|[[Walt Disney]]|[[Dick Lundy (animator)|Dick Lundy]]}}
+| starring       = {{Plainlist|<!--Top billed actors from the poster.-->
+* [[Joaquin Garay]]
+* [[Clarence Nash]]
+* [[José do Patrocínio Oliveira|José Oliveira]]
+* [[Aurora Miranda]]
+* [[Carmen Molina (actress)|Carmen Molina]]
+* [[Dora Luz]]
+}}
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[RKO Radio Pictures]]
+| released       = {{Film date|1944|12|21|Mexico City|1945|2|3|U.S.|ref2=<ref>{{cite web|url=http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=722|title=The Three Caballeros: Detail View|publisher=American Film Institute|access-date=April 27, 2014}}</ref>}}
+| runtime        = 71 minutes
+| music          = {{Plainlist|
+* [[Edward H. Plumb]]
+* [[Paul Smith (composer)|Paul J. Smith]]
+* [[Charles Wolcott]]
+}}
+| country        = United States
+| language       = {{Plainlist|
+* English
+* Spanish
+* Portuguese
+}}
+| budget         = 
+| gross          = $3.355 million (worldwide rentals)<ref name="Jewell">{{cite news | title=Richard B. Jewell's RKO film grosses, 1929–51: The C. J. Trevlin Ledger: A comment. | publisher=Historical Journal of Film, Radio and Television, Volume 14, Issue 1, 1994.}}</ref>
+}}
+
+== Plot ==
+The film, celebrating Donald Duck's 10th anniversary, consists of seven segments, each connected by a common theme. In the film, it is [[Donald Duck]]'s birthday (namely Friday the 13th), and he receives three presents from friends in [[Latin America]]. The first present is a [[Movie projector|film projector]], which shows him a documentary about birds called {{lang|es|"Aves Raras"}}. The first segment of the documentary tells the story of Pablo, a penguin seeking the warm weather of Equatorial South America. The next segment details some of the odd birds of Latin America. During this part of the documentary, he learns about the [[Aracuan Bird]], who received his name because of his eccentric song. The documentary then shifts to the perspective of a man narrating a story from his childhood, where he discovers and befriends a donkey with the wings of a condor in [[Uruguay]].
+
+The next present is a book given to Donald by José, a native of Brazil. This book tells of [[Bahia]] (spelled "Baía" in the film), which is one of Brazil's 26 states. José shrinks them both down so that they can enter the book. Donald and José meet up with several of the locals, who dance a lively [[samba]], and Donald ends up pining for one girl Yaya, the cookie seller, but fails and gets jealous of another man. After the journey, Donald and José leave the book.
+
+Upon returning, Donald realizes that he is too small to open his third present. José shows Donald how to use "black magic" to return himself to the proper size. After opening the present, he meets Panchito, a native of Mexico. The trio take the name "The Three Caballeros" and have a short celebration. Panchito then presents Donald's next present, a {{lang|es|[[piñata]]}}. Panchito tells Donald of the tradition behind the piñata. José and Panchito then blindfold Donald, and have him attempt to break open the piñata, eventually revealing many surprises. The celebration draws to a close when Donald is fired away by firecrackers in the shape of a ferocious toy bull (with which the [[firecracker]]s are lit by José with his cigar).
+
+Throughout the film, the [[List of Donald Duck universe characters#Aracuan Bird|Aracuan Bird]] appears at random moments. He usually taunts everyone with his madcap antics, sometimes stealing José's cigar and trying to make José jealous. His most famous gag is when he re-routes a train that Donald and José are riding on by drawing new tracks, causing the train to disassemble.
+
+The film consists of seven segments:
+
+=== "The Cold-Blooded Penguin" ===
+This segment is narrated by [[Sterling Holloway]], reproducing images of the penguins of in [[Antarctica]]. In the segment, a penguin named Pablo is so fed up with the freezing conditions of the [[South Pole]] that he decides to leave his home for warmer climates, navigating the long coast of Chile (including the [[Juan Fernández Islands]] and [[Viña del Mar]]), passing by [[Lima]] (the capital of [[Peru]]) and [[Quito]] (the capital of [[Ecuador]]) before landing on the [[Galápagos Islands]].<ref>{{cite web|url=http://web.comhem.se/~u70901683/movies/three_cabelleros/3caballeros.htm|title=The Three Caballeros|publisher=Comhem|language=en|access-date=August 18, 2016|archive-url=https://web.archive.org/web/20160916020327/http://web.comhem.se/~u70901683/movies/three_cabelleros/3caballeros.htm|archive-date=September 16, 2016|url-status=dead}}</ref>
+
+=== "The Flying Gauchito" ===
+This segment, with adult narration provided by Fred Shields, involves the adventures of a little boy from Uruguay and a winged donkey, who goes by the name of Burrito (which is Spanish for "little donkey").
+
+=== "Baía" ===
+[[File:Aurora Miranda Tres Caballeros.jpg|thumb|Brazilian singer [[Aurora Miranda]] in ''The Three Caballeros''.]]
+This segment involves a pop-up book trip through the Brazilian state of [[Bahia]] (spelled Baía in the film), as Donald and José meet up with some of the locals who dance a samba and Donald pining for one of the women, a [[Quindim]] seller named Yaya (portrayed by singer [[Aurora Miranda]]), who later gives Donald a kiss after he gives her a bouquet of flowers.
+
+=== "Las Posadas" ===
+This is the story of a group of Mexican children who celebrated [[Christmas]] by re-enacting the journey of [[Mary, the mother of Jesus]] and [[Saint Joseph]] searching for room at the inn. {{lang|es|"Posada"}} meant "inn", or "shelter", and their parents told them "no {{lang|es|posada}}" at each house until they came to one where they were offered shelter in a stable. This leads to festivities including the breaking of the {{lang|es|italic=no|piñata}}, which in turn leads to Donald Duck trying to break his ''own'' {{lang|es|italics=no|piñata}} as well.
+
+=== "Mexico: Pátzcuaro, Veracruz and Acapulco" ===
+Panchito gives Donald and José a tour of [[Mexico City]] and the country of Mexico on a flying [[sarape]], or magic carpet. Several Mexican dances and songs are learned here. Later Donald pines for more women, tries to pursue every one he sees and gain return affections, but once more he fails every time and ends up kissing José while blindfolded.
+
+=== "You Belong to My Heart" and "Donald's Surreal Reverie" ===
+The skies of Mexico City result in Donald falling in love with singer [[Dora Luz]]. The lyrics in the song itself play parts in the scenarios as well. Then several imagined kisses lead to Donald going into the "Love is a drug" scene. Donald constantly envisions sugar rush colors, flowers, and Panchito and José popping in at the worst moments, making chaos. The scene changes after Donald manages to dance with [[Carmen Molina (actress)|Carmen Molina]] from the [[Oaxaca|state of Oaxaca]], from the [[Isthmus of Tehuantepec]]. The two dance and sing the song {{lang|es|italic=no|"[[La Sandunga|La Zandunga]]"}}. Carmen begins by singing the song, with Donald "quacking" out the rest of the chorus with her. The "drunkenness" slows down for a second after Donald multiplies himself while spinning in a circle, but speeds up again when Carmen reappears dressed in a [[Charro]]'s outfit and uses a horsewhip as a conductor's baton to make [[cactus|cacti]] appear in many different forms while dancing to {{lang|es|italic=no|"[[Jesusita en Chihuahua]]"}}, a trademark song of the [[Mexican Revolution]]. This scene is notable for providing the masterful combination of live-action and cartoon animation, as well as animation among the cacti.
+
+The scene is interrupted when Panchito and José suddenly spice things up for the finale of the film, and Donald ends up battling the same toy bull with wheels on its legs the day before from earlier. The catch is that it is now loaded with fireworks and other explosives, following with a fireworks finale with the words "The End" exploding from the fireworks, first in [[Mexican Spanish|Spanish]] ({{lang|es|Fin}}), in the colors of the [[flag of Mexico]], then the second in [[Brazilian Portuguese|Portuguese]] ({{lang|pt|Fim}}), in the colors of the [[flag of Brazil]], and finally in English, in the colors of the [[flag of the United States]] (''The End'').

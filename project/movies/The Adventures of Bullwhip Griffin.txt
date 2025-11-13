@@ -1,0 +1,29 @@
+{{Infobox film
+| name           = The Adventures of Bullwhip Griffin
+| image          = The Adventures of Bullwhip Griffin.jpg
+| caption        = Theatrical release poster
+| director       = [[James Neilson (director)|James Neilson]]
+| producer       = [[Walt Disney]]<ref>{{cite web |title=The Adventures of Bullwhip Griffin |url=http://catalog.afi.com/Catalog/MovieDetails/22465 |website=[[AFI Catalog of Feature Films]] |publisher=[[American Film Institute]] |access-date=December 10, 2020}}</ref>
+| writer         = 
+| screenplay     = [[Lowell S. Hawley]]
+| story          = 
+| based_on       = {{based on|''[[By the Great Horn Spoon!]]''|[[Sid Fleischman]]}}
+| starring       = [[Roddy McDowall]]<br>[[Suzanne Pleshette]]<br>[[Karl Malden]]
+| music          = '''Songs:'''{{ubl|[[Richard M. Sherman]]|[[Robert B. Sherman]]|[[Mel Leven]]|[[George Bruns]]}} '''Score:'''<br>George Bruns
+| cinematography = [[Edward Colman (cinematographer)|Edward Colman]]
+| editing        = Marsh Hendry
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{Film date|1967|06|15}}
+| runtime        = 110 minutes
+| country        = United States
+| language       = English
+| gross          = $1,900,000 (US/ Canada)<ref>"Big Rental Films of 1967", ''Variety'', 3 January 1968 p 25. Please note these figures refer to [[Gross rental|rentals accruing to the distributors]].</ref>
+}}
+
+==Plot==
+In 1849, Jack and Arabella Flagg are orphaned in [[Boston]]. Along with the family's former butler, Eric Griffin, they stow away aboard a ship bound for [[San Francisco]], where the gold rush has begun. Eric gets work as the ship's cook.
+
+Judge Higgins, a swindler and thief, steals a map to a gold mine belonging to Quentin Bartlett, an actor who is among the ship's passengers. Eric, Jack, and Quentin pursue the crooked judge. Arabella arrives in town and takes a job in a dance hall to make ends meet.
+
+Eric encounters a stocky bully, Mountain Ox, and lashes out a punch that flattens him. "Bullwhip" becomes his new nickname. Inspired by the incident, Bullwhip enters a prizefighting match and wins the money. He also wins Arabella's affection. Judge Higgins, caught trying to steal the fight's receipts, quivers behind bars as a lynch mob forms outside. The ensuing riot causes a fire that burnt down much of the town, but Bullwhip uses his prizefighting winnings to rebuild the town better than before, making him a local hero.

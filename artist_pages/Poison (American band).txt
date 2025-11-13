@@ -1,5 +1,0 @@
-#REDIRECT [[Poison (band)]]
-
-{{Redirect category shell|
-{{R from move}}
-}}

@@ -1,0 +1,46 @@
+{{Infobox film
+| name           = Tangled
+| image          = Tangled poster.jpg
+| caption        = Theatrical release poster<ref>{{cite web|last=Sciretta|first=Peter|title=Exclusive: International Movie Poster for Disney's Tangled|url=https://www.slashfilm.com/exclusive-international-movie-poster-for-disneys-tangled/|publisher=[[/Film]]|access-date=March 14, 2017|date=September 30, 2010|archive-date=March 15, 2017|archive-url=https://web.archive.org/web/20170315174654/http://www.slashfilm.com/exclusive-international-movie-poster-for-disneys-tangled/|url-status=live}}</ref>
+| alt            = A man with a frying pan, a girl with long blonde hair, and a white horse
+| director       = {{Plainlist|
+* [[Nathan Greno]]
+* [[Byron Howard]]
+}}
+| producer       = [[Roy Conli]]
+| screenplay     = [[Dan Fogelman]]
+| based_on       = {{Based on|"[[Rapunzel]]"|the [[Brothers Grimm]]}}
+| starring       = {{Plainlist|
+* [[Mandy Moore]]
+* [[Zachary Levi]]
+* [[Donna Murphy]]
+<!--DO NOT ADD ANYONE ELSE. ONLY STAR-BILLING CAST IS HERE. FULL CAST GOES IN MAIN ARTICLE'S CAST SECTION--> 
+}}
+| music          = [[Alan Menken]]<!-- Do not add Glenn Slater, the credit asks for music, not lyrics -->
+| editing        = Tim Mertens
+| production_companies = {{plainlist|
+*[[Walt Disney Animation Studios]]<ref name="nytimes">{{cite news|last=Barnes|first=Brooks|title=Disney Ties Lots of Hopes to Lots of Hair|url=https://www.nytimes.com/2010/11/21/movies/21tangled.html|access-date=January 4, 2018|work=[[The New York Times]]|date=November 19, 2010|archive-date=August 22, 2017|archive-url=https://web.archive.org/web/20170822223712/http://www.nytimes.com/2010/11/21/movies/21tangled.html|url-status=live}}</ref>
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2010|11|14|[[El Capitan Theatre]]|2010|11|24|United States}}
+| runtime        = 100 minutes<ref>{{cite web|url=http://www.starz.com/guides/1108STZ1.pdf |title=Tangled: 100 minutes (Starz 08/2011 Schedule, Page 4) |url-status=dead |archive-url=https://web.archive.org/web/20110929143420/http://www.starz.com/guides/1108STZ1.pdf |archive-date=September 29, 2011 }}</ref>
+| country        = United States
+| language       = English
+| budget         = $260 million<ref name="LATimes"/><ref name="mojo">{{cite web|url=https://boxofficemojo.com/movies/?id=rapunzel.htm|title=Tangled (2010)|work=[[Box Office Mojo]]|access-date=May 25, 2011|archive-date=February 21, 2009|archive-url=https://web.archive.org/web/20090221151127/https://boxofficemojo.com/movies/?id=rapunzel.htm|url-status=live}}</ref>
+| gross          = $592.5 million<ref name="mojo"/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be 400-700 words in length. -->
+<!-- Please do not add unsourced information about the characters' motives. -->
+A drop of sunlight falls from the sky and produces a magic flower with healing properties. For centuries, [[Mother Gothel|Gothel]] uses the flower to retain her youth, until it is stolen by soldiers from the kingdom of Corona and used to save their ill, pregnant queen. She gives birth to [[Rapunzel (Tangled)|Rapunzel]], whose blonde hair contains the flower's magic. Gothel sneaks into the castle and cuts a lock of her hair, but it turns brown and loses its magic. She then abducts Rapunzel and raises her in a hidden tower in the woods, keeping Rapunzel's magic for herself. Each year on Rapunzel's birthday, the king and queen release [[sky lantern]]s, hoping they will guide Rapunzel home.
+
+Rapunzel is fascinated by the annual lights and, on her 18th birthday, asks to leave the tower and investigate them, but Gothel refuses, claiming the outside world is too dangerous. Meanwhile, [[Flynn Rider]] steals Rapunzel's intended crown from the palace; he betrays the Stabbington brothers, his partners-in-crime, while being pursued by royal guard-horse [[Pascal and Maximus|Maximus]]. Flynn discovers and takes refuge in the tower, where Rapunzel knocks him out and hides him. When Gothel berates Rapunzel for mentioning the lanterns again and refuses to let her ever leave the tower, Rapunzel hatches a new plan and asks Gothel for new paint as a gift, sending her on a three-day journey. After hiding Flynn's satchel containing the crown, Rapunzel strikes a deal with Flynn, promising to return the crown in exchange for taking her to see the lanterns. 
+
+Outdoors for the first time since infanthood, Rapunzel experiences conflicting feelings of excitement and guilt. Flynn takes Rapunzel to the Snuggly Duckling pub, where thugs try to capture the [[Wanted poster|wanted]] Flynn, but Rapunzel charms them into revealing their softer sides. When royal guards arrive, the thugs help Rapunzel and Flynn escape. Flynn and Rapunzel become trapped in a fast-flooded cave; believing they will suffocate, Flynn reveals his true name, Eugene Fitzherbert. Rapunzel uses the magic glow of her hair to reveal a hidden underwater exit, and they escape. Meanwhile, Gothel returns to the empty tower and finds the satchel with the crown and a [[wanted poster]] of Eugene. Inspired by the discovery, Gothel finds the Stabbington brothers and strikes a deal with them to find Rapunzel. That night, Gothel confronts Rapunzel alone and gives her the satchel, telling her to give it to Eugene to test his loyalty.
+
+The next morning, Maximus tracks down Eugene and attempts to arrest him, but Rapunzel convinces them to strike a truce. Rapunzel and Eugene enter the kingdom and attend a festival in honor of the "lost princess". After a day of celebration, they sail onto the lake to watch the release of the lanterns. Rapunzel gives Eugene the crown, and they confess their mutual love. When Eugene sees the Stabbingtons on the shore, he goes to apologize and offers them the crown. The brothers tie him up, tricking Rapunzel into thinking he abandoned her. They try to capture Rapunzel, but Gothel stages a rescue by knocking them out and takes Rapunzel back to the tower.
+
+Eugene is arrested, but Maximus and the pub thugs help him escape. Meanwhile, Rapunzel realizes she has subconsciously incorporated the kingdom's [[royal standard|standard]], a golden sun, into her artwork throughout her life. Realizing that she is the "lost princess", Rapunzel confronts and disowns Gothel. Eugene arrives at the tower, but is tricked and impaled by Gothel with her dagger. Gothel attempts to take the chained and gagged Rapunzel away, but she resists, and promises to stay with Gothel if she is allowed to heal the dying Eugene. Gothel reluctantly agrees, but Eugene, realizing Rapunzel would spend the rest of her life in captivity, cuts off her long hair before she can heal him. Rapunzel's hair turns brown, and a horrified Gothel suddenly ages rapidly before falling from the tower to her death, turning to dust in the process, while Eugene dies in Rapunzel's arms. Rapunzel mourns Eugene, but one of her tears, which still has some of the flower's magic, revives him. 
+
+Rapunzel and Eugene return to Corona, where Rapunzel is reunited with her birth parents, Eugene is pardoned for his crimes, and the kingdom celebrates. Rapunzel and Eugene eventually marry.

@@ -1,0 +1,45 @@
+{{Infobox film
+| image          = Up (2009 film).jpg
+| caption        = Theatrical release poster
+| alt            = A house is in the air, lifted by balloons. Dug, a dog, Russell, a boy and Carl Fredricksen, an old man, hang beneath on a garden hose. "UP" is written in the top right corner. The release date "May 29" is displayed on the bottom left corner.
+| director       = [[Pete Docter]]
+| producer       = [[Jonas Rivera]]
+| screenplay     = {{unbulleted list|[[Bob Peterson (filmmaker)|Bob Peterson]]|Pete Docter}}
+| story          = {{unbulleted list|Pete Docter|Bob Peterson|[[Tom McCarthy (director)|Tom McCarthy]]}}
+| starring       = {{plain list|
+*[[Ed Asner]]
+*[[Christopher Plummer]]
+*[[Jordan Nagai]]
+*Bob Peterson
+}}
+| music          = [[Michael Giacchino]]
+| cinematography = {{unbulleted list|[[Patrick Lin (cinematographer)|Patrick Lin]]|Jean-Claude Kalache}}
+| editing        = Kevin Nolting
+| production_companies = [[Pixar Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2009|5|13|[[2009 Cannes Film Festival|Cannes]]|2009|5|29|United States}}
+| runtime        = 96 minutes
+| country        = United States
+| language       = English
+| budget         = $175 million
+| gross          = $735.1 million<ref>{{cite Box Office Mojo|id=1049413|title=Up (2009)}}</ref>
+}}
+
+== Plot ==
+{{See also|Up opening sequence|l1=''Up'' opening sequence}}
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+Ten-year-old Carl Fredricksen idolizes famed explorer Charles Muntz, who is discredited when a giant bird skeleton he brought back from Paradise Falls in [[South America]] is deemed fake. Muntz travels back to the falls, vowing not to return until he brings back a live specimen.
+
+Carl befriends Ellie, another young Muntz fan, who keeps a [[Scrapbooking|scrapbook]] of her adventures and dreams of moving her "clubhouse" (an abandoned house) to Paradise Falls and having adventures of her own. Carl and Ellie eventually marry, renovate the clubhouse and move in. They work at the city zoo as a balloon salesman and zookeeper, respectively. Ellie suffers a [[miscarriage]],<ref>{{Cite web |last=Khoo |first=Isabelle |date=July 13, 2015 |title=Pregnancy Loss: The Surprising Movie That Understands Miscarriage |url=https://www.huffpost.com/archive/ca/entry/pregnancy-loss_n_7786224 |url-status=live |archive-url=https://archive.today/20211112015216/https://www.huffpost.com/archive/ca/entry/pregnancy-loss_n_7786224 |archive-date=November 12, 2021 |access-date=November 11, 2021 |website=[[HuffPost]]}}</ref> and they learn they cannot have children. The couple saves money for a trip to Paradise Falls, but are repeatedly forced to spend their savings on more pressing needs. Many years later, a now elderly Carl decides to surprise Ellie with tickets to South America, but she falls ill and is hospitalized, giving Carl her scrapbook before she dies.
+
+Now in his late 70s,<ref>{{cite web | url=https://www.pixar.com/feature-films/up#:~:text=Carl%20Fredricksen,late%20wife%20Ellie%20built%20together | title=Pixar Animation Studios | access-date=December 12, 2022 | archive-date=January 26, 2021 | archive-url=https://web.archive.org/web/20210126200323/https://www.pixar.com/feature-films/up#:~:text=Carl%20Fredricksen,late%20wife%20Ellie%20built%20together | url-status=live }}</ref> Carl [[holdout (real estate)|holds out]] while the neighborhood around him is [[Redevelopment|redeveloped]]. After unintentionally injuring a construction worker, Carl is ordered by a court to move into an [[retirement home|assisted living facility]]. However, Carl resolves to keep his promise to Ellie to move their house to Paradise Falls and attaches thousands of balloons to it in order to fly there. Russell, a young "Wilderness Explorer" scout attempting to earn his final [[scout badge|merit badge]] for assisting the elderly, becomes an accidental stowaway. Before Carl can land and send Russell home, a storm propels the house all the way to South America.
+
+The house lands on a [[tepui]] opposite Paradise Falls. Carl and Russell harness themselves to the still-buoyant house and tow it across the mesa. Along the way, they encounter a giant [[flightless bird]] that Russell names Kevin (but who they later realize is female) and Dug, a [[Golden Retriever]] whose collar has a device that translates his thoughts into human speech. After failed attempts to evade the animals, Carl reluctantly allows both to join the party.
+
+Dug's pack, all wearing collar translators, surrounds them. The dogs' master is revealed to be an elderly Charles Muntz, who invites Carl and Russell aboard his airship and discusses his quest to capture the bird. However, Carl's initial excitement over meeting him fades as he realizes that Muntz's obsession has driven him insane. After Muntz shows them the bird skeleton, Russell notes its resemblance to Kevin. Becoming hostile, Muntz reveals that he has murdered other travelers he suspected of also seeking the bird. Carl, Russell and Dug flee, pursued by Muntz's dogs; they are rescued by Kevin, who gets injured in the process.
+
+Hearing Kevin call out to her chicks, Carl agrees to take her home. However, Muntz captures her and starts a fire beneath Carl's home. Forced to choose, Carl saves his home, allowing Muntz to take Kevin away and losing Russell's respect. Disheartened, Carl looks through his wife's scrapbook and discovers that she had filled in blank pages with photos of their life together and written "Thanks for the adventure – now go have a new one!". Reinvigorated, he goes outside, only to see Russell flying after Kevin using balloons and a [[leaf blower]]. Carl lightens his house by emptying it completely, enabling it to fly again.
+
+Russell arrives at Muntz's airship but is caught. Carl and Dug, the latter of whom stowed away, board the dirigible and free him and Kevin. Muntz pursues them and traps Russell, Kevin, and Dug inside the house, but Carl saves them just as the tether breaks. Muntz leaps after them, but gets his leg tangled in balloon strings and falls to his death. Carl's house, having lost several balloons, descends out of sight beneath the clouds.
+
+Carl and Russell reunite Kevin with her chicks before returning home to the United States with Dug in Muntz's airship. Russell receives his badge for assisting the elderly, and Carl presents Russell with a [[bottle cap]] Ellie gave Carl when they first met as kids years ago, which he dubs "The Ellie Badge". Meanwhile, unbeknownst to Carl, his house has landed on the cliff overlooking Paradise Falls, fulfilling his promise to Ellie.

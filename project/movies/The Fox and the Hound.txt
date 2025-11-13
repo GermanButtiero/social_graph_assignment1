@@ -1,0 +1,58 @@
+{{Infobox film
+| name        = The Fox and the Hound
+| image       = The Fox and the Hound.jpg
+| caption     = Original theatrical release poster
+| director    = {{Plainlist|
+* [[Art Stevens]]
+* [[Ted Berman]]
+* [[Richard Rich (filmmaker)|Richard Rich]]}}
+| producer    = {{Plainlist|
+* [[Ron W. Miller|Ron Miller]]
+* [[Wolfgang Reitherman]]
+* Art Stevens}}
+| story       = {{Plainlist|
+* [[Larry Clemmons]]
+* Ted Berman
+* David Michener
+* Peter Young
+* [[Burny Mattinson]]
+* Steve Hulett
+* Earl Kress
+* [[Vance Gerry]]}}
+| based_on    = {{based on|''[[The Fox and the Hound (novel)|The Fox and the Hound]]''|[[Daniel P. Mannix]]}}
+| starring    = {{Plainlist|
+<!-- This list is presented in the order of how it was presented onscreen. Please discuss on the talk page if you wish to change. -->
+* [[Mickey Rooney]]
+* [[Kurt Russell]]
+* [[Pearl Bailey]]
+* [[Jack Albertson]]
+* [[Sandy Duncan]]
+* [[Jeanette Nolan]]
+* [[Pat Buttram]]
+* [[John Fiedler]]
+* [[John McIntire]]
+* [[Dick Bakalyan]]
+* [[Paul Winchell]]
+* [[Keith Coogan|Keith Mitchell]]
+* [[Corey Feldman]]}}
+| music       = [[Buddy Baker (composer)|Buddy Baker]]
+| editing     = James Melton<br>Jim Koford
+| studio      = [[Walt Disney Productions]]
+| distributor = [[Buena Vista Distribution]]
+| released    = {{Film date|1981|7|10}}
+| runtime     = 83 minutes
+| country     = United States
+| language    = English
+| budget      = $12 million<ref name="Newsweek">{{cite magazine|title=Forest Friendship|first=David|last=Ansen|magazine=[[Newsweek]]|date=July 13, 1981|page=81}}</ref>
+| gross       = $63.5 million<ref name="boxoffice">{{cite web|title=The Fox and the Hound (1981)|website=[[Box Office Mojo]]|url=https://www.boxofficemojo.com/title/tt0082406/|access-date=September 20, 2008|archive-url=https://web.archive.org/web/20211027192122/https://www.boxofficemojo.com/title/tt0082406/|archive-date=October 27, 2021|url-status=live}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature film articles should be between 400 and 700 words in length. Current word count is 470 words. -->
+After a young [[red fox]] is orphaned, Big Mama the [[owl]] and her friends, Dinky the [[new world sparrow|sparrow]] and Boomer the [[woodpecker]], arrange for him to be adopted by a kindly farmer named Widow Tweed, who names him Tod. Meanwhile, her neighbor, hunter Amos Slade, brings home a young [[hound]] puppy named Copper and introduces him to his [[hunting dog]], Chief, who is at first annoyed by him but then learns to love him. One day, Tod and Copper meet and become best friends, pledging eternal friendship. Amos grows frustrated at Copper for constantly wandering off to play and places him on a leash. While playing with Copper outside his [[barrel]], Tod accidentally awakens Chief. Amos and Chief chase him until they are stopped by Tweed. After an argument, Amos threatens to kill Tod if he trespasses on his property again. Hunting season comes, and Amos takes Chief and Copper into the wilderness for the interim. Meanwhile, Big Mama, Dinky, and Boomer attempt to explain to Tod that Copper will soon become his enemy. However, he naively insists that they will remain friends forever.
+
+The following spring, Tod and Copper reach adulthood. Copper returns as an expert hunting dog who is expected to track down foxes. Late at night, Tod sneaks over to visit him. Their conversation awakens Chief, who alerts Amos. A chase ensues, and Copper catches Tod but lets him go while diverting Amos. Chief catches Tod as he attempts an escape on a [[railroad track]], but an oncoming train strikes him, resulting in him falling into the river below and breaking his leg. Enraged by this, Copper and Amos blame Tod for the accident and vow vengeance. Realizing Tod is no longer safe with her, Tweed leaves him at a [[game reserve]]. After a disastrous night on his own in the woods, Big Mama introduces him to Vixey, a female fox who helps him adapt to life there.
+
+Amos and Copper [[trespass to land|trespass into the reserve]] and [[poaching|hunt Tod and Vixey]]. The chase climaxes when they inadvertently provoke an attack from a [[grizzly bear]]. Amos trips and falls into one of his own traps, dropping his rifle slightly out of reach. Copper violently fights the bear, but is almost killed by it. Tod comes to Copper's rescue and battles it until both he and the bear fall down a [[waterfall]]. As Copper approaches Tod as he lies wounded in the lake below, Amos appears, ready to shoot Tod. Copper positions himself in front of Tod to prevent Amos from doing so, refusing to move away. Amos, understanding Tod had saved their lives from the bear, decides to spare Tod for Copper, lowers his rifle, and leaves with Copper. Tod and Copper share one last smile before parting.
+
+At home, Tweed nurses Amos back to health, much to his humiliation. As he lies down to take a nap, Copper smiles as he remembers the day when he first met Tod. At the same moment, Vixey joins Tod on top of a hill as they both look down on Amos' and Tweed's homes.

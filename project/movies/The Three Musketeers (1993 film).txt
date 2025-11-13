@@ -1,0 +1,47 @@
+{{Infobox film
+| name           = The Three Musketeers
+| image          = Threemusketeers1993.jpg
+| caption        = Theatrical release poster by [[John Alvin]].
+| director       = [[Stephen Herek]]
+| producer       = [[Joe Roth]]<br />[[Roger Birnbaum]]
+| screenplay     = [[David Loughery]]
+| based_on       = {{based on|''[[The Three Musketeers]]''<br>1844 novel|[[Alexandre Dumas, père|Alexandre Dumas]]}}
+| starring       = {{Plainlist|
+* [[Charlie Sheen]]
+* [[Kiefer Sutherland]]
+* [[Chris O'Donnell]]
+* [[Oliver Platt]]
+* [[Tim Curry]]
+* [[Rebecca De Mornay]]
+* [[Gabrielle Anwar]]
+}}
+| music          = [[Michael Kamen]]
+| cinematography = [[Dean Semler]]
+| editing        = [[John F. Link]]
+| studio         = [[Walt Disney Pictures]]<br />[[Caravan Pictures]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{Film date|1993|11|12}}
+| runtime        = 105 minutes
+| country        = United States<br />Austria<ref>{{cite web|url=http://ftvdb.bfi.org.uk/sift/title/484579|archive-url=https://web.archive.org/web/20090208213824/http://ftvdb.bfi.org.uk/sift/title/484579|url-status=dead|archive-date=February 8, 2009|work=BFI Film & TV Database|publisher=[[British Film Institute]]|access-date=December 30, 2012|title=The Three Musketeers}}</ref>
+| language       = English
+| budget         = $30 million
+| gross          = $111 million
+}}
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films are 400 to 700 words -->
+In 1625, young-but-skilled fencer [[Charles de Batz de Castelmore d'Artagnan#Portrayals in fiction|d'Artagnan]] travels to [[Paris]], [[France]] in hopes to follow in his murdered father's footsteps and become a member of the [[Mousquetaires de la Garde|musketeer]]s: the personal guard of the [[List of French monarchs|King of France]]. He is pursued by Gérard and his brothers, accused of blemishing their sister's [[honor]]. Meanwhile, [[Comte de Rochefort|Captain Rochefort]] of the [[Cardinal (Catholic Church)|Cardinal]]'s Guards disbands the musketeers per the orders of [[Cardinal Richelieu]], the King's Minister, ostensibly to help fight in an impending war with [[England]]. Rochefort informs Richelieu that three musketeers refused to relinquish their duties: [[Athos (fictional character)|Athos]], [[Porthos]], and [[Aramis]].
+
+In Paris, d'Artagnan "rescues" the queen's handmaidens from their own bodyguards, and after a scolding, takes a liking to one, Constance. In the city d'Artagnan encounters each of the Three Musketeers separately, unaware of their identities or association, resulting in a separate duel arranged with each. At the arranged location, Athos, Porthos and Aramis reveal themselves as musketeers. Before their duel, a Captain of the Cardinal's Guard arrives with four other guards to arrest the musketeers; although d'Artagnan is not sought by the guards, he allies with the musketeers during the skirmish. The Musketeers kill four guards, while d'Artagnan outduels the Captain, who falls to his death. Impressed but displeased at d'Artagnan's involvement, the musketeers leave d'Artagnan behind after encouraging him to flee and maintain his innocence. When more of the Cardinal's Guards arrive, d'Artagnan is captured.
+
+D'Artagnan escapes his cell and secretly learns that Richelieu plans to supplant the King, tasking [[Milady de Winter]] with delivering a secret [[treaty]] to England's [[Duke of Buckingham]]. D'Artagnan is caught by Rochefort without having seen Milady's face. Richelieu orders him executed for refusing to give up the musketeers' location, but the musketeers rescue him. As they flee, d'Artagnan reveals Richelieu's plans; they decide to intercept the spy at Calais and retrieve the treaty to prove Richelieu's guilt.
+
+During a skirmish, the party splits up; d'Artagnan rides ahead to Calais, but passes out from exhaustion and is found by Milady. He wakes in a bed stripped of his weapons and clothes as Milady tries to seduce him. d'Artagnan speaks openly of his plans, not knowing she is the spy. She attempts to kill him, but he convinces her to keep him alive. As her party boards the boat to England, they are confronted by the musketeers. Milady attempts to run away but is stopped by Athos, who is revealed to have been her first husband, but betrayed her to the authorities when he found out she was branded a murderer. The musketeers retrieve the treaty and Milady is sentenced to death for the murder of her second husband, Lord de Winter; just before she is executed, Athos begs her forgiveness. Moved, she reveals the Cardinal's plans to assassinate the king at his birthday celebration, then throws herself off a cliff to her death.
+
+Athos, Porthos and Aramis send missives to rally the rest of the musketeers. Richelieu and Rochefort hired a [[sharpshooter]]; during the assembly, d'Artagnan interrupts the sniper's shot, which narrowly misses the king. The musketeers reveal themselves, and Richelieu blames them for the attempted assassination.
+
+As the three fight the Cardinal's guards, men rush to their aid and reveal themselves as musketeers. The two forces battle as Richelieu takes the king and queen hostage, shooting Aramis in the chest before fleeing to the dungeon with Athos and Porthos in pursuit. d'Artagnan duels Rochefort and is disarmed; as Rochefort gloats about having killed d'Artagnan's father, Constance retrieves and throws him his sword and d'Artagnan promptly kills Rochefort.
+
+Athos and Porthos arrive just as Richelieu's boat leaves on an underground river, with Richelieu vowing to return. The boatman then reveals himself as Aramis, his crucifix having stopped the bullet. Aramis moves to apprehend the Cardinal, but King Louis punches Richelieu himself, knocking him into the river.
+
+The musketeers are reinstated by the king, and d'Artagnan is offered anything he wants; he chooses to serve Louis as a musketeer. Outside the musketeer headquarters, Gérard and his brothers arrive and challenge d'Artagnan to a duel; Porthos reminds him that musketeers not only protect King and country, but also each other. Gérard and his brothers are then chased off by the entire musketeer division.

@@ -1,0 +1,32 @@
+{{Infobox film
+| image          = Monsters Inc.JPG
+| alt            = Sullivan, a large furry blue-and-purple-spotted monster stands with his right hand resting on the head of Mike, a short round green monster who is seen giving a thumbs up.
+| caption        = Theatrical release poster
+| director       = [[Pete Docter]]
+| producer       = [[Darla K. Anderson]]
+| screenplay     = {{unbulleted list|[[Andrew Stanton]]|[[Dan Gerson|Daniel Gerson]]}}
+| story          = {{unbulleted list|Pete Docter|[[Jill Culton]]|[[Jeff Pidgeon]]|[[Ralph Eggleston]]}}
+| starring       = {{unbulleted list|[[John Goodman]]|[[Billy Crystal]]|[[Steve Buscemi]]|[[James Coburn]]|[[Jennifer Tilly]]|[[Mary Gibbs (actress)|Mary Gibbs]]}}
+| music          = [[Randy Newman]]
+| editing        = {{unbulleted list|Robert Grahamjones|Jim Stewart}}
+| production_companies = [[Pixar Animation Studios]]
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed under the [[Walt Disney Pictures]] banner. The 2012 reissue was distributed under its current name, [[Walt Disney Studios Motion Pictures]].}}
+| released       = {{Film date|2001|10|28|[[El Capitan Theatre]]|2001|11|2|United States}}
+| runtime        = 92 minutes<ref name="monincboxmoj" />
+| country        = United States
+| language       = English
+| budget         = $115&nbsp;million<ref name="monincboxmoj" />
+| gross          = $579.7&nbsp;million<ref name="monincboxmoj" />
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. Current word count is 546 words. -->
+In a world inhabited entirely by monsters, the city of Monstropolis harnesses the screams of [[human]] children for energy. At the Monsters, Incorporated factory, skilled monsters employed as "scarers" venture into the human world to scare children and harvest their screams through doors that activate portals to children's bedroom closets. The work is considered dangerous, as humans are believed to be toxic and capable of killing a monster through physical contact. Monsters, Inc. CEO, [[Henry J. Waternoose III]], is concerned about the declining energy production, as children are becoming more difficult to scare.
+
+One evening after work, top scarer [[James P. "Sulley" Sullivan]] discovers that an active door has been left in the station of his rival, [[Randall Boggs]]. He inspects the door and accidentally lets a toddler girl into the factory. Frightened, Sulley unsuccessfully tries returning the girl, who escapes into Monstropolis, interrupting Sulley's best friend and assistant [[Mike Wazowski]] on a date at a sushi restaurant. Chaos erupts when other monsters see the girl; Sulley and Mike escape with her as the Child Detection Agency (CDA) arrives and quarantines the restaurant. Forced to keep the girl hidden in their apartment for the night, Sulley realizes that the rumor of humans being toxic is actually false, and their laughter can generate more energy than screams.
+
+The next day, Sulley and Mike disguise the girl as a monster and attempt to send her back to her door in the factory. While Mike seeks the door out, Sulley grows attached to her and nicknames her "Boo". Randall, waiting in ambush for the girl, kidnaps Mike by accident and reveals his plan to kidnap children and extract screams from them using a device called a scream Extractor. Sulley rescues Mike, and they search for Waternoose to alert him of Randall's plan. However, Sulley accidentally scares Boo during a demonstration he is forced to give, and she inadvertently reveals herself to Waternoose.  He is revealed to be in league with Randall, abducts Boo, and banishes Mike and Sulley to the [[Himalayas]] in the human world.
+
+Sulley finds a way to return to the monster world, but Mike initially refuses to go with him. Sulley returns to the factory and rescues Boo from the scream extractor, but Randall fights him. Mike returns to reconcile with Sulley, incapacitates Randall, and both search for Boo's door. Randall eventually catches up to the trio, and Boo easily defeats him after a chase through the factory door vault. Sulley and Mike banish Randall through a door to a trailer in a swamp in the human world, where the homeowners beat him with a shovel.  Sulley and Mike destroy the door to prevent Randall's return.
+
+They finally locate Boo's door, but Waternoose brings it down to the scare floor, intending to have the CDA arrest Mike and Sulley. Mike distracts the CDA while Sulley and Boo lure Waternoose into the training room, where Sulley tricks Waternoose into revealing his conspiracy with Randall to kidnap as many children as needed to save the company. Mike, having recorded the conversation, exposes Waternoose to the CDA, who arrest him. Undercover CDA agent Roz allows Sulley to send Boo home, but orders her door destroyed. Sulley retools the company's power generation method to harvest children's laughter instead of screams, as laughter is ten times more powerful. With the energy crisis solved, the factory is now focused on making children laugh to collect energy; Mike becomes the company's top comedian and Sulley becomes the new CEO. Mike then reveals to Sulley he has rebuilt Boo's door. Sulley enters it and he and Boo greet each other.

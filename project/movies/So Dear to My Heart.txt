@@ -1,0 +1,39 @@
+{{Infobox film
+| name           = So Dear to My Heart
+| image          = So Dear to My Heart poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Harold D. Schuster]]<br />[[Hamilton Luske]]
+| producer       = [[Walt Disney]]<br />[[Perce Pearce]]
+| screenplay     = [[John Tucker Battle]]
+{{Infobox|decat=yes|child=yes|label1=Adaptation by|data1={{Ubl|[[Maurice Rapf]]|[[Ted Sears]]}}}}
+| based_on       = {{based on|''[[Midnight and Jeremiah]]''|[[Sterling North]]}}
+| starring       = {{Plain list|
+* [[Burl Ives]]
+* [[Beulah Bondi]]
+* [[Harry Carey (actor)|Harry Carey]]
+* [[Luana Patten]]
+* [[Bobby Driscoll]]
+}}
+| music          = [[Paul J. Smith (composer)|Paul Smith]]
+| cinematography = [[Winton C. Hoch]]
+| editing        = {{plainlist|[[Lloyd L. Richardson]]|Thomas Scott}}
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[RKO Pictures|RKO Radio Pictures]]
+| released       = {{Film date|1948|11|29|Chicago|1949|01|19|Indianapolis|ref2=<ref name=SoDearPremiereInfo>{{cite news |url=https://www.newspapers.com/clip/34888918/disney_premiere_here_to_be_hollywood|title=Disney Premiere Here to Be Hollywood Style |newspaper=The Indianapolis News |date=January 7, 1949 |page=21 |via=Newspapers.com |access-date=August 14, 2019}}</ref>}}
+| runtime        = 82 minutes
+| country        = United States
+| gross          = $3.7 million (U.S. rental) + $575,000 (foreign rental)<ref name="Jewell">{{cite news | title=Richard B. Jewell's RKO film grosses, 1929–51: The C. J. Trevlin Ledger: A comment. | publisher=Historical Journal of Film, Radio and Television, Volume 14, Issue 1, 1994. Domestic earnings $2.2 million; Foreign earnings $575,000}}</ref><ref name="1964reissue">"Big Rental Pictures of 1964", ''Variety'', January 6, 1965, p. 39. 1964 revenue anticipation: $1.5 million</ref>
+| budget         = $1.5 million<ref>{{cite magazine |url=https://archive.org/stream/variety169-1948-02#page/n126/mode/1up |title=109-Million Investment by H'Wood in Current Technicolor Features |magazine=Variety |date=February 18, 1948 |page=7}}</ref>
+| language       = English
+}}
+
+==Plot==
+In 1903, in the fictional town of Fulton Corners, Pike County, [[Indiana]], young Jeremiah Kincaid ([[Bobby Driscoll]]) lives with his Granny ([[Beulah Bondi]]) on her homestead. Jeremiah idolizes the race horse [[Dan Patch]] and dreams of owning and raising a similar champion horse. These dreams change when Granny's sheep have new lambs, including a [[Black sheep|black-wool lamb]] whose mother rejects him. Taking pity on him, Jeremiah convinces Granny to allow him to keep the lamb as a pet, who he names Danny after the horse. A Wise Old Owl who features in cards that Jeremiah keeps in his scrapbook advises Danny that "it's what you do with what you've got that counts", encouraging him to strive for greatness despite his black wool being a disadvantage.
+
+Danny soon becomes a nuisance, underfoot and destructive in nature. To Granny's consternation, Jeremiah begins neglecting his chores and becomes single-mindedly preoccupied with Danny. With the encouragement of his Uncle Hiram ([[Burl Ives]]) and friend Tildy ([[Luana Patten]]), Jeremiah becomes determined to enter Danny at the Pike County Fair and win a blue ribbon. After a particularly destructive rampage, Granny resolves to get rid of Danny, but cannot bring herself to do it seeing how Jeremiah cares for him.
+
+Uncle Hiram attempts to broach the subject of the County Fair to Granny, but Granny refuses on financial grounds. The Wise Old Owl instructs Jeremiah to persevere, with the stories of [[Christopher Columbus]] and [[Robert the Bruce]] illustrating "stick-to-it-ivity". Eager to make money to change Granny's mind, Jeremiah and Tildy go looking for scarce wild honey to sell to the general store. Their search takes them into a swamp, where they find a tree swarming with bees, which yields enough honey to fill two tubs' worth, earning Jeremiah a considerable amount of money. Upon returning home, Hiram and Jeremiah learn from Granny that Tildy and Danny have gone missing. Jeremiah runs after Danny, and Tildy returns shortly after. When Jeremiah does not return home before dark, Granny goes out into a storm to look for him, bringing him home without Danny over his protests. When Granny advises Jeremiah that Danny is in God's hands, Jeremiah protests that God cannot take Danny away from him. Granny scolds Jeremiah for becoming selfish and fixated on the prizes Danny can win over genuine love for him.
+
+Jeremiah sets out early the next morning and finds Danny. Jeremiah reveals to Granny that he prayed and promised God that if He let him find Danny, he would give up his vain dreams. Granny, seeing that Jeremiah has learned his lesson, tells a white lie that she promised God that if He let Jeremiah find Danny, they could go to the fair, reasoning that since she has known God longer, he will be all right with her promise taking precedent.
+
+At the fair, Granny advises Jeremiah to accept loss as gracefully as victory. Jeremiah falters slightly when showing Danny, overwhelmed at the high pedigrees of the competition, and Danny causes slight embarrassment by ramming into one of the judges, though the judge is more impressed than offended. Jeremiah is dismayed when another sheep wins the blue ribbon, but maintains his dignity. The judge Danny rammed compliments Jeremiah and Danny, telling the crowd that Danny is in a class of his own, echoing the Owl's advice "it's what you do with what you've got that counts", and awards Jeremiah and Danny a special award. The family returns to Fulton Corners to the admiration of the community, with Danny now accepted and celebrated.<ref>Lockhart, Jane. "Looking at Movies: ''So Dear to My Heart''". The Rotarian. February 1949, p.36.</ref>

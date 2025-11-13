@@ -1,0 +1,38 @@
+{{Infobox film
+| name           = Moon Pilot
+| image	         = Moon Pilot - theatrical poster.jpg
+| caption        = Theatrical release poster
+| director       = [[James Neilson (director)|James Neilson]]
+| writer         = Maurice Tombragel
+| based_on       = {{based on|''Starfire''|[[Robert Buckner]]}}
+| producer       = [[Walt Disney]]
+| starring       = {{Plainlist|
+* [[Tom Tryon]]
+* [[Brian Keith]]
+* [[Edmond O'Brien]]
+* [[Dany Saval]]
+* [[Bob Sweeney (actor and director)|Bob Sweeney]]
+* [[Kent Smith]]
+* [[Tommy Kirk]]
+}}
+| cinematography = [[William E. Snyder (cinematographer)|William Snyder]]
+| editing        = [[Cotton Warburton]]
+| music          = {{Plainlist|
+* [[Paul Smith (composer)|Paul J. Smith]]
+}} 
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1962|4|5}}
+| runtime        = 98 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $3.5 million (US/Canada)<ref>{{cite magazine|url=https://archive.org/details/variety-1963-01/page/n69/mode/2up?q=1963|magazine=Variety|date=9 Jan 1963|page=13|title=Big Rental Pictures of 1962}} Please note these are rentals and not gross figures</ref><ref>{{cite book|title=Film Facts|page=24|last=Steinberg|first=Cobbett|year=1980|publisher=Facts on File}}</ref> 
+}}
+
+==Plot==
+Air Force Capt. Richmond Talbot inadvertently volunteers to make the first crewed flight around the Moon. He is ordered to keep the upcoming flight a secret, even from his family on his upcoming leave.
+
+On his flight to visit his family, Talbot is approached by Lyrae, a mysterious "foreign" girl who seems to know all about the astronaut's coming mission. She approaches Talbot to warn him about possible defects in his spacecraft. He assumes she is a spy, runs away from her, and contacts the Air Force. The Air Force orders him home and places him under the protection of "National Security", a thinly disguised FBI.
+
+Eventually, Lyrae reveals that she is a friendly alien from the planet Beta Lyrae. She wants to offer him a special paint formula that when applied to his rocket, will safeguard his brain from "proton rays". Enchanted by the young woman, Talbot sneaks away from the agents who have been guarding him to spend more time with Lyrae. Eventually, after his rocket is launched, Lyrae appears by his side and convinces him to visit her planet with her. Talbot informs Mission Control that he will be a little late coming back. The film ends with Mission Control totally confounded by the bizarre transmissions they are receiving from both singing a romantic song duet about her home planet Beta Lyrae.

@@ -1,0 +1,48 @@
+{{Infobox film
+| name           = The Muppets
+| image          = Muppets ver4.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[James Bobin]]
+| producer       = {{plainlist|
+* [[David Hoberman]]
+* [[Todd Lieberman]]
+}}
+| writer         = {{plainlist|
+* [[Jason Segel]]
+* [[Nicholas Stoller]]
+}}
+| based_on       = {{Based on|Disney's [[The Muppets|Muppet characters and properties]]}}
+| starring       = {{plainlist|<!--Per poster billing.-->
+* Jason Segel
+* [[Amy Adams]]
+* [[Chris Cooper]]
+* [[Rashida Jones]]
+}}
+| music          = [[Christophe Beck]]<!-- -->
+| cinematography = [[Don Burgess (cinematographer)|Don Burgess]]
+| editing        = James Thomas
+| studio         = [[Walt Disney Pictures]]<ref name=Var/><ref name="THRMuppets" /><br />[[Mandeville Films]]<ref name="THRMuppets" />
+| distributor    = [[Walt Disney Studios Motion Pictures]]<ref name=Var/>
+| released       = {{Film date|2011|11|4|Savannah Film Festival|2011|11|23|United States}} <!-- Do not add the UK or Australian release date here, please; see WP:FILMRELEASE. -->
+| runtime        = 103 minutes<ref name="bbfc">{{cite web |title=The Muppets|url=https://www.bbfc.co.uk/AFF281940/ |publisher=[[British Board of Film Classification]] (BBFC) |date=February 10, 2012 |quote=109m39s |access-date=September 12, 2024 |archive-date=September 22, 2020 |archive-url=https://web.archive.org/web/20200922042622/https://www.bbfc.co.uk/releases/muppets-film |url-status=dead }}</ref>
+| country        = United States
+| language       = English
+| budget         = $45&nbsp;million<ref name="NYT">{{cite news|last=Cieply|first=Michael|title=It's Time for Your Face-Lift, Miss Piggy|url=https://www.nytimes.com/2011/04/10/business/10muppets.html?pagewanted=all|access-date=September 18, 2011|newspaper=[[The New York Times]]|date=April 9, 2011|archive-date=November 17, 2011|archive-url=https://web.archive.org/web/20111117225504/http://www.nytimes.com/2011/04/10/business/10muppets.html?pagewanted=all|url-status=live}}</ref><ref name="THR">{{cite news|last=Masters|first=Kim|title=Kermit as Mogul, Farting Fozzie Bear: How Disney's Muppets Movie Has Purists Rattled|url=https://www.hollywoodreporter.com/news/disney-muppets-jason-segel-amy-adams-jim-henson-250805|access-date=October 21, 2011|newspaper=[[The Hollywood Reporter]]|date=October 20, 2011|archive-date=October 21, 2011|archive-url=https://web.archive.org/web/20111021184620/http://www.hollywoodreporter.com/news/disney-muppets-jason-segel-amy-adams-jim-henson-250805|url-status=live}}</ref>
+| gross          = $171.8 million<ref name="mojo" />
+}}
+
+==Plot==
+[[Walter (Muppet)|Walter]], born a Muppet and a resident of Smalltown, is a lifelong fan of ''[[The Muppet Show]]''. His brother Gary intends to take his long-term girlfriend Mary on a vacation to [[Los Angeles]]. Mary wants Gary to propose to her, but feels his devotion to Walter distracts from their relationship.
+ 
+The trio tour the rundown Muppet Studios, where Walter sneaks into [[Kermit the Frog]]'s office. There, he overhears oil magnate Tex Richman and his henchmen, [[Uncle Deadly (Muppet)|Uncle Deadly]] and [[Bobo the Bear]], intending to buy the Muppet Theatre from [[Statler and Waldorf]]. The old men state that the Muppets could repurchase the theatre if they raised $10 million before their [[The Muppet Movie|original contract]] expires. However, in private, Richman reveals he intends to destroy the theatre to [[Oil drilling|drill for oil]].
+ 
+Walter informs Gary and Mary, and they visit Kermit in his mansion, who realizes the Muppets would have to reunite and throw a [[telethon]] to raise the money. Though the Muppets have gone their separate ways, Kermit is convinced to reunite them. He convinces [[Fozzie Bear]] to join in, having been performing in [[Reno, Nevada|Reno]] with the Moopets, a [[tribute band]] of uncouth Muppet impersonators. [[Gonzo (Muppet)|Gonzo]], working as a [[plumbing]] magnate, at first refuses to join, but changes his mind. [[Animal (Muppet)|Animal]] attends a celebrity anger management clinic and is sponsored by [[Jack Black]], who refuses to let him play the drums, or even hear the word "drums". The other various Muppets are recruited via "[[Montage (filmmaking)|map montage]]".
+ 
+The group travels to [[Paris]] to recruit [[Miss Piggy]], who is an editor for ''[[Vogue Paris]]''. She refuses to return, causing her Moopet equivalent, Miss Poogy, to be hired. The Muppets pitch their telethon to several networks and CDE network executive Veronica Martin agrees to air their show if they gain a [[celebrity]] [[Television presenter|host]] and the Muppets rebuild the theatre. Miss Piggy returns and drives off Miss Poogy. Needing enough acts to fill the telethon's two-hour timeslot, Kermit encourages Walter to find a talent. With Gary helping Walter, Mary goes sightseeing alone and eventually returns to Smalltown.
+ 
+With time running out, a desperate Kermit tries to implore Richman to return the studio, but he refuses revealing he will give the Muppets' [[trademark]]s to the Moopets. Kermit gives up, prompting Miss Piggy to rally the other Muppets to kidnap Jack Black to be the host. Gary discovers Mary has left and returns to Smalltown.
+ 
+The Muppets convince Kermit to participate in the telethon, which slowly gains both an audience and rising funds, thanks to [[pledge drive|telephone pledges]] from celebrity callers. Richman repeatedly attempts to sabotage the show, cutting the theatre's power, but Gary and Mary arrive to restore it. A guilt-stricken Uncle Deadly betrays Richman and stops his second attempt at sabotage. Kermit and Miss Piggy reconcile, leading the Muppets to perform a rendition of "[[The Rainbow Connection|Rainbow Connection]]". During this, Animal regains his love for drumming. Walter, with encouragement from Gary, performs a whistling act to pad the finale and earns a [[standing ovation]].
+ 
+Richman, refusing to accept defeat, deliberately crashes Kermit's car backwards into a telephone pole, cutting off the phone lines just a dollar short of the goal - later revealed that they actually only earned $99,999.99 instead of $9,999,999 due to a faulty screen - and evicts the Muppets from the theatre. However, the group are met by adoring fans outside on [[Hollywood Boulevard]], with Walter invited to join the Muppets as a regular. Kermit resolves to "work [their] way up again" even though they no longer have the Muppets trademark or the theater. Gary proposes to Mary. In a post-credits scene, Richman, after being struck in the head by Gonzo's [[bowling ball]], willingly returns the theatre to the Muppets.

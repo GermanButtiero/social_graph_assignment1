@@ -1,0 +1,58 @@
+{{Infobox film
+| name           = Babes in Toyland
+| image          = Babes in toyland 1961 poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Jack Donohue (director)|Jack Donohue]]
+| producer       = [[Walt Disney]]
+| screenplay     = {{Plainlist|
+* [[Lowell S. Hawley]]
+* [[Ward Kimball]]
+* Joe Rinaldi
+}}
+| based_on       = {{based on|''[[Babes in Toyland (operetta)|Babes in Toyland]]''|[[Victor Herbert]]<br />and [[Glen MacDonough]]}}
+| starring       = {{Plainlist|
+* [[Ray Bolger]]
+* [[Tommy Sands (American singer)|Tommy Sands]]
+* [[Annette Funicello]]
+* [[Ed Wynn]]
+* [[Tommy Kirk]]
+* [[Kevin Corcoran]]
+* [[Henry Calvin]]
+* [[Gene Sheldon]]
+}}
+| music          = {{Plainlist|
+* [[Victor Herbert]]
+* [[George Bruns]]
+* [[Mel Leven]] (new lyrics)
+}}
+| cinematography = [[Edward Colman (cinematographer)|Edward Colman]]
+| editing        = Robert Stafford
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1961|12|14}}
+| runtime        = 105 minutes<!--Theatrical runtime: 105:00--><ref>{{cite web | url=https://www.bbfc.co.uk/releases/babes-toyland-1970-1 | archive-url=https://web.archive.org/web/20161202170351/http://bbfc.co.uk/releases/babes-toyland-1970-1 | url-status=dead | archive-date=December 2, 2016 | title=''Babes in Toyland'' (U) | work=[[British Board of Film Classification]] | date=December 5, 1961 | access-date=December 1, 2016}}</ref>
+| country        = United States
+| language       = English
+| budget         = $3 million<ref name="new"/>
+| gross          = $4.6 million (U.S./Canada rentals)<ref name="Rentals">{{cite news|title=All-Time Top Grossers|work=Variety|date=January 8, 1964|page=69}}</ref>
+}}
+
+== Plot ==
+A stage play begins, presented by [[Mother Goose]] and her talking goose, Sylvester, about [[Mary, Mary, Quite Contrary|Mary Contrary]] and [[Tom, Tom, the Piper's Son|Tom Piper]], who are about to be married. The miserly and villainous [[There Was a Crooked Man|Barnaby]] hires two crooks, dimwitted Gonzorgo and silent Roderigo. They are to throw Tom into the sea and steal Mary's sheep, depriving her of her means of support, to force her to marry Barnaby. Mary is unaware that she is the heiress to a fortune, but Barnaby is aware and wants it all for himself. Gonzorgo and Roderigo decide to sell Tom to the [[Gypsy|Gypsies]] instead of drowning him, in order to collect a double payment.
+
+Gonzorgo and Roderigo return and tell Mary, Barnaby, and the citizens of Mother Goose Land that Tom has accidentally drowned. They show Mary a forged letter in which Tom tells Mary he is abandoning her, and she would be better off marrying Barnaby. Mary, believing she is destitute, reluctantly accepts the proposal from Barnaby. Barnaby unknowingly arranges for the same Gypsies who have Tom to provide entertainment for the wedding. Tom, disguised as the Gypsy Floretta, reveals himself, and Barnaby pursues the frightened Gonzorgo and Roderigo, furious at their deception.
+
+One of the children who lives with Mary informs her of some sheep tracks leading into the Forest of No Return. The children sneak away into the forest to search for the missing sheep. The trees of the forest awaken and capture them. Tom and Mary follow and find the children in the forest, where they tell stories about the live trees. The trees seem just like ordinary trees to Tom and Mary. Tom, Mary, and the children camp for the night. In the morning, the trees once again come to life and explain that they are now in custody of the Toymaker in Toyland (who is also the Mayor and Chief of Police). Tom, Mary, and the children happily continue on, escorted part of the way by the trees.
+
+Through the windows of the Toymaker's house they watch the Toymaker's brilliant apprentice, Grumio, present a new machine that makes toys without any manual labor. Overjoyed, the Toymaker speeds up the machine to such a high rate that it explodes, destroying every toy in the factory. Tom, Mary, and the children offer to help make more toys in time for [[Christmas]].
+
+Grumio presents another invention, a shrinking "gun" that reduces everyday objects to toy size. He warns that if it is used on anything more than once, the shrunken object disappears completely. The Toymaker is at first delighted at the idea of producing toys by shrinking life-sized objects, but then Tom points out the impossibility of finding enough everyday objects to shrink down into the large quantity of toys needed for Christmas. The Toymaker berates Grumio for his stupidity and throws the shrinking gun out the window in disgust.
+
+Barnaby, who has been spying on them, takes the discarded shrinking gun and uses it to shrink the Toymaker and Tom. When Barnaby's henchmen see him threatening to shoot Tom a second time, they abandon Barnaby. They try to flee, but Barnaby shoots them and locks them up with Tom in a birdcage.
+
+Barnaby forces Mary to marry him by threatening to destroy Tom, and he threatens to destroy the Toymaker if he refuses to preside over the wedding ceremony. While the Toymaker draws out the ceremony, Gonzorgo and Roderigo rescue Tom, and the three of them sneak away and return with an army of toy soldiers to fight Barnaby. Barnaby easily demolishes the toy soldiers with a toy cannon. He is about to obliterate Tom with another dose from the shrinking gun, but Mary destroys it with the toy cannon. The liquid splatters all over Barnaby and shrinks him to toy size. Tom, after challenging Barnaby to a duel with swords, stabs Barnaby, who falls from a great height into an empty toybox.
+
+During the battle with Barnaby, Grumio creates and presents another new invention, one that returns miniaturized people and items to their original size. He immediately uses it on the Toymaker, Gonzorgo, and Roderigo, but not on Barnaby. Grumio is about to use it on Tom, but after reminding Grumio that he is the head toymaker and that Grumio is just his assistant, the Toymaker uses the invention himself to return Tom to his natural size.
+
+A few days later, Tom and Mary are married attended by all of Mother Goose Village including Gonzorgo and Roderigo as well as the trees from the Forest of No Return, and everyone lives happily ever after.

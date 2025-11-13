@@ -1,0 +1,57 @@
+{{Infobox film
+| name           = Disney's Snow White
+| image          = Snow White (2025 film) final poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Marc Webb]]
+| screenplay     = [[Erin Cressida Wilson]]
+| based_on       = {{Plainlist|
+* {{Based on|''[[Snow White and the Seven Dwarfs (1937 film)|Snow White and the Seven Dwarfs]]''|[[Walt Disney Animation Studios|Disney]]}}
+* {{Based on|"[[Snow White]]"|the [[Brothers Grimm]]}}
+}}
+| producer       = {{Plainlist|
+* [[Marc Platt (producer)|Marc Platt]]
+* Jared LeBoff
+}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Rachel Zegler]]
+* [[Andrew Burnap]]
+* [[Gal Gadot]]
+}}
+| music          = {{Plainlist|
+* Jeff Morrow (score)
+* [[Larry Morey]] and [[Frank Churchill]] (songs)
+* [[Pasek and Paul]] (new songs)
+}}
+| cinematography = [[Mandy Walker]]
+| editing        = {{Plainlist|
+* [[Mark Sanger]]
+* [[Sarah Broshar]]
+}}
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* Marc Platt Productions
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]
+| released       = {{Film date|2025|3|12|[[Alcázar of Segovia|Alcázar of Segovia]]|2025|3|21|United States}}
+| runtime        = 109 minutes<!--Theatrical runtime: 108m 40s--><ref>{{Cite web |date=February 28, 2025 |title=Snow White (2025) |url=https://www.ifco.ie/en/ifco/pages/2D4145590041ECB9 |access-date=February 28, 2025 |publisher=[[Irish Film Classification Office]]}}</ref>
+| country        = United States
+| language       = English
+| budget         = $240–270&nbsp;million<ref name=BO-preview/><ref name=BO-preview2/>
+| gross          = $205.7 million<ref name=NUM>{{Cite web|title=Disney's Snow White (2025) – Financial Information|url=https://www.the-numbers.com/movie/Disneys-Snow-White-(2025)#tab=summary|website=[[The Numbers (website)|The Numbers]]|access-date=July 1, 2025}}</ref><ref name=BOX>{{cite web|title=Snow White (2025)|url=https://www.boxofficemojo.com/title/tt6208148/|website=[[Box Office Mojo]] |access-date=July 1, 2025}}</ref>
+}}
+
+==Plot==
+<!--Per WP:FILMPLOT, plot summaries should be 400 to 700 words long. Current word count 591.-->
+A benevolent queen gives birth during a snowstorm. To honor the day, she and her husband name their daughter [[Snow White (Disney character)|Snow White]]. Years later, after the queen dies of a sudden illness, the king hastily remarries before embarking on a military campaign. When he disappears, the new queen usurps the throne, revealing herself as an enchantress whose vanity surpasses her beauty.
+
+Under the [[Evil Queen (Disney)|Evil Queen]]'s rule, subjects are either left [[Extreme poverty|destitute]] or conscripted into the [[royal guard]]. Fearing that Snow White's beauty will outshine her own, the Queen confines Snow White to the palace, forces her to work as a [[scullery maid]] and asks a [[Magic Mirror (Snow White)|Magic Mirror]] daily who is "the fairest one of all". The Mirror always responds in her favor.
+
+One day, Snow White sees Jonathan, the leader of a band of bandits, raiding the pantry. When he is sentenced to be tied to the gates, she frees him. That same day, the Magic Mirror deems Snow White as the fairest. The Queen orders the [[Huntsman (Snow White)|Royal Huntsman]] to take Snow White into the forest, kill her, and bring her heart back in a jeweled box. The Huntsman instead warns Snow White of the Queen's intentions. At his urging, Snow White flees deep into the forest.
+
+Woodland animals lead Snow White to a secluded cottage, where she falls asleep. She awakens later that night to find herself confronted by the owners, the [[Seven Dwarfs|seven magical inhabitants of the forest]]{{efn|name=Seven Dwarfs}} who work in a [[diamond mine]]. They sympathize with her and agree to let her stay. Meanwhile, the Queen, having learned from the Magic Mirror that Snow White is still alive, imprisons the Huntsman before ordering a search.
+
+Snow White and Jonathan meet again in the forest and fend off the guards alongside the bandits. The two realize their feelings for each other before Jonathan departs to find the king, whom Snow White believes may still be alive. Jonathan is captured by the guards and imprisoned by the Queen, who deduces Snow White's whereabouts. Retreating to her secret chambers, she creates a magic poisoned apple that will put whoever eats it into a death-like sleep.
+
+Transforming into a peddler woman, the Queen goes to the cottage after the miners leave for work. Claiming to be an ally of Jonathan's, the Queen tricks Snow White into eating the apple; she then reveals to her stepdaughter that she killed her father. Snow White falls into a death-like sleep, and the Queen retreats to her castle. The miners find her sleeping body upon returning. Having escaped alongside the Huntsman, Jonathan arrives to discover her dead and mournfully [[true love's kiss|kisses]] her. Snow White awakens and rallies the miners and Jonathan's bandits to overthrow the Evil Queen.
+
+Snow White confronts her stepmother, who forcefully goads her to take the throne, placing a diamond dagger into her hand. Snow White refuses to hurt her, reminding the people what the kingdom used to be like under her parents' rule. Moved, the guards turn on the Queen and join the miners, the bandits, the Huntsman, and the civilians. The Queen tries to attack Snow White, but the miners and bandits defend her. The Magic Mirror tells the Queen that Snow White will always be fairer than her due to her kindness and justness. Snow White arrives to see the Queen angrily destroying the Mirror, the source of her powers. As a result, she turns into glass herself and disappears into a vortex while the Magic Mirror repairs itself. With Snow White named the new queen at a grand party, everyone in the kingdom arrives to celebrate.

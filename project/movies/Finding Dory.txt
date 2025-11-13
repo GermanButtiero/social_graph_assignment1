@@ -1,0 +1,51 @@
+{{Infobox film
+| image          = Finding Dory.jpg
+| caption        = Theatrical release poster
+| director       = [[Andrew Stanton]]<!-- Do not add [[Angus McLane]] here. Co-director is a different credit than director and isn't provided in the infobox. See talk page for discussion. -->
+| producer       = Lindsey Collins<ref name=VarietyONeilBurrellOlson>{{#invoke:cite|news|title = D23: 'Finding Dory' Cast Adds Ed O'Neill, Ty Burrell and Kaitlin Olson |url = https://variety.com/2015/film/news/d23-finding-dory-ed-oneill-ty-burrell-kaitlin-olson-1201570747/ |access-date = August 15, 2015 |work = Variety |date = August 14, 2015 |archive-date = August 15, 2015 |archive-url = https://web.archive.org/web/20150815212353/http://variety.com/2015/film/news/d23-finding-dory-ed-oneill-ty-burrell-kaitlin-olson-1201570747/ |url-status = live }}</ref>
+| screenplay     = {{Plainlist|
+* Andrew Stanton
+* Victoria Strouse
+}}
+| story          = Andrew Stanton
+| starring       = <!-- ORDER IS BASED ON THE BILLING BLOCK -->{{Plainlist|
+* [[Ellen DeGeneres]]
+* [[Albert Brooks]]
+* Hayden Rolence
+* [[Ed O'Neill]]
+* [[Kaitlin Olson]]
+* [[Ty Burrell]]
+* [[Diane Keaton]]
+* [[Eugene Levy]]
+}} <!-- ORDER IS BASED ON THE BILLING BLOCK -->
+| music          = [[Thomas Newman]]
+| cinematography = {{Plainlist|
+* Jeremy Lasky (camera)
+* Ian Megibben (lighting)
+}}
+| editing        = Axel Geddes
+| production_companies = [[Pixar Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}<!-- Piping is used in this link to ensure correct formatting at all screen resolutions. -->
+| released       = {{Film date|2016|06|08|[[El Capitan Theatre]]|2016|6|17|United States}}
+| runtime        = 97 minutes<ref name="BBFC">{{#invoke:cite|web|title=Finding Dory |url=https://www.bbfc.co.uk/release/finding-dory-q29sbgvjdglvbjpwwc00mzq5ndm |url-status=live |archive-url=https://web.archive.org/web/20210926070628/https://www.bbfc.co.uk/release/finding-dory-q29sbgvjdglvbjpwwc00mzq5ndm |archive-date=September 26, 2021 |access-date=September 26, 2021 |website=[[British Board of Film Classification]]}}</ref>
+| country        = United States
+| language       = English
+| budget         = $200{{nbsp}}million<ref name="DEADopen" />
+| gross          = $1.029{{nbsp}}billion<ref name="BOM">{{Cite Box Office Mojo |id = 2277860 |title = Finding Dory |access-date = June 18, 2021}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words only. -->
+Dory, a [[Paracanthurus|regal blue tang]], gets separated from her parents, Jenny and Charlie, as a child. Growing up, Dory gradually forgets them due to her short-term memory loss. She eventually meets and joins the [[clownfish]] Marlin, looking for his son, Nemo, who was taken by divers to [[Sydney]], Australia.{{efn|name=Nemo|As depicted in ''[[Finding Nemo]]'' (2003)}}
+
+A year after meeting Marlin and Nemo, Dory lives with them in their [[Great Barrier Reef|reef]] as their next-door neighbor. One day, she remembers her parents and that they lived at the "Jewel of [[Morro Bay, California]]". Dory embarks on a journey to find them again and Marlin and Nemo accompany her.
+
+With the help of Crush, their [[sea turtle]] friend, Dory, Marlin, and Nemo ride the [[California Current]] to California. While searching through the wreckage of a sunken container ship, in a container, Dory accidentally awakens a [[giant squid]] that almost devours Nemo. Worried, she leaves to look for help and is captured by staff members from the Marine Life Institute.
+
+Dory is placed in quarantine and tagged. She meets a brusque but well-meaning seven-legged [[octopus]] named Hank. Dory's tag marks her for transfer to an aquarium in [[Cleveland]]. Hank, who fears being released back into the ocean, agrees to help her find her parents in exchange for her tag. In one exhibit, Dory encounters Bailey, a [[beluga whale]], and her childhood friend Destiny, a [[nearsighted]] [[whale shark]], who used to communicate with Dory through the pipes when they were children. Dory finally remembers how she was separated from her parents: Dory was accidentally pulled away by an [[Undertow (water waves)|undertow current]] into the pipes and out into the ocean.
+
+Meanwhile, Marlin and Nemo attempt to save Dory. With the help of a pair of [[California sea lion]]s and a [[common loon]] named Becky, they get into the institute and find her. Other blue tangs tell them that Dory's parents escaped years ago to search for her and never came back, leading Dory to believe that they are dead. Hank unintentionally drops Dory into the drain, flushing her out to the ocean. Dory comes across a trail of shells; remembering that her parents would set out similar shell trails to help her find her way back home, she follows it to a tire, where she reunites with her parents. They tell Dory that they stayed close to home and spent years laying down the shell trails for her in the hope that she would eventually find them again.
+
+Marlin, Nemo, and Hank end up in a truck taking various aquatic creatures to Cleveland. Destiny and Bailey escape from their exhibit to help Dory rescue them. On board the truck, Dory persuades Hank to return to the sea with her. Together, they hijack the truck and crash it into the sea, freeing all the fish. Dory, along with her parents and new friends, returns to the reef with Marlin and Nemo, whom she now considers family, and they all settle into a new life together.
+
+In a [[post-credits scene]], the Tank Gang, still trapped inside their plastic bags,{{efn|name=Nemo}} now covered with algae, reach California after floating across the [[Pacific Ocean]] for more than a year. To their dismay, they are picked up by staff members from the Marine Life Institute.

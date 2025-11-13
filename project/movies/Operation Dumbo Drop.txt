@@ -1,0 +1,51 @@
+{{Infobox film
+| name           = Operation Dumbo Drop
+| image          = Operation dumbo drop.jpg
+| caption        = Theatrical release poster
+| alt            = The rear end of an elephant, painted in army camouflage greens
+| director       = [[Simon Wincer]]
+| producer       = {{plainlist|
+* Diane Nabatoff
+* [[David Madden (executive)|David Madden]]
+}}
+| story          = Jim Morris
+| screenplay     = {{plainlist|
+* [[Gene Quintano]]
+* [[Jim Kouf]]
+}}
+| starring       = {{plainlist|
+* [[Danny Glover]]
+* [[Ray Liotta]]
+* [[Denis Leary]]
+* [[Doug E. Doug]]
+* [[Corin Nemec]]
+}}
+| music          = [[David Newman (composer)|David Newman]]
+| cinematography = [[Russell Boyd]]
+| editing        = O. Nicholas Brown
+| production_companies = {{plainlist|
+* [[Walt Disney Pictures]]
+* [[Interscope Communications]]
+* [[PolyGram Filmed Entertainment]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{Film date|1995|07|28}}
+| runtime        = 108 minutes
+| country       = United States
+| language       = English
+| budget         = $24 million{{Citation needed|date=August 2020}}
+| gross          = $24,670,346<ref name="Mojo">{{cite web |url=https://boxofficemojo.com/movies/?id=operationdumbodrop.htm |title=Operation Dumbo Drop |website=[[Box Office Mojo]] |access-date=2010-08-18}}</ref>
+}}
+
+== Plot ==
+During the Vietnam War in 1968, [[Special Forces (United States Army)|Green Beret]] Captain Sam Cahill has been working hard to create good relations between the United States and [[Degar|Montagnard Vietnamese]] in the village of Dak Nhe, which occupies an important observation point near the clandestine [[Ho Chi Minh trail]]. Cahill is coming close to his discharge, and explains to his successor, Captain T.C. Doyle, the delicate nature of Vietnamese customs as well as the counterintelligence involving covert enemy activity.
+
+In a lapse of judgment with surrounding village children, a child steals a [[Nestlé Crunch]] bar from Doyle's backpack. When the wrapper is discovered, the [[People's Army of Vietnam|NVA]] sees it as proof of the local villagers' cooperation with the Americans. As punishment, Brigadier Nguyen of the NVA, orders his subordinate, Captain Quang, to kill the villagers' elephant right before a spiritual festival. To aid the villagers, Cahill promises to replace the slain elephant before their upcoming ceremony while Doyle (whom the villagers blame for the elephant's death) reluctantly agrees to help.
+
+At camp, Major Pederson assigns Cahill and Doyle, with Doyle in command, to secure and deliver a new elephant to the villagers, as well as two soldiers, Specialist 4 Harvey Ashford and Specialist 5 Lawrence Farley. Cahill blackmails Chief Warrant Officer 3 David Poole into helping as well. They purchase an elephant known as Bo Tat (Bồ Tát) from a local Vietnamese trader. They also agree to take along Bo Tat's child handler, Linh, who has experience with verbal commands in guiding the elephant. Along the way, NVA soldiers attempt to stop them. Following a failed air transport, the soldiers use a combination of methods to reach [[Pleiku Air Base]] before the final stage of their journey to Dak Nhe.
+
+At Pleiku Air Base, Major Pederson notifies the captains that the mission has been cancelled. The Ho Chi Minh Trail has changed direction, and they no longer need the support of the local village. A [[Central Intelligence Agency|CIA]] airstrip near Dak Nhe has already been destroyed by the NVA, making a landing by plane impossible. Against regulations, they commandeer a cargo aircraft, intending to parachute themselves and Bo Tat into Dak Nhe. The aircraft comes under enemy fire, forcing them and Bo Tat to parachute out early. Quang, having been ordered by Nguyen to kill Bo Tat, refuses to do so this time, explaining "I did not join this army to shoot elephants, especially ones that fly."
+
+The soldiers land unharmed in and around the village, except for Ashford, who gets stuck in a tree and becomes separated from the rest.
+
+NVA forces suddenly appear, threatening to take the remaining soldiers hostage and kill the elephant. Ashford, however, is able to free himself and create a diversion long enough to distract and incapacitate the NVA troops. The villagers hold their festival with Bo Tat in the place of honor. When Cahill radios the air base, he is informed that the supply route has changed direction again, back to the village. That fact, combined with their capture of high-ranking enemy officers, has prompted the U.S. Army to sanction their relief mission ''post-facto'', and confirm Doyle's original mission, to replace Cahill as liaison officer in the village.

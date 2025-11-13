@@ -1,0 +1,77 @@
+{{Infobox film
+| name           = Mickey's Twice Upon a Christmas
+| image          = Mickey's Twice upon a Christmas.jpg
+ 
+| caption        = Film poster
+| director       = [[Matthew O'Callaghan]]
+| producer       = Pam Marsden
+| screenplay     = {{plainlist|
+* Bill Motz
+* Bob Roth
+* [[Peggy Holmes]]
+* Chad Fiveash
+* James Patrick Stoteraux
+* Matthew O'Callaghan
+* Shirley Pierce
+* Jim Peronto
+* Carole Holliday
+* Michael Shipley
+* [[Jim Bernstein]]
+}}
+| based_on       = {{Based on|''[[Mickey Mouse (film series)|Mickey Mouse]]''|[[Walt Disney]]|[[Ub Iwerks]]}}
+| story          = {{Plainlist|
+* [[Peggy Holmes]]
+* Chad Fiveash
+* James Patrick Stoteraux
+* Theresa Pettengill
+* Carole Holliday
+* Colin Goldman
+* Matthew O'Callaghan
+}}
+| starring       = {{Plainlist|
+* [[Wayne Allwine]]
+* [[Tony Anselmo]]
+* [[Jeff Bennett]]
+* [[Jim Cummings]]
+* [[Bill Farmer]]
+* [[Tress MacNeille]]
+* [[Jason Marsden]]
+* [[Kellie Martin]]
+* [[Chuck McCann]]
+* [[Clive Revill]]
+* [[Russi Taylor]]
+* [[Alan Young]]
+}}
+| music          = [[Stephen James Taylor]]
+| editing        = {{Plainlist|
+* Julie Rogers
+* [[Kirk Demorest]]
+}}
+| studio         = [[Disneytoon Studios]]<ref name=BFI>{{cite web|title=Mickey's Twice upon a Christmas (2004)|url=https://www2.bfi.org.uk/films-tv-people/4ce2b8ae2d55f|archive-url=https://web.archive.org/web/20211112045459/https://www2.bfi.org.uk/films-tv-people/4ce2b8ae2d55f|url-status=dead|archive-date=November 12, 2021|website=BFI|access-date=December 25, 2020}}</ref>
+| distributor    = [[Walt Disney Home Entertainment]]{{efn|name=Disney|Released through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2004|11|9}}
+| runtime        = 67 minutes
+| country        = United States
+| language       = English
+}}
+
+==Plot==
+The narrator recites the first ten words of ''[[The Night Before Christmas]]'' before saying, "Oh, wait. Different story, but we'll still see a mouse!" The narrator then announces new tales of giving and loving, and a book opens to show pop-up elves.
+
+===''Belles on Ice''===
+In the first story, [[Minnie Mouse]] and [[Daisy Duck]] compete in an ice-skating competition. The girls are joined by their respective boyfriends, [[Mickey Mouse|Mickey]] and [[Donald Duck|Donald]], as they prepare to take the ice. Daisy becomes envious of the crowd's reaction to Minnie and attempts to steal the spotlight. Minnie performs several daredevil stunts to regain the spotlight while Daisy summons the [[List of Disney's Fantasia characters#Dance of the Hours|''Fantasia'' Hippos]], who become her backup skaters while her counterpart summons the alligators from the [[Fantasia (1940 film)|1940 film]]. When Minnie slips while landing from a stunt blindfolded, Daisy helps her up while feeling sorry for her selfish actions. Minnie feels the same way, so they both reconcile and perform a grand finale as a team.
+
+===''Christmas: Impossible''===
+The second story tells the story of [[Huey, Dewey, and Louie]] celebrating [[Christmas Eve]] with Donald and Daisy Duck at [[Scrooge McDuck|Uncle Scrooge]]'s mansion in [[Duckburg]]. After they cause trouble at dinnertime, the boys know that they are on the naughty list, so they travel to the [[North Pole]] to write their names on [[Santa Claus|Santa]]'s good list. At Santa's workshop, the trio make a mess while trying to find the key to the room containing Santa's good list, but they and the elves clean up to save Christmas. Before they leave, they have a chance to add their names to the good list; however, they add Scrooge's name instead. On Christmas, they find a single gift for Scrooge, but Santa leaves a note that explains that their actions caused them to be put on the good list and more presents are behind the tree.
+
+===''Christmas Maximus''===
+{{redirects here|Christmas Maximus|the block|All I Watch for Christmas}}
+The third story's focus is on [[Max Goof]] and his father [[Goofy]] celebrating the holidays. A young adult Max brings home his girlfriend Mona to meet his father, Goofy. However, Max is embarrassed by his dad, who labels his car a limo, decorates the house with many Christmas lights, shows baby pictures to Mona, and wipes [[Hot chocolate|cocoa]] off Max's face. While wandering outside, he notices that his scarf is made by Goofy and realizes that Goofy is always goofy, and that is why he loves him. Max then forgets about being embarrassed and joins in the fun when the [[popcorn]]-making machine goes haywire. Originally, Roxanne from [[A Goofy Movie]] was supposed to be in the segment, but because the animators had a hard time to bring her long wavy hair to CGI, they replaced her with a new character named Mona.
+
+===''Donald's Gift''===
+The fourth story focuses on Donald Duck and his Christmas wish of peace and quiet. As he returns home from grocery shopping, he is slowed down by daydreaming and a series of well-wishers who sing "[[We Wish You a Merry Christmas]]". Donald becomes increasingly annoyed by the joyous people, and at home, he is annoyed to hear the same Christmas carols on his radio. When Daisy and his nephews arrive, Donald becomes annoyed that they want to go out so soon after he returned home, but Daisy drags him out anyway. At the mall, Donald discovers various objects playing the same Christmas carol; he thinks he is in peace inside a secret room, where he finds [[animatronic]]s singing. He destroys the entire show at Mousy's that Daisy, Huey, Dewey, Louie, and the crowd were trying to see. After he is thrown out of the mall, Donald walks home alone while feeling guilty for his lack of Christmas spirit. Eventually, he apologizes to everyone for his selfishness and joins the townspeople convened around a Christmas tree happily singing.
+
+===''Mickey's Dog-Gone Christmas''===
+The fifth and final story stars Mickey as he makes decorations for the Christmas party, which his dog, [[Pluto (Disney)|Pluto]] keeps interrupting. When Pluto attempts to help by putting the star on the Christmas tree, he accidentally destroys all the decorations and an exasperated Mickey sends him to his doghouse as a consequence. Feeling rejected, Pluto decides to run away from home and finds himself shipped on a train to the North Pole, where Santa's reindeer adopt him. Back home, Mickey tidies up the mess and redecorates the house with the new Christmas decorations and attempts to reconcile with Pluto, only to find him missing.  Meanwhile, Pluto becomes homesick, so Santa and the reindeer help him go home. They complete the Christmas tree decorations, and everyone celebrates Pluto's return.
+
+Like in ''Once Upon a Christmas'', the film concludes with a medley of carols featuring the main characters from the five segments as the book closes.

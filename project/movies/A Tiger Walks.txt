@@ -1,0 +1,33 @@
+{{Infobox film
+|name = A Tiger Walks
+|image = A Tiger Walks Film.jpg
+|alt =
+|caption = Theatrical release poster
+|director = [[Norman Tokar]]
+|screenplay = [[Lowell S. Hawley]]
+|based_on = the book by [[Ian Niall]]
+|producer = [[Bill Anderson (producer)|Bill Anderson]]<br>(co-producer)
+|starring = {{Plainlist|
+* [[Brian Keith]]
+* [[Vera Miles]]
+* [[Pamela Franklin]]
+* [[Sabu (actor)|Sabu]]
+* [[Edward Andrews]]
+* [[Una Merkel]]
+* [[Peter Brown (actor)|Peter Brown]]
+}}
+|cinematography = [[William Snyder, A.S.C.]]
+|editing = Grant K. Smith, A.C.E.
+|music = [[Buddy Baker (composer)|Buddy Baker]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Buena Vista Distribution Co., Inc.]]
+|released = {{Film date|1964|03|12}}
+|runtime = 91 minutes
+|country = United States
+|language = English
+|budget = 
+|gross = est. $1,600,000 (US/ Canada)<ref>"Big Rental Pictures of 1964", ''Variety'', 6 January 1965 p 39. The figure is for rentals accruing to distributors, not total gross.</ref>
+}}
+
+==Plot==
+Raja, a mistreated [[Bengal tiger]], escapes from a traveling [[circus]], and it hides in the woods surrounding the small town of Scotia. The new arrival starts a panic, and the townsfolk want Raja killed with the exception of Julie Williams ([[Pamela Franklin]]), the sheriff's daughter. Julie wishes to capture Raja and put it in a [[zoo]]. To raise enough money to purchase Raja from the circus, she starts a campaign with the slogan "save the tiger" to rally children across the nation in the tiger's defense, resulting in national attention brought to the sleepy town.<ref>{{cite web | url= https://movies.disney.com/a-tiger-walks | title= A Tiger Walks | website= movies.disney.com | publisher= | date= | access-date=}}</ref> However, she, her father, and an [[India]]n tiger trainer first need to find Raja before the [[United States National Guard|National Guard]], who are under orders to shoot the tiger on sight. Ultimately the tiger is tranquilized and placed in a zoo.

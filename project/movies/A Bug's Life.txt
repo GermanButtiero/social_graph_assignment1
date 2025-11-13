@@ -1,0 +1,53 @@
+{{Infobox film 
+| image = A Bug's Life.jpg
+| alt = The poster features Flik peeking out of the leaf with the rest of the circus bugs including Francis, Heimlich, and Dot.
+| caption = Theatrical release poster
+| director = [[John Lasseter]]
+| screenplay = {{Plainlist|
+* [[Andrew Stanton]]
+* Donald McEnery
+* Bob Shaw 
+}}
+| story = {{Plainlist|
+* John Lasseter
+* Andrew Stanton
+* [[Joe Ranft]] 
+}}
+| producer = {{Plainlist|
+* [[Darla K. Anderson]]
+* Kevin Reher 
+}} 
+| starring = {{Plainlist|
+* [[Dave Foley]]
+* [[Kevin Spacey]]
+* [[Julia Louis-Dreyfus]]
+* [[Hayden Panettiere]]
+}}
+| cinematography = [[Sharon Calahan]]
+| editing = [[Lee Unkrich]]
+| music = [[Randy Newman]]
+| production_companies = [[Pixar Animation Studios]]
+| distributor = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed under the [[Walt Disney Pictures]] banner.}}
+| released = {{Film date|1998|11|14|[[El Capitan Theatre]]|1998|11|20|United States|ref1=<ref name=prem/>|ref2=<ref name=mojo/>}}
+| runtime = 95 minutes<ref>{{cite web | title = A Bug's Life | url = https://www.bbfc.co.uk/releases/bugs-life-1970-4 | website = bbfc.co.uk | publisher = British Board of Film Classification | access-date = October 27, 2015 | archive-date = March 2, 2016 | archive-url = https://web.archive.org/web/20160302142641/http://www.bbfc.co.uk/releases/bugs-life-1970-4 | url-status = dead }}</ref>
+| country = United States
+| language = English
+| budget = $40–120&nbsp;million<ref>{{cite news|last1=Fabrikant|first1=Geraldine|title='Prince of Egypt' Is No King at the Box-Office|url=https://www.nytimes.com/1998/12/28/business/prince-of-egypt-is-no-king-at-the-box-office.html|access-date=June 16, 2023|work=The New York Times|date=December 28, 1998|archive-url=https://web.archive.org/web/20150527084912/http://www.nytimes.com/1998/12/28/business/prince-of-egypt-is-no-king-at-the-box-office.html|archive-date=May 27, 2015|url-status=live}}</ref><ref name="mojo" />
+| gross = $363.3&nbsp;million<ref name="mojo" />
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for featured film articles should be 400-700 words. Please check the word count before making any additions. Please discuss any major changes on the talk page. -->
+A colony of ants, led by the elderly Queen and her daughter Princess Atta, lives in the middle of a seasonally dry creekbed on a small hill known as "Ant Island". Every summer, they are forced to give food to a gang of grasshoppers, led by Hopper.
+
+One day, Flik, a courageous but clumsy inventor ant, inadvertently destroys the food offering with his grain harvester. Hopper discovers this, and demands twice as much food as compensation. When Flik earnestly suggests the ants enlist the help of bigger bugs to fight the grasshoppers, Atta sees it as a way to get rid of Flik and sends him off.
+
+Flik travels to "the city", a heap of trash under a trailer. Flik mistakes a troupe of jobless [[Circus]] Bugs for the warrior bugs he seeks. The bugs, in turn, mistake Flik for a talent agent, and agree to travel with him back to Ant Island. During a welcome ceremony after their arrival, the Circus Bugs and Flik discover their mutual misunderstandings. The Circus Bugs attempt to leave, but are pursued by a nearby bird; while fleeing, they rescue Atta's younger sister Dot from the bird, gaining the ants' respect. At Flik's request, the Circus Bugs continue the ruse of being "warriors", thus enabling them to continue enjoying the ants' hospitality. Learning that Hopper fears birds inspires Flik to build a crewed [[ornithopter]] disguised as a bird to scare away the grasshoppers. Meanwhile, Hopper reminds his gang of the ants' superior numbers, warning them the ants will rebel if not kept in line.
+
+The ants finish constructing the fake bird. During the subsequent celebration, the Circus Bugs' old supervisor, P.T. Flea, arrives, seeking to rehire them and blowing their cover; the ants exile Flik and the Circus Bugs, and desperately try gathering food for a new offering. Hopper returns, sees the mediocre offering, and takes over the island. He then demands the ants' own winter food supply, planning to execute the Queen afterward. Overhearing the plan, Dot persuades Flik and the Circus Bugs to return to Ant Island.
+
+After the Circus Bugs distract the grasshoppers long enough to rescue the Queen, Flik deploys the bird. It initially fools the grasshoppers, but P.T., who is also fooled, sets the bird on fire. Realizing the deception, Hopper has Flik publicly beaten and proclaims the ants are lowly life forms who live only to serve the grasshoppers. Flik asserts Hopper actually fears the colony, because he has always known what they are capable of. This inspires the ants and the Circus Bugs to fight back against the grasshoppers, driving all but Hopper and his brother Molt away.
+ 
+The ants shove Hopper into the circus cannon to shoot him off of the island, but rain suddenly begins to fall. In the ensuing chaos, Hopper frees himself from the cannon and abducts Flik. The Circus Bugs and Atta pursue, with the latter catching up to Hopper and rescuing Flik, who lures Hopper to the real bird's nest. Believing the bird is another fake, Hopper taunts it, until it grabs him and feeds him to its chicks.
+
+With the anthill now at peace, Flik improves his inventions to help gather food for the ants. Flik and Atta become a couple, and proceed to send Hopper's affable brother Molt and a few ants to help P.T. and the Circus Bugs on their new tour. Atta and Dot become the new Queen and Princess. The ants celebrate their victory and congratulate Flik as a hero. They then bid a fond farewell to the circus troupe.

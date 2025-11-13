@@ -1,0 +1,61 @@
+{{Infobox film
+| name           = Ralph Breaks the Internet
+| image          = Ralph Breaks the Internet (2018 film poster).png
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Rich Moore]]
+* [[Phil Johnston (filmmaker)|Phil Johnston]]
+}}
+| producer       = [[Clark Spencer]]
+| writer         = 
+| screenplay     = {{Plainlist|
+* Phil Johnston<ref name="BFI" />
+* [[Pamela Ribon]]<ref name="BFI" />
+}}
+| story          = {{Plainlist|
+* Rich Moore<ref name="BFI" />
+* Phil Johnston<ref name="BFI" />
+* [[Jim Reardon]]<ref name="BFI" />
+* Pamela Ribon<ref name="BFI" />
+* [[Josie Trinidad]]<ref name="BFI" />
+}}
+| starring       = {{Plainlist|
+* [[John C. Reilly]]
+* [[Sarah Silverman]]
+* [[Gal Gadot]]
+* [[Jane Lynch]]
+* [[Jack McBrayer]]
+* [[Alan Tudyk]]
+* [[Alfred Molina]]
+* [[Ed O'Neill]]
+* [[Taraji P. Henson]]
+<!--per single screen billing in credits-->
+}}
+| music          = [[Henry Jackman]]
+| cinematography = {{Plainlist|
+* Nathan Detroit Warner (layout)<ref name="BFI" />
+* Brian Leach (lighting)<ref name="BFI" />
+}}
+| editing        = Jeremy Milton
+| production_companies = [[Walt Disney Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br/>Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}<!--Text wrap is used in this link to ensure correct formatting at all screen resolutions.-->
+| released       = {{Film date|2018|11|5|[[El Capitan Theatre]]|2018|11|21|United States}}<!-- per [[WP:FILMRELEASE]] - list only date of earliest release and date of wide release in country of origin -->
+| runtime        = 112 minutes<ref name="BBFC">{{Cite web|url=https://www.bbfc.co.uk/release/ralph-breaks-the-internet-film-qxnzzxq6vlgtotexndew|title=Ralph Breaks The Internet|publisher=[[British Board of Film Classification]]|access-date=February 23, 2021|archive-url=https://web.archive.org/web/20210223013330/https://www.bbfc.co.uk/release/ralph-breaks-the-internet-film-qxnzzxq6vlgtotexndew|archive-date=February 23, 2021|url-status=dead}}</ref>
+| country        = United States
+| language       = English
+| budget         = $175{{nbsp}}million<ref name="Preview2" />
+| gross          = $529.3{{nbsp}}million<ref name="BOM">{{cite Box Office Mojo|title=Ralph Breaks the Internet|id=5848272|access-date=January 17, 2021|archive-date=January 17, 2021|archive-url=https://web.archive.org/web/20210117221247/https://www.boxofficemojo.com/title/tt5848272/|url-status=live}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+Six years after the events of [[Wreck-It Ralph|the first film]], Ralph and Vanellope have stayed best friends, hanging out after work in Litwak’s [[amusement arcade|Arcade]]. Ralph is content with their life, but Vanellope longs for excitement and expresses how bored she has become of ''Sugar Rush''{{'s}} predictability. To please her, Ralph sneaks into her game and makes a secret road. The next day, when Vanellope fights the arcade player's control to test the track, the cabinet's steering wheel breaks. As the company that made ''Sugar Rush'' is out of business, and the cost of a replacement wheel on [[eBay]] is expensive, Litwak decides to scrap ''Sugar Rush'' and unplugs the game, leaving its citizens homeless. The Surge Protector finds refuge for all ''Sugar Rush''{{'s}} citizens as a short-term measure as they figure out how to save the game, with Felix and Calhoun adopting the racers. Remembering eBay, Ralph and Vanellope travel through Litwak's new [[Wi-Fi router]] to the [[Internet]], a place where websites are represented as buildings in a sprawling city, [[Avatar (computing)|avatar]]s represent users, and [[Computer program|program]]s are people.
+
+The search engine KnowsMore redirects them to eBay, where they win the auction for the steering wheel by unintentionally spiking the price to {{USD|27,001}} only to find they have just 24 hours to raise the funds, or they will lose the bid and the wheel. On the way out, they run into [[clickbait]] salesman J.&nbsp;P. Spamley, who [[virtual economy|brokers items obtained from video games]] and offers them a lucrative job of stealing a car from Shank, the lead character in the popular racing-centered [[battle royale game]] ''Slaughter Race''. They steal Shank's car, but she stops them before they can leave the game with it. Suggesting another way to make money on the Internet, she proceeds to make a [[viral video]] of Ralph and uploads it to video-sharing site BuzzzTube. She directs them to BuzzzTube's head [[algorithm]], Yesss, who capitalizes on Ralph's video popularity. They decide to make more videos, which will earn them the money for the wheel if they attract enough [[pageview|views]]. Vanellope offers to help advertise the videos, and Ralph has Yesss send her to ''Oh My Disney''. There, while being chased by [[Stormtrooper (Star Wars)|Stormtrooper]]s for unauthorized advertising, Vanellope befriends the [[Disney Princess]]es, being encouraged by them to discuss her sense of un-fulfillment and reaching an epiphany in the form of an [["I Want" song]] on the subject. Meanwhile, Ralph makes enough money to buy the wheel but finds Vanellope talking with Shank, overhearing how she wants to stay in ''Slaughter Race'', having felt at home there due to its relative novelty and unpredictability compared to ''Sugar Rush''.
+
+Worried about losing his friend forever, Ralph asks Spamley for a way to draw Vanellope out of the game and is brought to the [[dark web]] vendor Double Dan, who provides Ralph with a [[Computer virus|computer virus]], Arthur, that feeds off [[Computer security|insecurities]] and replicates them. When Ralph unleashes Arthur into ''Slaughter Race'', it replicates Vanellope's glitch, triggering a server reboot. Ralph, Shank, and the others help Vanellope escape before the game resets. Vanellope blames herself for the crash, but Ralph confesses to her that it was actually his fault. This revelation outrages Vanellope, as Ralph pointed out she’s no better for attempting to leave him without telling him, which causes her to throw Ralph's cookie medal into the Older Net and run off.
+
+A guilt-ridden Ralph finds his medal now cracked-in-half. In lieu of cyber-insecurities, Arthur copies Ralph's [[Emotional security|emotional insecurities]], and makes dim-witted and emotionally unstable duplicates of Ralph. The clones overrun the Internet in a global [[DoS attack]], all chasing after Vanellope to keep her for themselves. Ralph saves her and attempts to lure the clones into a firewall, but they form a giant Ralph monster that seizes them both. Ralph comes to accept that Vanellope can make her own choices, letting go of his insecurities and causing the clones to disappear, and Ralph and Vanellope reconcile. Ralph gives half of the broken medal to Vanellope and they bid each other a heartfelt farewell as Shank has arranged for Vanellope to [[Spawning (video games)|respawn]] in ''Slaughter Race''.
+
+Back in the arcade, ''Sugar Rush'' is repaired, and Ralph joins the other arcade characters' activities as he stays in touch with Vanellope over video chat, feeling content with his newfound ability to be independent.
+<!-- The post-credits scenes are discussed elsewhere in the article. -->

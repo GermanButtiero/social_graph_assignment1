@@ -1,0 +1,45 @@
+{{Infobox film
+| name           = Frozen
+| image          = Frozen (2013 film) poster.jpg
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Chris Buck]]
+* [[Jennifer Lee (filmmaker)|Jennifer Lee]]
+}}
+| screenplay     = Jennifer Lee
+| story          = {{Plainlist|
+* Chris Buck
+* Jennifer Lee
+* Shane Morris
+}}
+| based_on       = {{Based on|"[[The Snow Queen]]"|[[Hans Christian Andersen]]}}<ref name="UnfreezingFrozen">{{cite news|last=Lowman|first=Rob|date=November 19, 2013|title=Unfreezing 'Frozen:' The making of the newest fairy tale in 3D by Disney|url=https://www.dailynews.com/2013/11/19/unfreezing-frozen-the-making-of-the-newest-fairy-tale-in-3d-by-disney/|work=[[Los Angeles Daily News]]|access-date=December 17, 2023|archive-url=https://web.archive.org/web/20230529144038/https://www.dailynews.com/2013/11/19/unfreezing-frozen-the-making-of-the-newest-fairy-tale-in-3d-by-disney/|archive-date=May 29, 2023|url-status=live}}</ref>
+| producer       = [[Peter Del Vecho]]
+| starring       = {{Plainlist|
+* [[Kristen Bell]]
+* [[Idina Menzel]]
+* [[Jonathan Groff]]
+* [[Josh Gad]]
+* [[Santino Fontana]]
+}}<!-- Do not add the entire cast here -->
+| cinematography = Scott Beattie (layout)<br>Mohit Kallianpur (lighting)
+| editing        = [[Jeff Draheim]]
+| music          = [[Christophe Beck]]
+| production_companies = [[Walt Disney Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]<!-- Text formatting is used in this link to ensure correct formatting at all screen resolutions. -->{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2013|11|19|[[El Capitan Theatre]]|2013|11|22|limited release|2013|11|27|United States|ref1=<ref name="WarmsUpAudience">{{cite magazine|last=Graser|first=Marc|title=Disney's 'Frozen' Premiere Warms Up Audience in Hollywood|url=https://variety.com/2013/film/news/disneys-frozen-premiere-warms-up-audience-in-hollywood-1200859822/|access-date=December 17, 2023|magazine=[[Variety (magazine)|Variety]]|date=November 20, 2013|url-status=live|archive-url=https://web.archive.org/web/20230607124910/https://variety.com/2013/film/news/disneys-frozen-premiere-warms-up-audience-in-hollywood-1200859822/|archive-date=June 7, 2023}}</ref>|ref2=<ref>{{cite magazine|last=Mendelson|first=Scott|date=November 22, 2013|title=Why Disney's 'Frozen' Debuted Today On A Single Screen|url=https://www.forbes.com/sites/scottmendelson/2013/11/22/why-disneys-frozen-opens-today-on-one-screen/?sh=5c14da37455d|magazine=[[Forbes]]|access-date=December 17, 2023|archive-date=December 17, 2023|archive-url=https://web.archive.org/web/20231217085825/https://www.forbes.com/sites/scottmendelson/2013/11/22/why-disneys-frozen-opens-today-on-one-screen/?sh=5c14da37455d|url-status=live}}</ref>|ref3=<ref>{{cite magazine|last=Kit|first=Borys|date=June 11, 2012|title=Disney's 'Frozen' to Thaw in November 2013|url=https://www.hollywoodreporter.com/movies/movie-features/disney-frozen-kristen-bell-november-idina-menzel-335875/|magazine=[[The Hollywood Reporter]]|access-date=December 17, 2023|url-status=live|archive-url=https://web.archive.org/web/20231122031838/https://www.hollywoodreporter.com/movies/movie-features/disney-frozen-kristen-bell-november-idina-menzel-335875/|archive-date=November 22, 2023}}</ref>}}
+| runtime        = 102 minutes<ref>{{cite web|title=Frozen|url=http://www.ofrb.gov.on.ca/ofrb/OfrbWelcomeAction.do?detailParameter=2000111390|publisher=[[Ontario Film Review Board]]|date=November 12, 2013|access-date=January 15, 2014|url-status=dead|archive-url=https://web.archive.org/web/20140116121817/http://www.ofrb.gov.on.ca/ofrb/OfrbWelcomeAction.do?detailParameter=2000111390|archive-date=January 16, 2014}}</ref>
+| country        = United States
+| language       = English
+| budget         = $150 million<ref>{{cite magazine|last=Smith|first=Grady|title=Box office preview: 'Frozen' ready to storm the chart, but it won't beat 'Catching Fire'|url=http://insidemovies.ew.com/2013/11/27/box-office-preview-frozen-catching-fire/|access-date=December 17, 2023|magazine=[[Entertainment Weekly]]|date=November 27, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131128190249/http://insidemovies.ew.com/2013/11/27/box-office-preview-frozen-catching-fire/ |archive-date=November 28, 2013}}</ref><ref name="mojo" />
+| gross          = $1.280 billion<!--DO NOT CHANGE. Box Office Mojo has double counted the UK and South Korean lifetime grosses. See https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Film/Film_finance_task_force#Box_Office_Mojo --><ref name="mojo">{{cite Box Office Mojo|id=2294629|title=Frozen|access-date=December 17, 2023|url-status=live|archive-url=https://web.archive.org/web/20210126235509/https://www.boxofficemojo.com/title/tt2294629/|archive-date=January 26, 2021}}</ref>
+}}
+
+== Plot ==
+<!-- Plot summaries should be between 400 and 700 words, according to WP:FILMPLOT guidelines, so please do not overextend this section. Current count: 672  -->
+Princess [[Elsa (Frozen)|Elsa]] of Arendelle has naturally occurring magical powers of ice and snow. After she accidentally injures her younger sister [[Anna (Frozen)|Anna]] with her magic, their parents bring them to a colony of [[troll]]s led by Grand Pabbie. He heals Anna and erases her memories of Elsa's magic. The king and queen decide that until Elsa learns to control her powers, they will close the castle gates and isolate her. Years of isolation creates a rift between the sisters and, when they are adolescents, their parents are killed at sea.
+
+On Elsa's [[coronation]] day, the castle gates open to the public for the first time. Visiting dignitaries include the handsome [[Hans (Frozen)|Prince Hans]] of the Southern Isles, with whom Anna falls in love at first sight. Hans proposes to Anna, but Elsa objects to the marriage and lashes out, accidentally revealing her powers to the terrified court. Accused of [[witchcraft]] by the scheming Duke of Weselton, Elsa flees to the North Mountain and feels free for the first time. She builds an ice palace and decides to live a hermit's life, unaware that her magic has plunged Arendelle into an eternal winter. Anna ventures out to find Elsa, leaving Hans in command. She meets an ice courier named [[Kristoff (Frozen)|Kristoff]] and his reindeer, [[Sven (Frozen)|Sven]], and convinces them to bring her to the North Mountain. On the way they meet [[Olaf (Frozen)|Olaf]], a living [[snowman]] created by Elsa's magic, who agrees to guide them. At the ice palace, Anna tells Elsa about what has become of Arendelle. Elsa's fear makes her hit Anna with ice, accidentally freezing her heart. In desperation, Elsa creates a giant snow monster and casts Anna out of the castle to keep her safe.
+
+With Anna slowly freezing to death, Kristoff takes her to the trolls for help. Grand Pabbie says that only "an act of true love" can thaw her heart. Kristoff and Olaf race back to the castle so Hans can give Anna a [[true love's kiss]], but Hans captures Elsa. Instead of kissing Anna, he reveals that he has actually been plotting to become ruler of Arendelle by marrying Anna and then killing Elsa. The sisters escape and Olaf helps Anna reunite with Kristoff, whom he has inferred is in love with Anna. Hans confronts Elsa, saying that she has killed Anna. Elsa breaks down, which abruptly stops the [[blizzard]] she created. Seeing Hans about to kill Elsa, Anna sacrifices her chance to be saved by Kristoff and steps between Elsa and Hans. She freezes solid, which devastates Elsa. As she hugs her sister, Anna slowly thaws; her heroism is "an act of true love".
+
+Realizing that love is the key to controlling her powers, Elsa ends the winter. With the truth revealed and with Elsa fully in control of her abilities, the citizens of Arendelle quickly accept her as queen. Hans is arrested and exiled for treason and attempted assassination. Elsa appoints Kristoff the royal ice deliverer, and he and Anna share a kiss. The sisters mend their relationship, and Elsa promises never to lock the castle gates again.

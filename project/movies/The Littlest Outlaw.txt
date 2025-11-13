@@ -1,0 +1,19 @@
+{{Infobox film
+|name            = The Littlest Outlaw
+| image          = The Littlest Outlaw.jpg
+| director       = [[Roberto Gavaldón]]
+| starring       = [[Pedro Armendáriz]]<br/>[[Joseph Calleia]]<br/>Andrés Velázquez
+| music          = [[William Lava]]
+| cinematography = [[Alex Phillips (cinematographer)|Alex Phillips]]
+| editing        = Carlos Savage
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Buena Vista Film Distribution Co., Inc.]]
+| released       = {{Film date|1955|12|22}}
+| runtime        = 73 minutes
+| country        = United States<br>Mexico
+| language       = English<br>Spanish
+| gross = $1.6 million (US)<ref>'The Top Box-Office Hits of 1956', ''Variety Weekly'', January 2, 1957</ref> 
+}}
+
+== Plot ==
+Little Pablito is the ten-year-old stepson of a cruel horse trainer. The trainer is responsible for training a Mexican general's horse to jump for the grand race. The trainer's methods cause the horse to become afraid of jumping and the general orders the animal's death. Pablito runs away with the horse, becoming a fugitive. He travels throughout Mexico encountering several fugitives and a priest who tries to help.

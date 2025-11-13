@@ -1,0 +1,70 @@
+{{Infobox film
+| name           = The Wild
+| image          = The Wild poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Steve Williams (animator)|Steve "Spaz" Williams]]
+| screenplay     = {{plainlist|
+* [[Ed Decter]]
+* [[John J. Strauss]]
+* Mark Gibson
+* Philip Halprin
+}}
+| story          = {{plainlist|
+* Mark Gibson
+* Philip Halprin
+}}
+| producer       = {{plainlist|
+* Clint Goldman 
+* [[Beau Flynn]]
+}}
+| starring       = {{Plainlist|
+* [[Kiefer Sutherland]]
+* [[Jim Belushi]]
+* [[Eddie Izzard]]
+* [[Janeane Garofalo]]
+* [[William Shatner]]
+* [[Richard Kind]]
+* [[Greg Cipes]]
+* [[Patrick Warburton]]
+}}
+| editing        = {{plainlist|
+* Scott Balcerek
+* Steven L. Wagner
+}}
+| music          = [[Alan Silvestri]]
+| production_companies = {{plainlist|
+* [[Walt Disney Pictures]]<ref name="Moviefone">{{cite web |title=The Wild (2006) |url=https://www.moviefone.com/movie/the-wild/22802/main/ |website=[[Moviefone]] |access-date=14 December 2024}}</ref>
+* Hoytyboy Pictures<ref name="Moviefone"/><ref name="BFI"/>
+* Sir Zip Productions<ref name="Moviefone"/><ref name="BFI"/>
+* [[Contrafilm]]<ref name="Moviefone"/><ref name="BFI"/>
+* [[C.O.R.E. Feature Animation]]<ref name="Moviefone"/>
+* Nigel Productions<ref name="Moviefone"/>
+}}
+| distributor    = [[Buena Vista Pictures Distribution]]<ref name="VarietyReview" />{{efn| Distributed by Buena Vista Pictures Distribution through the Walt Disney Pictures banner.}}
+| released       = {{Film date|2006|04|14}}
+| runtime        = 82 minutes<ref>{{cite web | url= https://www.bbfc.co.uk/release/the-wild-q29sbgvjdglvbjpwwc00mtywmdu | title=''THE WILD'' (U) | work=[[British Board of Film Classification]] | access-date=September 17, 2014}}</ref>
+| country        = {{plainlist|
+* United States<ref name=allmovie>{{Cite web|url=https://www.allmovie.com/movie/v328078|title = The Wild (2006) - Steve "Spaz" Williams, Steve 'Spaz' Williams, Steve "Spaz" Williams, Steve Williams &#124; Synopsis, Characteristics, Moods, Themes and Related &#124; AllMovie}}</ref>
+* Canada<ref name=allmovie/>
+}}
+| language       = English
+| budget         = $80 million<ref name="numbers">{{cite web |title=The Wild (2006) - Financial Information |url= https://www.the-numbers.com/movie/Wild-The#tab=summary |website= [[The Numbers (website)|The Numbers]] }}</ref>
+| gross          = $102.3 million<ref name="mojo">{{cite web|title=''The Wild'' (2006) |url= https://www.boxofficemojo.com/release/rl1350272513/ |website= [[Box Office Mojo]] |access-date= December 5, 2019}}</ref>
+}}
+
+==Plot==
+<!-- Per [[MOS:FILMPLOT]], plot summaries for feature films should be between 400 to 700 words. -->
+In the [[Central Park Zoo]], Samson the [[lion]] narrates stories of his adventures in the African [[savanna]] to his son Ryan. Ryan dreams of going to the wild to learn how to roar like his father, but Samson dismisses the idea.
+
+During the night, Samson and his friends; Benny the [[squirrel]], Bridget the [[giraffe]], Larry the [[anaconda]], and Nigel the [[koala]], compete in a turtle curling championship. Ryan and his own friends accidentally trigger a stampede, ending the game much to Samson's disappointment. Ryan wanders into a green intermodal container, where he gets accidentally locked inside, loaded onto a freight truck and shipped away. 
+
+With the help of a [[pigeon]] Hamir, Samson and his friends set out to rescue Ryan, hitching a ride in a garbage disposal truck. Passing through [[Times Square]], they get cornered by a pack of rabid dogs, and manage to escape through the sewage system. The group take directions to the docks from two street-smart [[sewer alligator]] brothers, Stan and Carmine. The next morning, they commandeer a tugboat from the [[New York Harbor]]. With the help of Benny and [[Canadian geese]], Samson steers the boat towards the direction of Ryan's ship.
+
+After days of sea travel, the boat reaches the shores of Africa. They witness a ship evacuating the animals from a dormant volcano, and Ryan running into the jungle. Unable to stop him on time; Nigel, Bridget, Larry and Benny head back to the ship, while Samson stays to continue searching for his son. 
+
+In the jungle, the quartet are attacked by a herd of wildebeests who reside in the volcano, capturing Nigel. Their leader Kazar, pronounces Nigel "The Great Him," based on an "[[omen]]" he received when he was young, believing that "The Great Him" will help his kind alter the food chain so that prey become predators. Bridget and Larry are also captured, prepared to be eaten.
+
+Ryan hides up in an old tree, and is attacked by a gang of vultures under Kazar's orders. Samson hears Ryan's cries and runs to save him, scaring off the vultures. Samson reveals the truth about his past: he was born in a circus, and just like Ryan, he was unable to roar during a performance. This led to Samson's cruel father disowning him 
+before being sent to the zoo, where he lied about his origins to avoid further humiliation. Ryan is shocked and downhearted by his father's true background. The wildebeests discover them and push Samson over the cliff, while Ryan is captured and taken to the volcano.
+
+Benny finds Samson, and gives him the confidence to be himself. After encountering chameleons, Samson uses their camouflage abilities to sneak into the volcano to rescue his son and friends. During the skirmish, Ryan launches himself at Kazar, finally letting out a roar. With Kazar distracted, Samson easily overpowers him. Seeing the father-son love Samson and Ryan have for each other, the other wildebeests refuse to serve Kazar any further, having grown fed up with his delusions. Enraged, Kazar charges forward, but is pushed back by Samson's powerful roar. As the volcano erupts, the group and wildebeests flee, leaving Kazar to be killed by falling rocks. Everyone manages to escape on the boat, and travel back to New York celebrating.

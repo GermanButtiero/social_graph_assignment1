@@ -1,0 +1,47 @@
+{{Infobox film
+| name = Meet the Deedles
+| image = MeetTheDeedles.jpg
+| caption = Theatrical release poster
+| director = [[Steve Boyum]]
+| producer = {{Plainlist|    
+* [[Dale Pollock]]          
+* Aaron Meyerson
+}}                                
+| writer = [[Jim Herzfeld]]
+| starring = {{Plainlist|
+* [[Paul Walker]]
+* [[Steve Van Wormer]]
+* [[John Ashton (actor)|John Ashton]]
+* [[A. J. Langer]]
+* [[Robert Englund]]
+* [[Dennis Hopper]]
+}}
+| music = [[Steve Bartek]]
+| cinematography = [[David Hennings]]
+| editing = Alan Cody
+| studio =  {{Plainlist|     
+* [[Walt Disney Pictures]]<ref name="variety">{{Cite web|url=https://variety.com/1998/film/reviews/meet-the-deedles-1200453075/|title=Meet the Deedles|first1=Lael|last1=Loewenstein|date=March 23, 1998}}</ref>
+* [[DIC Entertainment]]<ref name="variety"/>
+* Peak Productions<ref name="variety"/>
+}}                                
+| distributor =[[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]<ref name="variety"/>
+| released = {{Film date|1998|03|27|United States}}
+| runtime = 93 minutes
+| country = United States
+| language = English
+| budget = $24 million
+| gross = $4.4 million<ref>{{cite web |url=https://boxofficemojo.com/movies/?id=meetthedeedles.htm |title=Meet the Deedles (1998) |website=[[Box Office Mojo]] |date=1998-04-17 |access-date=2011-12-15}}</ref>
+}}
+
+==Plot==
+Fraternal twin brothers Phil and Stew Deedle live in [[Hawaii]] and enjoy a life of leisure living off of their father Elton’s hard earned wealth. After they are reported [[Truancy|truant]] from school so they could enjoy a [[Surfing|surf]] session on their 18th birthday, the school expels them. Frustrated with their laziness Elton enrolls them in a boot camp at [[Yellowstone National Park]], to the horror of the boys.
+
+Arriving on the mainland, they learn that the bootcamp has been shuttered due to lawsuits and the former owner, Major Flowers, intends to give them survival training on his own. En route to their camp he accidentally drives them over a cliff, ejecting them from the vehicle. Believing he killed the brothers, Flowers disappears into the forest. Phil and Stew steal clothing from a nearby campsite and proceed downhill by [[luge]] to the nearby ranger station. After a collision with the park sign, the responding park rangers misidentify the brothers by the names "Mel" and "Mo" written on clothing tags that they took earlier.
+
+The brothers awaken in the hospital and assume the identities they had been given, learning that Mel and Mo were expected by the station as two highly-touted naturalist recruits to the [[National Park Service]]. As they adjust to life at Yellowstone, they struggle to adopt Mel and Mo’s apparent foraging lifestyle, while also feebly attempting to accomplish their job as best as they can. Along the way, Phil develops a mutual attraction with Jesse, a Lieutenant at the station and the stepdaughter of the park’s commanding ranger Captain Pine, earning both the brothers Pine’s ire.
+
+Eventually the brothers discover that a disgruntled former park ranger, Frank Slater, has masterminded a plan to divert the hydrologic process of [[Old Faithful]] through a series of underground pipes into an extinct [[geyser]] on land that he owns, ultimately creating a new park that would rival Yellowstone. Slater intends to implement his plan during an anniversary celebration for Old Faithful in hopes that he publicly humiliates Pine in the process.
+
+Later the real Mel and Mo arrive at the ranger station after being waylaid by various mishaps, and they expose the Deedles as imposters. This upsets Jesse and Captain Pine, leading to the brother's expulsion from the park. Despite this, they still set out to stop Slater from going through with his plan and attempt to infiltrate his base. When they parachute onto his land, they are immediately taken underground to Slater. There, with the help of a prairie dog they befriended earlier, they don protective heat suits and halt the diversion of superheated water to Slater’s geyser "New Faithful" and restore Old Faithful. This causes a reaction that creates an explosion on Slater’s land, creating a natural wave pool where visitors can surf.
+
+Slater and his henchmen are arrested for their crimes, Phil reconciles with Jesse and the brothers are reinstated into the Park Service. Elton arrives and expresses his pride in their accomplishments, and the brothers along with Jesse go surfing in the newly created park attraction.

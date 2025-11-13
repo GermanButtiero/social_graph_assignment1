@@ -1,0 +1,54 @@
+{{Infobox film
+| name           = Mulan
+| image          = Movie_poster_mulan.JPG
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Barry Cook]]
+* [[Tony Bancroft]]
+}}
+| producer       = [[Pam Coats]]
+| screenplay     = {{Plainlist|
+* Rita Hsiao
+* [[Chris Sanders]]
+* [[Philip LaZebnik]]
+* Raymond Singer
+* Eugenia Bostwick-Singer
+}}
+| story          = [[Robert D. San Souci]]
+| based_on       = {{based on|''[[Hua Mulan|Ballad of Mulan]]''|[[Guo Maoqian]]}}
+| starring       = {{Plainlist|
+* [[Ming-Na Wen]]
+* [[Eddie Murphy]]
+* [[BD Wong]]
+* [[Miguel Ferrer]]
+* [[June Foray]]
+* [[James Hong]]
+* [[Pat Morita]]
+* [[George Takei]]
+}}
+| music          = [[Jerry Goldsmith]]<!-- Only list composers -->
+| editing        = Michael Kelly
+| production_companies = [[Walt Disney Feature Animation]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|1998|6|5|[[Hollywood Bowl]]|1998|6|19|United States}}
+| runtime        = 87 minutes
+| country        = United States
+| language       = English
+| budget         = $90&nbsp;million<ref name="TheNumbers">{{cite web|url=https://www.the-numbers.com/movie/Mulan-(1998)#tab=summary|work=The-Numbers|publisher=Nash Information Services|title=Mulan|access-date=May 25, 2022|archive-date=June 27, 2012|archive-url=https://web.archive.org/web/20120627002530/http://www.the-numbers.com/movies/1998/MULAN.php|url-status=live}}</ref>
+| gross          = $304.3&nbsp;million<ref name="MulanBox">{{cite web |url = https://www.boxofficemojo.com/release/rl3664086529/weekend/|title = Mulan (1998) |work = [[Box Office Mojo]] |access-date = May 25, 2022|archive-date = September 24, 2015 |archive-url = https://web.archive.org/web/20150924144946/http://www.boxofficemojo.com/movies/?id=mulan.htm |url-status = live }}</ref>
+}}
+
+==Plot==
+<!-- As per WP:FILMPLOT, plot summaries for featured film articles should be between 400-700 words. Current word count is 596.-->
+
+The [[Huns]], led by the ruthless [[List of Disney's Mulan characters#Shan Yu|Shan Yu]], invade China by breaching the [[Great Wall of China|Great Wall]]. The [[Emperor of China|Emperor]] orders a general mobilization, with [[conscription]] notices requiring one man from each family to join the [[Military history of China before 1912|Imperial Army]]. [[Mulan (Disney character)|Fa Mulan]], an adventurous young woman, hopes to bring honor to her family. She is arranged to meet a matchmaker to demonstrate her fitness as a future wife, but is deemed a disgrace after several mishaps.
+
+Fa Zhou, Mulan's elderly father and a renowned military veteran, is conscripted. Mulan tries dissuading him from going, but he insists that he must do his duty. Fearing for his life, she cuts her hair and takes her father's sword and armor, disguising herself as a man so that she can enlist in his stead. Quickly learning of her departure, Mulan's grandmother prays to the family's ancestors for Mulan's safety. In the family's temple, the spirits of the ancestors are awakened by [[Mushu]], a small red [[Chinese dragon|dragon]] who is a disgraced former [[Chinese guardian lions|family guardian]]. The ''Great Ancestor'' decides that the powerful [[Chinese guardian lions|stone dragon guardian]] should guide Mulan, and sends Mushu to wake him. After accidentally destroying the guardian's statue, Mushu decides to redeem himself to the ancestors by personally aiding Mulan.
+
+Reporting to the training camp, Mulan passes as a man named "Fa Ping", with Mushu providing encouragement and clumsy guidance throughout her deception. Under the command of Captain [[List of Disney's Mulan characters#Li Shang|Li Shang]], she and her fellow recruits—including three named Yao, Ling, and Chien-Po—gradually become trained soldiers. The Emperor's belligerent counsel, [[List of Disney's Mulan characters#Chi-Fu|Chi-Fu]], threatens to dissuade the Emperor from allowing Shang's men to fight. Mushu then writes a fake letter from Shang's father, General Li, ordering Shang to follow the main imperial army into the mountains. The reinforcements set out and discover that the Huns have slaughtered Li and his troops.
+
+As the soldiers march up a mountain pass, the Huns ambush them. Mulan uses a [[Huolongchushui]] cannon to trigger an [[avalanche]] and bury the Huns, but is badly injured. Shang and the soldiers discover Mulan's true sex while her wound is bandaged. Instead of executing Mulan as the law requires, Shang spares her life and expels her from the army before departing for the Imperial City to report the Huns' defeat. Mulan, however, later discovers Shan Yu and several of his warriors have survived.
+
+Mulan travels to the city to warn Shang just as the Huns seize the palace and take the Emperor hostage. In the ensuing fight, Shan Yu's men are quickly defeated and Mulan lures Shan Yu onto the roof, and ultimately pins him down with his own sword. Guided by Mulan, Mushu uses a [[skyrocket]] to propel Shan Yu into a [[fireworks]] launching tower, killing him. 
+
+The Emperor and the city's assembled inhabitants praise Mulan for having saved them, and they bow to her in honor. She accepts the Emperor's [[Crest (heraldry)|crest]] and Shan Yu's sword as gifts but declines his offer to join the royal council. Mulan returns home and presents these gifts to her father, but he ignores them, happy to have her back. Having become enamored with Mulan, Shang also arrives and accepts her invitation to stay for dinner. Mushu is reinstated as a Fa family guardian as the ancestors celebrate.

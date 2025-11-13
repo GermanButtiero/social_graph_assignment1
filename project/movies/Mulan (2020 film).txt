@@ -1,0 +1,57 @@
+{{Infobox film
+| name                 = Mulan
+| image                = Mulan (2020 film) poster.jpg
+| caption              = Official release poster
+| director             = [[Niki Caro]]
+| producer             = {{Plainlist|
+* [[Chris Bender (film producer)|Chris Bender]]
+* Jake Weiner
+* Jason T. Reed
+}}
+| screenplay           = {{Plainlist|
+* [[Rick Jaffa and Amanda Silver|Rick Jaffa<br />Amanda Silver]]
+* Lauren Hynek
+* Elizabeth Martin
+}}
+| based_on             = {{Plainlist|
+* {{based on|[[Walt Disney Animation Studios|Disney's]] ''[[Mulan (1998 film)|Mulan]]''|Rita Hsiao|[[Chris Sanders]]|[[Philip LaZebnik]]|Raymond Singer|Eugenia Bostwick-Singer|[[Robert D. San Souci]]}}
+* {{based on|''[[Hua Mulan|Ballad of Mulan]]''|[[Guo Maoqian]]}}
+}}
+| starring             = {{Plainlist|
+* [[Yifei Liu]]
+* [[Donnie Yen]]
+* [[Jason Scott Lee]]
+* [[Yoson An]]
+* [[Gong Li]]
+* [[Jet Li]]
+}}
+| music                = [[Harry Gregson-Williams]]<ref name="Gregson-Williams">{{Cite web |title=Harry-Gregson-Williams to Score Disney's 'Mulan' Live-Action Movie |url=http://filmmusicreporter.com/2018/08/22/harry-gregson-williams-to-score-disneys-mulan-live-action-movie/ |url-status=live |archive-url=https://web.archive.org/web/20180824135101/http://filmmusicreporter.com/2018/08/22/harry-gregson-williams-to-score-disneys-mulan-live-action-movie/ |archive-date=August 24, 2018 |access-date=August 24, 2018 |website=Film Music Reporter}}</ref>
+| cinematography       = [[Mandy Walker]]
+| editing              = David Coulson
+| production_companies = {{plainlist|
+* [[Walt Disney Pictures]]
+* Jason T. Reed Productions
+* Good Fear Content
+}}
+| distributor          = [[Walt Disney Studios Motion Pictures]]<!--Disney+ is the platform where Walt Disney Studios Motion Pictures released the film, not the distributor itself-->
+| released             = {{Film date|2020|3|9|[[Dolby Theatre]]|2020|9|4|United States}}
+| runtime              = 115 minutes<ref>{{Cite web |date=March 12, 2020 |title=Mulan (12A) |url=https://www.bbfc.co.uk/releases/mulan-2020 |url-status=dead |archive-url=https://web.archive.org/web/20200629203108/https://www.bbfc.co.uk/releases/mulan-2020 |archive-date=June 29, 2020 |access-date=June 26, 2020 |publisher=[[British Board of Film Classification]]}}</ref>
+| country              = United States
+| language             = English
+| budget               = $200 million<ref name="CNNbudget">{{Cite news |last=Pallotta |first=Frank |date=February 14, 2020 |title=Disney's 'Mulan' was supposed to be a big hit in China. The coronavirus could threaten that |publisher=[[CNN Business]] |url=https://edition.cnn.com/2020/02/13/media/disney-mulan-coronavirus/index.html |url-status=live |access-date=February 22, 2020 |archive-url=https://web.archive.org/web/20200214235636/https://amp.cnn.com/cnn/2020/02/13/media/disney-mulan-coronavirus/index.html |archive-date=February 14, 2020}}</ref>
+| gross                = $69.9 million<ref name="BOM">{{Cite Box Office Mojo |title=Mulan (2020) |id=4566758 |access-date=February 15, 2021 }}</ref><ref name="The Numbers">{{Cite the numbers |title=Mulan (2020) |id=Mulan-(2020) |url-status=dead |url=https://www.the-numbers.com/movie/Mulan-(2020) |archive-url=https://web.archive.org/web/20200821045915/https://www.the-numbers.com/movie/Mulan-(2020) |archive-date=August 21, 2020 |access-date=February 15, 2021 }}</ref>
+}}
+
+==Plot==
+<!--Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words only.-->
+In [[Imperial China]], [[Mulan (Disney character)|Hua Mulan]] is an adventurous and active girl, much to the disappointment of her parents Zhou and Li, who hope that one day she will be wed to a good husband. As a young woman, Mulan is arranged to meet with a [[matchmaking|matchmaker]] to demonstrate her fitness as a future wife, but the matchmaker deems her a disgrace in front of her family after a mishap.
+
+To the north, an imperial outpost is invaded by [[Rouran Khaganate|Rouran]] warriors, under the leadership of Böri Khan. They are assisted by the witch Xianniang, who uses her magic to pose as a surviving soldier and report the attack to the Emperor of China; he then issues a [[conscription]] decree ordering every family to contribute one man to fight Khan's forces. Imperial soldiers arrive in Mulan's village to enlist recruits and Zhou is forced to pledge his service as he has no sons, immediately falling over in front of the soldiers due to his crippled leg. Realizing that her father has no chance of survival, Mulan flees with his armor, horse, and sword to join in his place. Mulan arrives at the training camp, which is run by Commander Tung, an old comrade of Zhou. Alongside dozens of other inexperienced recruits, she ultimately becomes a trained soldier under his tutelage without exposing her true identity.
+
+Böri Khan's army continues to advance, forcing Tung to end training early and send his battalion to fight. Mulan, separated from the battalion, is confronted by Xianniang, who mocks her for pretending to be a man. She attempts to kill Mulan, but her attacks are stopped by the leather with which Mulan's chest had been bound to hide her identity. Mulan removes her male disguise, returning to the battle just as the Rourans begin attacking her fellow troops with a [[trebuchet]]. Mulan uses discarded helmets and her archery skills to maneuver the trebuchet into firing on a snowy mountain, triggering an avalanche that buries the Rourans.
+
+Mulan rides back to camp and rescues Chen Honghui, a soldier she befriended in camp. Mulan decides to reveal her gender to Commander Tung, who expels her from the army. Later, she is confronted by Xianniang, who reveals that she was also shunned by her people and fights for Böri Khan only because he would treat her as an equal. She also reveals that the attacks on the outposts have been a diversion, as Böri Khan's true plan is to capture and execute the Emperor for having his father killed. Risking execution, Mulan returns to her battalion to warn them of the impending capture. The soldiers she befriended stand up for her, and Tung decides to believe her, and allows her to lead a unit to the Emperor's palace.
+
+Xianniang uses her magic to take the image of the Imperial Chancellor, and persuades the Emperor to accept Böri Khan's challenge to single combat, while removing the city guards from their posts. The guards are murdered, and the Rourans prepare to burn the Emperor alive. Mulan's unit distracts the Rourans while Mulan goes to save the Emperor. Böri Khan tries to snipe her with an arrow, but Xianniang, sympathetic to Mulan and disenchanted with the Khan, transforms into a hawk and sacrifices herself by intercepting the arrow. Mulan kills Böri Khan, but not before he disarms her and destroys her father's sword. She frees the Emperor, who offers to let her join his personal guard. She declines the offer to return to her village.
+
+Mulan is reunited with her family. An emissary from the Emperor, under the leadership of Commander Tung, arrives to present Mulan with a new sword, while making a personal request that she join the Imperial Army as an officer.

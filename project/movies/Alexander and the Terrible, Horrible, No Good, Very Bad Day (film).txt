@@ -1,0 +1,37 @@
+{{Infobox film
+| name           = Alexander and the Terrible, Horrible, No Good, Very Bad Day
+| image          = Alexander and the Terrible, Horrible, No Good, Very Bad Day poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Miguel Arteta]]
+| producer       = {{ubl|[[Shawn Levy]]|[[Dan Levine]]|[[Lisa Henson]]}}
+| writer         = Rob Lieber<ref name=CSFullCast />
+| based_on       = {{based on|''[[Alexander and the Terrible, Horrible, No Good, Very Bad Day]]''|[[Judith Viorst]]}}
+| starring       = {{ubl|[[Steve Carell]]|[[Jennifer Garner]]|[[Ed Oxenbould]]}}<!--PER BILLING BLOCK-->
+| music          = [[Christophe Beck]]
+| cinematography = [[Terry Stacey]]
+| editing        = [[Pamela Martin (film editor)|Pamela Martin]]
+| studio         = [[Walt Disney Pictures]]<br />[[21 Laps Entertainment]]<br />[[The Jim Henson Company]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]
+| released       = {{Film date|2014|10|6|[[El Capitan Theatre]]|2014|10|10|United States}}
+| runtime        = 81 minutes<!--Theatrical runtime: 80:59--><ref>{{cite web|title=''Alexander and the Terrible, Horrible, No Good, Very Bad Day'' (PG)|url=https://bbfc.co.uk/releases/alexander-and-terrible-horrible-no-good-very-bad-day-film|archive-url=https://web.archive.org/web/20140714191106/http://bbfc.co.uk/releases/alexander-and-terrible-horrible-no-good-very-bad-day-film|url-status=dead|archive-date=July 14, 2014|work=[[Walt Disney Studios Motion Pictures]]|publisher=[[British Board of Film Classification]]|date=June 30, 2014|access-date=July 2, 2014}}</ref>
+| country        = United States
+| language       = English
+| budget         = $28 million<ref>{{cite news|last1=Mendelson|first1=Scott|title=Box Office: 'Dracula Untold' Tops 'Gone Girl' With $8.9M Friday|url=https://www.forbes.com/sites/scottmendelson/2014/10/11/box-office-dracula-untold-tops-with-8-9m-friday/|access-date=October 11, 2014|work=Forbes|date=October 11, 2014}}</ref>
+| gross          = $100.6 million<ref name="mojo">{{cite web|url=https://www.boxofficemojo.com/movies/?id=alexanderbadday.htm|title=Alexander and the Terrible, Horrible, No Good, Very Bad Day|work=[[Box Office Mojo]]|publisher=[[Internet Movie Database]]|access-date=November 28, 2015}}</ref>
+}}
+
+==Plot== 
+Living in suburban [[Los Angeles]], Alexander Cooper often feels left out by his family: baby brother Trevor; older brother Anthony; older sister Emily; and their parents, Ben and Kelly.
+
+Anthony is trying to pass his [[driving test]] so he can drive his demanding and sharp-tongued girlfriend, Celia Rodriguez, to the [[junior prom]]; Emily is rehearsing for the title role in her school play, ''[[List of works based on Peter Pan#Stage|Peter Pan]]''; Kelly works for a [[publication company]] and is working on a new children's book which will get her promoted to vice-president; Ben, who has been unemployed for seven months, has landed an interview for a job as a [[video game designer]].
+
+That morning, Alexander experiences a series of mishaps at school: accidentally setting fire to his crush Becky Gibson's notebook; her younger brother, Elliott, sends a humiliating photoshopped image of him to the whole school; and he finds out that his friends – including Becky, and even his best friend Paul – will all be attending Philip Parker's 12th birthday party, instead of his the next day, due to Philip's expensive party entertainment and popularity. When he tries to tell his family about his bad day, however, nobody is very sympathetic due to being focused on the good things happening to them. That night, he puts a candle on a homemade birthday [[sundae]], wishing that everyone in his family could know what it's like to have a bad day (so they could relate to what he is going through).
+
+The next morning, Alexander wakes up to find the rest of his family in chaotic disarray: Ben and Kelly have overslept; Emily has a cold from rehearsing in Kelly's car; Celia has broken up with Anthony, due to her overhearing and misinterpreting a conversation between him and Alexander the night before. Anthony also finds a giant [[Pimple|zit]] on his forehead. Kelly's car is dead, due to Emily having left the light on the previous night, draining the battery. Ben has to take Trevor with him to his interview, after dropping Kelly off at work. At school, Alexander learns that Philip's birthday party has been canceled because he has come down with the [[chickenpox]]; Becky and Paul, along with all the other kids who had originally planned to attend it, will attend Alexander's instead.
+
+Delighted, Alexander tells Ben about Philip and that Elliott had gotten busted for texting the photos of Alexander. He then excitedly asks Ben to plan a party for him. Meanwhile, Kelly is informed of an embarrassing typo in the book they are publicizing. The title is supposed to be "Jump on the Potty", but the typo has it say "Dump on the Potty" instead. She attempts to get to a public event in time to prevent [[Dick Van Dyke]] from reading it. Ben takes Trevor with him to his interview; his prospective boss, Greg, seems impressed by his credentials. However, they decide to hold another meeting, after Trevor ingests a non-toxic green [[highlighter]]. Back at school, Anthony reconciles with Celia. He jumps up in excitement, but accidentally hits a banner which is attached to two trophy cases, causing them to come crashing down, leading to him being sent to the principal and getting suspended.
+
+Kelly arrives at the public event too late to warn Dick Van Dyke about the book's typo. He reads it, humiliating himself, shocking the audience, and almost getting Kelly arrested. Meanwhile, Ben purchases [[cough syrup]] for Emily en route to the [[Department of Motor Vehicles|DMV]]; there, Anthony's driving examiner, Ms. Suggs, cruelly tricks him into taking his eyes off the road by using [[reverse psychology]] to persuade him to answer a call from Celia. This causes him to destroy several parking meters and damage the [[Chrysler Town & Country|family minivan]]; he consequently fails his driving test. As the entire family bemoans their collective misfortunes, Alexander cuts in and admits his birthday wish to them. He apologizes for making everyone suffer the day they've had. Ben disagrees since it is not ruined, because it isn't over yet. Right then and there, the whole family resolves to stay as positive as they can.
+
+All of Alexander's friends turn up for his birthday party, including Becky. Emily ruins the play due to the side effects of taking too much cough syrup but improvises anyway. Anthony decides to ditch the junior prom and, despite her beauty and popularity, breaks up with Celia after she carelessly insults his family. Ben and Kelly both get phone calls, Ben learned he got the job and Kelly is told that Dick's reading of the book went viral, and that it became a bestseller. Ben and Kelly look outside and see that their kids are enjoying themselves. The family gets home with a birthday cake for Alexander, and he makes a wish for more days like this one.

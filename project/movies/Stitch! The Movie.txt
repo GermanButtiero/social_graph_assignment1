@@ -1,0 +1,46 @@
+{{Infobox film
+|image       = Stitch! The Movie Poster.png
+|caption     = DVD cover featuring (clockwise from lower-left) [[Lilo Pelekai]], [[Sparky (Lilo & Stitch)|Experiment 221 / Sparky]], [[Reuben (Lilo & Stitch)|Experiment 625]],{{efn|name=Reuben}} and [[Stitch (Lilo & Stitch)|Stitch]]
+|director    = {{plainlist|
+* Tony Craig
+* [[Bobs Gannaway]]
+}}
+|producer    = {{plainlist|
+* Tony Craig
+* Jess Winfield
+* Bobs Gannaway
+}}
+|writer      = {{plainlist|
+* Roberts Gannaway
+* [[Jess Winfield]]
+}}
+|starring    = {{plainlist|
+* [[Chris Sanders]]
+* [[Daveigh Chase]]
+* [[Jeff Bennett]]
+* [[David Ogden Stiers]]
+* [[Kevin McDonald]]
+* [[Kevin Michael Richardson]]
+}}
+|music       = [[Michael Tavera]] (Themes by [[Alan Silvestri]])
+|editing     = Tony Mizgalski
+|studio      = [[Walt Disney Pictures]]<br/>[[Walt Disney Television Animation]]<ref name=allmovie>{{cite web|url=https://www.allmovie.com/movie/stitch%21-the-movie-v283231|title=Stitch! The Movie (2003)|work=[[Allmovie]]|access-date=May 18, 2020|archive-date=January 15, 2021|archive-url=https://web.archive.org/web/20210115205624/https://www.allmovie.com/movie/stitch%21-the-movie-v283231|url-status=live}}</ref><ref name="AnimationWorld March 2005"/>
+|distributor = [[Buena Vista Home Entertainment]]
+|released    = {{film date|2003|8|26}}
+|runtime     = 60 minutes<ref name=allmovie/>
+|country     = United States<ref name=allmovie/>
+|language    = English
+}}
+
+== Plot ==
+[[Stitch (Lilo & Stitch)|Stitch]] has been trying to adapt to life with [[Lilo Pelekai|Lilo]] in Hawaii, but has a hard time fitting in without causing more disasters. Lilo tries to encourage him by saying he is one-of-a-kind, which just makes him feel worse, as he desires others who he could consider his "cousins". Meanwhile, [[List of Lilo & Stitch characters#Gantu|Gantu]], the ex-captain of the Galactic Federation, is hired by [[List of Lilo & Stitch characters#Jumba Jookiba|Dr. Jumba Jookiba]]'s former partner, the diminutive and [[rodent]]-like [[List of Lilo & Stitch characters#Dr. Hämsterviel|Dr. Jacques von Hämsterviel]], to retrieve [[List of Lilo & Stitch characters#Experiments|his other experiments]]. Gantu goes to Earth and abducts Jumba, finding and taking a [[Desiccation|dehydrated]] pod containing [[List of Lilo & Stitch characters#Reuben (X-625)|Experiment 625]]; Stitch and Lilo take Jumba's spaceship and engage Gantu in battle, only to be defeated and fall back to Earth.
+
+Back at their house, Lilo, Stitch, and [[List of Lilo & Stitch characters#Pleakley|Pleakley]] find the container Jumba was hiding. Pleakley realizes that it contains the other experiments, also in pods, and warns them not to tell anyone or reactivate the experiments, aware of how dangerous they are. Deliberately disobeying his orders, Stitch and Lilo retrieve the container and reactivate the electrokinetic [[List of Lilo & Stitch characters#Sparky (X-221)|Experiment 221]], who promptly escapes into the night. Jumba is being held captive by Hämsterviel, who requests that the experiments be turned over to him, believing its where they belong. Unable to intimidate Jumba, Hämsterviel activates Experiment 625 to assault him. However, despite 625 having all of Stitch's abilities (along with increased intelligence allowing him to speak proper English), he is incredibly lazy and cowardly, prioritizing making [[sandwich]]es above all else. Meanwhile, Pleakley is able to make contact with Hämsterviel's ship via telephone, who proceeds to demand a ransom of the other experiments in return for Jumba. Nani calls [[List of Lilo & Stitch characters#Cobra Bubbles|Cobra Bubbles]] to seek his assistance while Lilo and Stitch go out to find 221. They manage to track down 221 at a nearby hotel and successfully catch him with a glass vase; Stitch soon befriends him, realizing he has finally found a "cousin" of his own.
+
+The rendezvous time arrives and Pleakley and Cobra show up to trade the container for Jumba, but Hämsterviel is annoyed to find one is missing. Lilo and Stitch soon arrive with 221, now dubbed "Sparky", and declares that it and all the experiments are a part of their ''{{okina}}[[ohana]]''. They release Sparky and break Jumba from his bonds, just as Cobra signals [[List of Lilo & Stitch characters#Grand Councilwoman|the Grand Councilwoman]]'s ship to rise out of the nearby ocean to blast Hämsterviel. Lilo protests, since he still has the other experiments, so Sparky uses his electrical abilities to disrupt the power on the ship, allowing Hämsterviel and Gantu to escape on their ship with the experiments, as Lilo, Stitch and Sparky stow away.
+
+Inside the ship, Lilo and Stitch manage to seize the container and in the ensuing struggle, it ends up releasing the dehydrated pods, which rain down and scatter all throughout Hawaii. Having captured the duo, Hämsterviel reveals his plans to clone Stitch a thousand times over, as he is strapped to a weight he cannot lift, while Gantu puts Lilo in a teleportation pod to send her to an intergalactic [[zoo]]. Before Stitch is vivisected by a laser for the cloning process, Sparky sabotages the machine, releasing him as the duo to strap Hämsterviel to the device before they rescue Lilo.
+
+Lilo, Stitch and Sparky then sabotage Gantu's ship, causing it to crash near a waterfall on [[Kauai]]. Landing Hämsterviel's ship back at the rendezvous point, they give Sparky a new home at the [[Kilauea Light|Kīlauea Lighthouse]], where he can resume its operations.{{efn|In real life, Kīlauea Lighthouse actually was not operational at the time this film was released. The real lighthouse was deactivated in 1976 but resumed operation in 2013, albeit only for ceremonial purposes.}} They then persuade the Grand Councilwoman to let them rehabilitate the other experiments. The Councilwoman has Hämsterviel apprehended and grants Lilo and Stitch the task of tracking down the other experiments. At that moment, several experiments{{efn|Namely, Experiments 202, 529, 455, 489 and 390, who are respectively named Jam, Digger, Mary, Huggo and Slimy according to the experiments list seen in the credits of ''[[Leroy & Stitch]]'' (2006)}} are activated by various means and Lilo and Stitch drive off in Jumba's dune buggy, putting the events of [[Lilo & Stitch: The Series|the series]] in motion.
+
+After the credits, Jumba and Pleakley hope to go home with the Grand Councilwoman this time, but they are left stranded on Earth once again.

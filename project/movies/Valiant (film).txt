@@ -1,0 +1,54 @@
+{{Infobox film
+| image          = Valiant1.jpg
+| caption        = North American theatrical release poster
+| director       = Gary Chapman
+| screenplay     = {{Plainlist|
+* Jordan Katz
+* George Webster
+* George Melrod
+}}
+| story          = George Webster
+| producer       = [[John H. Williams (film producer)|John H. Williams]]
+| starring       = {{plainlist|
+* [[Ewan McGregor]]
+* [[Ricky Gervais]]
+* [[Tim Curry]]
+* [[Jim Broadbent]]
+* [[Hugh Laurie]]
+* [[John Cleese]]
+* [[John Hurt]]
+* [[Pip Torrens]]
+* [[Rik Mayall]]
+* [[Olivia Williams]]
+}}
+| editing        = Jim Stewart
+| music          = [[George Fenton]]
+| studio         = {{plainlist|
+* [[Vanguard Animation]]
+}}
+| distributor    = {{plainlist|
+* [[Entertainment Film Distributors]] (United Kingdom)
+* [[Walt Disney Pictures]] (through [[Buena Vista Pictures Distribution]]; United States/Canada)
+* Odyssey Entertainment (International)<ref>{{cite web | url=https://www.skwigly.co.uk/valiant-some-pigeons-eat-crumbs-others-make-history/ | title=Valiant: "Some pigeons eat crumbs, others make history" | date=April 2005 }}</ref>
+}}
+| released       = {{film date|df=yes|2005|3|25|United Kingdom|2005|8|19|United States}}
+| runtime        = 76 minutes
+| country        = {{Plainlist|
+* United Kingdom
+* United States
+}}
+| language       = English
+| budget         = $35 million<ref name="BOM" />
+| gross          = $61.7 million<ref name="BOM" />
+}}
+
+== Plot ==
+In May 1944, amidst [[World War II]], three Royal Homing Pigeon Service (RHPS) [[war pigeon]]s led by Mercury fly across the [[English Channel]] carrying a vital message to [[Great Britain]] until they are ambushed by a [[Nazi Germany]]-affiliated [[peregrine falcon]] named General Von Talon, who kills Mercury's men and takes him as a [[prisoner of war]].
+
+Elsewhere, in West Nestington, a small [[Common Wood Pigeon|wood pigeon]] named Valiant watches an [[Allies of World War II|Allied forces]] propaganda film at his local bar with his best friend and barman, a [[seagull]] named Felix, before a [[war hero]] named Wing Commander Gutsy arrives to inform the bar patrons signups for the RHPS are being held the next day in [[Trafalgar Square]], London. Bidding Felix and his mother goodbye, Valiant heads there, where he encounters an uncouth pigeon named Bugsy. Seeking to escape a pair of [[magpie]] thugs he cheated in a [[shell game]], Bugsy signs up with Valiant. Before long, the pair are assigned to the RHPS's Squad F along with an intellectual red pigeon named Lofty and two muscular yet dimwitted brothers named Toughwood and Tailfeather, sent to a [[recruit training]] facility, and placed under Sergeant Monty's command. As their training begins, Valiant develops a crush on the camp's nurse, a dove named Victoria. Meanwhile, Von Talon and his falcon minions Cufflingk and Underlingk put Mercury through numerous torture methods to learn where the message came from. Despite his best efforts, Mercury eventually reveals it was sent from Saint Pierre, France.
+
+Eventually, Gutsy arrives to inform Monty the recruits are to leave the next morning despite their training being incomplete. Fearing for his life, Bugsy flees, but later returns as the rest of Squad F are preparing to leave. During the flight, the plane is caught in an [[Anti-aircraft warfare|anti-aircraft attack]] and sustains heavy damage. The squad bail out, but a technical malfunction traps Gutsy on the plane as it crash-lands; seemingly killing him.
+
+Arriving in France, Squad F meet Charles de Girl and Rollo, two mice from the [[French Resistance]]'s Mouse Division, who lead them to Saint-Pierre to receive the message they were ordered to deliver. However, Von Talon's forces attack, capturing Bugsy and the message. Unaware that Squad F followed him to his bunker hideout, Von Talon imprisons Bugsy, intending to kill him after he delivers the message to [[Der Fuehrer]]. Concurrently, Squad F reunite with Gutsy while Valiant uses his short stature to infiltrate Von Talon's bunker and rescue Bugsy and Mercury. Though the falcons discover them during their escape, Squad F, Mercury, and Gutsy hold off Cufflingk and Underlingk while Valiant flies to London to deliver the message, followed by Von Talon.
+
+With Felix and his fellow West Nestington residents' help, Valiant subdues Von Talon and successfully delivers the message. Upon receiving it, the Allies readjust their plans and opt to [[Normandy landings|land in Normandy]]. Sometime later, Squad F receives the [[Dickin Medal]] and celebrate at the West Nestington bar, where Valiant reunites and shares a kiss with Victoria. A message is then displayed commending the animals that saved thousands of lives during World War II.

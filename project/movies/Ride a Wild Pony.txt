@@ -1,0 +1,25 @@
+{{Infobox film
+| name           = Ride a Wild Pony
+| image          = Ride a Wild Pony poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Don Chaffey]]
+| producer       = [[Jerome Courtland]]
+| writer         = [[Rosemary Anne Sisson]]
+| based_on       = ''A Sporting Proposition'' <br> by [[James Aldridge]]
+| narrator       = 
+| starring       = Robert Bettles<br>[[Eva Griffith]]<br>[[Michael Craig (actor)|Michael Craig]]
+| music          = [[John Addison]]
+| cinematography = [[Jack Cardiff]]
+| editing        = Mike Campbell
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]] (US)<ref>{{Cite web | title=AFI{{!}}Catalog | url=https://catalog.afi.com/Catalog/moviedetails/55622 | archive-url=https://web.archive.org/web/20191025113001/https://catalog.afi.com/Catalog/moviedetails/55622 | access-date=2025-08-24 | archive-date=2019-10-25}}</ref><br>[[British Empire Films]] (Australia)
+| released       = {{Film date|1975|12|25|ref1=<ref name=AFI>{{AFI film|55622}}</ref>}}
+| runtime        = 91 minutes
+| country        = United States<br>Australia
+| language       = English
+| budget         = AU$1 million<ref name="pike">Andrew Pike and Ross Cooper, ''Australian Film 1900–1977: A Guide to Feature Film Production'', Melbourne: Oxford University Press, 1998, p 296</ref>
+| gross          = 
+}}
+
+==Plot==
+Set in a small Australian town during the [[interwar period]], the film follows the battle between two children, Scott, a poor farm boy, and Josie, the handicapped daughter of a wealthy ranch owner, for ownership of a horse that both children love.<ref name="Toledo Blade">{{Cite news |last=Dresser |first=Norman |title='Ride a Wild Pony' Is Appealing to All |newspaper=Toldedo Blade |page=16 |date=16 April 1976 |url=https://news.google.com.au/newspapers?id=9AgVAAAAIBAJ&sjid=QwIEAAAAIBAJ&pg=6838,5662886&dq=ride-a-wild-pony&hl=en |accessdate=2010-04-25}}</ref> Scott requires a horse to ride seven miles to school and his father buys an unbroken pony, which Scott names Taff. Josie yearns to ride again but, having been afflicted with [[polio]] two years before, must settle for using a cart and pony. Scott's pony disappears, while a pony is eventually selected for Josie from her father's herd. When Scott sees the horse, which Josie named Bo, performing in the pony and cart competition at the township fair, he recognizes it as his horse and attempts to take it away.<ref name="Milwaukee Journal">{{Cite news |last=Waxse |first=Bennett F. |title=Justice Triumphs in 'Wild Pony' |newspaper=The Milwaukee Journal |page=72 |date=April 21, 1976 |url=https://news.google.com.au/newspapers?id=FW0jAAAAIBAJ&sjid=MSkEAAAAIBAJ&pg=6188,344046&dq=ride-a-wild-pony&hl=en |accessdate=2010-04-25}}</ref> The ensuing quarrel affects both the children as well as dividing the town.<ref name="NYTimes">{{Cite news |title=Screen: Newest Disney:'Ride a Wild Pony' at the Neighborhoods |newspaper=The New York Times |date=July 17, 1976 |url=https://movies.nytimes.com/movie/review?res=9A02EEDD1F30E03ABC4F52DFB166838D669EDE |accessdate=2010-02-05}}</ref> The children eventually become friends and, while the ownership issue is legally resolved, they agree on a way of sharing the pony between them.<ref name="Toledo Blade"/>

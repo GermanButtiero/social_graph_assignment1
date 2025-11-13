@@ -1,0 +1,66 @@
+{{Infobox film
+| name           = The BFG
+| image          = The BFG poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Steven Spielberg]]
+| producer       = {{plainlist| 
+* Steven Spielberg
+* [[Frank Marshall (filmmaker)|Frank Marshall]]
+* [[Sam Mercer]]
+}}
+| screenplay     = [[Melissa Mathison]]
+| based_on       = {{Based on|''[[The BFG]]''|[[Roald Dahl]]}}
+| starring       = {{plainlist|<!--Per poster billing-->
+* [[Mark Rylance]]
+* [[Ruby Barnhill]]
+* [[Penelope Wilton]]
+* [[Jemaine Clement]]
+* [[Rebecca Hall]]
+* [[Rafe Spall]]
+* [[Bill Hader]]
+}}
+| music          = [[John Williams]]
+| cinematography = [[Janusz Kamiński]]
+| editing        = [[Michael Kahn (film editor)|Michael Kahn]]
+| production_companies = {{plainlist|
+* [[Walt Disney Pictures]]<ref name=screen>{{cite web|url=http://www.screendaily.com/reviews/the-bfg-cannes-review/5103901.article|title='The BFG': Cannes Review|last=Grierson|first=Tim|work=[[Screen Daily]]|date=May 14, 2016|access-date=June 16, 2017|archive-date=May 18, 2017|archive-url=https://web.archive.org/web/20170518025449/http://www.screendaily.com/reviews/the-bfg-cannes-review/5103901.article|url-status=live}}</ref><ref name=DTHR>{{cite news|last1=Ford|first1=Rebecca|title=Disney Joins Steven Spielberg's 'BFG'|url=https://www.hollywoodreporter.com/news/disney-joins-steven-spielberg-s-788339|access-date=April 14, 2015|work=The Hollywood Reporter|date=April 13, 2015|archive-date=May 1, 2015|archive-url=https://web.archive.org/web/20150501222538/http://www.hollywoodreporter.com/news/disney-joins-steven-spielberg-s-788339|url-status=live}}</ref>
+* [[Amblin Entertainment]]
+* [[Reliance Entertainment]]
+* [[Walden Media]]<ref name=":0" />
+* [[The Kennedy/Marshall Company]]
+* The Roald Dahl Story Company
+}}
+| distributor    = {{plainlist|
+* [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]<ref name=":0" /> (Select territories)
+* [[Entertainment One UK|Entertainment One]]<ref>{{cite news|url=https://variety.com/2014/film/news/steven-spielbergs-the-bfg-primed-for-u-k-release-with-eone-1201261149/|title=Steven Spielberg's 'The BFG' Primed for U.K. Release With eOne|date=July 11, 2014|work=Variety|access-date=July 12, 2014|archive-date=July 13, 2014|archive-url=https://web.archive.org/web/20140713044734/http://variety.com/2014/film/news/steven-spielbergs-the-bfg-primed-for-u-k-release-with-eone-1201261149/|url-status=live}}</ref> (United Kingdom)
+* Reliance Entertainment<ref>{{cite news|url=https://www.forbes.com/sites/dongroves/2016/07/14/can-hindi-telugu-and-tamil-stars-boost-spielbergs-the-bfg-in-india/#5bb78915572e|title=Can Amitabh Bachchan And Parineeti Chopra Boost Spielberg's 'The BFG' In India?|last1=Groves|first1=Don|date=July 14, 2016|work=Forbes|access-date=July 21, 2016|archive-date=July 18, 2016|archive-url=https://web.archive.org/web/20160718065333/http://www.forbes.com/sites/dongroves/2016/07/14/can-hindi-telugu-and-tamil-stars-boost-spielbergs-the-bfg-in-india/#5bb78915572e|url-status=live}}</ref> ([[India]])<!--Per [[WP:FilmDist]], do not add other distributors here. Note them in the Release section instead.-->
+}}
+| released       = {{Film date |2016|05|14|[[2016 Cannes Film Festival|Cannes]]|2016|07|01|United States|2016|07|22|United Kingdom}}
+| runtime        = 118 minutes<ref>{{cite web | url=https://www.bbfc.co.uk/releases/bfg-film | title=''The BFG'' [2D] (PG) | work=[[British Board of Film Classification]] | date=June 17, 2016 | access-date=June 18, 2016 | archive-date=June 18, 2016 | archive-url=https://web.archive.org/web/20160618153031/http://www.bbfc.co.uk/releases/bfg-film | url-status=dead }}</ref>
+| country        = {{plainlist|
+* United States
+* United Kingdom
+* India
+}}
+| language       = English
+| budget         = $140 million<ref name="budget">{{cite web|url=https://www.hollywoodreporter.com/lists/july-fourth-box-office-few-905589/item/bfg-july-fourth-box-office-905599|title=July Fourth Box Office: Few Fireworks Expected as 'BFG,' 'Tarzan' Track Poorly|author=Pamela McClintock|work=[[The Hollywood Reporter]]|date=June 24, 2016|access-date=June 24, 2016|archive-date=June 26, 2016|archive-url=https://web.archive.org/web/20160626085143/http://www.hollywoodreporter.com/lists/july-fourth-box-office-few-905589/item/bfg-july-fourth-box-office-905599|url-status=live}}</ref>
+| gross          = $195.2 million<ref name="BOM">{{cite web |url=https://www.boxofficemojo.com/movies/?id=bfg.htm |title=The BFG (2016) |website=[[Box Office Mojo]] |access-date=January 14, 2018 |archive-date=January 17, 2018 |archive-url=https://web.archive.org/web/20180117025126/http://www.boxofficemojo.com/movies/?id=bfg.htm |url-status=live }}</ref>
+}}
+
+==Plot==
+<!-- Word count should be 400-700 per [[WP:FILMPLOT]] -->
+One night, Sophie, a smart and brave ten-year-old girl living in a [[London]] orphanage, catches sight of an elderly [[giant]]. The giant captures her and takes her to his residence in Giant Country. He tells Sophie that he took her so that she would never reveal the existence of giants to anyone. The giant creates a nightmare to prevent her from escaping, fearing she might be eaten by larger giants.
+
+The next morning, Sophie is nearly discovered by Fleshlumpeater, the leader of the man-eating giants, but the elderly giant drives Fleshlumpeater away with a foul vegetable known as the snozzcumber. She persuades the elderly giant to take her to Dream Country.
+
+They accidentally awaken the other giants, and after Bloodbottler suggests they "frolic", they bully the friendly giant. A thunderstorm drives the man-eating giants into their cave, but Fleshlumpeater finds Sophie's blanket.
+
+In Dream Country, Sophie and the friendly giant catch good and bad dreams. The giant reveals that his only name – besides "Runt", the other giants' nickname for him – is "the Big Friendly Giant", which leads Sophie to call him "BFG". She accompanies him to London for his nightly work: using his dream trumpet to spread good dreams to sleeping children. They return to Giant Country just as the other giants have departed to go eat children worldwide. The BFG realizes that Sophie has lost her blanket, exposing her presence to the other giants, and leaves her outside her orphanage. Revealing that his last human companion liked to read, and even taught The BFG how to read, but sadly was discovered and eaten by the giants, he is unwilling to endanger Sophie and departs. Unafraid, Sophie jumps off her balcony hoping he will appear again to catch her, and he does.
+
+They return to the BFG's workshop and the other giants barge in, hunting for Sophie. They destroy much of the BFG's work, but Sophie evades detection and the BFG drives them off with a hot iron. Sophie finds the home of the last human to live with the BFG, with a portrait of [[Queen Victoria]] among his belongings. This inspires her to devise a plan: to forge a nightmare for [[Elizabeth II]], the [[Monarchy of the United Kingdom|Queen of the United Kingdom]], about giants eating the children of England, the British Army fighting the giants, and Sophie appearing to her.
+
+Sophie and the BFG go to [[Buckingham Palace]] and deliver the nightmare to the sleeping Queen. Upon waking, the Queen and members of her maid Mary and butler Mr Tibbs find Sophie on the windowsill. She introduces them to the BFG, explaining that the child-eating giants are real and must be stopped. At a large breakfast, the BFG shares his favourite drink, [[flatulence]]-inducing "frobscottle", and he and Sophie lead the Queen's soldiers to Giant Country.
+
+The BFG plans to ambush the man-eating giants with a nightmare but has forgotten his dream trumpet. Sophie carries the nightmare herself into the midst of the giants and is confronted by Fleshlumpeater. She releases the nightmare, which consumes the giants with guilt, except the Fleshlumpeater (who intercepts and destroys his), and they are caught by military helicopters. Carried away to an isolated island, the giants are left with only "snozzcumbers" seeds to plant.
+
+Sophie gets adopted by Mary, comes to live in the Queen's palace, and awakens from a dream of the BFG, who returns to his life in Giant Country and writes the story of their adventure. She speaks to him whenever she feels lonely; at his home, the BFG hears her words and smiles.

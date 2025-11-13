@@ -1,0 +1,71 @@
+{{Infobox film
+| name           = Encanto
+| image          = Encanto poster.jpg
+| caption        = Theatrical release poster
+| alt            = <!-- See WP:ALT -->
+| director       = {{Plainlist|
+* [[Jared Bush]]
+* [[Byron Howard]]
+}}
+| producer       = {{Plainlist|
+* [[Yvett Merino]]
+* [[Clark Spencer]]
+}}
+| screenplay     = {{Plainlist|
+* [[Charise Castro Smith]]
+* Jared Bush
+}}
+| story          = {{Plainlist|
+* Jared Bush
+* Byron Howard
+* Charise Castro Smith
+* Jason Hand
+* [[Nancy Kruse]]
+* [[Lin-Manuel Miranda]]
+}}
+| starring       = {{Plainlist|
+* [[Stephanie Beatriz]]
+* [[María Cecilia Botero]]
+* [[John Leguizamo]]
+* Mauro Castillo
+* [[Jessica Darrow]]
+* [[Angie Cepeda]]
+* [[Carolina Gaitán]]
+* [[Diane Guerrero]]
+* [[Wilmer Valderrama]]
+}}
+| music          = {{Plainlist|
+* [[Germaine Franco]] (score)
+* Lin-Manuel Miranda (songs)
+}}
+| cinematography = {{Plainlist|
+* Nathan Warner (layout)
+* Alessandro Jacomini
+* Daniel Rice (lighting)
+}}
+| editing        = Jeremy Milton
+| production_companies = [[Walt Disney Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br/>Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner}}
+| released       = {{Film date|2021|11|3|[[El Capitan Theatre]]|2021|11|24|United States}}
+| runtime        = 102 minutes<ref>{{Cite web |title=Encanto (2021) |url=http://www.ifco.ie/en/ifco/pages/9FE0DCF800523C44 |url-status=live |archive-url=https://web.archive.org/web/20211113193957/http://www.ifco.ie/en/ifco/pages/9FE0DCF800523C44 |archive-date=November 13, 2021 |access-date=March 16, 2022 |website=[[Irish Film Classification Office]]}}</ref>
+| country        = United States
+| language       = English
+| budget         = $120–150&nbsp;million<ref>{{Cite web |last=Lang |first=Brent |date=November 26, 2021 |title=Box Office: Disney's 'Encanto' Leads Thanksgiving Pack With $5.8 Million, 'House of Gucci' Looking Strong |url=https://variety.com/2021/film/news/disneys-encanto-leads-thanksgiving-box-office-house-of-gucci-lady-gaga-1235120215/ |url-status=live |archive-url=https://web.archive.org/web/20211126163340/https://variety.com/2021/film/news/disneys-encanto-leads-thanksgiving-box-office-house-of-gucci-lady-gaga-1235120215/ |archive-date=November 26, 2021 |access-date=November 26, 2021 |website=[[Variety (magazine)|Variety]]}}</ref><ref>{{Cite web |last=Rubin |first=Rebecca |date=November 29, 2021 |title=Why 'Encanto' and 'House of Gucci' Box Office Debuts Are Cause for Celebration... and Concern |url=https://variety.com/2021/film/news/house-of-gucci-encanto-box-office-takeaways-lady-gaga-1235120764/ |url-status=live |archive-url=https://web.archive.org/web/20211129161420/https://variety.com/2021/film/news/house-of-gucchas |archive-date=November 29, 2021 |access-date=November 29, 2021 |website=[[Variety (magazine)|Variety]]}}</ref>
+| gross          = $261.3&nbsp;million<ref name="BOM">{{Cite Box Office Mojo |id=2953050 |title=Encanto |access-date=April 12, 2022}}{{cbignore}}</ref><ref name="NUM">{{Cite The Numbers |id=Encanto-(2021)|title=Encanto |access-date=April 12, 2022}}{{cbignore}}</ref>
+}}
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot length must be between 400 and 700 words. Current count is 616. Please do not add anything without removing something first or making sure it is absolutely necessary! -->
+An armed conflict forces young couple Alma and Pedro Madrigal to flee their home village in [[Colombia]] with their infant triplets, Julieta, Pepa, and [[Bruno Madrigal|Bruno]]. Pedro is killed, but the candle Alma carries gains a magical power that repels the attackers and creates Casita, a sentient house located in a magical realm bordered by mountains. 
+
+Fifty years later, a new village thrives under the candle's protection, which grants "[[Superpower (ability)|gifts]]" and corresponding bedrooms to each Madrigal descendant when they turn five, which they use to serve the villagers. Julieta's youngest daughter, Mirabel, is the only Madrigal to not be granted with a gift, while Bruno was vilified and scapegoated for his [[precognition]], which resulted in him disappearing.
+
+Ten years later, Pepa's youngest son, Antonio, is granted the ability to communicate with animals. During the celebration, Mirabel sees Casita cracking and the candle's flame flickering and goes downstairs to investigate. She alerts her family, but Casita repairs itself before the rest of the family can see the cracks. After overhearing Alma lament the candle's fading that night, Mirabel resolves to restore Casita's magic herself. Her older sister Luisa, who possesses [[superhuman strength]], confesses to Mirabel that she feels overwhelmed with her constant obligation to help the villagers by using her strength, which has begun to start faltering. She suggests to Mirabel that Bruno's room, located inside a forbidden tower in Casita, may hold the secret to the fading magic.
+
+Mirabel finds a cave in Bruno's room that holds pieces of his last vision made of opaque emerald. Most of the family warns Mirabel not to investigate further, but she reassembles the pieces into the form of a tablet and sees herself with Casita cracking behind her. Mirabel’s father Agustín accidentally discovers her and warns her to keep the vision a secret, but they are overheard by Pepa's daughter Dolores, who possesses supernatural hearing. Mirabel's oldest sister [[Isabela Madrigal|Isabela]], who can make plants instantly grow at will, is scheduled to be engaged to the Madrigals' neighbor Mariano Guzmán. Amidst Mariano's proposal during an awkward dinner, Dolores tells everyone about Mirabel's discovery. Casita begins to crack again, and everyone starts losing control of their gifts.
+
+Mirabel follows rats carrying the pieces of the vision to a secret passage behind a portrait, where she finds Bruno, who reveals he never left Casita. His visions alternate between Mirabel saving Casita and destroying it, leading him to believe she is the key to the fate of Casita's magic. Not wanting Mirabel to be hurt, he destroyed the vision and isolated himself. At Mirabel's insistence, Bruno conjures another vision that depicts Mirabel and Isabela hugging after seemingly repairing their strained relationship, which strengthens the candle.
+
+Mirabel attempts to apologize to Isabela, who confesses she is burdened by her image of perfection and does not want to marry Mariano. Mirabel helps Isabela use her powers more freely and they hug. When a furious Alma arrives, she accuses Mirabel of causing the family's misfortunes out of spite for not having a gift. In response, Mirabel denounces Alma's behavior and asserts that her harmful expectations for her family are the true cause of Casita dying. In the ensuing argument, Casita is demolished as the candle extinguishes, leaving the Madrigals powerless, and a distraught Mirabel runs away.
+
+Alma finds Mirabel tearfully sitting beside the river where Pedro was killed and the miracle had begun. Alma realizes that her obsession with preserving the magic made her oblivious to how her expectations and pressure were harming the family. She expresses remorse, reconciles with Mirabel, and reunites with Bruno. The three return to the village and assemble the other Madrigals to rebuild Casita, and the townspeople join in, restoring the family's gifts and reviving Casita. The Madrigals celebrate and take a family photo.

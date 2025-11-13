@@ -1,0 +1,55 @@
+{{Infobox film
+| name           = Holes
+| image          = Holesposter03.jpg
+| caption        = Theatrical release poster
+| director       = [[Andrew Davis (director)|Andrew Davis]]
+| producer       = {{Plain list |
+* Andrew Davis
+* Lowell D. Blank
+* [[Mike Medavoy]]
+* Teresa Tucker-Davies
+}}
+| screenplay     = [[Louis Sachar]]
+| based_on       = {{Based on|''[[Holes (novel)|Holes]]''|Louis Sachar}}
+| starring       = {{Plain list | <!-- PER POSTER BILLING BLOCK http://www.impawards.com/2003/holes_xlg.html -->
+* [[Sigourney Weaver]]
+* [[Jon Voight]]
+* [[Patricia Arquette]]
+* [[Tim Blake Nelson]]
+* [[Shia LaBeouf]]
+<!-- PER POSTER BILLING BLOCK -->
+}}
+| music          = [[Joel McNeely]]
+| cinematography = Stephen St. John
+| editing        = {{Plain list |
+* Thomas J. Nordberg
+* Jeffrey Wolf
+}}
+| studio         = {{Plain list |
+* [[Walt Disney Pictures]]
+* [[Walden Media]]
+* [[Phoenix Pictures]]
+* Chicago Pacific Entertainment
+}}
+| distributor    = [[Buena Vista Pictures Distribution]]
+| released       = {{Film date|2003|04|18|United States}}
+| runtime        = 117 minutes
+| country        = United States
+| language       = English
+| budget         = $20 million<ref name="mojo" />
+| gross          = $71.4 million<ref name="mojo" />
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+In [[Green Lake, Texas]], the Yelnats family has been cursed to be unlucky, which they blame on their ancestor Elya's failure to keep a promise to fortune teller Madame Zeroni over a century earlier in [[Latvia]]. One day, Stanley Yelnats IV is wrongfully convicted of stealing a pair of sneakers donated to charity by baseball player Clyde "Sweet Feet" Livingston, and is sentenced to 18 months of hard labor at Camp Green Lake, a [[Youth detention center|juvenile detention camp]], in lieu of jail time.
+
+The camp is in a dry lake bed where rain never falls and venomous yellow-spotted lizards thrive. Stanley meets warden Louise Walker, her assistant Mr. Sir, and counselor Dr. Steve Pendanski. Inmates, nicknamed Zero, Zig-Zag, Armpit, Squid, X-Ray, and Magnet, dig holes daily, earning a day off for interesting finds. After Stanley discovers a golden lipstick tube marked K.B. and a fossil, he's accepted into the group and nicknamed Caveman. When Magnet steals Mr. Sir's sunflower seeds, Stanley assumes responsibility and is taken to Walker's cabin. He finds wanted posters there and learns "KB" stands for Katherine "Kissin' Kate" Barlow, a school teacher-turned-outlaw who once robbed a money chest from his great-grandfather Stanley Yelnats Sr. After admonishing Mr. Sir for his irrelevant report, Walker lets Stanley return to work.
+
+Camp Green Lake's history is revealed in flashbacks as a flourishing lakeside community in the 19th century. Kate romantically bonds with Sam, an [[African Americans|African-American]] onion merchant who helps repair her schoolhouse. When the wealthy Charles "Trout" Walker discovers the two kissing, he informs the other citizens out of jealousy, and they burn down the schoolhouse and murder Sam. In retaliation, Kate becomes an outlaw, hunting down Walker's men and earning her nickname by kissing the men she murders. As her legend is established, Green Lake declines due to the lake's sudden evaporation. Years later, Kate is found by the now-destitute Walkers; before allowing herself to be lethally bitten by a lizard, she boasts neither Trout nor his descendants will find her buried fortune.
+
+In the present, Pendanski mocks Zero, whose real name is Hector Zeroni, but the latter injures Pendanski and flees. After some deliberation, Stanley searches for Hector. The two have difficulty surviving in the desert without water. Eventually, Stanley carries the ailing Hector up a nearby mountain, and they regain their strength after finding a field of wild onions and a water source. By doing this, Stanley unknowingly fulfills Elya's promise to Madame Zeroni and breaks the curse. While camping on the mountain, Hector tells Stanley he stole Livingston's sneakers and threw them over the bridge to evade the police, but they inadvertently hit Stanley's head.
+
+Returning to the camp, Stanley and Hector investigate the hole where Stanley found the lipstick and discover a chest before they are discovered by Walker, Mr. Sir, and Pendanski. They soon realize that Walker, Trout's granddaughter, has been using the inmates to find Barlow's treasure. The adults cannot steal the chest from the boys, as the hole is swarming with lizards, which do not bite Stanley and Hector due to the onions they ate earlier. The puzzled adults wait for the lizards to kill the boys. The next morning, the attorney general and Stanley's lawyer arrive, accompanied by [[Texas Ranger Division|Texas Rangers]], and the chest Stanley found is discovered to have once belonged to his namesake great-grandfather. Walker, Mr. Sir, who is actually paroled criminal Marion Sevillo, and Pendanski, who is impersonating a doctor, are arrested. Stanley and Zero are released, and it rains in Green Lake for the first time in over a century.
+
+The Yelnats family obtains the chest containing jewels, deeds, and promissory notes. They share this with Hector, who uses it to hire private investigators to find his missing mother. Both families live a life of financial ease as neighbors.

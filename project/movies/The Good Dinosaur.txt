@@ -1,0 +1,58 @@
+{{Infobox film
+| image          = The Good Dinosaur poster.jpg
+| alt            = The silhouette of Arlo, a dinosaur with Spot, a small boy on his back surrounded by fireflies.
+| caption        = Theatrical release poster
+| director       = [[Peter Sohn]]
+| producer       = Denise Ream
+| screenplay     = [[Meg LeFauve]]
+| story          = {{Plainlist|
+* Peter Sohn
+* Erik Benson
+* Meg LeFauve
+* [[Kelsey Mann]]
+* [[Bob Peterson (filmmaker)|Bob Peterson]]<ref name="VarietyReview">{{cite magazine|url=https://variety.com/2015/film/reviews/the-good-dinosaur-review-1201639759/|title=Film Review: 'The Good Dinosaur'|magazine=[[Variety (magazine)|Variety]]|last=Chang|first=Justin|author-link=Justin Chang|date=November 13, 2015|access-date=November 13, 2015|archive-date=April 14, 2019|archive-url=https://web.archive.org/web/20190414111930/https://variety.com/2015/film/reviews/the-good-dinosaur-review-1201639759/|url-status=live}}</ref>
+}}
+| based_on       = {{Basedon|An original concept|Bob Peterson}}
+| starring       = {{Plainlist|
+* [[Raymond Ochoa]]
+* Jack Bright
+* [[Sam Elliott]]
+* [[Anna Paquin]]
+* [[A. J. Buckley]]
+* [[Steve Zahn]]
+* [[Jeffrey Wright]]
+* [[Frances McDormand]]
+}}
+| cinematography = {{Plainlist|
+* Mahyar Abousaeedi (camera)<ref name="BFI" />
+* [[Sharon Calahan]] (lighting)<ref name="BFI">{{#invoke:cite|web|url=https://www2.bfi.org.uk/films-tv-people/564e5be8efbf4|title=The Good Dinosaur|website=[[British Film Institute]]|archive-url=https://web.archive.org/web/20210321124700/https://www2.bfi.org.uk/films-tv-people/564e5be8efbf4|archive-date=March 21, 2021|url-status=dead|access-date=March 21, 2021}}</ref>
+}}
+| music          = {{Plainlist|
+* [[Mychael Danna]]
+* [[Jeff Danna]]
+}}
+| editing        = [[Stephen Schaffer]]
+| production_companies = [[Pixar Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2015|11|10|[[Paris]]|2015|11|25|United States}}
+| runtime        = 94 minutes<!--Theatrical runtime: 93:38--><ref name="bbfc">{{#invoke:cite|web|url=https://bbfc.co.uk/AFF327936|title=The Good Dinosaur|website=[[British Board of Film Classification]]|access-date=August 17, 2019|archive-date=August 17, 2019|archive-url=https://web.archive.org/web/20190817053210/https://bbfc.co.uk/releases/good-dinosaur-2015|url-status=live}}</ref>
+| country        = United States
+| language       = English
+| budget         = $175–200 million<ref name="McLintock (2015-11-23)" /><ref name="Faughnder (2015-11-24)" />
+| gross          = $332.2 million<ref name="BOM">{{cite Box Office Mojo |id=1979388 |title=The Good Dinosaur |access-date=March 19, 2021 |archive-date=March 19, 2021 |archive-url=https://web.archive.org/web/20210319124825/https://www.boxofficemojo.com/title/tt1979388/ |url-status=live}}</ref>
+}}
+
+==Plot==
+
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words. Please check the wordcount, before editing. -->
+In an [[alternate history]], [[Chicxulub impactor|the asteroid]] that would have caused the [[Cretaceous–Paleogene extinction event]] passes harmlessly by the Earth. Millions of years later, ''[[Apatosaurus]]'' farmers Henry and Ida have three children: Libby, Buck, and Arlo. While his siblings successfully complete hard tasks and are allowed to "make their mark" (a mud-print) on the family's corn silo, Arlo struggles due to his weaker physique and timid nature. Hoping to boost Arlo's confidence, Henry tasks Arlo with guarding the silo from thieving creatures, and watching the "critter trap" set nearby. The trap captures a [[feral child|feral]] [[caveman|caveboy]], but Arlo cannot bring himself to kill him and sets him free. Frustrated, Henry orders Arlo to follow him into a ravine to track the caveboy down, but the two turn back home when a severe thunderstorm begins. Henry saves Arlo's life from a flash flood, but is killed by debris.
+
+Without his father, Arlo shoulders more of the workload. He spots the same caveboy robbing the silo; blaming the caveboy for Henry's death, Arlo chases him into the river, and both of them are washed miles downstream. Arlo is knocked unconscious, and awakens to find himself far from home with the caveboy, who ignores Arlo's initial annoyance and tries to bring him food. Arlo warms up to the caveboy after he saves him from a vicious snake-like creature; this feat impresses Forrest Woodbush, an eccentric ''[[Styracosaurus]]'' who decides he wants the caveboy for a pet. He forces Arlo to compete with him to give the boy a name he will respond to, and Arlo wins the game when he calls the boy "Spot". Arlo and Spot bond as they follow the riverbank back towards the farm. One night, Arlo laments his lost family, and Spot reveals that his own parents are both dead.
+
+Later, when a storm strikes, Arlo suffers a [[panic attack]] and flees into the wilderness, losing track of the riverbank. The next morning, Arlo and Spot are noticed by a band of viciously carnivorous [[Pterosaur|pterodactyls]], who attack Arlo and attempt to eat Spot. Fleeing the pterodactyls, Arlo and Spot encounter ''[[Tyrannosaurus rex|Tyrannosaurus]]'' siblings Nash and Ramsey, who drive off the predators.
+
+Nash, Ramsey and their father Butch are in the middle of a [[cattle drive]], but have lost their herd of ''[[Bison Latifrons]]'' longhorns. Arlo suggests they make use of Spot's tracking skills; Spot successfully locates the longhorns, but Butch senses the presence of cattle rustlers. Arlo and Spot lure the four rustler ''[[Velociraptors]]'' into the open, allowing Butch and his family to attack and drive them away. Arlo saves Butch's life during the battle; after sharing stories round a campfire, the Tyrannosaurs allow Arlo and Spot to travel with them. Once Arlo spots his home mountains in the distance, he and Spot thank Butch's family and separate from them. They later notice an adult feral caveman in the distance; Spot is intrigued, but Arlo insists they continue on.
+
+As another storm approaches, the pterodactyls reappear, attack Spot, and carry him away. Arlo attempts to intervene, but is pushed off a cliff by one of the pterodactyls and gets entangled in vines. While semi-conscious, Arlo has a vision of Henry, who affirms that Arlo has become braver and encourages him to go after Spot. Arlo frees himself, runs through the storm until he catches up to the pterodactyls, and with Spot's help fights them off and sends them floating down a river. Spot is also knocked into the river, just as a [[landslide]] triggers a [[megatsunami]].  Arlo leaps into the water to shield Spot, and the two are washed over a waterfall. Arlo drags himself and Spot to the shore, where they rest before continuing on.
+
+As they approach Arlo's home, the caveman returns with his wife and children. They and Spot show great interest in one another, so Arlo reluctantly encourages Spot to go with this new family instead of staying with him. The two share a heartfelt goodbye, and Arlo returns home to his overjoyed family, making his mark between those of his father and mother on the silo.

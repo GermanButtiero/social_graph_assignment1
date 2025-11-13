@@ -1,0 +1,57 @@
+{{Infobox film
+| name           = The Princess and the Frog
+| image          = The Princess and the Frog poster.jpg
+| caption        = Theatrical release poster
+| alt            = A cartoon image of a woman in a princess costume with a frog in her hand.
+| director       = {{Plainlist|
+* [[John Musker]]
+* [[Ron Clements]]
+}}
+| screenplay     = {{Plainlist|
+* Ron Clements
+* John Musker
+* [[Rob Edwards (screenwriter)|Rob Edwards]]
+}}
+| story          = {{Plainlist|
+* Ron Clements
+* John Musker
+* Greg Erb
+* Jason Oremland
+}}
+| based_on       = {{Plainlist|
+* {{based on|''[[The Frog Princess (novel)|The Frog Princess]]''|[[E. D. Baker]]}}
+* {{based on|"[[The Frog Prince]]"|[[Brothers Grimm]]}}
+}}
+| producer       = [[Peter Del Vecho]]
+| starring       = {{Plainlist|
+* [[Anika Noni Rose]]
+* [[Bruno Campos]]
+* [[Keith David]]
+* [[Michael-Leon Wooley]]
+* [[Jim Cummings]]
+* [[Jennifer Cody]]
+* [[Peter Bartlett (actor)|Peter Bartlett]]
+* [[Jenifer Lewis]]
+* [[Oprah Winfrey]]
+* [[Terrence Howard]]
+* [[John Goodman]]
+}}
+| production_companies = [[Walt Disney Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2009|11|15|[[Walt Disney Studios (Burbank)|Walt Disney Studios lot]]|2009|11|25|[[Los Angeles]] and [[New York City]]|2009|12|11|United States}}
+| runtime        = 97 minutes<ref name="mojo">{{cite web|url=https://boxofficemojo.com/movies/?id=princessandthefrog.htm|title=The Princess and the Frog (2009) – Box Office Mojo|work=[[Box Office Mojo]]|publisher=[[Internet Movie Database|IMDb]]|access-date=July 18, 2010}}</ref>
+| music          = [[Randy Newman]]
+| editing        = [[Jeff Draheim]]
+| country        = United States
+| language       = English
+| budget         = $105 million<ref>{{cite web|url=http://www.mtv.com/movies/news/articles/1628177/story.jhtml|archive-url=https://web.archive.org/web/20100126074456/http://www.mtv.com/movies/news/articles/1628177/story.jhtml|url-status=dead|archive-date=January 26, 2010|title='The Princess And The Frog' Leaps Over The Competition At The Box Office|work=MTV |publisher=[[Viacom (2005–present)|Viacom]]|author=Wigler, Josh|date=December 14, 2009|access-date=January 22, 2010|quote=[...]cost Disney $105 million to produce[...]}}</ref>
+| gross          = $271 million<ref name="mojo" /><ref name="TheNumbers">{{cite web|url=https://www.the-numbers.com/movie/Princess-and-the-Frog-The|title=The Princess and the Frog (2009)|work=The Numbers|publisher=Nash Information Services|access-date=August 29, 2021}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries are 400 to 700 words. -->
+In 1926, [[New Orleans]], a young woman named Tiana dreams of opening a restaurant. She works two waitress jobs to earn money, leaving no time for a social life. Meanwhile, the arrogant Prince Naveen of Maldonia arrives in town, and intends to marry Tiana's wealthy best friend, Charlotte La Bouff, because his parents have cut him off from the family fortune. Charlotte's father, Big Daddy, hosts a [[masquerade ball]] in Naveen's honor. Charlotte asks Tiana to make [[beignet]]s for the party, paying her enough to buy an old mill to convert into her restaurant. Naveen and his [[valet]], Lawrence, encounter Dr. Facilier, an evil [[Louisiana Voodoo|voodoo]] [[witch doctor]] who plans to rule New Orleans. Facilier transforms Naveen into a frog and Lawrence into a [[doppelganger]] of Naveen, using a voodoo [[talisman]] containing Naveen's blood. Facilier intends for the disguised Lawrence to marry Charlotte, then kill her father with a [[voodoo doll]] so he can gain the La Bouff fortune. At the ball, Tiana learns she has been outbid for the mill and accidentally spills food on her outfit, so Charlotte lends her a princess costume. Feeling disheartened, she begins wishing on a star when Naveen appears. Mistaking Tiana for an actual princess, he asks her to kiss him to break the spell, offering her a financial reward. Tiana reluctantly agrees to save her restaurant, but she is instead transformed into a frog as well. The two are chased into a nearby [[bayou]], where they meet a jazz-loving [[Anthropomorphism|anthropomorphic]] [[alligator]] named Louis. When they explain their predicament, he suggests they seek the help of Mama Odie, another voodoo practitioner who lives in the bayou.
+
+The trio come across a [[Cajun]] [[firefly]] named Ray who helps them find Mama Odie's abode. During the journey, Tiana and Naveen begin developing romantic feelings for each other, especially after Naveen learns to be more responsible. Meanwhile, when the talisman containing Naveen's blood runs out, Facilier asks his "friends on the other side" (a legion of voodoo spirits) to help retrieve Naveen, offering them the souls of the city's population once he succeeds in taking over, and they grant him an army of shadow demons for his bidding. Mama Odie confirms that only Naveen kissing a princess can break the spell. Tiana realizes that since Charlotte's father has been crowned [[Mardi Gras]] king, Charlotte will be a princess until midnight. The group hitches a ride on a [[steamboat]] back to New Orleans, during which Naveen tells Ray about his love for Tiana and plans to propose marriage to her. After talking to Tiana, Naveen selflessly decides against proposing, since transforming him and Tiana into humans and financing Tiana's restaurant is contingent on him kissing Charlotte. The shadow demons capture Naveen and bring him to Facilier to replenish the talisman with Naveen's blood. After Ray tells Tiana of Naveen's love for her, Tiana heads to the Mardi Gras parade to find Naveen, only to see the disguised Lawrence marrying Charlotte.
+
+Ray rescues the real Naveen and steals the talisman, but is mortally wounded by Facilier, who then offers to make Tiana's dream come true in exchange for the talisman. Refusing to dishonor her father, Tiana destroys the talisman, leading the voodoo spirits to drag Facilier into their world for failing to pay back his debt. After Lawrence is arrested, Tiana reveals her love to Naveen. Charlotte agrees to kiss Naveen, but the clock strikes midnight before she can do so. Ray dies and is [[Reincarnation|reincarnated]] as a [[star]] during his funeral. Tiana and Naveen are wed by Mama Odie and then restored to human form when they kiss, since Tiana is now truly a princess. They return to New Orleans and open their restaurant, named Tiana's Palace.

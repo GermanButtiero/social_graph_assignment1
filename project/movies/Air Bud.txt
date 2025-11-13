@@ -1,0 +1,34 @@
+{{Infobox film
+| name           = Air Bud
+| image          = Air_bud_poster.jpg
+| caption        = Theatrical release poster
+| alt            = A golden retriever wearing a basketball jersey and dunking a ball
+| director       = [[Charles Martin Smith]]
+| producer       = {{unbulleted list|[[Robert Vince]]|[[William Vince]]}}
+| writer         = {{unbulleted list|Paul Tamasy|Aaron Mendelsohn}}
+| starring       = {{unbulleted list|[[Michael Jeter]]|[[Kevin Zegers]]|[[Wendy Makkena]]|[[Eric Christmas]]|[[Brendan Fletcher]]|Norman Browning|[[Bill Cobbs]]|[[Buddy (dog actor)|Buddy]]}}
+| music          = Brahm Wenger
+| cinematography = [[Mike Southon (cinematographer)|Mike Southon]]
+| editing        = Alison Grace
+| studio         = {{unbulleted list|[[Robert Vince|Keystone Pictures]]<ref name="bfi">{{cite web |title=Air Bud (1997) |url=https://www2.bfi.org.uk/films-tv-people/4ce2b8086a79b |archive-url=https://web.archive.org/web/20201020082137/https://www2.bfi.org.uk/films-tv-people/4ce2b8086a79b |url-status=dead |archive-date=October 20, 2020 |website=[[British Film Institute]] |access-date=January 4, 2021}}</ref>|Buddy Films, Inc.<ref name="afi.com">{{Cite web|url=https://catalog.afi.com/Catalog/moviedetails/60487 |title = AFI&#124;Catalog}}</ref>}}
+| distributor    = {{unbulleted list|[[Malofilm]] (Canada)|[[Buena Vista Pictures Distribution]]<ref name="afi.com" />(United States){{efn|Distributed by Buena Vista Pictures Distribution under the [[Walt Disney Pictures]] banner.}}}}
+| released       = {{Film date|1997|08|01}}
+| runtime        = 98 minutes
+| language       = English
+| country        = {{unbulleted list|Canada|United States}}
+| budget         = $3 million
+| gross          = $27.8 million<ref name="boxoffice">{{Cite web|url=http://www.the-numbers.com/movie/Air-Bud#tab=summary|title = Air Bud (1997) - Financial Information}}</ref>
+}}
+
+==Plot==
+After the death of his father, twelve-year-old Josh Framm, his mother Jackie, and his two-year-old sister Andrea have relocated to Fernfield, Washington. One day after school, Josh practices [[basketball]] by himself in a makeshift court that he sets up behind an abandoned church, where he meets an abandoned and runaway [[Golden Retriever]] who had recently escaped from his abusive owner: an alcoholic clown named Norman Snively, who had locked him in a kennel for causing trouble at a birthday party when the kennel unknowingly fell out due to Snively not securing the back. Discovering his uncanny ability to play basketball, Josh names him Buddy and takes him home. Jackie agrees to let Buddy stay until Christmas. Once the holidays arrive, Jackie allows Josh to keep Buddy as a Christmas present.
+
+At school, Josh earns the disdain of star basketball player and team rival Larry Willingham but befriends kindhearted [[Maintenance engineering|maintenance engineer]] and retired pro player Arthur Chaney. With Chaney's encouragement, Josh earns a place on the Timberwolves, the school basketball team, despite the reservation of their competitive coach, Joe Barker. He befriends teammate Tom Stewart at his first game. Buddy escapes and shows up at school during the game. The audience loves him when he scores a basket.
+
+Barker is fired after being caught emotionally and physically abusing Tom for his poor performance. At Josh's suggestion, he is replaced by Chaney. Arthur emphasizes the need for players to work as a team instead of focusing on themselves. When Larry is subbed out due to ball-hogging and unsportsmanlike conduct, his father forces him to leave the team and join their rival. Buddy becomes the mascot of the school's basketball team and appears in their halftime shows. The Timberwolves lose one game before qualifying for the State Finals.
+
+Just before the championship game, Snively appears after seeing Buddy on television. Hoping to profit from Buddy's newfound fame, he forces Jackie to hand over Buddy as he has papers proving he is the legal owner. Withdrawn and depressed, Josh discovers Snively living in a small low-income house and [[trespassing|sneaks into his backyard]], [[conversion (law)|freeing Buddy]] from his chain. Snively notices him and pursues them in his dilapidated [[pickup truck]] through a park before crashing into a lake. Josh protects Buddy by setting him free in the forest to find a new life.
+
+The Timberwolves struggle in the championship game and an injury leaves them with four players. Buddy shows up to the crowd's cheers. After it is discovered that there is [[Loophole|no rule]] preventing a dog from playing basketball, he is added to the roster and leads the team to victory.
+
+Despite his ownership papers being ruined in the car wreck, Snively takes the Framm family to court for custody of Buddy. Chaney suggests that Buddy choose his owner. As a fan of Chaney, Judge Cranfield accepts his proposal and moves the court outside to the lawn, where Buddy attacks Snively and chooses Josh. Cranfield grants custody to Josh as a ranting Snively is dragged away by the police, while Josh and the rest of the citizens rejoice and gather around Buddy to welcome him home.

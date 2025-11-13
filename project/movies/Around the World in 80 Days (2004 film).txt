@@ -1,0 +1,64 @@
+{{Infobox film
+| name           = Around the World in 80 Days
+| image          = Movie poster Around the World in 80 Days.jpg
+| caption        = American theatrical release poster
+| director       = [[Frank Coraci]]
+| producer       = Bill Badalato<br />[[Hal Lieberman]]
+| screenplay     = [[David Titcher]]<br />David Benullo<br />David Goldstein
+| based_on       = {{based on|''[[Around the World in Eighty Days]]''|[[Jules Verne]]}}
+| starring       = {{Plainlist| 
+<!-- PER POSTER BILLING BLOCK -->
+* [[Jackie Chan]]
+* [[Steve Coogan]]
+* [[Cécile de France]]
+* [[Jim Broadbent]]
+}}
+| music          = [[Trevor Jones (composer)|Trevor Jones]]
+| cinematography = [[Phil Méheux]]
+| editing        = Tom Lewis
+| studio         = {{Plainlist|
+* [[Walden Media]]
+* Spanknyce Films
+* [[Jonathan Mostow|Mostow/Lieberman Productions]]
+* 80 Days Productions Limited
+* [[Babelsberg Studio|Babelsberg Film GmbH]]
+* Fitzwilliam Productions Limited<ref name="shotinberlin">{{cite web|url=https://www.shotinberlin.de/de/katalog/film/2487|title=In 80 Tagen um die Welt|website=Shot in Berlin|access-date=4 February 2025}}</ref>
+}}
+| distributor    = {{Plainlist|
+* [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]{{efn|Released under the [[Walt Disney Pictures]] banner.}} (North America)
+* [[Entertainment Film Distributors]] (United Kingdom)<ref name="mojo">{{cite web|url=https://www.boxofficemojo.com/title/tt0327437|title=Around the World in 80 Days (2004)|website=[[Box Office Mojo]]|access-date=10 February 2025}}</ref>
+* [[UFA GmbH|Universum Film]] and [[Walt Disney Studios Motion Pictures#International distribution|Buena Vista International]] (Germany)<ref name="mojo"/><ref name="cineuropa">{{cite web|url=https://cineuropa.org/en/film/131469|title=Around the World in 80 Days|website=[[Cineuropa]]|access-date=4 February 2025}}</ref>
+* [[Summit Entertainment]] (international)<ref name="screendaily">{{cite web|title=Around the World in 80 Days|website=[[Screen International]]|first=Mike|last=Goodridge|date=18 June 2004|access-date=14 September 2021|url=https://www.screendaily.com/around-the-world-in-80-days/4019122.article}}</ref>
+}}
+| released       = {{Film date|df=y|2004|6|13|[[El Capitan Theatre]]|2004|6|16|United States|2004|7|9|United Kingdom and Ireland|2004|12|23|Germany}}
+| runtime        = 120 minutes<ref name="mojo"/>
+| country        = {{Plainlist|
+* United States<ref name="cineuropa"/>
+* United Kingdom<ref name="cineuropa"/>
+* Germany<ref name="cineuropa"/>
+* Ireland<ref name="cineuropa"/>
+}}
+| language       = {{Plainlist|
+* English
+* Cantonese
+* French
+* German
+* Hindi
+* Turkish<ref name="shotinberlin"/>
+}}
+| budget         = $110 million<ref name="mojo"/>
+| gross          = $72.6 million<ref name="mojo"/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. -->
+
+Chinese thief Lau Xang robs a [[Jade]] [[Buddharupa|Buddha]] from the [[Bank of England]] belonging to [[William Thomson, 1st Baron Kelvin|Lord Kelvin]], head of the [[Royal Society|Royal Academy of Science]], given to him by extremist group the Black Scorpions in exchange for providing military assistance to their cause. Lau Xang seeks refuge with inventor [[Phileas Fogg]]; giving his name as "[[Jean Passepartout|Passepartout]]", he is hired as Fogg's [[valet]] and assists testing his inventions. Fogg's eccentric ways are mocked by members of the Royal Academy and, when he calculates it is possible to circumnavigate the world in eighty days, Kelvin - who stands on tradition over ambition and innovation - offers to vacate his position in favour of Fogg if he is able to do so, but if he can not Fogg must cease scientific pursuits.
+
+Fogg accepts and is joined by Passepartout, who sees the endeavor as a way of returning home. The two journey to [[Paris]], where Fogg encounters impressionist painter Monique La Roche and Passepartout finds he is being pursued by General Fang, who Kelvin has ordered to retrieve the Jade Buddha. Monique flees with the two men in a [[hot-air balloon]], and they continue the journey by train. Monique learns Passepartout's true intentions - that he is travelling with Fogg in order to return the Jade Buddha, which was stolen from his village - and promises to keep his secret if he allows her to continue travelling with them.
+
+Arriving in [[Istanbul]], they are thrown a banquet by Prince Hapi, who seeks to make Monique his seventh wife. Fogg and Passepartout get him to release Monique by threatening to destroy his statue of "[[The Thinker]]"; Hapi agrees but the statue is still broken, and the trio flee for their lives. Kelvin learns that Passepartout is the bank thief and orders colonial authorities in [[British Raj|India]] to arrest him and Fogg. The trio avoid capture by the Black Scorpions and escape to [[Qing China|China]] where Fogg learns the truth about Lau Xang after arriving in his village of [[Lanzhou]]. The village is seized by the Black Scorpions and Lau Xang challenges their leader, defeating him with the help of his fellow "[[Ten Tigers of Canton]]", and the Jade Buddha is returned to the village temple.
+
+Feeling his trust in his companions has been betrayed, Fogg continues on alone and reaches [[San Francisco]], where he has all his money stolen, and days later is found destitute by Lau Xang and Monique, who have followed him. Reunited, the trio cross America, encountering the [[Wright Brothers]] testing their prototype flying machine on their way to [[New York Harbor]], where they are ambushed by General Fang. Lau Xang offers to hold her off so Fogg and Monique can board the boat that will get them to London on time; however, they decide to assist him in defeating Fang, but in doing so miss the boat. 
+
+The trio board a smaller boat which runs out of coal en route to London, prompting Fogg to construct a flying machine based on the Wright Brothers' plans. The flying machine is catapulted to London, crash-landing outside the Royal Academy. The clock strikes noon and Kelvin proclaims himself the victor, but when his attempts to interfere in Fogg's attempt are discovered, [[Victoria of the United Kingdom|Queen Victoria]] has him arrested. Fogg is despondent about having lost the wager until he realizes he didn't factor in crossing the [[International Date Line]]; realizing they arrived back in London with a day to spare, the trio and the rest of London joyously celebrate Fogg's success.

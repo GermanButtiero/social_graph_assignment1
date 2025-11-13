@@ -1,0 +1,49 @@
+{{Infobox film
+| image          = Spirited Away Japanese poster.png
+| alt            = Chihiro, dressed in bathhouse work clothes is standing in front of an image containing a group of pigs and the city behind her. Text below reveal the title and film credits, with the tagline to Chihiro's right.
+| caption        = Theatrical release poster
+| native_name    = {{Infobox Japanese| kanji = 千と千尋の神隠し
+| revhep = Sen to Chihiro no Kamikakushi}}
+| director       = [[Hayao Miyazaki]]
+| writer         = Hayao Miyazaki
+| producer       = [[Toshio Suzuki]]
+| starring       = <!-- Order per poster. -->{{Plainlist|
+* [[Rumi Hiiragi]]
+* [[Miyu Irino]]
+* [[Mari Natsuki]]
+* Takashi Naito
+* [[Yasuko Sawaguchi]]
+* [[Tsunehiko Kamijō]]
+* Takehiko Ono
+* [[Bunta Sugawara]]
+}}
+| cinematography = Atsushi Okui
+| editing        = [[Takeshi Seyama]]
+| music          = [[Joe Hisaishi]]
+| studio         = [[Studio Ghibli]]
+| distributor    = [[Toho]]
+| released       = {{Film date|df=y|2001|7|20}}
+| runtime        = 125 minutes<!--Theatrical runtime: 124:33--><ref>{{cite web |url=https://bbfc.co.uk/releases/spirited-away-2003 |title=''Spirited Away'' (PG) |work=[[British Board of Film Classification]] |date=14 August 2003 |access-date=23 January 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150128112058/http://bbfc.co.uk/releases/spirited-away-2003 |archive-date=28 January 2015 |df=dmy-all}}</ref>
+| country        = Japan
+| language       = Japanese
+| budget         = <!-- This is the reported PRODUCTION budget that is recorded in this citation. -->$19.2 million<ref name="howe" /><ref>{{cite news |last=Herskovitz |first=Jon |title='Mononoke' creator Miyazaki toons up pic |url=https://variety.com/1999/film/news/mononoke-creator-miyazaki-toons-up-pic-1117759995/ |access-date=24 February 2020 |work=Variety |date=15 December 1999 |archive-date=24 February 2020 |archive-url=https://web.archive.org/web/20200224222818/https://variety.com/1999/film/news/mononoke-creator-miyazaki-toons-up-pic-1117759995/ |url-status=live}}</ref>
+| gross          = $396 million{{Efn|''Spirited Away''{{'}}s Worldwide Box Office:
+* Original Run including re-release until Studio Ghibil Fest 2020 {{ndash}} {{US$|395,580,000|link=yes}} ({{JPY|47,030,975,000|link=yes}})<ref name="Spirited Away Gross 2020">{{Cite web |last=Harding |first=Daryl |title=Demon Slayer: Mugen Train Overtakes Your Name to Become 2nd Highest-Grossing Anime Film of All Time Worldwide |url=https://www.crunchyroll.com/anime-news/2021/02/15/demon-slayer-mugen-train-overtakes-your-name-to-become-2nd-highest-grossing-anime-film-of-all-time-worldwide |access-date=15 February 2021 |website=Crunchyroll |language=en-us |archive-date=15 February 2021 |archive-url=https://web.archive.org/web/20210215113358/https://www.crunchyroll.com/anime-news/2021/02/15/demon-slayer-mugen-train-overtakes-your-name-to-become-2nd-highest-grossing-anime-film-of-all-time-worldwide |url-status=live}}</ref>
+* 2021 re-release in Spain {{ndash}} {{Currency|186,772|EUR}}<ref>{{Cite web |last=España |first=Taquilla |date=24 May 2021 |title=El viaje de Chihiro |url=https://www.taquillaespana.es/peliculas/el-viaje-de-chihiro/ |url-status=live |access-date=2 July 2021 |website=TAQUILLA ESPAÑA |language=es-ES |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709181323/https://www.taquillaespana.es/peliculas/el-viaje-de-chihiro/}}</ref> ({{US$|222,070|2021|link=yes}})<ref>{{Cite web |title=Spirited Away 2021 Re-release (Spain) |url=https://www.boxofficemojo.com/release/rl813662977/weekend/ |url-status=live |access-date=30 June 2021 |website=Box Office Mojo |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709181345/https://www.boxofficemojo.com/release/rl813662977/weekend/}}</ref>|name=Spirited Away Worldwide Box Office Collection}}
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words only. Please check the word count before making any additions. Please discuss any major changes on the talk page. -->
+Ten-year-old Chihiro Ogino and her parents Akio and Yūko travel to their new home. Akio, taking a shortcut, stops in front of a tunnel leading to what appears to be an abandoned [[resort town]], which Yūko insists on exploring over Chihiro's protestations. Upon finding a seemingly empty restaurant stocked with food, Chihiro's parents immediately begin to eat. While exploring further, Chihiro finds an enormous [[Sentō|bathhouse]] and meets a boy named Haku, who warns her to return across the riverbed before sunset. However, spirits begin to appear, and Chihiro discovers that her parents have been transformed into pigs and that she cannot cross the now-flooded river.
+
+Haku finds Chihiro and instructs her to ask for a job from the bathhouse's boiler-man, Kamaji, a [[yōkai]] spirit commanding soot sprites known as [[susuwatari]]. Kamaji instead asks a worker named Lin to bring Chihiro to Kamaji's master Yubaba, the witch who runs the bathhouse and who cursed Chihiro's parents. Yubaba tries to frighten Chihiro away but eventually gives her a work contract. As Chihiro signs the contract with her name ({{lang|ja|千尋}}), Yubaba takes away the second [[kanji]] in her name, renaming her {{nihongo|Sen|千}}. She soon forgets her real name, and Haku later explains that Yubaba controls people by taking their names; if Chihiro completely forgets hers like he once did, she will never be able to leave the spirit world.
+
+The other workers, except for Kamaji and Lin, frequently mock Sen. While working, she invites a silent creature named No-Face inside, believing him to be a customer. The spirit of a polluted river arrives as Sen's first customer. After she cleans him, he gives her a magic [[emetic]] dumpling as a token of gratitude. Meanwhile, No-Face demands food from the bathhouse workers, granting gold copied from the river spirit in exchange. However, when Sen declines the gold and leaves to find Haku, No-Face angrily swallows some workers.
+
+Sen sees paper [[shikigami]] spirits attacking a dragon and recognizes the dragon as a metamorphosed Haku. When the seriously injured Haku crashes into Yubaba's penthouse, Sen follows him upstairs. A shikigami that stowed away on her back shapeshifts into Yubaba's twin sister Zeniba, who turns Yubaba's son, Boh, into a mouse and creates a false copy of him. Zeniba tells Sen that Haku has stolen a magic golden seal from her that carries a deadly curse. Haku strikes the shikigami, causing Zeniba to vanish. Sen and Haku fall into the boiler room, where she feeds him part of the emetic dumpling. He vomits up the seal and a slug that a disgusted Sen kills.
+
+Sen resolves to return the seal and apologize to Zeniba. She confronts an engorged No-Face and feeds him the rest of the dumpling, forcing him to regurgitate the workers. No-Face follows Sen out of the bathhouse, and Lin helps them leave. Sen, No-Face, and Boh travel to see Zeniba using train tickets from Kamaji. Meanwhile, Yubaba nearly orders Sen's parents slaughtered, but Haku reveals Boh is missing and offers to retrieve him if Yubaba releases Sen and her parents. Yubaba agrees, but only if Sen can pass a final test.
+
+The train crosses a sea to a land where Sen meets Zeniba, who reveals that Yubaba used the slug to control Haku. Zeniba tells Sen that she can't help her parents, but she makes her a magic protective hairband. Using his dragon form, Haku flies Sen and Boh back, while No-Face decides to stay with Zeniba. Mid-flight, Sen recalls falling into the Kohaku River years earlier and being washed safely ashore, correctly guessing Haku's real identity as the spirit of the Kohaku River and restoring his memory.
+
+When they arrive at the bathhouse, Yubaba tests Sen, asking her to identify her parents among a group of pigs. After she answers correctly that none of the pigs are her parents, her contract disappears and she is given back her real name. Haku takes her to the now-dry riverbed and vows to meet her again. Chihiro crosses the riverbed to her restored parents. Shortly before leaving for her new home, Chihiro looks back at the tunnel, still wearing her hairband from Zeniba.

@@ -1,0 +1,43 @@
+{{Infobox film
+| name           = Flight of the Navigator
+| image          = Flightofnavigatorpost.jpg
+| caption        = Theatrical release poster
+| director       = [[Randal Kleiser]]
+| producer       = {{Plainlist|
+* Dimitri Villard
+* Robert Wald
+}}
+| screenplay     = {{Plainlist|
+* Michael Burton
+* [[Phil Joanou]] (as Matt MacManus)
+}}
+| story          = Mark H. Baker
+| starring       = {{Plainlist|
+* [[Joey Cramer]]
+*}}
+| music          = [[Alan Silvestri]]
+| cinematography = [[James Glennon]]
+| editing        = {{Plainlist|
+* [[Jeff Gourson]]
+* Janice Parker
+}}
+| studio         = <!--Disney did not produce the film, they only handled distribution-->[[Producers Sales Organization|PSO Productions]]<br />Viking Film AS<ref name="mark">{{cite book|author1=Mark Damon|author2=Linda Schreyer|title=From Cowboy to Mogul to Monster: The Neverending Story of Film Pioneer Mark Damon|year=2008|publisher=AuthorHouse|location=Bloomington, Indiana|isbn=978-1-4343-7737-1|pages=376}}</ref><ref name="viking">{{cite news|title= Commentary : Computer Graphics Shows Its Stuff|newspaper= [[Los Angeles Times]]|date=1987-08-01|author=Charles Solomon|url= https://www.latimes.com/archives/la-xpm-1987-08-01-ca-267-story.html|access-date=2012-06-10}}</ref>
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution Co.]] (United States)<br />PSO Productions (International)<ref name="mark"/>{{efn|Buena Vista/Walt Disney Studios Motion Pictures only have North American and theatrical UK distribution rights. Copyright to the film still rests at PSO.}}
+| released       = {{Film date|1986|8|1}}<ref>{{cite news|url=https://www.variety.com/profiles/Film/main/26763/Flight%20of%20the%20Navigator.html?dataSet=1|title=Flight of the Navigator - 1986 - Joey Cramer, Randal Kleiser - Variety Profiles|work=Variety|date=July 30, 1986|access-date=December 20, 2009}} {{Dead link|date=September 2010|bot=RjwilmsiBot}}</ref>
+| runtime        = 90 minutes
+| country        = United States<ref>{{cite web |url= https://www2.bfi.org.uk/films-tv-people/4ce2b71907468 |archive-url= https://web.archive.org/web/20170803212925/http://www.bfi.org.uk/films-tv-people/4ce2b71907468 |url-status= dead |archive-date= August 3, 2017 |title = Flight of the Navigator (1986) {{!}} BFI}}</ref>
+| language       = English
+| budget         = $9 million<ref>{{cite web|url=https://www.thewrap.com/project/flight-navigator-1986|title=Flight of the Navigator (1986)|publisher=Wrap News inc|website=The Powergrid|access-date=September 8, 2013|archive-url=https://web.archive.org/web/20160110175729/http://powergrid.thewrap.com/project/flight-navigator-1986|archive-date=January 10, 2016|url-status=dead|df=mdy-all}}</ref>
+| gross          = $18.6 million
+}}
+
+== Plot ==
+On July 4, 1978, in [[Fort Lauderdale, Florida]], 12-year-old David Freeman walks through the woods to pick up his 8-year-old brother, Jeff, from a friend's house, when he falls into a ravine because of a trick played on him by Jeff, and is knocked unconscious. When he revives, eight years have mysteriously passed, and it is now 1986. He has not aged, and his appearance exactly matches his [[missing child]] poster. He is reunited with his aged parents and the [[repentant]], now-16-year-old Jeff.
+
+Meanwhile, an alien spaceship crashes through power lines and is captured by [[NASA]]. Hospital tests on David's brainwaves reveal matching images of the spacecraft and map of its galaxy origins. Dr. Louis Faraday, who has been studying it, persuades David to come to a NASA research facility for just 48 hours, promising him they can help learn what happened to him. Dr. Faraday discovers that his mind is full of alien technical manuals and star charts far exceeding NASA's research and that he was taken to the planet Phaelon and back, with a roundtrip distance of 1,120 light years, in just 4.4 hours (corresponding to a velocity travelled of 140c, where c is the speed of light, if estimated by using the Alcubierre “warp” metric<ref>{{cite journal | last1=Alcubierre | first1=Miguel | title=The warp drive: Hyper-fast travel within general relativity | journal=Classical and Quantum Gravity | date=1994 | volume=11 | issue=5 | pages=L73–L77 | doi=10.1088/0264-9381/11/5/001 | arxiv=gr-qc/0009013 }}</ref>). Travel at relativistic, or faster than light (FTL) speeds, causes an individual to experience [[time dilation]]. This is the case for David, explaining how eight years have passed on Earth, but only 4.4 hours for him. Dr. Faraday decides to quarantine him there to finish his investigation, breaking his initial 48-hour promise.
+
+Following a telepathic communication from the spaceship, David secretly boards it and meets its robotic commander, who introduces himself as a Trimaxion Drone Ship. David decides to call him "Max", while Max calls him the "Navigator". They escape from the facility and Max tells David that his mission is to travel the galaxy collecting biological specimens for analysis on Phaelon before returning them to their homes. Phaelon's scientists discovered that [[Ten percent of the brain myth|humans only use 10% of their brains]], and as an experiment, filled the remainder of David's with miscellaneous information. Max returned him to Earth, but Earth of 1986, having determined a trip back in time would be dangerous for a human. When Max crashed the spaceship, the computer's databanks were erased. So, he needs the information in David's brain to return home.
+
+While Max prepares for a mind transfer, David meets other alien specimens on board and bonds with a puckmaren, a tiny bat-like creature that is the last of its kind after a comet destroyed its planet. During the mind transfer, Max contracts human emotions and behaves eccentrically.  David and his bickering trigger UFO reports in Tokyo and the United States. Meanwhile, NASA intern Carolyn McAdams, who befriended David, tells his family about his escape in the spaceship, so Dr. Faraday has them confined to their house, and Carolyn is sent back to the facility.
+
+When the spaceship stops at a gas station, David calls Jeff, who sets off fireworks on the roof to locate their new house. David and Max arrive there, but NASA agents have tracked the spaceship. Fearing that he will be institutionalized and treated like a [[guinea pig]] for the rest of his life should he remain in 1986, David orders Max to return him to 1978, accepting the risk of vaporization due to the time travel. David awakes in the ravine, walks home, and finds everything now as he had left it. During the Fourth of July celebration, Jeff sees that the puckmaren has stowed away in David's backpack. David tells him to keep it a secret, while Max flies home across the fireworks-lit sky, laughing similarly to [[Pee-wee Herman]] and calls, "See you later, navigator!"

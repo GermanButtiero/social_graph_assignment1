@@ -1,0 +1,42 @@
+{{Infobox film
+| name           = The Shaggy Dog
+| image          = The Shaggy Dog (2006 movie poster).jpg
+| caption        = Theatrical release poster
+| director       = [[Brian Robbins]]
+| producer       = {{Plainlist|
+* [[Tim Allen]]
+* [[David Hoberman]]
+* [[Robert Simonds]]
+}}
+| screenplay    = {{ubl|[[Cormac and Marianne Wibberley|The Wibberleys]]|[[Geoff Rodkey]]|[[Jack Amiel]]|[[Michael Begler]]}}
+| based_on       = {{ubl|{{based on|''[[The Shaggy Dog (1959 film)|The Shaggy Dog]]''|[[Bill Walsh (producer)|Bill Walsh]]|[[Lillie Hayward]]}}|{{based on|''[[The Shaggy D.A.]]''|Don Tait}}|{{based on|''[[The Hound of Florence]]''|[[Felix Salten]] {{small|{{abbr|(uncr.)|uncredited}}}}}}}}
+| starring       = <!-- PER POSTER BILLING BLOCK -->{{ubl|Tim Allen|[[Robert Downey Jr.]]|[[Kristin Davis]]|[[Danny Glover]]|[[Spencer Breslin]]|[[Philip Baker Hall]]}}<!-- PER POSTER BILLING BLOCK -->
+| music          = [[Alan Menken]]
+| cinematography = [[Gabriel Beristain]]
+| editing        = Ned Bastille
+| studio         = {{ubl|[[Walt Disney Pictures]]|[[Mandeville Films]]|Boxing Cat Films|[[Tollin/Robbins Productions]]|[[Robert Simonds Productions]]}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{film date|2006|3|10}}
+| runtime        = 99 minutes
+| country        = United States
+| language       = English
+| budget         = $50 million<ref name=NUM/>
+| gross          = $87.1 million<ref name=NUM>{{cite web|url=https://www.the-numbers.com/movie/Shaggy-Dog-The-(2006)#tab=summary|title=Nine Lives (2006)|website=[[Box Office Mojo]]|access-date=January 31, 2017}}</ref>
+}}
+
+==Plot==
+In [[Los Angeles County]], deputy [[district attorney]] Dave Douglas is prosecuting social studies teacher and activist Justin Forrester for firebombing the pharmaceutical corporation Grant and Strictland. Forrester denies this but claims that the corporation has been engaging in illegal animal experimentation. This distances Dave from his 17-year-old daughter Carly, one of Forrester's students.
+
+[[Geneticist]]s working for company president Lance Strictland, led by Dr. Marcus Kozak, have stolen Khyi Yang Po, a 300-year-old [[Vajrayana Buddhism in Southeast Asia#Candi Sukuh|sacred dog]] (a [[Bearded Collie]]) from a [[Tibet]]an monastery. Khyi Yang Po's genetic sequence, when isolated and put into a vaccination, alters the cells and DNA of a victim.
+
+Carly brings the dog, whom she calls 'Shaggy', home. Returning from work, Dave takes Shaggy out in the garage, then the dog runs to get the newspaper. The dog gives him his newspaper, and Dave reaches for it, only to be bitten on the hand by Shaggy. Its saliva and cells infect Dave. Shaggy is taken to be tested for rabies and the tests came back negative. Over the next days, Dave realizes that he uncontrollably transforms into a sheepdog like Shaggy when prompted by distractions and activities typical of a dog, such as a stick thrown through the air and chasing cats. These transformations can be reversed by sleeping. His family, unaware of Dave's condition, continue housing Dave as a dog, thinking that it is Shaggy.
+
+In the ongoing trial, Forrester testifies to seeing the animals behaving like dogs and the presence of a dog he identifies as a giant sheepdog, sparking Dave's suspicions about Grant and Strictland. When his dog-like behavior annoys the judge, Dave is removed from the case. Seeking answers to his transformation, Dave heads to Grant and Strictland. He has a homeless man help him transform so that he may sneak in through a vent. Hidden in the laboratory, Dave witnesses Kozak injecting Strictland with a [[Induced coma|drug that will paralyze him]] for months, giving Kozak time to usurp control of the company. Viewing security cameras, Kozak and his minions realize that Dave can transform into a copy of Shaggy.
+
+Dave returns home, still in his canine form, and overhears a conversation between Carly and her 12-year-old brother Josh. They say that their parents (Dave and his wife Rebecca) may be splitting up. Dave knocks over a [[Scrabble|Scrabble game]] and uses the letters to reveal his identity to his kids. While getting out of the house, Dave is tased by Kozak's minions. His kids attempt to save him, but end up picking up Shaggy instead and rush to Rebecca at work to report recent events.
+
+Dave is taken to the laboratory to be euthanized, but Kozak has a court summons and must deal with Dave later. Before exiting, Kozak mocks Dave in canine form. Enraged, Dave bites Kozak. The other mutated animals in the laboratory tell Dave to meditate to reverse his transformation. Dave succeeds in returning to human form and escapes with the other animals. He drives to the courthouse and calls Rebecca to ready a change of clothes for him at the courthouse, but is forced to abandon the car with the animals when they get stuck in traffic. Dave runs on all fours to trigger his transformation and get to the courthouse in time. At the courthouse entrance, his attempts to tell Rebecca that he loves her allow him to transform back.
+
+In the courtroom, Dave mocks Kozak by implying that he was working under Strictland's shadow and angers him. The two begin growling at each other, and the judge, exasperated by Dave's canine behavior, orders the [[bailiff]] to remove him. Dave grabs the bailiff's baton and tells Kozak to fetch it. This triggers a partial transformation in Kozak and thus implicates him in illegal and unethical experimentation. The pharmaceutical company is returned to Strictland, and the mutant animals enter protective custody.
+
+Dave's family later vacations with Shaggy in Hawaii. There, Josh tosses a frisbee, and Dave catches it with his mouth.

@@ -1,0 +1,50 @@
+{{Infobox film
+| name = Fantasia
+| image = Fantasia1940.jpg
+| alt =
+| caption = Theatrical release poster
+| director = {{plainlist|
+* Samuel Armstrong
+* [[James Algar]]
+* Bill Roberts
+* Paul Satterfield
+* [[Ben Sharpsteen]]
+* [[David Hand (animator)|David D. Hand]]
+* [[Hamilton Luske]]
+* Jim Handley
+* [[Ford Beebe]]
+* [[T. Hee]]
+* [[Norm Ferguson (animator)|Norman Ferguson]]
+* [[Wilfred Jackson]]}}
+| story = {{plainlist|
+* [[Joe Grant]]
+* [[Dick Huemer]]}}
+| producer = {{plainlist|
+* [[Walt Disney]]
+* Ben Sharpsteen}}
+| starring = {{plainlist|
+* [[Leopold Stokowski]]
+* [[Deems Taylor]]}}
+| cinematography = [[James Wong Howe]]
+| music = [[#Plot|''See plot'']]
+| studio = [[Walt Disney Productions]]
+| distributor = [[RKO Radio Pictures]]
+| released = {{Film date|1940|11|13|ref3=<ref>{{cite web |url=https://catalog.afi.com/Film/27633-FANTASIA?sid=c1d01ae7-bdaa-499e-a3cf-ab5e416be9f3&sr=17.80453&cp=1&pos=0 |title=Fantasia |website=[[AFI Catalog of Feature Films]] |access-date=April 14, 2014}}</ref>}}
+| runtime = 126 minutes<!--Theatrical runtime: 126:14--><ref>{{cite web|title=''Fantasia'' (U)|url=https://www.bbfc.co.uk/releases/fantasia-1970-2|archive-url=https://web.archive.org/web/20140110182548/http://www.bbfc.co.uk/releases/fantasia-1970-2|url-status=dead|archive-date=January 10, 2014|publisher=[[British Board of Film Classification]]|date=July 21, 1941|access-date=January 10, 2014}}</ref>
+| country = United States
+| language = English
+| budget = $2.28 million{{sfn|Goldmark|Taylor|2002|p=88}}<ref name=pitts82/>
+| gross = $76.4–$83.3 million (United States and Canada)<ref>{{Cite Box Office Mojo |id=0032455 |title=Fantasia |access-date=January 10, 2022}}</ref><ref>{{Cite The Numbers |id=Fantasia |title=Fantasia |access-date=January 10, 2022}}</ref>
+}}
+
+== Plot ==
+[[File:Fantasia theatrical trailer.png|thumb|right|Title screen in the original theatrical trailer]]
+''Fantasia'' opens with live-action scenes of members of an orchestra gathering against a blue background and tuning their instruments in half-light, half-shadow. Master of ceremonies Deems Taylor enters the stage (also in half-light, half-shadow) and introduces the program.
+* [[Toccata and Fugue in D minor, BWV 565|Toccata and Fugue in D Minor]] by [[Johann Sebastian Bach]]. Live-action shots of the orchestra illuminated in blue and gold, backed by [[superimposed]] shadows, fade into [[abstract art|abstract]] patterns. Animated lines, shapes and cloud formations reflect the sound and rhythms of the music.{{sfn|Culhane|1983|p=35}}
+* ''[[The Nutcracker|The Nutcracker Suite]]'' by [[Pyotr Ilyich Tchaikovsky]]. Selections from the 1892 ballet suite underscore scenes depicting the changing of the seasons from summer to autumn to winter. A variety of dances are presented with fairies, fish, flowers, mushrooms, and leaves, including "Dance of the Sugar Plum Fairy", "Chinese Dance", "Arabian Dance", "Russian Dance", "Dance of the Flutes" and "Waltz of the Flowers".{{sfn|Culhane|1983|p=45}}
+* ''[[The Sorcerer's Apprentice (Dukas)|The Sorcerer's Apprentice]]'' by [[Paul Dukas]]. Based on [[Johann Wolfgang von Goethe|Goethe]]'s 1797 poem "[[Der Zauberlehrling]]". [[Mickey Mouse]], the young apprentice of the sorcerer [[Yen Sid]], attempts some of his master's magic tricks but does not know how to control them.{{sfn|Culhane|1983|p=79}}
+* ''[[The Rite of Spring]]'' by [[Igor Stravinsky]]. A visual history of the Earth's beginnings is depicted to selected sections of the ballet score. The sequence progresses from the planet's formation to the first living creatures, followed by the reign and extinction of the [[dinosaur]]s.{{sfn|Culhane|1983|p=107}}
+* [[Intermission]]/''Meet the Soundtrack'': The orchestra musicians depart and the ''Fantasia'' title card is revealed. After the intermission there is a brief [[jam session]] of jazz music led by a clarinettist as the orchestra members return. Then a humorously stylized demonstration of how sound is rendered on film is shown. An animated sound track "character", initially a straight white line, changes into different shapes and colors based on the sounds played.{{sfn|Culhane|1983|pp=128–132}}
+* ''[[Symphony No. 6 (Beethoven)|The Pastoral Symphony]]'' by [[Ludwig van Beethoven]]. A mythical Greco–Roman world of colorful centaurs and "[[Centaurides|centaurettes]]", cupids, fauns and other figures from [[classical mythology]] is portrayed to Beethoven's music. A gathering for a festival to honor [[Dionysus|Bacchus]], the god of wine, is interrupted by [[Zeus]], who creates a storm and directs [[Vulcan (mythology)|Vulcan]] to forge lightning bolts for him to throw at the attendees.{{sfn|Culhane|1983|p=133}}
+* ''[[Dance of the Hours]]'' by [[Amilcare Ponchielli]]. A comic ballet in four sections: Madame Upanova and her ostriches (Morning); Hyacinth Hippo and her servants (Afternoon); Elephanchine and her bubble-blowing elephant troupe (Evening); and Ben Ali Gator and his troop of alligators (Night). The finale finds all of the characters dancing together until their palace collapses.{{sfn|Culhane|1983|p=161}}
+* ''[[Night on Bald Mountain]]'' by [[Modest Mussorgsky]] and ''[[Ave Maria (Schubert)|Ave Maria]]'' by [[Franz Schubert]]. On [[Walpurgis Night]], the giant devil [[Chernabog]] awakes and summons evil spirits and restless souls from their graves to [[Bald Mountain (folklore)|Bald Mountain]]. The spirits dance and fly through the air until driven back by the sound of an [[Angelus bell]] as night fades into dawn. A chorus is heard singing ''Ave Maria'' as a line of robed monks is depicted walking with lighted torches through a forest and into the ruins of a cathedral.{{sfn|Culhane|1983|p=181}}

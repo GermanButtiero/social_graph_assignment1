@@ -1,0 +1,75 @@
+{{Infobox film
+| image          = The Lion King poster.jpg
+| alt            = In an African savannah, several animals stare at a lion atop a tall rock. A lion's head can be seen in the clouds above. Atop the image is the text "Walt Disney Pictures presents The Lion King".
+
+| caption        = Theatrical release poster by [[John Alvin]]
+| director       = {{Plainlist|
+* [[Roger Allers]]
+* [[Rob Minkoff]]
+}}
+| screenplay     = {{Plainlist|
+* [[Irene Mecchi]]
+* [[Jonathan Roberts (writer)|Jonathan Roberts]]
+* [[Linda Woolverton]]
+}}
+| story          = {{Plainlist|
+* Barry Johnson
+* [[Andy Gaskill]]
+* Kevin Harkey
+* [[Tom Sito]]
+* Rick Maki
+* [[Burny Mattinson]]
+* Lorna Cook
+* [[Gary Trousdale]]
+* [[Jorgen Klubien]]
+* Larry Leker
+* Ed Gombert
+* Mark Kausler
+* Thom Enriquez
+* [[Jim Capobianco]]
+* [[Chris Sanders]]
+* [[Joe Ranft]]
+* [[Francis Glebas]]
+}}
+| producer       = [[Don Hahn]]
+| starring       = {{Plainlist|
+* [[Jonathan Taylor Thomas]]
+* [[Matthew Broderick]]
+* [[James Earl Jones]]
+* [[Jeremy Irons]]
+* [[Moira Kelly]]
+* Niketa Calame
+* [[Ernie Sabella]]
+* [[Nathan Lane]]
+* [[Robert Guillaume]]
+* [[Rowan Atkinson]]
+* [[Whoopi Goldberg]]
+* [[Cheech Marin]]
+* [[Jim Cummings]]
+* [[Madge Sinclair]]
+}}
+| editing        = Ivan Bilancio
+| music          = [[Hans Zimmer]]
+| production_companies = [[Walt Disney Feature Animation]]
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|1994|6|15|[[El Capitan Theatre]]|1994|6|24|United States}}
+| runtime        = 88 minutes<ref name=Runtime>{{cite web|title=''The Lion King'' (U)|url=https://www.bbfc.co.uk/releases/lion-king-9|work=[[British Board of Film Classification]]|access-date=July 21, 2013|archive-date=September 21, 2013|archive-url=https://web.archive.org/web/20130921053405/http://www.bbfc.co.uk/releases/lion-king-9|url-status=dead}}</ref>
+| country        = United States
+| language       = English
+| budget         = $45&nbsp;million<ref name="mojo" />
+| gross          = $979&nbsp;million<ref name="mojo" />
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+In the Pride Lands of [[Tanzania]], a pride of lions rules over the kingdom from Pride Rock. King [[Mufasa]] and Queen [[List of characters in The Lion King#Sarabi|Sarabi]]'s newborn son, [[Simba]], is presented to the gathered animals by [[List of characters in The Lion King#Rafiki|Rafiki]], the [[mandrill]] who serves as the kingdom's [[shaman]] and advisor. Mufasa's younger brother, [[Scar (The Lion King)|Scar]], covets the throne and plots to eliminate Mufasa and Simba so that he may become king.
+
+When Simba grows into a young cub, Mufasa shows him the Pride Lands and forbids him from exploring beyond its borders. Mufasa explains to Simba the responsibilities of kingship and the "circle of life," which connects all living things. Scar manipulates Simba into exploring an [[elephants' graveyard]] beyond the Pride Lands. There, Simba and his best friend, [[Nala (The Lion King)|Nala]], are chased by three [[spotted hyena]]s named [[List of characters in The Lion King#Shenzi, Banzai, and Ed|Shenzi, Banzai, and Ed]]. Mufasa is alerted by his [[majordomo]], the hornbill [[List of characters in The Lion King#Zazu|Zazu]], and rescues the cubs. Though disappointed in Simba for disobeying him and endangering himself and Nala, Mufasa forgives him. He explains that the great kings of the past watch over them from the night sky, from which he will one day watch over Simba. Scar visits the hyenas and [[Be Prepared (song)|convinces]] them to help him kill Mufasa and Simba in exchange for hunting rights in the Pride Lands.
+
+Scar sets a trap for Simba and Mufasa. He lures Simba into a gorge and signals the hyenas to drive a large herd of [[wildebeest]] into a [[stampede]] to trample him. Scar alerts Mufasa, who saves Simba and tries to escape the gorge; he begs Scar for help, but Scar betrays him by throwing him into the stampede to his death. Scar then deceives Simba into believing that Mufasa's death was his fault and tells him to leave the kingdom and never return. He orders the hyenas to kill Simba, but Simba escapes. Unaware of Simba's survival, Scar tells the pride that the stampede killed both Mufasa and Simba, and steps forward as the new king, allowing the hyenas into the Pride Lands.
+
+Simba collapses in a desert but is rescued by two outcasts, a [[meerkat]] and a [[common warthog|warthog]] named [[Timon and Pumbaa]]. Simba grows up with his two new friends in their [[oasis]], living a carefree life under their motto "[[hakuna matata]]" ("no worries" in [[Swahili language|Swahili]]). Years later, an adult Simba rescues Timon and Pumbaa from a hungry lioness, who is revealed to be Nala. Simba and Nala [[Can You Feel the Love Tonight|fall in love]], and she urges him to return home, telling him that the Pride Lands have become [[drought]]-stricken under Scar's reign. Still feeling guilty over Mufasa's death, Simba refuses and leaves angrily. He encounters Rafiki, who tells Simba that Mufasa’s spirit lives on in him. Simba is visited by the spirit of Mufasa in the night sky, who tells him that he must take his place as king. After Rafiki advises him to learn from the past instead of running from it, Simba decides to return to the Pride Lands.
+
+Aided by his friends, Simba sneaks past the hyenas at Pride Rock and confronts Scar, who shames Simba over his supposed role in Mufasa’s death. Scar then reveals to Simba that he killed Mufasa. Enraged, Simba retaliates and forces Scar to confess the truth to the pride. A battle ensues between Simba and his allies and the hyenas. Scar attempts to escape but is cornered by Simba at a ledge near the top of Pride Rock. Scar begs for mercy and attempts to deceive Simba by blaming his actions on the hyenas. Simba spares Scar's life but orders him to leave the Pride Lands forever. Scar refuses and attacks Simba. Following a brief battle, Simba throws Scar off the ledge. Scar survives the fall, but the hyenas, who overheard him betraying them, attack and maul him to death.
+
+With Scar and the hyenas gone, Simba takes his place as king, and Nala becomes his queen. With the Pride Lands restored, Rafiki presents Simba and Nala's newborn cub to the assembled animals, thus continuing the circle of life.

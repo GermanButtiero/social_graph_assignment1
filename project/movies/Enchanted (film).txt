@@ -1,0 +1,60 @@
+{{Infobox film
+| name           = Enchanted
+| image          = Enchantedposter.jpg
+| alt            = 
+| caption        = Theatrical release poster by [[John Alvin]]
+| director       = [[Kevin Lima]]
+| producer      = {{Plainlist|
+* [[Barry Josephson]]
+* [[Barry Sonnenfeld]]
+}}
+| writer         = [[Bill Kelly (writer)|Bill Kelly]]
+| starring       = {{Plainlist|<!--- Per poster billing. --->
+* [[Amy Adams]]
+* [[Patrick Dempsey]]
+* [[James Marsden]]
+* [[Timothy Spall]]
+* [[Idina Menzel]]
+* [[Susan Sarandon]]
+}}
+| music          = [[Alan Menken]] <!-- Only list composers. -->
+| cinematography = [[Don Burgess (cinematographer)|Don Burgess]]
+| editing        = {{Plainlist|
+* Gregory Perler
+* [[Stephen A. Rotter]]
+}}
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Josephson Entertainment]]
+* [[Right Coast Productions]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures]]
+| released       = {{Film date|2007|10|20|[[London Film Festival|London]]|2007|11|21|United States}}
+| runtime        = 107 minutes<!--Theatrical runtime: 107:17--><ref>{{cite web | url=https://www.bbfc.co.uk/releases/enchanted-film | title=''Enchanted'' (PG) | work=[[British Board of Film Classification]] | date=September 14, 2007 | access-date=September 28, 2016 | archive-date=October 2, 2016 | archive-url=https://web.archive.org/web/20161002040644/https://www.bbfc.co.uk/releases/enchanted-film | url-status=dead }}</ref>
+| country        = [[United States]]
+| language       = English
+| budget         = $85 million<ref name="BW-2007jul05"/><ref name="BOMojo"/>
+| gross          = $340.5 million<ref name="BOMojo"/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. Please discuss any major changes on the talk page. -->
+In the [[Animated cartoon|animated]] [[fairy tale]] kingdom of Andalasia, the corrupt and ruthless Queen Narissa is determined to stay in power; her reign will end if her stepson, Prince Edward, ever gets married. Narissa enlists her loyal servant, Nathaniel, to help Edward hunt [[troll]]s to distract Edward from searching for his [[Chivalric romance|true love]].
+
+A young woman named [[Giselle (Enchanted)|Giselle]] lives in a forest and dreams of meeting a prince and experiencing a "[[happy ending|happily ever after]]." Edward hears Giselle singing and sets off to find her. Nathaniel frees a captured troll to kill Giselle, but Edward rescues her. She and Edward are instantly attracted to each other and plan to be married the following day.
+
+Narissa disguises herself as an old hag, intercepts Giselle on her way to the wedding, and pushes her into a well. Giselle turns into a [[live-action]] version of herself and is teleported to [[New York City]]'s [[Times Square]] where she becomes frightened and overwhelmed by the harshness and unfamiliarity of her new environment. Meanwhile, Robert Philip, a divorce lawyer, plans to propose to his girlfriend, Nancy. Robert and his six-year-old daughter, Morgan, encounter Giselle while taking a taxi home. Robert reluctantly allows Giselle to stay in his apartment at the insistence of Morgan, who believes that Giselle is a princess.
+
+Edward embarks on a mission to save Giselle, along with Giselle's [[chipmunk]] friend Pip; they jump down the well, turn into live-action versions of themselves, and emerge in Times Square. To his dismay, however, Pip discovers that he cannot speak in the real world. Meanwhile, Narissa sends Nathaniel to follow Edward and sabotage his efforts to find Giselle, and gives him three poisoned apples to use on Giselle, saying whoever eats one of the apples will fall into a deep sleep and die at midnight.
+
+Nancy arrives to take Morgan to school, and, after seeing Giselle, she assumes Robert has been unfaithful to her and leaves. Robert is initially angry at Giselle, but he ends up spending the day with her to help familiarize her with the city. Giselle questions Robert about his relationship with Nancy and helps the pair reconcile by sending her flowers and an invitation to a costume ball at the [[Woolworth Building]]. Nathaniel attempts to give Giselle a poisoned apple twice, but his attempts fail.
+
+Edward locates Giselle at Robert's apartment, but although he is eager to take her home to Andalasia and marry her, she suggests they should first go on a date and get to know each other better. Giselle promises to return to Andalasia after the ball that night, which Robert and Nancy also attend. Nathaniel reports his failure to poison Giselle to Narissa, who furiously decides to enter the real world and kill Giselle herself.
+
+At the ball, Robert and Giselle dance together. Nancy and Edward look on in dismay, noticing the chemistry between the pair, but also notice each other. Giselle and Edward then prepare to depart, but Giselle begins to feel guilty and anguished for leaving Robert behind. Shortly before midnight, Narissa appears in her old hag form, and offers the last poisoned apple to Giselle, promising that it will erase her memories of Robert. She takes a bite and immediately falls into a deep sleep.
+
+Narissa tries escaping with Giselle's body, but Edward thwarts her. Realizing that Narissa never cared about him, Nathaniel reveals her plot and apologizes for his previous actions. Robert realizes that [[true love's kiss]] is the only force powerful enough to break the apple's curse. Edward's kiss fails to wake Giselle, and the clock begins to chime, prompting Narissa to boast that Giselle will soon die. Edward realizes that Robert should kiss Giselle instead, but Robert is hesitant to do so until Nancy, despite being heartbroken, gives him her permission. 
+
+Robert kisses Giselle right before the stroke of midnight, waking her up. Enraged, Narissa transforms into a dragon and takes Robert hostage, prompting Giselle to take Edward's sword and pursue her to the top of the building to rescue Robert. Pip comes to support Giselle and causes Narissa to fall to her death on the streets below. Robert almost falls as well, but Giselle rescues him, and they share another kiss.
+
+Edward and Nancy fall in love and get married in Andalasia. Nathaniel, who stays in New York, and Pip, who returns to Andalasia (where he regains his ability to speak), write autobiographies based on their experiences in the real world. Giselle starts a fashion design business, which becomes very successful, and forms a happy family with Robert and Morgan.

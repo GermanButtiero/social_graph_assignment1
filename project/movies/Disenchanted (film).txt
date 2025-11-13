@@ -1,0 +1,66 @@
+{{Infobox film
+| image          = Disenchanted.jpg
+| caption        = Official release poster
+| director       = [[Adam Shankman]]
+| screenplay     = Brigitte Hales
+| story          = {{Plainlist|
+* J. David Stem
+* [[David N. Weiss]]
+* [[Richard LaGravenese]]
+}}
+| based_on       = {{Based on|Characters|[[Bill Kelly (writer)|Bill Kelly]]}}
+| producer       = {{Plainlist|
+* [[Barry Josephson]]
+* [[Barry Sonnenfeld]]
+* [[Amy Adams]]
+}}
+| starring       = {{Plainlist|<!--- Per end credits order --->
+* Amy Adams<!--Already wikilinked as a producer-->
+* [[Patrick Dempsey]]
+* [[Griffin Newman]]
+* [[Maya Rudolph]]
+* [[Yvette Nicole Brown]]
+* [[Jayma Mays]]
+* Gabriella Baldacchino
+* [[Idina Menzel]]
+* [[James Marsden]]
+}}
+| budget         = $127.1 million
+| cinematography = [[Simon Duggan]]
+| editing        = {{Plainlist|
+* [[Emma E. Hickox]]
+* [[Chris Lebenzon]]
+}}
+| music          = [[Alan Menken]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Barry Josephson|Josephson Entertainment]]
+* [[Barry Sonnenfeld|Right Coast Productions]]
+}}
+| distributor    = {{Plainlist|
+* [[Disney+]] (United States)
+* [[Walt Disney Studios Motion Pictures]] (International)
+}}
+| released       = {{Film date|2022|11|16|[[El Capitan Theatre]]|2022|11|18|United States}}
+| runtime        = 119 minutes<ref name="dga">{{Cite web|title=Find a Writer - Disenchanted|url=https://directories.wga.org/project/1206069/disenchanted/|access-date=2024-08-02|website=directories.wga.org|archive-url=https://web.archive.org/web/20220830161332/https://directories.wga.org/project/1206069/disenchanted/|archive-date=2022-08-30}}</ref>
+| country        = United States
+| language       = English
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. -->
+15 years after [[Enchanted (film)|the first film]], [[Giselle (Enchanted)|Giselle]], Robert, and Morgan Philip are living happily together with their baby Sofia. However, life in [[Manhattan]] is starting to drag on them, so Giselle plans to move the family to the suburban town of Monroeville. The moving brings poor first experiences for them: their new house needs renovations, Robert has to commute to continue his job, and Morgan feels like an outcast at her new school.
+
+King Edward and Queen Nancy visit from Andalasia via a well from the house's backyard. As Sofia's godparents, they present her with a wish-granting wand. Giselle meets Malvina Monroe, the arrogant head of the town council, and learns that she is hosting a fairy tale-themed ball where Malvina's son Tyson is the ball's elected prince. To help Morgan fit in, Giselle tries to get her elected as the ball's princess but ends up unintentionally embarrassing her, resulting in a falling out between them.
+
+After consulting with her chipmunk friend Pip, Giselle decides to use the wand to wish her family's life to be a "perfect fairy tale". By the next day, the town has transformed into a fantasy kingdom called Monrolasia. Morgan is happy with their new life, and Robert believes himself to be a brave adventurer. Malvina is now the town's evil queen with magical powers. Giselle also discovers uncharacteristically haughty behavior and finds pleasure in mistreating Morgan. Realizing she is slowly turning into a wicked stepmother, she asks for help from the magic wand's instruction scroll. The scroll reveals Giselle's wish is using up Andalasia's magic to change the real world into a fairy tale and that it will become permanent after midnight.
+
+Malvina learns about the magic wand and enlists her two servants Rosaleen and Ruby to steal it. However, the scroll tells her that the wand can only be used by a "true Andalasian". Giselle realizes that without the wand, she will lose herself to her wicked side, so she convinces Morgan to save them before sending her to Andalasia through the well.
+
+There, Morgan learns that the kingdom's magic is transported to Monrolasia through a vortex and once the spell becomes permanent, Andalasia will be gone forever. Nancy and Edward suggest she use the magic of their memories to remind Giselle of her true self. Morgan lets the magic imbue itself onto her childhood drawing of their family tree with pictures of their shared memories, then heads back to the real world with Nancy.
+
+Now under the influence of her evil personality, Giselle challenges Malvina for the royal title of Monrolasia. She sends Pip, who has been turned into a tabby cat, to steal back the wand while also sending Robert on an assumed futile search for Morgan. At the ball, Giselle and Malvina engage in a magic duel with the former easily overpowering the latter due to possessing the wand. Morgan and Nancy meet up with Robert and Tyson before rushing into the town hall to stop the duel. Morgan tosses her drawing to Giselle who rips it, but the magic within brings the memories to life, restoring Giselle to normal.
+
+Not wanting the spell to be broken, Malvina takes Morgan hostage and demands the wand in exchange which Giselle surrenders. As midnight approaches, everything from Andalasia begins to disappear including Giselle herself. While Robert and Tyson head to the top of the clock tower to delay the final chime, Giselle tells Morgan that by being her daughter, she is a true Andalasian, therefore capable of using the wand. Morgan wishes she were home with her mother just as Malvina attempts to make the clock tower chime before it is destroyed.
+
+Morgan awakens in their house and finds everything normal again; the spell has been broken. Only she and Giselle are aware of the events, while everyone else believes it to be a dream. Giselle apologizes to Malvina for stepping over her plans and Malvina allows her to join the town council. Some time later, Robert has started his own practice in Monroeville, Morgan and Tyson have started dating, and Nancy and Edward arrive for another visit to the Philips in their now happy life.

@@ -1,0 +1,61 @@
+{{Infobox film
+| image          = Earthposter.jpg
+| alt            = A daytime view of a family of polar bears walking on an arctic landscape.
+| caption        = British theatrical release poster
+| director       = {{plainlist|
+* [[Alastair Fothergill]]
+* [[Mark Linfield]]
+}}
+| writer         = {{plainlist|
+* [[Leslie Megahey]]
+* Alastair Fothergill
+* Mark Linfield
+}}
+| producer       = {{plainlist|
+* Alix Tidmarsh
+* Sophokles Tasioulius
+}}
+| narrator       = {{plainlist|
+* [[Patrick Stewart]] (United Kingdom)
+* [[Ulrich Tukur]] (Germany)
+}}
+| cinematography = Earth Camera Team
+| editing        = {{plainlist|
+* Martin Elsbury
+* Vartan Nazarian
+}}
+| music          = {{plainlist|
+* [[George Fenton]]
+* [[Berliner Philharmoniker]]
+}}
+| studio         = {{plainlist|
+* [[BBC Worldwide]]
+* Greenlight Media
+* [[Discovery Channel]]
+* [[BBC Natural History Unit]]
+}}
+| distributor    = {{Plainlist|
+* [[Lionsgate UK|Lionsgate]] (United Kingdom)
+* [[Universum Film]] (through [[Walt Disney Studios Motion Pictures]]; Germany)
+}}
+| released       = {{Film date|2007|10|10|France|2007|11|16|United Kingdom|2008|1|12|Germany}}
+| runtime        = 99 minutes{{efn|The United States version runs at 90 minutes.}}<ref>{{Cite web |url=https://www.bbfc.co.uk/releases/earth-2007-0 |title=Earth |access-date=28 April 2020 |archive-date=11 November 2014 |archive-url=https://web.archive.org/web/20141111051426/http://www.bbfc.co.uk/releases/earth-2007-0 |url-status=dead}}</ref>
+| country        = {{plainlist|
+* United Kingdom
+* Germany
+}}
+| language       = English
+| budget         = $47 million
+| gross          = $109 million<ref name="bomojo">{{cite web|url=https://www.boxofficemojo.com/movies/?id=earth09.htm |title=Earth (2009) |work=[[Box Office Mojo]]|access-date=2010-05-15}}</ref>
+}}
+
+==Plot==
+Over the course of a calendar year, ''Earth'' takes the viewer on a journey from the [[North Pole]] in January to the [[South Pole|South]] in December, revealing how plants and animals respond to the power of the sun and the changing seasons. The film focuses on three particular species, the [[polar bear]], [[African bush elephant]] and [[humpback whale]].
+
+Starting in the high [[Arctic]] in January, as the darkness of winter gives way to the sun, a mother polar bear is shown emerging from her den with two new cubs. She needs food and must lead her cubs to her hunting ground on the [[sea ice]] before it begins to break up. By April, the sun never sets, and by August all the sea ice has melted. The mother and cubs have retreated to dry land, but a male polar bear is trapped at sea and must seek out land by swimming. He reaches an island with a [[walrus]] colony but is too exhausted to make a successful kill. He dies from injuries sustained in a walrus attack.
+
+African bush elephants are filmed from the air as they negotiate a [[dust storm]] in the [[Kalahari Desert]]. June is the dry season and they must follow ancient paths passed down through generations to reach watering holes. A mother and calf are separated from the herd in the storm but manage to reach shelter. The matriarch leads the herd to a temporary watering hole, but they must share it with hungry [[lion]]s and scavenger [[white-backed vulture]]s. The lions are shown attacking a solitary elephant at night, when their superior vision gives them the upper hand. The herd times its arrival at the [[Okavango Delta]] to coincide with seasonal floodwaters which transform the desert into a lush water world.
+
+A humpback whale mother and calf are filmed from the air and underwater at their breeding grounds in the shallow seas of the [[tropics]]. There is nothing here for the mother to eat, so she must guide her calf on a {{convert|4000|mi|km|adj=mid}} journey south to the rich feeding grounds near [[Antarctica]], the longest migration of any marine mammal. En route, they navigate dangerous seas where [[great white shark]]s are filmed breaching as they hunt. [[Sea lion]]s, and [[sailfish]] and [[dolphin]]s combine to bait a shoal of small fish. By October they enter polar waters, and by December the Antarctic sun has melted the sea ice to form sheltered bays. Here, the whales are shown feeding on [[krill]] by trapping them in bubble nets.
+
+The stories of these individual creatures are woven into the film alongside a great many additional scenes. The supporting cast of animals include [[mandarin duck]]lings filmed jumping from their tree hole nest, [[Arctic wolf|Arctic wolves]] hunting [[caribou]], [[cheetah]] hunting [[Thomson's gazelle]], [[elephant]]s charging at [[white-backed vulture]], [[birds of paradise]] displaying in the [[New Guinea]] [[rainforest]], [[Adelie penguins]] in the Antarctic and [[demoiselle crane]]s on their autumn migration across the [[Himalayas]].

@@ -1,0 +1,51 @@
+{{Infobox film
+| image          = Peter Pan & Wendy poster.png
+| caption        = Promotional release poster
+| alt            = <!-- See [[WP:ALT]] -->
+| director       = [[David Lowery (director)|David Lowery]]
+| screenplay     = {{Plainlist|
+* David Lowery
+* [[Toby Halbrooks]]
+}}
+| based_on       = {{Plainlist|
+* {{Based on|''[[Peter and Wendy]]''{{efn|name=PlayNovel|The novel was preceded by the 1904 play ''[[Peter Pan; or, the Boy Who Wouldn't Grow Up]]''}}|[[J. M. Barrie]]}}
+* [[Walt Disney]]'s ''[[Peter Pan (1953 film)|Peter Pan]]''
+}}
+| producer       = Jim Whitaker
+| starring       = {{Plainlist| <!-- PER END CREDITS -->
+* [[Jude Law]]
+* [[Alexander Molony]]
+* [[Ever Anderson]]
+* [[Yara Shahidi]]
+* Alyssa Wapanatâhk
+* Joshua Pickering
+* [[Jacobi Jupe]]
+* [[Jim Gaffigan]]
+}}
+| cinematography = [[Bojan Bazelli]]
+| editing        = [[Lisa Zeno Churgin]]
+| music          = [[Daniel Hart (musician)|Daniel Hart]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* Whitaker Entertainment
+}}
+| distributor    = [[Disney+]]
+| released       = {{Film date|2023|4|28}}
+| runtime        = 109 minutes<ref name="VarietyReview">{{Cite web |last=Debruge |first=Peter |date=2023-04-28 |title=''Peter Pan & Wendy'' Review: ''The Green Knight'' Director David Lowery Delivers a Rote Disney Reboot |url=https://variety.com/2023/film/reviews/peter-pan-amp-wendy-review-disney-live-action-1235597467/ |access-date=2023-04-28 |website=[[Variety (magazine)|Variety]]}}</ref>
+| country        = United States
+| language       = English
+| budget         = $170 million
+}}
+
+== Plot ==
+In [[Edwardian era|Edwardian]] [[London]], [[Wendy Darling]] spends her last night at home with her parents and her two younger brothers, John and Michael, before leaving for [[boarding school]] the next day. She is unhappy with her departure and feels she does not want to grow up. Having heard Wendy's wish, a free-spirited boy named [[Peter Pan (character)|Peter Pan]] arrives to take her to [[Neverland]] where she will never have to grow up. With the help of his companion, fairy  [[Tinker Bell (Disney character)|Tinker Bell]], Wendy, John, and Michael fly to Neverland.
+
+Upon arriving, they are attacked by a ship of [[pirate]]s, led by [[Captain Hook (Disney)|Captain Hook]], who wants revenge on Peter for cutting off his right hand and throwing it to a [[Sarcosuchus|crocodile]]. Wendy becomes separated from Peter and her brothers and meets [[Tiger Lily (Peter Pan)|Tiger Lily]] and the [[Lost Boys (Peter Pan)|Lost Boys]]. She witnesses the pirates capturing John and Michael to drown them at Skull Rock. Peter fights Hook, while Wendy, Tiger Lily, and the Lost Boys save John and Michael. Hook and the pirates are chased away by the crocodile. Peter is proud of his victory, but is scolded by Wendy for his recklessness, and the Lost Boys tell her that he has a complicated history with Hook.
+
+Retreating to Peter's hideout, Wendy sings a lullaby to the Lost Boys, which accidentally reveals their location to the pirates. Wendy learns from Peter that Hook was once "the very first Lost Boy" and his best friend James, until he left Neverland and grew up to be a pirate. Hook's crew captures the Lost Boys, Tinker Bell and the Darling children, while Hook ambushes Peter, who seemingly falls to his death. Instead of feeling joy, however, Hook feels empty and unsatisfied. He reveals to Wendy that the reason he left Neverland was because he missed his mother and wanted to find her. Eventually, he got lost at sea and was rescued by his first mate, [[Mr. Smee]], and the pirates who raised him. When he returned to Neverland, Peter could not accept how much he had changed, and the two became arch-enemies.
+
+While Tiger Lily finds and nurses Peter back to health, Hook forces Wendy to [[walk the plank]], but she flies away with Tinker Bell's pixie dust and the happy thought of wanting to grow up. Tinker Bell flies the ship into the air with pixie dust, helping the Lost Boys break free and battle the pirates. Peter arrives to confront Hook, and after a long duel, finally apologizes to him for being a bad friend, but Hook does not want their rivalry to end. When Wendy turns the ship on its back, causing the pirates to fall down into the sea, Peter attempts to save Hook, encouraging him to fly, but without happy thoughts, he falls into the sea while losing his hook. Afterward, the Lost Boys decide they all want a real home, so they fly back to London on the ship with the Darlings.
+
+Arriving home, Wendy introduces the Lost Boys to her parents. Peter reveals the Darlings' house was his old home until one day he ran away after an argument with his mother, and never came back. Wendy suggests he stay, but Peter feels he is not ready to grow up. He bids farewell to Wendy and the Lost Boys, and returns to Neverland with Tinker Bell. 
+
+Back in Neverland, Hook and Smee are revealed to have survived the fall. As they hang on to floating obstacles in the sea, Hook sees Peter returning on the ship and smiles civilly.

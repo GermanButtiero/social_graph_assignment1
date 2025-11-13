@@ -1,0 +1,30 @@
+{{Infobox film
+| name           = One Little Indian
+| image          = One Little Indian - Film Poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Bernard McEveety]]
+| producer       = [[Winston Hibler]] 
+| writer         = [[Harry Spalding]] 
+| starring       = {{Plain list|
+* [[James Garner]]
+* [[Vera Miles]]
+* [[Pat Hingle]]
+* Clay O'Brien
+* [[John Doucette]]
+* [[Morgan Woodward]]
+* [[Andrew Prine]]
+}}
+| music          = [[Jerry Goldsmith]] 
+| cinematography = [[Charles F. Wheeler]]
+| editing        = Robert Stafford
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{Film date|1973|06|20}}
+| runtime        = 90 Minutes
+| country        = United States
+| language       = English<ref>[https://www.imdb.com/title/tt0070481/ IMBB One Little Indian (Infobox details)]</ref>
+| gross          = $2 million
+}}
+
+==Plot==
+A cavalry soldier's misadventures with a camel and a little boy.

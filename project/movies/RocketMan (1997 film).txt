@@ -1,0 +1,38 @@
+{{Infobox film
+| name        = RocketMan
+| image       = RocketMan (1997 film).jpg
+| caption     = Theatrical release poster
+| director    = [[Stuart Gillard]] 
+| producer    = [[Roger Birnbaum]] 
+| writer      = Oren Aviv <br />[[Craig Mazin]] <br />Greg Erb
+| starring    = {{Plainlist|
+* [[Harland Williams]]
+* [[Jessica Lundy]]
+* [[William Sadler (actor)|William Sadler]]
+* [[Jeffrey DeMunn]]
+* [[Beau Bridges]]
+}} 
+| music          = [[Michael Tavera]]
+| cinematography = [[Steven Poster]]
+| editing        = [[William D. Gordean]]
+| studio         = [[Walt Disney Pictures]] <br />[[Caravan Pictures]] <br />[[Roger Birnbaum Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{Film date|1997|10|10}}
+| runtime        = 95 minutes
+| country        = United States
+| language       = English
+| budget         = $16 million{{Citation needed|date=November 2025}}
+| gross          = $15.4 million
+}}
+
+==Plot==
+[[NASA]] is training for the first [[human mission to Mars]], which will involve the spacecraft ''Aries''. Because of a supposed glitch in the computer navigation system, NASA looks for the original programmer of the software to understand why it seems to be broken. Fred Z. Randall, the eccentric and clumsy programmer who wrote the software, meets Paul Wick, the flight director of the Mars mission; William "Wild Bill" Overbeck, the commander of the Mars mission; and astronaut Gary Hackman, the computer specialist. Fred looks at the software and discovers that the problem actually stems from a mathematical error made by Gary. After a display of hard-headed stubbornness, Gary is hit in the head by a model of the ''Pilgrim 1'' Mars lander, suffering a skull fracture. NASA decides to replace him instead of delaying the mission. Fred is brought to NASA to see whether he has what it takes to be an astronaut. He goes through a series of exercises and does well, even going so far as to break every record that Overbeck had set. In the end, Fred gets the job.
+
+While getting ready to board the ''Aries'', Fred chickens out and refuses to go on the mission. Bud Nesbitt, who Wick claims caused the [[Apollo 13|Apollo 13 accident]] (though Bud later reveals that Wick was responsible), tells Fred about  three commemorative coins given to him by President [[Lyndon B. Johnson|Johnson]]. He gave one coin to [[Neil Armstrong]] and another to [[Jim Lovell]]. Showing Fred a gold coin reading "Bravery", Bud says, "It hasn't done me much good. Maybe it'll mean something to you." Fred then quotes the [[Cowardly Lion]] from [[The Wizard of Oz (1939 film)|''The Wizard of Oz'']].
+
+Fred, Commander Overbeck, geologist Julie Ford, and Ulysses, a trained [[Common chimpanzee|chimpanzee]], board the ''Aries''. Together, they will look for fossils on Mars. While on a video call with the president, Fred inadvertently humiliates Overbeck by leading the global population in singing "[[He's Got the Whole World in His Hands]]." To save on resources, crew members are to be put into "hypersleep" for eight months while the ship floats towards Mars. Ulysses purposely takes Fred's hypersleep chamber as his own, and Fred has to sleep in Ulysses' chimp-sized chamber. He sleeps for only 13 minutes and has to stay up alone for eight months. While looking at Mars's weather data, Fred notices severe sandstorms that could endanger the crew. He contacts Bud in Houston and tells him about the storms that are forecast to hit the landing site. If the crew gets caught in the storms, the crew members could be lost forever. Bud tells Wick about the situation, but Wick ignores him. The crew makes it to Mars after Overbeck chides Fred for being awake the whole time and using all the food—except food that the former despises ([[anchovy (food)|anchovy paste]], [[liver (food)|creamed liver]], and [[gefilte fish]])—for painting. They land the ''Pilgrim'' on the Martian surface. As Overbeck prepares to be the first human to step on Mars, Fred slips from the ladder and accidentally lands first, while cementing the first words 'It Wasn't Me!'.
+ 
+A day after the crew lands, the sandstorms arrive ahead of schedule. After almost losing Overbeck and Ulysses in a sandstorm, the crew lifts off from the Martian surface. Wick is replaced by Bud when it becomes clear that Wick does not trust his NASA crew. The ship has almost escaped the sandstorm when rocks kicked up by wind hit the lander. ''Pilgrim 1'' loses power and begins to spin out of control. Fred has to rewire the entire system, reboot it, and power everything back up in less than two minutes, or the ship will crash. With less than 20 seconds, he has to complete the circuit. He frantically searches for something and finally shoves the commemorative coin into the slot, allowing the lander to regain power. The crew safely returns to the ''Aries'', which is orbiting Mars. Fred asks Julie to dance with him in [[zero gravity]] to "[[The Blue Danube]]". He wears a silver tuxedo, and she wears a gold dress made from space blankets that he cut up during his accident with the sleep pod.
+
+As Fred gets ready for hypersleep one last time, Ulysses once again takes Fred's hypersleep chamber and Fred yells in anguish as the ''Aries'' begins its eight month journey back to Earth. 
+In a [[post-credits scene]], the crew's flag pole on Mars is shown missing its flag. It is revealed that Fred's [[American flag]] boxers, which were earlier used as a replacement for the original flag, have been stolen and worn by a [[Martian]].

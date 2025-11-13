@@ -1,0 +1,50 @@
+{{Infobox film
+|native_name    = {{Infobox Japanese
+|kanji          = ゲド戦記
+|revhep         = ''Gedo Senki''
+|l              = ''Ged's War Chronicles''
+}}
+|image          = Gedo6sn.jpg
+|alt            = In a grassland near a river, a boy faces in front of a large dragon.
+|caption        = Theatrical release poster
+|director       = [[Gorō Miyazaki]]
+|screenplay     = {{Plainlist|
+* Gorō Miyazaki
+* Keiko Niwa
+}}
+|based_on       = {{Plainlist|
+* {{based on|''[[Earthsea]]''|[[Ursula K. Le Guin]]}}
+* {{based on|''[[Shuna's Journey]]''|[[Hayao Miyazaki]]}}
+}}
+|producer       = [[Toshio Suzuki (producer)|Toshio Suzuki]]
+|starring       = {{Plainlist|
+* [[Bunta Sugawara]]
+* [[Junichi Okada]]
+* [[Aoi Teshima]]
+* [[Yūko Tanaka]]
+}}
+|cinematography = Atsushi Okui
+|editing        = [[Takeshi Seyama]]
+|music          = Tamiya Terashima
+|studio         = [[Studio Ghibli]]
+|distributor    = [[Toho]]
+|released       = {{Film date|2006|7|29}}<!-- Do not add the US release date here, please; see [[WP:FILMRELEASE]]. -->
+|runtime        = 115 minutes
+|country        = Japan
+|language       = Japanese
+|budget         = $22 million{{citation needed|date=July 2019}}
+|gross          = {{US$|75.5 million|long=no}}<ref name="Ghibli2020"/>
+}}
+
+==Plot==
+As a [[war galley]] sails through a storm, two [[dragons]] fight above the clouds, ending in one's death. In the kingdom of Enlad, royal [[wizard (paranormal)|wizard]] Root proclaims the dragons to be a sign of a loss of balance in the world. The king is dealing with disease sweeping across his kingdom and the disappearance of his son, Prince Arren. For reasons unknown, Arren kills his father, steals his father's [[sword]], and flees the castle.
+
+Arren travels through the desert and is rescued from wolves by the [[Magician (fantasy)|archmage]] Sparrowhawk. They travel to the city of Hort Town, where Arren rescues a young girl named Therru from the slaver Hare, but is later captured himself. His sword is dumped in the sea. Sparrowhawk rescues Arren and takes him to a farm run by Sparrowhawk's oldest friend Tenar, who lives with Therru.
+
+Sparrowhawk's intervention against Hare's slave caravan angers Lord Cob, a powerful [[warlock]] and the ruler of Hort Town. Sparrowhawk tells Arren that he seeks a way to restore the upset balance. He buys Arren's sword from a merchant and evades capture from Hare whilst learning about Cob's castle.
+
+Arren confesses to Therru that he killed his father and feels an unknown presence following him. He is then met by the presence: A mirror image of himself. He flees and falls unconscious after stumbling into a [[swamp]]. Cob takes him to the castle, where he manipulates Arren into revealing his "true name", Prince Lebannen, to control him. Hare captures Tenar as bait to lure Sparrowhawk into the castle, leaving Therru tied to a post. However, she later frees herself, and Sparrowhawk gives her Arren's sword. Sparrowhawk breaks into the castle to save Tenar and learns that Cob is causing the world's balance to collapse by opening the door between life and death to gain eternal life. Cob sends Arren out to kill him, but Sparrowhawk frees the prince from Cob's control, only to be captured by Hare.
+
+Therru sees the duplicate of Arren and follows him to the castle, where he reveals that he is the light within Arren and tells Therru his true name. Therru learns of Sparrowhawk and Tenar's sunrise execution. She finds Arren, guilty and hopeless, and brings hope back to him, calling him by his true name and confiding in him her own true name, Tehanu. Arren confronts Cob and finally unsheathes his sword, which was sealed with magic throughout the story. He cuts off Cob's staff-holding hand. Unable to use his magic powers, Cob rapidly begins to age. He captures Therru and flees to the highest tower of the castle. The withering dark lord uses the last of his magic to strangle Therru to death. Instead of dying, she reveals her true form as a dragon, possessing everlasting life. Therru then kills Cob and rescues Arren.
+
+Sparrowhawk and Tenar leave the castle while Therru and Arren land in a field, where Therru changes back into a human. Arren tells Therru he will leave for home to repent for his crime, but he will come back to see her someday. Arren and Sparrowhawk depart for Enlad, bidding Therru and Tenar goodbye. Therru looks up to see her fellow dragons airborne, indicating that the balance of the world has been restored.

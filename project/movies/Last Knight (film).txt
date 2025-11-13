@@ -1,0 +1,66 @@
+{{Infobox film
+| name           = The Last Knight <br>{{small|The Last Warrior}}
+| image          = The_Last_Warrior_(2017_film).jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Dmitriy Dyachenko]]
+| producer       = {{plainlist|
+* [[Jigalova Marina|Marina Zhigalova-Ozkan]]
+* Eduard Iloyan
+* Grigoriy Stoyalov
+* Olga Maksimova
+}}
+| screenplay     = {{plainlist|
+* Vitaliy Shlyappo
+* Dimitriy Yan
+* Pavel Danilov
+* Igor Tudvasev
+}}
+| based_on       = ''Baba Yaga'' and ''Koschei''
+| starring       = {{Plainlist|
+* [[Viktor Khorinyak]]
+* [[Mila Sivatskaya]]
+* [[Konstantin Lavronenko]]
+* [[Elena Yakovleva]]
+* [[Ekaterina Vilkova]]
+* Sergey Burunov
+* Yevgeny Dyatlov
+}}
+| music          = [[George Kallis]]
+| cinematography = [[Sergei Trofimov (cinematographer)|Sergei Trofimov]]
+| editing        = {{Plainlist|
+* Tim Pavelko
+* Anton Anisimov
+* Aleksandr Amirov
+}}
+| studio         = {{Plainlist|
+* [[Walt Disney Pictures]]<ref name=thr/>
+* [[Yellow, Black and White]]<ref name=thr/>
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures#International distribution|Walt Disney Studios Sony Pictures Releasing CIS]]<ref name=thr/>
+| released       = {{Film date|2017|10|29|[[Russia]]}}
+| runtime        = 114 minutes
+| country        = Russia
+| language       = [[Russian language|Russian]]<br />English (dubbing)
+| budget         = ~$8 million <br /> [[Russian Ruble|₽]]370 million<ref name="vedomosti"/>
+| gross          = $30.5 million<ref>[https://www.boxofficemojo.com/movies/intl/?page=&country=R2&wk=2017W43&id=_fTHELASTWARRIOR01 The Last Warrior]. The Box Office Mojo, 2017</ref> <br /> [[Russian Ruble|₽]]1.731 billion<ref>[http://ekinobilet.fond-kino.ru/films/detail/111007017/ Box Office], [[Russian Cinema Fund]] {{in lang|en}}</ref>
+}}
+
+==Plot==
+In Belogorie, a parallel version of [[Ancient Russia]], Sorceress Varvara hunts down [[Alyosha Popovich]] whom she believes to be the last [[Bogatyr]] (Hero or Warrior). She [[Petrification|petrifies]] and throws him into the sea, where hundreds of other victims rest.
+
+In modern [[Moscow]], Ivan Naydenov is a young orphan who makes his way in life by being a con artist. He poses as a "white mage", stars in rigged psychic contest shows, and performs "rites" for clients. He starts having doubts about his life choices, however, when asked to cure a [[coma]]tose boy.
+
+One day, during an escape from a client's husband, Ivan miraculously ends up in Belogorie. This magical world is inhabited by [[Russian fairy tale]]s characters and creatures. A [[volkhv]] appears and claims that Ivan is the lost son of [[Ilya Muromets]], hidden on Earth many years ago.
+
+Ivan is then captured by Varvara's warriors and brought to prince [[Dobrynya Nikitich]]. Dobrynya is friendly, but princess Varvara imprisons Ivan in her dungeon without her husband's knowledge. There, Ivan meets a disembodied [[Koschei]], who tells him the magical [[Sword Kladenets]] is his only way back to Earth. Koschei himself had used Kladenets to become immortal, but is overthrown and imprisoned by Bogatyrs. After the forces of good had won, most of the magical creatures were imprisoned or killed, then the Bogatyrs themselves suffered the same fate. If Ivan truly is Ilya's son, he can uncover the Sword and use it to restore power to the surviving magical creatures, and to return home.
+
+[[Baba Yaga]] is captured and thrown into the same dungeon. However, this was premeditated: she brought [[Vasilisa the Wise]] in frog form, who easily releases the prisoners. Koschei, Baba Yaga and Vasilisa decide to take Ivan with them to find the Sword. Escaping the dungeon, they enlist [[Vodyanoy]] the Merman. Koschei tells Ivan of Vasilisa's backstory: after she caught the eye of Dobrynya, the jealous Varvara turned everyone in her village into frogs. Baba Yaga could alleviate the curse by helping her to occasionally turn back into human form. Despite bonding with Vasilisa, Ivan still wishes to get back to his own world.
+
+Varvara eventually captures the protagonist, petrifies Vodyanoy and forces Ivan to get the Sword for her, holding his companions hostage. Ivan recovers the Sword and overpowers his foes, but Koshei turns out to be in league with Varvara. Moreover, Dobrynya turns out to be the mastermind, planning to use the Sword to become immortal like Koschei. Reasoning that he no longer needs his help, Dobrynya betrays Koschei, and Ivan uses the Sword to escape to Earth.
+
+Back in Moscow, Ivan realizes he cannot abandon his beloved Vasilisa, and decides to get back. He finds the volkhv and returns to Belogorie. After setting free [[Zmey Gorynych]] he uses a modern handgun to fight his way to Dobrynya. However, the latter has already become immortal and prepares to execute Vasilisa and Baba Yaga. Using Gorynych as a distraction, Ivan challenges Dobrynya to a duel, hoping to give his companions time to destroy the magical stone and undo the Immortals' invulnerability. During the fight, Dobrynya reveals that it was his envy of Ilya that led to betrayal of Bogatyrs.
+
+Koschei eventually gets his hands on the magical stone. Touched by the selfless heroism of his companion, he decides to shatter it, killing himself and Dobrynya. Varvara flees Belogorie, and her petrified victims come back to life. Among them was Ilya, who reunites with Ivan. Rather than return to the life of a fake "mage", Ivan stays in Belogorie and marries Vasilisa. He briefly comes to Earth to heal the comatose boy.
+
+A mid-credit scene shows Varvara on Earth, meeting her mother Galina, Ivan's housekeeper. The two had planned to enthrall Dobrynya and rule Belogorye. That plan have failed, they will now have to make a different move.

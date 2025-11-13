@@ -1,0 +1,24 @@
+{{Infobox film
+| name           = Monkeys, Go Home!
+| image          = Monkeys, Go Home! poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Andrew V. McLaglen]]
+| based_on       = ''The Monkeys'' <br> by G.K. Wilkinson
+| producer       = [[Walt Disney]]
+| screenplay     = Maurice Tombragel
+| starring       = [[Maurice Chevalier]]<br>[[Yvette Mimieux]]<br>[[Dean Jones (actor)|Dean Jones]]
+| music          = Robert F. Brunner
+| cinematography = [[William E. Snyder (cinematographer)|William E. Snyder]]
+| editing        = Marsh Hendry
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1967|02|08|San Francisco|ref1=<ref>{{cite web |url=http://catalog.afi.com/Film/23779-MONKEYS,-GO-HOME!?sid=7228c68c-ce86-4551-b482-f92f8c37d1a4&sr=4.6654377&cp=1&pos=0#3 |title=Monkeys, Go Home! - Details |website=[[AFI Catalog of Feature Films]] |publisher=[[American Film Institute]] |accessdate=April 15, 2019}}</ref>}}
+| runtime        = 101 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $3,000,000 (US/ Canada)<ref>"Big Rental Films of 1967", ''Variety'', 3 January 1968 p 25. Please note these figures refer to [[Gross rental|rentals accruing to the distributors]].</ref>
+}}
+
+==Plot==
+Hank Dussard (Jones), the new owner of an olive grove in [[Provence]], [[France]], brings in trained chimpanzee labor, which upsets other workers. Hank eventually gains the town's confidence with the kind aid of Father Sylvain (Chevalier) and his neighbor Maria Riserau (Mimieux).

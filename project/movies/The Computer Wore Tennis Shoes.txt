@@ -1,0 +1,31 @@
+{{Infobox film
+| name           = The Computer Wore Tennis Shoes
+| image          = computer wore tennis shoes ver1.jpg
+| caption        = Theatrical release poster
+| director       = [[Robert Butler (director)|Robert Butler]]
+| producer       = Bill Anderson
+| writer         = Joseph L. McEveety
+| starring       = {{Plain list | 
+* [[Kurt Russell]]
+* [[Cesar Romero]]
+* [[Joe Flynn (American actor)|Joe Flynn]]
+}}
+| cinematography = [[Frank V. Phillips|Frank Phillips]]
+| editing        = [[Cotton Warburton]]
+| music          = Robert F. Brunner
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1969|12|31}}
+| runtime        = 91 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          = $5.5 million (US/ Canada rentals)<ref>"Big Rental Films of 1970", ''[[Variety (magazine)|Variety]]'', 6 January 1971 p 11</ref>
+}}
+
+== Plot ==
+Dexter Riley and his friends attend Medfield College, a small private college, which cannot afford to buy a computer. The students persuade wealthy businessman A. J. Arno to donate the computer to the college. Arno is secretly the head of an illegal gambling ring which used the computer for its operations.
+
+While installing a replacement computer part during a thunderstorm, Riley receives an electric shock and becomes a [[human computer]]. He now has superhuman mathematical talent, can [[speed reading|read]] and [[eidetic memory|remember the contents]] of an encyclopedia volume in a few minutes, and can [[multilingualism|speak a language fluently]] after reading one textbook. His new abilities make him a worldwide celebrity and Medfield's best chance to win a televised [[Quiz bowl|quiz tournament]] with a [[United States dollar|$]]100,000 prize.
+
+Riley single-handedly leads Medfield's team in victories against other colleges. During the tournament, on live television, a trigger word ("[[Applejack (drink)|applejack]]") causes him to unconsciously recite details of Arno's gambling ring. Arno's henchmen kidnap Riley and plan to kill him, but his friends help him escape by locating the house in which he is being kept, posing as house painters to gain access, and sneaking him out in a large trunk. During the escape, he suffers a [[concussion]] which, during the tournament final against rival Springfield State, gradually returns his mental abilities to normal; however, one of his friends, Schuyler, is able to answer the final question ("A small Midwest city is located exactly on an area designated as the [[geographic center of the contiguous United States|geographic center of the United States]]. For 10 points and $100,000, can you tell us the name of that city?" with the answer "[[Lebanon, Kansas]]"). Medfield wins the $100,000 prize. Arno and his henchmen are arrested when they attempt to escape the TV studio and crash head-on into a police car.

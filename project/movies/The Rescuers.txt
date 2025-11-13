@@ -1,0 +1,56 @@
+{{Infobox film
+| name        = The Rescuers
+| image       = Rescuersposter.jpg
+| caption     = Original theatrical release poster
+| director    = {{Plainlist|
+* [[Wolfgang Reitherman]]
+* [[John Lounsbery]]
+* [[Art Stevens]]
+}}
+| producer    = {{Plainlist|
+* Wolfgang Reitherman
+}}
+| story       = {{Plainlist|
+* [[Larry Clemmons]]
+* [[Ken Anderson (animator)|Ken Anderson]]
+* [[Vance Gerry]]
+* [[Ted Berman]]
+* [[Burny Mattinson]]
+* [[Frank Thomas (animator)|Frank Thomas]]
+* David Michener
+* Fred Lucky
+* [[Dick Sebast]]
+}}
+| based_on    = {{based on|''[[The Rescuers (book)|The Rescuers]]''<br />''Miss Bianca''|[[Margery Sharp]]}}
+| starring    = {{Plainlist|
+* [[Bob Newhart]]
+* [[Eva Gabor]]
+* [[Joe Flynn (American actor)|Joe Flynn]]
+* [[Geraldine Page]]
+}}
+| music       = [[Artie Butler]]
+| editing     = {{Plainlist|
+* Jim Koford
+* James Melton
+}}
+| studio      = [[Walt Disney Productions]]
+| distributor = [[Buena Vista Distribution]]
+| released    = {{Film date|1977|6|22}}
+| runtime     = 77 minutes
+| country     = United States
+| language    = English
+| budget      = $7.5 million<ref name="Variety">{{cite magazine|title=Film Reviews: The Rescuers|magazine=Variety|url=https://archive.org/details/sim_variety_1977-06-15_287_6/page/20/mode/1up?view=theater|date=June 15, 1977|access-date=August 8, 2025|via=Internet Archive}}</ref>
+| gross       = $169 million<ref name="DisneyWW">{{cite magazine |last=D'Alessandro |first=Anthony |title=Cartoon Coffers – Top-Grossing Disney Animated Features at the Worldwide B.O. |url=https://www.thefreelibrary.com/Tooned+in%3A+Disney%27s+ani+classics+set+the+bar+and+lit+the+way+for...-a0110473946 |date=October 27, 2003 |magazine=[[Variety (magazine)|Variety]] |page=6 |access-date=November 5, 2021 |archive-date=November 4, 2020 |archive-url=https://web.archive.org/web/20201104215642/https://www.thefreelibrary.com/Tooned+in%3a+Disney%27s+ani+classics+set+the+bar+and+lit+the+way+for...-a0110473946 |url-status=live |via=TheFreeLibrary.com}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature film articles should be between 400 and 700 words in length. Current count is 518 words. -->
+In an abandoned riverboat in Devil's Bayou, [[Louisiana]], a six year old orphan named Penny drops a [[message in a bottle]], containing a plea for help, into the river. The Rescue Aid Society, an international mouse organization inside the [[United Nations Secretariat Building|United Nations]], finds the bottle when it washes up in [[New York City]]. The [[Hungary|Hungarian]] representative, Miss Bianca, volunteers to accept the case. She chooses Bernard, a stammering janitor, as her co-agent. The two visit Morningside Orphanage, where Penny lived, and meet an old [[cat]] named Rufus. He tells them about a woman named Madame Medusa who once tried to lure Penny into her car, prompting the mice to investigate her [[pawn shop]] for clues.
+
+At the pawn shop, Bianca and Bernard discover that Medusa and her partner, Mr. Snoops, are searching for the world's largest [[diamond (gemstone)|diamond]], the Devil's Eye. The mice learn that Medusa and Snoops are currently at the Devil's Bayou with Penny, whom they have kidnapped and placed under the guard of two trained crocodiles, Brutus and Nero. With the help of an [[albatross]] named Orville and a [[dragonfly]] named Evinrude, the mice follow Medusa to the [[bayou]]. There, they learn that Medusa plans to force Penny to enter a small [[Blowhole (geology)|blowhole]] that leads down into a blocked-off [[pirate]]s' cave where the Devil's Eye is located.
+
+Bernard and Bianca find Penny and devise a plan of escape. They send Evinrude to alert the local animals, who loathe Medusa, but Evinrude is delayed when he is forced to take shelter from a cloud of [[bat]]s. The following morning, Medusa and Snoops send Penny down into the cave to find the gem. Unbeknownst to Medusa, Bianca and Bernard are hiding in Penny's dress pocket. The three soon find the Devil's Eye within a pirate skull. As Penny pries the mouth open with a sword, the mice push the gem through it, but soon the oceanic tide rises and floods the cave. The three barely manage to escape with the diamond.
+
+Medusa betrays Snoops and hides the diamond in Penny's teddy bear, while holding Penny and Snoops at gunpoint. When she trips over a cable set as a trap by Bernard and Bianca, Medusa loses the bear and the diamond to Penny, who runs away with them. The local animals arrive at the riverboat and aid Bernard and Bianca in trapping Brutus and Nero, then set off Mr. Snoops's [[fireworks]] to create more chaos. Meanwhile, Penny and the mice commandeer Medusa's swamp-mobile, a makeshift [[airboat]]. Medusa unsuccessfully pursues them, using Brutus and Nero as water-skis. As the riverboat sinks from the fireworks' damage, Medusa crashes and is left clinging to the boat's smoke stacks. Mr. Snoops escapes on a [[raft]] and laughs at her, while the irritated Brutus and Nero turn on her and circle below.
+
+Back in New York City, the Rescue Aid Society watch a news report of how Penny found the Devil's Eye, which has been given to the [[Smithsonian Institution]] while it is implied that Medusa and Mr. Snoops have been arrested. It also mentions she has been [[adoption|adopted]]. The meeting is interrupted when Evinrude arrives with a call for help, sending Bernard and Bianca on a new adventure.

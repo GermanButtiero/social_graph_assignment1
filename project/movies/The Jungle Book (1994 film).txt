@@ -1,0 +1,42 @@
+{{Infobox film
+| name           = Rudyard Kipling's <br>The Jungle Book
+| image          = Rudyard Kipling's The Jungle Book film poster.jpg
+| alt            = 
+| caption        = Theatrical release poster by [[John Alvin]]
+| director       = [[Stephen Sommers]]
+| producer       = [[Edward S. Feldman]]<br />[[Raju Patel]]
+| screenplay     = Stephen Sommers<br />Ronald Yanover<br />Mark Geldman
+| story          = Ronald Yanover<br />Mark Geldman
+| based_on       = {{based on|''[[The Jungle Book]]'' and ''[[The Second Jungle Book]]''|[[Rudyard Kipling]]}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Jason Scott Lee]]
+* [[Cary Elwes]]
+* [[Lena Headey]]
+* [[Sam Neill]]
+* [[John Cleese]]
+}}
+| music          = [[Basil Poledouris]]
+| cinematography = [[Juan Ruiz Anchía]]
+| editing        = [[Bob Ducsay]]
+| production_companies = Vegahom Europe<br />Baloo Productions<br />Jungle Book Films<ref name=variety />
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]{{efn|Distributed by Buena Vista Pictures Distribution under the [[Walt Disney Pictures]]<ref name="variety1993a" /> banner.}} (Select territories)<br />[[Bloom (company)|MDP Worldwide]]<br />(International)
+| released       = {{Film date|1994|12|25}}
+| runtime        = 111 minutes<!--Theatrical runtime: 111:08--><ref>{{cite web|title=''Rudyard Kipling's The Jungle Book'' (PG)|url=https://www.bbfc.co.uk/releases/rudyard-kiplings-jungle-book-1970-3|work=[[British Board of Film Classification]]|date=January 18, 1995|access-date=June 25, 2013|archive-date=January 7, 2016|archive-url=https://web.archive.org/web/20160107223915/http://www.bbfc.co.uk/releases/rudyard-kiplings-jungle-book-1970-3|url-status=dead}}</ref>
+| country        = United States
+| language       = English
+| budget         = $30 million<ref name="nyt" />
+| gross          = $70 million
+}}
+
+== Plot ==
+During the [[British Raj|British rule in India]], Mowgli is the five-year-old son of Nathoo, a widowed guide who is guiding an expedition in the jungle for fellow widower Colonel Geoffrey Brydon, his five-year-old daughter, Kitty, and Brydon's friend, Dr. Julius Plumford. Shere Khan the tiger begins stalking the group when fellow guide Buldeo and two other soldiers kill some animals for sport, which is against the jungle law. Shere Khan attacks the camp at night, killing the two soldiers and Nathoo, who dies trying to fight him off to defend Buldeo.
+
+In the chaos, Mowgli and his wolf cub, Grey Brother, are separated and presumed dead. Mowgli meets Bagheera the panther who leads him to the wolf pack, and also befriends bear cub Baloo. Years later, a monkey steals a bracelet from Mowgli, which Kitty had given to him when they were children. Mowgli chases the monkey to an ancient abandoned city honoring [[Hanuman]] which hosts piles of treasure, ruled by an orangutan, King Louie. Mowgli battles and subdues Kaa the snake using a dagger and is given the bracelet back by Louie.
+
+Meanwhile, Kitty still resides in India with Brydon. Venturing into the jungle, she meets Mowgli again and does not recognize him. Mowgli also encounters Captain William Boone, Kitty's suitor, who perceives the animalistic Mowgli as a threat. Mowgli arrives in Kitty's village, and she recognizes him after seeing the bracelet. Mowgli is pursued by Boone; after a chase, he is caught by Buldeo, who recognizes Mowgli's dagger as being from the legendary city of Hanuman. Boone and his men imprison Mowgli and torture him in an attempt to find out where he obtained the dagger. Kitty informs her father that the prisoner is Mowgli, though Brydon remains skeptical; Kitty and Plumford attempt to reintroduce Mowgli to the world of man. Boone learns from Buldeo and his friend Tabaqui about the lost city and attempts to persuade Mowgli to show him the way. However, Mowgli refuses, citing that Boone does not keep the jungle law by killing animals for his own amusement.
+
+Brydon later announces that Boone and Kitty are to be married. A heartbroken Mowgli returns to the jungle after Boone and his men treat him poorly; Kitty refuses to marry Boone following this, enabling Brydon to send her back to England. Boone, desperate to find the treasure, recruits fellow soldiers Wilkins and Harley, and they team up with Buldeo and Tabaqui. They attempt to capture Mowgli but fail and Baloo is shot while defending Mowgli.
+ 
+The men later ambush Kitty and her father with the help of bandits, who later are attacked by Bagheera and the wolves and Brydon is shot in the leg. The would-be treasure hunters hold Kitty and Brydon hostage as leverage for Mowgli to lead them to the treasure. At night, Shere Khan returns; Mowgli promises to protect Kitty and Brydon from him and escapes the next morning with Bagheera's aid. Harley gives chase, only to fall into quicksand and drown. The party continues their journey, Boone leaving behind a wounded Brydon, who is helped back to the village on an elephant courtesy of Mowgli. Later, Tabaqui decides that Mowgli is no longer needed and tries to murder him, only to die after falling from a cliff. As they reach the city, Wilkins becomes separated from the group and is mauled to death by Shere Khan. Inside the city, Buldeo attempts to shoot Mowgli but is entombed in a booby trap. Boone and Kitty make it to the treasure room, where Boone tries to kill Mowgli with a sword, though Mowgli slashes his arm with a dagger and escapes with Kitty. Boone gathers treasure for himself, however his victory is cut short when Kaa kills him.
+
+Outside the ruins, Mowgli and Kitty are confronted by Shere Khan who roars at Mowgli. Mowgli roars back and Shere Khan sees him as a creature of the jungle, fulfilling a childhood dream of Mowgli's. Returning to the jungle, Mowgli and Kitty are delighted to find that both the lives of Brydon and Baloo have been saved by Plumford. Mowgli becomes lord of the jungle and begins a relationship with Kitty.

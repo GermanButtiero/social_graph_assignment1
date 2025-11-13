@@ -1,0 +1,50 @@
+{{Infobox film
+| name           = Muppets Most Wanted
+| image          = Muppets Most Wanted poster.jpg
+| alt            = Group picture of the Muppets with two men and a woman standing behind them. In the background is a gray globe of the world.
+| caption        = Theatrical release poster
+| director       = [[James Bobin]]
+| producer       = {{plainlist|
+* [[David Hoberman]]
+* [[Todd Lieberman]]
+}}
+| writer         = {{plainlist|
+* James Bobin
+* [[Nicholas Stoller]]
+}}
+| based_on       = {{Based on|Disney's [[The Muppets|Muppet characters and properties]]}}
+| starring       = {{plainlist|<!--PER POSTER BILLING BLOCK-->
+* [[Ricky Gervais]]
+* [[Ty Burrell]]
+* [[Tina Fey]]
+}}
+| music          = [[Christophe Beck]]
+| cinematography = [[Don Burgess (cinematographer)|Don Burgess]]
+| editing        = James Thomas<ref>Theatrical poster credits block via {{cite magazine | archive-url = https://web.archive.org/web/20131029024130/http://insidemovies.ew.com/2013/10/28/muppets-most-wanted-poster-exclusive/ | url = http://insidemovies.ew.com/2013/10/28/muppets-most-wanted-poster-exclusive/| title=Check out the new poster for 'Muppets Most Wanted' -- Exclusive| first= Josh| last= Rottenberg | magazine=[[Entertainment Weekly]] | archive-date = October 29, 2013 | date= October 28, 2013 | access-date = September 7, 2025}}</ref>
+| studio         = [[Mandeville Films]]
+| distributor    = [[Walt Disney Studios Motion Pictures]]{{efn|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}<ref name="Var"/>
+| released       = {{Film date|2014|03|11|[[El Capitan Theatre]]|2014|03|21|United States}}
+| runtime        = 107 minutes (original length)<br>119 minutes (extended version)
+| country        = United States
+| language       = English
+| budget         = $50 million<ref name="VarMojo">{{cite news |last= Setoodeh |first= Ramin |title= How Kermit and the Muppets Got Their Mojo Back |url= https://variety.com/2014/film/news/the-muppets-talk-about-comebacks-and-their-relationship-with-disney-1201128921/ |access-date= March 12, 2014 |newspaper= Variety |date= March 11, 2014 |archive-date= May 6, 2019 |archive-url= https://web.archive.org/web/20190506162621/https://variety.com/2014/film/news/the-muppets-talk-about-comebacks-and-their-relationship-with-disney-1201128921/ |url-status= live }}</ref><ref name="mojo" />
+| gross          = $80.4 million<ref name="mojo">{{cite web | title = Muppets Most Wanted (2014) | url = https://www.boxofficemojo.com/movies/?id=muppets2.htm | work = [[Box Office Mojo]] | publisher = Internet Movie Database | date = July 19, 2014 | access-date = July 7, 2014 | archive-date = July 7, 2014 | archive-url = https://web.archive.org/web/20140707172416/http://www.boxofficemojo.com/movies/?id=muppets2.htm | url-status = live }}</ref>
+}}
+
+==Plot==
+{{longplot|date=October 2025}}
+Following on from the ending of their last film, the Muppets find themselves at a loss as to what to do next. Per the suggestion of their new tour manager Dominic Badguy, the Muppets decide to embark on a world tour. Meanwhile, Constantine, the world's number one criminal and a complete dead ringer for Kermit, escapes from Siberian Gulag 38B, before making contact with Badguy, who turns out to be Constantine's subordinate; a position Constantine frequently reminds him of.
+
+Arriving in Berlin, the Muppets intend to play a shabby venue, but Badguy secures them a show at a more prestigious location. Becoming increasingly frustrated with the rest of the Muppets' ludicrous requests for the show and Miss Piggy's insistent hints at marriage, Kermit takes a stroll to calm down at the suggestion of Badguy. However, he is ambushed by a hooded Constantine, who slaps a fake mole on Kermit's right cheek, making him resemble Constantine. Constantine escapes and Kermit is arrested and taken to the Gulag in his place.
+
+Constantine meets up with the rest of the Muppets, all believing him to be Kermit, except Animal, who bites him. Constantine and Badguy review their plans. The Berlin performance opens with Constantine freezing at the sight of the large audience and Scooter has to introduce the show. Later, Constantine and Badguy sneak off to steal a selection of paintings from a nearby museum. Meanwhile, after being locked in the Gulag, Kermit makes multiple escape attempts, all of which are thwarted by Gulag prison guard Nadya, who then orders Kermit to help organize the annual prison talent show. Reflecting on his time with the Muppets, Kermit gains the inmates' respect. Meanwhile, on the train, Constantine wins over Miss Piggy.
+
+The morning after the burglary, Interpol agent Jean Pierre Napoleon and CIA agent Sam the Eagle begrudgingly form an alliance to apprehend the culprit, who Napoleon identifies as his nemesis "the Lemur", after discovering a coin-based calling card. Following instructions hidden behind one of the stolen paintings, Constantine and Badguy divert the course of the Muppet tour to Madrid as part of a plot to steal the crown jewels of Great Britain. Constantine informs the rest of the Muppets that they are permitted to perform any act they wish, much to the suspicion of Walter.
+
+The Muppets perform in Madrid whilst Constantine and Badguy steal the next set of instructions to steal the crown jewels, destroying many busts in the process. In spite of a disastrous performance that puts the audience to sleep, the Muppets' performance receives critical acclaim. Sam and Napoleon deduce that the connection between the crimes in Berlin and Madrid is the Muppet tour, and the pair interrogates the Muppets - to little success. As the tour reaches Dublin, Walter discovers Badguy to be paying critics to write positive reviews, and Fozzie Bear realizes the resemblance between Kermit and Constantine. Fozzie and Walter discover that Constantine is on the train posing as Kermit and that Badguy is in on the scheme. Constantine sees that they have found him out, and attacks them, but Animal fends him off, and the three of them manage to escape by hopping on another train. They then figure that the best course of action is to go to Siberia and rescue Kermit.
+
+At the climax of their Dublin performance, Constantine proposes to Miss Piggy, who accepts with the pair intending to marry at the Tower of London. Arriving in London, Constantine and Badguy conspire to use the wedding as a distraction while Badguy uses a locket stolen in Dublin, with the assistance of Bobby Benson's Baby Band, to steal the crown jewels. Before the wedding, Piggy contemplates her impending marriage and future with whom she assumes is her true love, Kermit. Fozzie, Walter, and Animal arrive at the Gulag and inform Kermit of Constantine's plot. The four use the prison show as a front to escape along with the rest of the prisoners, and they head to London, much to Nadya's dismay.
+
+The wedding gets underway and Badguy disables the security systems to the crown jewels, successfully stealing them. Kermit interrupts the wedding ceremony, revealing Constantine to be nothing more than an impostor. Constantine escapes with Piggy as his hostage. Arriving at their helicopter, Constantine comes across Badguy (revealed to be the world's number two criminal "the Lemur" while donning a lemur costume) with the Imperial State Crown, before Badguy announces his intent to double-cross Constantine. Constantine responds by ejecting Badguy from the helicopter and taking flight with Piggy. Kermit intercepts and the rest of the Muppets use a "Muppet ladder" to stop the helicopter in its tracks, with the help of an irate Piggy.
+
+Constantine and Badguy are arrested. After arriving in London, Nadya attempts to arrest Kermit once more for initiating the prison escape and "breaking her heart." The rest of the Muppets express to Nadya that if Kermit is arrested, then so shall they be. Nadya relents, deciding Kermit belongs with them and drops the charges. The Muppet tour concludes at the Gulag where Constantine and Badguy are part of the prison show. Nadya, apparently having been promised a solo by Kermit, prepares to sing, but is cut off by the film's "The End" logo, causing her to scream Kermit's name.

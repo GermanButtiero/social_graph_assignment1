@@ -1,0 +1,39 @@
+{{Infobox film
+| name           = Night Crossing 
+| image          = Night_crossing.jpg
+| caption        = Theatrical release poster
+| director       = [[Delbert Mann]]
+| producer       = [[Tom Leetch]]
+| writer         = [[John McGreevey]]
+| narrator       = 
+| starring       = {{plainlist|
+* [[John Hurt]]
+* [[Jane Alexander]]
+* [[Glynnis O'Connor]]
+* [[Doug McKeon]]
+* [[Beau Bridges]]
+* [[Ian Bannen]]
+}}
+| music          = [[Jerry Goldsmith]]
+| cinematography = [[Tony Imi]]
+| editing        = Gordon D. Brenner
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1982|2|5}}
+| runtime        = 107 minutes
+| country        = United Kingdom<br />United States
+| language       = English
+| budget         = $10 million<ref name=":0">{{Cite web|title=Night Crossing|url=https://catalog.afi.com/Film/56852-NIGHT-CROSSING?sid=0959d0c8-b23b-4a22-8b63-9635fa6acd56&sr=10.031332&cp=1&pos=0|access-date=2022-04-20|website=catalog.afi.com}}</ref> 
+| gross          = $8 million<ref>Box Office Mojo, "[https://www.boxofficemojo.com/release/rl325551617/weekend/ Night Crossing]". Accessed May 3, 2016.</ref>
+}}
+
+==Plot==
+A brief summary of conditions in East Germany and the border zone shows stock footage such as [[Conrad Schumann]]'s jump over barbed wire in Berlin as the [[Berlin Wall]] is constructed.
+
+In April 1978, in the small town of [[Poessneck|Pößneck]], Thuringia, teenager Lukas Keller attempts to escape [[East Germany]] by riding a [[bulldozer]] through the [[Inner German border|Inner German border zone]], but is shot by automatic machine guns and left for dead by the guards. His family is informed while on a picnic with their friends the Strelzyks and the Wetzels, and the entire Keller family are taken by the police. Aggravated with life under the [[East Germany|GDR]] regime, Peter Strelzyk proposes a daring plan to his friend Günter Wetzel: they will build a balloon to carry themselves and their families (a total of eight people) over the border to West Germany. They purchase {{cvt|1255|sqyd|m2}} of [[taffeta]], claiming that it is for a camping club, and Günter sews the fabric together with a sewing machine in his attic while Peter experiments for months with devising a burner for the hot-air balloon. They face setbacks such as fires while trying to inflate the balloon, a lack of power for the burner, extremely suspicious neighbors and doubts about the plan's feasibility by Günter's wife Petra.
+
+Peter and Günter then stop seeing each other in order to avoid suspicion that may arise when the Strelzyks escape. Peter and his eldest son Frank complete the burner and, after extensive testing, manage to inflate the balloon. On July 3, 1979, the four members of the Strelzyk family attempt to fly the balloon. They successfully lift off but they are spotted by a border guard. However, a cloud dampens the balloon and the burner, and they crash within the border zone only a few hundred feet from the fences, and the balloon floats away. Miraculously, they escape the zone, return to their car and drive home. Meanwhile, the border guard finds the balloon and the [[Stasi]], led by Major Koerner, begins an investigation to identify the balloon's creators in order to prevent them from carrying out a second escape attempt. Initially distraught over his failure, Peter is convinced by his sons to try again, knowing that the Stasi may soon uncover the plot. Peter convinces Günter to help him and both families begin work on a larger balloon to carry them all out of East Germany. Petra agrees to the plan, especially because her mother in [[West Berlin]] is very sick and the East German government has repeatedly denied her request to visit her.
+
+Having identified the initial launch area, the Stasi begins closing in on Pößneck. The Strelzyks and Wetzels purchase smaller quantities of taffeta from various stores to avoid suspicion, but they are running out of time. Peter tries to buy taffeta, claiming it is for his group of [[Ernst Thälmann Pioneer Organisation|Young Pioneers]], but the store manager secretly notifies the Stasi. The men eventually finish the balloon, but have no time to test it. On 15 September 1979, the families prepare to act on the plan while the Stasi finds blood-pressure medicine belonging to Peter's wife Doris where the first balloon had landed. The Stasi contacts the pharmacy and is able to identify the owner of the pills as Doris. The families' neighbor, a member of the Stasi, reports that they had been acting suspiciously. The families leave only minutes before the Stasi arrives at their homes. They reach their launch point while the border is placed on emergency alert.
+
+The balloon is inflated and the burner is lit. Both families climb into the balloon's basket and cut their ropes. A fire is started in the cloth, but it is quickly extinguished by Günter. They later notice a hole in the balloon and hope that it will hold. While in flight, the balloon is spotted and Koerner pursues them in a helicopter. Eventually, the burner's propane supply is expended and the balloon descends, and the border guard is mobilized to find them. The balloon lands in a clearing with all eight people unharmed. Peter and Günter attempt to determine where they are as they are discovered by a police car. Peter asks the police if they are in the West, and the police officer confirms. Overjoyed, Peter and Günter light their [[Flare|signal flare]]. The families happily embrace.

@@ -1,0 +1,53 @@
+{{Infobox film
+| image          = Moana 2 poster.jpg
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[David Derrick Jr.]]
+* Jason Hand
+* Dana Ledoux Miller
+}}
+| screenplay     = {{Plainlist|
+* [[Jared Bush]]
+* Dana Ledoux Miller
+}}
+| story          = {{Plainlist|
+* Jared Bush
+* Dana Ledoux Miller
+* Bek Smith
+}}
+| producer       = {{Plainlist|
+* Christina Chen
+* [[Yvett Merino]]
+}}
+| starring       = {{Plainlist|<!-- Names listed alphabetically. The end credits use "staggered billing" to give both actors equal prominence -->
+* [[Auliʻi Cravalho]]
+* [[Dwayne Johnson]]
+}}
+| cinematography = 
+| editing        = {{Plainlist|
+* Michael Louis Hill
+* Jeremy Milton
+}}
+| music          = [[Mark Mancina]]
+| production_companies = [[Walt Disney Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br/>Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner}}
+| released       = {{Film date|2024|11|21|Lanikuhonua Cultural Institute|2024|11|27|United States}}
+| runtime        = 100 minutes<!-- 99m 36s --><ref name="BBFC">{{Cite web |date=November 8, 2024|title=''Moana 2'' (PG)|url=https://www.bbfc.co.uk/release/moana-2-q29sbgvjdglvbjpwwc0xmdixnje2|access-date=November 9, 2024 |website=[[British Board of Film Classification]]}}</ref>
+| country        = United States
+| language       = English
+| budget         = $150 million<ref>{{cite news |last1=Masunga |first1=Samantha |title='Moana 2' was destined for streaming. Now it's breaking box office records |url=https://www.latimes.com/entertainment-arts/business/story/2024-12-01/moana-2-disney-streaming |access-date=2 December 2024 |work=[[Los Angeles Times]] |date=December 1, 2024 |archive-date=December 2, 2024 |archive-url=https://web.archive.org/web/20241202045433/https://www.latimes.com/entertainment-arts/business/story/2024-12-01/moana-2-disney-streaming |url-status=live }}</ref>
+| gross          = $1.059 billion<ref name="NUM">{{cite web |title=Moana 2 (2024) - Financial Information |url=https://the-numbers.com/movie/Moana-2-(2024)#tab=box-office |website=[[The Numbers (website)|The Numbers]] |access-date=April 7, 2025 |archive-date=January 17, 2025 |archive-url=https://web.archive.org/web/20250117234158/https://www.the-numbers.com/movie/Moana-2-(2024)#tab=box-office |url-status=live }}</ref><ref name="BOM">{{Cite web |title= Moana 2 (2024) |url= https://www.boxofficemojo.com/title/tt13622970/?ref_=bo_rl_ti |website= [[Box Office Mojo]] |access-date=April 7, 2025 |archive-date= December 26, 2024 |archive-url= https://web.archive.org/web/20241226142056/https://www.boxofficemojo.com/title/tt13622970/?ref_=bo_rl_ti |url-status= live }}</ref>
+}}
+
+== Plot ==
+Three years after her adventure with the [[demigod]] [[Maui (character)|Maui]] and the island goddess Te Fiti,{{efn|As depicted in [[Moana (2016 film)|''Moana'']] (2016)}} [[Moana (character)|Moana]] spends her days exploring other islands near her home island of Motunui in the hope of finding people connected to the ocean. On her return from one such voyage, Moana is given the title of ''tautai'', or master wayfinder — Motunui's first tautai in a thousand years.
+
+In a vision, Moana's ancestor, Tautai Vasa, reveals why none of those people are connected anymore: the malicious storm god Nalo wanted power over the mortals, so he sunk a legendary island called Motufetu, which connected all of the islands, down to the depths of the ocean. Vasa further warns that the people of Motunui will go extinct in the future if Moana cannot find a way to raise Motufetu. In response to this call from the ancestors, Moana assembles a crew of people from Motunui — craftswoman Loto, historian Moni, and grumpy elderly farmer Kele, alongside her pet pig and rooster, Pua and Heihei — to follow the path of a comet across the ocean towards Motufetu.
+
+Meanwhile, Maui is seeking Motufetu himself since he had a previous quarrel with Nalo, but he is captured by Nalo's enforcer, Matangi. Maui is reluctant to contact Moana, as he fears she may not survive if she comes to help. Moana and her crew are captured by the Kakamora, a tribe of savage [[coconut]]-like pirates that Moana previously encountered, who reveal that Nalo's actions against Motufetu had caused them to be disconnected from their home island. A Kakamora named Kotu helps the crew paralyze a gargantuan monster clam inside of which is Matangi's lair. While the crew finds Maui, Moana meets Matangi and learns that she is not happy serving Nalo. Matangi helps Moana escape and reunite with Maui and her friends, before sending them to where Nalo is.
+
+Maui warns that Nalo's realm is deadlier compared to the mortal realm and that fighting him will spell certain death for mere mortals. Nalo's monsters ambush the group, damaging their raft and washing them ashore on an isolated island. Moana begins to despair, but Maui encourages her to keep on going. With Moana revitalized, the group plans to have Maui raise Motufetu so that Moana can touch it, as that is the only way to stop Nalo. Her crew repairs her raft, but when the group ventures forth to confront Nalo, they encounter a gigantic storm.
+
+Moana, realizing that Nalo is trying to stop humans from breaking the curse, asks Maui to lift Motufetu enough for her to touch it. Maui begins to pull up Motufetu with his giant hook, but Nalo strips Maui of his demigod powers with a lightning bolt. Moana, in a moment of desperation, dives into the ocean to touch Motufetu underwater, but as she succeeds, Nalo's lightning kills her. Maui jumps in after her body, and with a magical chant, summons the spirits of Tautai Vasa and Moana's ancestors, including her grandmother Tala, who help revive her as a demigoddess, with Moana gaining a wayfinder's tattoo. Maui, also regaining his powers as a demigod, finally raises Motufetu and helps Moana reconnect the people with the ocean.
+
+The crew returns home to Motunui, leading a flotilla of the peoples of the ocean, and a celebration is held in Moana's honor. In a [[Post-credits scene|mid-credits scene]], Nalo plans his revenge and is about to punish Matangi for helping Moana, when the giant crab Tamatoa arrives to join his cause.

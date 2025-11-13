@@ -1,0 +1,53 @@
+{{Infobox film
+| name           = Old Yeller
+| image          = Old Yeller (1957 film poster).jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Robert Stevenson (director)|Robert Stevenson]]
+| producer       = [[Walt Disney]]
+| based_on       = {{Based on|''[[Old Yeller]]''|[[Fred Gipson]]}}
+| screenplay     = {{Plainlist|
+* Fred Gipson
+* [[William Tunberg (screenwriter)|William Tunberg]]
+}}
+| starring       = {{Plainlist|
+* [[Dorothy McGuire]]
+* [[Fess Parker]]
+* [[Jeff York]]
+* [[Tommy Kirk]]
+* [[Kevin Corcoran]]
+* [[Beverly Washburn]]
+* [[Chuck Connors]]
+}}
+| music          = {{Plainlist|
+* [[Oliver Wallace]]
+* [[Will Schaefer]]
+}}
+| cinematography = [[Charles P. Boyle]]
+| editing        = [[Stanley E. Johnson]]
+| color_process  = [[Technicolor]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1957|12|25}}
+| runtime        = 84 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $6.25 million (U.S./Canada rentals)<ref>{{cite magazine |title=All-Time Top Grossers |magazine=[[Variety (magazine)|Variety]] |date=January 8, 1964 |page=69}}</ref>
+}}
+
+== Plot ==
+<!-- WP:FILMPLOT recommends the plot summary to be between 400-700 words. -->
+In the late 1860s, Jim Coates leaves his family—wife Katie, teenage son Travis, and small son Arliss—to sell cattle in Kansas. While Jim is away, Travis sets off to work in the cornfield, where he encounters a [[Black Mouth Cur]] he names "Old Yeller", as "yeller" is a [[dialect]] pronunciation of "yellow" and the dog's bark resembles a human yell. Travis unsuccessfully tries to shoo the dog away, while Arliss defends him. Yeller's habit of stealing meat from [[smokehouse]]s and robbing hens' nests does not endear him to Travis, but his mother agrees with the idea of Arliss having a dog.
+
+Later, Arliss tries to capture a [[American black bear|black bear]] cub by feeding it [[cornbread]] and grabbing it. Its angry mother hears her cub wailing and attacks, but Old Yeller frightens her away, winning over the family. Travis grows to love and respect Old Yeller, who comes to profoundly affect the boy's life.
+
+Bud Searcy and his daughter, Lisbeth, come for supper one day, and Lisbeth takes Travis aside to tell him Old Yeller has been stealing food all over the county. After she and Bud leave, Travis scolds Old Yeller, but the next day, Old Yeller proves himself as a cow dog by protecting Travis from Rose, their cow, and restraining her while Travis milks her.
+
+One day, Old Yeller's original master, Burn Sanderson, arrives looking for his dog. Realizing that the Coates family really needs Old Yeller, he agrees to trade him to Arliss for a [[desert horned lizard|horny toad]] and a home-cooked meal. Sanderson later takes Travis aside and warns him of the growing plague of hydrophobia ([[rabies]]).
+
+One day, Travis sets out to trap a family of [[feral hogs]]. Advised by Bud Searcy, he sits in a tree, trying to rope them from above as Old Yeller corners them. However, Travis then falls into the group of hogs and is attacked by one. Old Yeller defends Travis as he crawls away with an injured leg. Old Yeller is severely injured by the hog and Travis hides him in a large hole. Travis' mother then retrieves Old Yeller and uses mule hair to suture his wounds. As Old Yeller recovers, Searcy warns the Coates family of hydrophobia in the area but Katie chastises him for trying to scare Travis. Searcy leaves, and Lisbeth stays with the Coateses to help them harvest corn. Travis assures Katie that the hogs were not rabid, and both he and Old Yeller recover.
+
+Later, a [[wolf]] suddenly attacks the family. Katie's scream alerts Travis, who runs outside with a [[rifle]], just in time to see Old Yeller fighting off the wolf. Travis successfully shoots the wolf, but not before Old Yeller is bitten by it. Katie tells Travis that because no healthy wolf would attack near a burning area, the wolf was rabid. Katie then suggests shooting Old Yeller, but Travis insists that they instead pen him in the [[corn crib]] to see if he shows symptoms of the disease. After remaining quarantined, the Coateses believe that Old Yeller escaped infection. One night, Travis goes to feed Old Yeller, only to notice he has rabies. Travis suspects that Old Yeller may have been infected but says nothing. Katie tells Travis that Old Yeller is suffering and brings the rifle with her. Travis takes it, reluctantly kills Old Yeller, and departs.
+
+Stricken with grief, Travis declines a new puppy sired by Old Yeller. Jim then returns with money and gifts for the family. Katie tells him about the dog, and Jim discusses it with Travis. Upon returning to the farmhouse, Travis observes the puppy stealing a piece of meat, a habit inherited from Old Yeller. Travis then accepts the puppy, "Young Yeller", as his new dog.

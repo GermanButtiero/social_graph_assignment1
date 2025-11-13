@@ -1,0 +1,40 @@
+{{Infobox film
+| name           = Bambi
+| image          = Walt Disney's Bambi poster.jpg
+| caption        = Theatrical release poster
+| director       = '''Supervising Director'''<br />[[David Hand (animator)|David D. Hand]]<br />
+'''Sequence Director'''{{Plainlist|
+* [[James Algar]]
+* Bill Roberts
+* Norman Wright
+* Sam Armstrong
+* Paul Satterfield
+* Graham Heid
+}}
+| story          = [[Perce Pearce]]<br />[[Larry Morey]]<br />[[Vernon Stallings|George Stallings]]<br />[[Mel Shaw|Melvin Shaw]]<br />[[Carl Fallberg]]<br />Chuck Couch<br />[[Ralph Wright]]
+| based_on       = {{based on|''[[Bambi, a Life in the Woods]]''|[[Felix Salten]]}}
+| producer       = [[Walt Disney]]
+| music          = [[Frank Churchill]]<br />[[Edward H. Plumb|Edward Plumb]]
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[RKO Pictures|RKO Radio Pictures]]
+| released       = {{Film date|1942|8|9|[[London]]|1942|8|13|United States|ref2=<ref>{{cite web|url=https://d23.com/a-to-z/bambi-film/|title=Bambi (film)|publisher=[[D23: The Official Disney Fan Club]]|website=[[Disney A to Z]]|access-date=August 21, 2024}}</ref>}}
+| runtime        = 70 minutes
+| country        = United States
+| language       = English
+| budget         = $2 million<ref name="LATimes89"/>
+| gross          = $267.4 million<ref name="BoxOfficeMojo">{{cite Box Office Mojo|title=Bambi|id=tt0034492|access-date=January 25, 2024|archive-url=https://web.archive.org/web/20240303192500/https://www.boxofficemojo.com/title/tttt0034492/|archive-date=March 3, 2024|url-status=live}}</ref>
+}}
+
+==Plot==
+<!--Per WP:FILMPLOT, plot length should be between 400 and 700 words. Current count is 414 words.-->
+In a [[Maine]] forest, a [[White-tailed deer|doe]] gives birth to a male fawn named [[Bambi (character)|Bambi]], who will one day take over the position of Great Prince of the Forest, who guards the woodland creatures. Bambi grows up very attached to his mother, with whom he spends most of his time. The fawn is befriended by an eager, energetic male [[Cottontail rabbit|rabbit]] named [[Thumper (Bambi)|Thumper]], who helps to teach him to walk and speak, a young male [[Striped skunk|skunk]] he mistakenly calls "Flower" (who is so flattered, he keeps the name) and a female fawn named Faline. Curious and inquisitive, Bambi frequently asks about the world around him and is cautioned about the dangers of life as a forest creature by his loving mother.
+
+One day out in a meadow, Bambi briefly sees the Great Prince, the oldest and most experienced stag. As the Great Prince wanders uphill, he discovers the human hunter, named "Man" by all the animals, is coming and rushes down to the meadow to get everyone to safety. Bambi is briefly separated from his mother during that time but is escorted to her by the Great Prince as the three of them make it back in the forest just as Man fires his gun. 
+
+During Bambi's first winter, he and Thumper play in the snow while Flower hibernates. One day his mother takes him to find food when Man shows up again. As they run off, his mother is shot and killed by the hunter, leaving the little fawn mournful and alone. Taking pity on the abandoned fawn, the Great Prince leads Bambi home as he reveals to him that he is his father.
+
+The following year, Bambi has matured into a young buck, and his childhood friends have also entered young adulthood. They are warned about becoming "twitterpated" by Friend Owl and that they will eventually fall in love, but the trio views the concept of romance with scorn. Thumper and Flower soon encounter their beautiful romantic counterparts and abandon their former thoughts on love. Bambi himself encounters Faline as a beautiful doe. Their courtship is quickly interrupted by a belligerent older stag named Ronno, who attempts to force Faline away from Bambi. Bambi successfully manages to defeat Ronno in battle and earn the rights to the doe's affections.
+
+One day, Bambi is awakened by the smell of smoke; he follows it and discovers it leads to a hunter camp. His father warns Bambi that Man has returned with more hunters. Bambi is separated from Faline in the turmoil, but finds her cornered by Man's vicious hunting dogs, which he manages to ward off. Bambi escapes them and is shot by Man, but survives. Meanwhile, at the "Man's" camp, their campfire suddenly spreads into the forest, resulting in a wildfire from which the forest residents flee in fear. Bambi, his father, Faline, and the forest animals manage to reach shelter on a riverbank. 
+
+The following spring, Faline gives birth to twins under Bambi's watchful eye as the new Great Prince of the Forest.

@@ -1,0 +1,26 @@
+{{Infobox film
+| name           = Run, Cougar, Run
+| image          = Run, Cougar, Run poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Jerome Courtland]]
+| producer       = [[James Algar]]
+| screenplay     = [[Louis Pelletier]]
+| based_on       = {{based on|''The Mountain Lion''|Robert William Murphy}}
+| narrator       = [[Ian Tyson]]
+| starring       = [[Stuart Whitman]]<br>[[Frank Aletter]]<br>[[Lonny Chapman]]<br>[[Douglas Fowley]]<br>[[Harry Carey Jr.]]<br>[[Alfonso Arau]]
+| music          = [[Buddy Baker (composer)|Buddy Baker]]
+| cinematography = [[William Cronjager]]
+| editing        = Gordon D. Brenner
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{Film date|1972|10|18}}
+| runtime        = 87 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+==Plot==
+Set in Utah, the film tells the story of a [[cougar]] whose mate has been killed by a hunter. She must raise her three cubs, teaching them to survive the harsh realities of the wilderness, while the hunter continues to track the animals with the intent to kill them.

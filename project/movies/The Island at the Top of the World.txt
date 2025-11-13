@@ -1,0 +1,35 @@
+{{Infobox film
+| name           = The Island at the Top of the World
+| image          = island_at_the_top_of_the_world_movie_poster.jpg
+| caption        = Theatrical release poster by [[Eric Pulford]]
+| director       = [[Robert Stevenson (director)|Robert Stevenson]]
+| producer       = [[Winston Hibler]]
+| writer         = [[Donald G. Payne|Ian Cameron]] (novel) <br />[[John Whedon]] (screenplay)
+| starring       = [[Donald Sinden]] <br />[[David Hartman (TV personality)|David Hartman]] <br />[[Jacques Marin]] <br />[[Mako (actor)|Mako]] <br /> [[Agneta Eckemyr]]
+| music          = [[Maurice Jarre]]
+| cinematography = [[Frank V. Phillips]]
+| editing        = [[Robert Stafford]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1974|12|20|with ''[[Winnie the Pooh and Tigger Too]]''}}
+| runtime        = 93 minutes
+|gross = $10 million (US/Canada rentals)<ref>"All-time Film Rental Champs", ''Variety'', 7 January 1976 p 44</ref>
+| country        = United States
+|budget=$8 million<ref>{{cite news|title=Room at the top of the world|author=A. H. W.|date=Jul 30, 1972|work=New York Times|id={{ProQuest|119490970}}}}</ref>
+| language       = [[English language|English]] <br />[[Swedish language|Swedish]] <br />[[Norwegian language|Norwegian]] <br />[[Danish language|Danish]] <br />[[Icelandic language|Icelandic]]
+}}
+
+==Plot==
+In [[London]] in the year 1907, British [[British aristocracy|aristocrat]], [[industrialist]] and [[millionaire]] Sir Anthony Ross hastily arranges an expedition to the [[Arctic]] to search for his lost son Donald. Donald has become lost on a [[whaling]] expedition to find the fabled island where [[whale]]s go to die.
+
+Sir Anthony employs the talents of [[Scandinavia]]n-[[Americans|American]] [[archaeologist]] Professor John Ivarsson  and Captain Brieux, a [[France|French]] inventor/[[aeronaut]] who pilots the expedition in a French [[dirigible]] named the ''Hyperion'', which Captain Brieux invented. Upon reaching the Arctic, they meet Oomiak, a comically cowardly/brave [[Inuit|Inuk]] friend of Donald's, and trick him into helping them join in the search.
+
+Ultimately, the expedition becomes (temporarily) separated from Captain Brieux, and discovers an uncharted island named Astragard, occupied by a lost civilization of [[Norsemen]] ([[Vikings]]), hidden from the rest of the world for centuries. They capture Sir Anthony and Ivarsson, but Oomiak escapes. Shortly thereafter they find Donald, but are nearly put to death by the outrageously [[fanatical]] and [[xenophobia|xenophobic]] [[Gothi|Godi]] (pronounced {{IPAc-en|ˈ|ɡ|əʊ|d|i}} {{respell|GOH|dee}}), a [[lawspeaker]]/[[authority figure]].
+
+The three men (Sir Anthony, Ivarsson and Donald) are saved from being burned alive by a virtuous girl named Freyja, with whom Donald is deeply and mutually in love. They escape, and are rejoined by Oomiak and eventually find the Whale's Graveyard, but are attacked by [[killer whales]]. Here they are saved by the sudden reappearance of Captain Brieux, but they are still being pursued by the angry Godi and his reluctant warriors.
+
+Finally, the Godi is killed by an explosion when he shoots a [[flaming arrow]] at the Hyperion; the Vikings feel sorry for the four adventurers for their prejudice-driven aggression led by the Godi. They believe his dark behavior towards the newcomers have angered the [[Norse god]]s. To appease the gods, they will not let the expedition return to their world unless one of them remains behind as a hostage, to prevent them from divulging the existence of Astragard to the outside world.
+
+Ivarsson willingly volunteers to stay, as this represents a chance to relive history. Ivarsson also points out that if someday mankind is ever foolish enough to destroy itself, places like Astragard may become humanity's final refuge.
+
+Sir Anthony, Donald, Freyja, Captain Brieux and Oomiak, are allowed to depart in peace, promising not to tell the outside world about Astragard. As Ivarsson heads back to Astragard, he turns to look back just in time to see his five friends move further and further away until they vanish into the Arctic mist.

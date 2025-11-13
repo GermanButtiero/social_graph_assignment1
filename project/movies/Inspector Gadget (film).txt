@@ -1,0 +1,66 @@
+{{Infobox film
+| name = Inspector Gadget
+| image = Inspector gadget ver2.jpg
+| alt =
+| caption = Theatrical release poster
+| director = David Kellogg
+| screenplay = {{Plainlist|
+* [[Kerry Ehrin]]
+* [[Zak Penn]]
+}}
+| story = {{Plainlist|
+* Kerry Ehrin
+* [[Dana Olsen]]
+}}
+| based_on = {{Based on|''[[Inspector Gadget (1983 TV series)|Inspector Gadget]]''|[[Andy Heyward]]<br/>[[Jean Chalopin]]<br/>[[Bruno Bianchi (cartoonist)|Bruno Bianchi]]}}
+| producer = {{Plainlist|
+* [[Jordan Kerner]]
+* [[Roger Birnbaum]]
+* Andy Heyward
+}}
+| starring = {{Plainlist|
+* [[Matthew Broderick]]
+* [[Rupert Everett]]
+* [[Joely Fisher]]
+* [[Michelle Trachtenberg]]
+* [[Mike Hagerty]]
+* [[Andy Dick]]
+* [[Cheri Oteri]]
+* [[Dabney Coleman]]
+}}
+| cinematography = [[Adam Greenberg (cinematographer)|Adam Greenberg]]
+| editing = {{Plainlist|
+* Alan Cody
+* [[Thom Noble]]
+}}
+| music = [[John Debney]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]<ref name="catalog.afi.com">{{Cite web|url=https://catalog.afi.com/Catalog/moviedetails/61190?sid=d9547378-f78b-49a3-849f-c315053ce17a&sr=4.67264&cp=1&pos=0|title=AFI&#124;Catalog|website=catalog.afi.com}}</ref>
+* [[Caravan Pictures]]
+* [[DIC Entertainment]]
+* Avnet/Kerner Productions
+* [[Roger Birnbaum Productions]]
+}}
+| distributor = [[Buena Vista Pictures Distribution]]<ref name="catalog.afi.com"/>
+| released = {{Film date|1999|07|23}}
+| runtime = 78 minutes<!--Theatrical runtime: 78:25--><ref>{{cite web | url=https://bbfc.co.uk/releases/inspector-gadget-1999-2 | archive-url=https://web.archive.org/web/20160306023410/http://bbfc.co.uk/releases/inspector-gadget-1999-2 | url-status=dead | archive-date=March 6, 2016 | title=''Inspector Gadget'' (U) | work=[[British Board of Film Classification]] | date=August 19, 1999 | access-date=October 23, 2015}}</ref>
+| country = {{Plainlist|
+* United States
+* France
+}}
+| language = English
+| budget = $75–90 million<ref>{{cite news|title= Company Town Film Profit Report|work= [[Los Angeles Times]]|url= https://www.latimes.com/archives/la-xpm-1999-aug-24-fi-3153-story.html|date= August 24, 1999 |access-date= June 3, 2012}}</ref><ref name="boxofficemojo"/>
+| gross = $134.4 million<ref name="boxofficemojo"/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be set between 400 to 700 words. -->
+John Brown lives in the city of Riverton, with his 12-year-old niece Penny and her pet [[beagle]] Brain. Dreaming of becoming a police officer, John works as a [[security guard]] for the Bradford robotics laboratory. Artemus Bradford and his daughter Brenda are designing a lifelike robotic foot as part of the Gadget Program, designed to add android officers to the Riverton Police Department. Sanford Scolex, a tycoon, uses a robotic tank to break into the Bradford laboratory and steals the foot to build an army of androids from its technology, assassinating Artemus in the process. John chases after Scolex's [[limousine]] in his hatchback, but John's car gets flipped over due to an oil slick from Scolex's limo, leading both vehicles to crash into a billboard. John is blown up in his upside down car by Scolex's Dynamite stick disguised as a cigar and left for dead, but a [[bowling ball]] launched by the explosive blast from the destroyed car lands in the limo and crushes Scolex's left hand; Scolex receives a mechanical claw from his associate, Kramer, taking on the alias "Dr. Claw".
+
+Brenda decides to make John, who nearly died from the fiery car explosion, the first test subject for the Gadget Program. She builds an array of gadgets into his body and gives him the alias "Inspector Gadget", inserting a control chip as his power supply. Brenda and a [[guru]] give John an orientation on using his new gadgets, which goes awry when the guru is hospitalized by a pinch to the [[testicles]] inadvertently caused by John. He is helped by the Gadgetmobile, a robotic car with a chatty [[Artificial intelligence|AI]]. Despite struggling with his new gadgets, John stops two criminals trying to rob a [[Dodge Viper|car]].
+
+At a [[Ball (dance party)|charity ball]], Scolex approaches Brenda, having known her at [[Harvard]], inviting her to work for him in her own laboratory. Brenda accepts, unaware that Scolex plans to steal her technological ideas and designs. Unimpressed with John, police chief Frank Quimby assigns him to menial assignments rather than investigate Artemus' murder. Upset at not being taken seriously, John begins investigating on his own and finds a piece of scrap metal, which he later connects to Scolex with Penny's help.
+
+Scolex uses Brenda's research to build his own android, "Robo-Gadget", sending him out on a rampage across Riverton to frame John who infiltrates Scolex's lab to recover the foot but is caught and deactivated when Scolex breaks his chip. Scolex's minion Sykes dumps John in a junkyard, then is tasked to dispose of the foot. Brenda encounters her own robotic doppelgänger, Robo-Brenda, who confirms Scolex stole the foot and murdered her father. Brenda, Penny, Brain, and the Gadgetmobile track John to a junkyard where a kiss from Brenda awakens him, proving John's human willpower can control his new body without the chip.
+
+After dropping Penny and Brain off at home, John and Brenda chase Scolex and Robo-Gadget's limo. John and Robo-Gadget fall off the roof and duel on a bridge until John removes the latter's head, tossing it into the river, though Robo-Gadget's body runs off. Brenda crashes the Gadgetmobile into Scolex's limo but is taken prisoner. Scolex tries to escape in a helicopter, but John appears using his helicopter hat to intercept. Scolex destroys it, and John is stuck hanging from the landing skis. John deconstructs a pen in his finger, whilst remembering the "visualizing [his] goal" advice from the guru, and launches the metal ink chamber, sending it bouncing around until it hits a button on Scolex's claw, causing it to clamp shut and break the joystick of the helicopter. Brenda leaps out of the spinning helicopter onto John's back and they fall down the side of Scolex's skyscraper, using a parasol to land safely. Scolex parachutes down but lands in the Gadgetmobile and is captured by it. The police arrive to arrest John, but Penny appears with a repentant and reformed Sykes, who confesses his boss' crimes to the police. Saluted and acknowledged by Quimby as an actual member of the police force, John departs with Brenda and Penny while Scolex vows revenge as he is taken away by the cops. The film ends with John and Brenda beginning a relationship and Gadgetmobile driving after a red car.

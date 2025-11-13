@@ -1,0 +1,43 @@
+{{Infobox film
+| image          = Poster of the movie The Monkey's Uncle.jpg
+ 
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Robert Stevenson (director)|Robert Stevenson]]
+| producer       = {{Plainlist|
+* [[Ron W. Miller|Ron Miller]]
+* [[Walt Disney]]
+}}
+| writer         = [[Alfred Lewis Levitt|Tom August <br>Helen August]]
+| narrator       = 
+| starring       = {{Plainlist|
+* [[Tommy Kirk]]
+* [[Annette Funicello]]
+* [[Leon Ames (actor)|Leon Ames]]
+* [[Frank Faylen]]
+* [[Arthur O'Connell]]
+}}
+| music          = [[Buddy Baker (composer)|Buddy Baker]]
+| cinematography = [[Edward Colman (cinematographer)|Edward Colman]]
+| editing        = [[Cotton Warburton]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{film date|1965|08|18|Los Angeles|ref1=<ref>{{cite web |url=http://catalog.afi.com/Film/19328-THE-MONKEY'S-UNCLE?sid=7e1041bd-9ad5-4df6-b872-270bb4cc54bc&sr=3.1547399&cp=1&pos=0#3 |title=The Monkey's Uncle - Details |website=[[AFI Catalog of Feature Films]] |publisher=[[American Film Institute]] |access-date=April 16, 2019}}</ref>
+}}
+| runtime        = 87 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $4,000,000 (US/Canada rentals)<ref>This figure consists of anticipated rentals accruing distributors in North America. See {{cite magazine|title=Big Rental Pictures of 1965|magazine=Variety|date=5 January 1966|page=6|url=https://archive.org/details/sim_variety_1966-01-05_241_7/page/6/mode/1up}}</ref>
+}}
+
+==Plot==
+The film starts in court, where Merlin Jones legally adopts his monkey, Stanley.
+
+Midvale College is told that a wealthy man, Mr. Astorbilt, will give a large donation, but he has a strange request—he challenges the school to build a man-powered flying machine. If they succeed by a certain date, they get the donation, otherwise it will go to a rival school.
+
+Jones designs a lightweight airplane, powered by a propeller driven by bicycle pedals. Recognizing that even his football-jock friends won't be strong enough for such a feat, he develops a strength elixir (based on adrenaline), which should give the power that a man would need to get off the ground.
+
+To get the jocks' support, he creates "an honest way to cheat", adapting the recently discovered sleep-learning method to help them pass a particularly hard history course. Once the jocks are asleep, a timer starts a phonograph player, with the sound of Merlin's girlfriend, Jennifer, reading their lessons to them. However, this backfires in class—asked to give an oral report, the jocks speak, but Jennifer's voice comes out. It eventually works out in the students' favor.
+
+Jones gets the jocks' help, and the great day comes. The pilot drinks the elixir, then pedals off into the sky, winning the contest, but the "wealthy donor" is last seen fleeing from men in white coats, who want to take him back to the local mental hospital.

@@ -1,0 +1,54 @@
+{{Infobox film
+| name        = The Hunchback of Notre Dame
+| image       = The Hunchback of Notre Dame 1996 poster.jpg
+| alt         =
+| caption     = Theatrical release poster by [[John Alvin]]<ref name=lat>{{cite news|first=Jocelyn|last=Stewart|title=Artist created many famous film posters|url=https://www.latimes.com/archives/la-xpm-2008-feb-10-me-alvin10-story.html|work=[[Los Angeles Times]]|date=February 10, 2008|access-date=February 10, 2008|archive-date=March 14, 2010|archive-url=https://web.archive.org/web/20100314184353/http://articles.latimes.com/2008/feb/10/local/me-alvin10|url-status=live}}</ref>
+| director    = {{Plainlist|
+* [[Gary Trousdale]]
+* [[Kirk Wise]]
+}}
+| producer    = [[Don Hahn]]
+| screenplay  = {{Plainlist|
+* [[Tab Murphy]]
+* [[Irene Mecchi]]
+* [[Bob Tzudiker]]
+* [[Noni White]]
+* [[Jonathan Roberts (writer)|Jonathan Roberts]]
+}}
+| story      = Tab Murphy
+| based_on    = {{based on|''[[The Hunchback of Notre-Dame]]''|[[Victor Hugo]]}}
+| starring    = {{Plainlist|
+* [[Tom Hulce]]
+* [[Demi Moore]]
+* [[Tony Jay]]
+* [[Kevin Kline]]
+* [[Paul Kandel]]
+* [[Jason Alexander]]
+* [[Charles Kimbrough]]
+* [[Mary Wickes]]
+* [[David Ogden Stiers]]}}
+| music       = [[Alan Menken]]
+| editing     = Ellen Keneshea
+| production_companies = [[Walt Disney Feature Animation]]
+| distributor = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner.}}
+| released    = {{Film date|1996|6|19|[[Caesars Superdome|Louisiana Superdome]]|1996|6|21|United States}}
+| runtime     = 91 minutes
+| country     = United States
+| language    = English
+| budget      = $70&nbsp;million<ref>{{cite news |last1=Bates |first1=James |last2=Apodaca |first2=Patrice |url=https://www.latimes.com/archives/la-xpm-1996-06-20-mn-16693-story.html |title=Stalking the King of Animation |work=Los Angeles Times |date=June 20, 1996 |access-date=June 21, 2021 |archive-date=June 24, 2021 |archive-url=https://web.archive.org/web/20210624204007/https://www.latimes.com/archives/la-xpm-1996-06-20-mn-16693-story.html |url-status=live }}</ref>
+| gross       = $325.3&nbsp;million<ref name="mojo">{{cite web |title=The Hunchback of Notre Dame |website=[[Box Office Mojo]] |url=http://www.boxofficemojo.com/movies/?id=hunchbackofnotredame.htm |access-date=January 5, 2012 |archive-date=June 10, 2003 |archive-url=https://web.archive.org/web/20030610033627/http://www.boxofficemojo.com/movies/?id=hunchbackofnotredame.htm |url-status=live }}</ref>
+}}
+
+== Plot ==
+<!-- PER WP:FILMPLOT, PLOT SUMMARIES FOR FEATURE FILMS SHOULD BE 400-700 WORDS. -->[[File:Paris Notre-Dame East View 02.JPG|left|thumb|The eastern view of the Cathedral [[Notre-Dame de Paris]], France.]]
+In 1482 Paris, [[Clopin Trouillefou|Clopin]], a [[Romani people in France|Romani]] puppeteer, narrates the story of a mysterious bell-ringer to a group of children.
+
+A group of Roma immigrating to [[Paris]] are ambushed by [[Claude Frollo (Disney character)|Judge Claude Frollo]], Paris' Minister of Justice, and his soldiers. One woman attempts to flee with her baby, reaching the doors of [[Notre-Dame de Paris|Notre Dame]] pleading for [[Sanctuary#Sanctuary as a sacred place|sanctuary]]. Frollo chases her down and knocks her onto the cathedral's steps, where she fractures her skull and dies. Seeing her baby's deformed appearance, Frollo believes it to be a [[demon]] and tries drowning the child but is stopped by the [[archdeacon]], who scolds Frollo for murdering an innocent woman. Afraid for his soul, Frollo reluctantly agrees to raise the child as his own, naming him "[[Quasimodo]]" (meaning 'half-formed') and hiding him away in the cathedral's [[bell tower]].
+
+Twenty years later, Quasimodo has grown into a kind yet isolated young man, now with a pronounced hunchback caused by [[kyphosis]]. He is also incredibly strong and agile, due to years of ringing Notre Dame's heavy bells and climbing its roofs and walls. He has lived his entire life in the cathedral with his only company being a trio of living stone [[Gargoyle (monster)|gargoyles]]: Victor, Hugo, and Laverne. The gargoyles encourage him to attend the annual [[Feast of Fools|Festival of Fools]], despite Frollo's warnings that he would be shunned for his appearance. Quasimodo attends and is celebrated for his appearance but then, prompted by Frollo's guards, is humiliated by the crowd. Frollo refuses Quasimodo's pleas for help, but he is rescued by [[Esmeralda (The Hunchback of Notre-Dame)|Esmeralda]], a kind Romani woman who stands up to Frollo for his tyranny. Intending to commit genocide against Romani people living in Paris, Frollo orders Esmeralda's arrest, but she escapes using a [[Magic (illusion)|magic trick]].
+
+Quasimodo retreats back into the cathedral, followed by Esmeralda and [[Captain Phoebus]] of Frollo's guard. Phoebus refuses to arrest her for [[witchcraft]] inside Notre Dame and instead tells Frollo that she has claimed [[Sanctuary|asylum]]. Esmeralda finds and befriends Quasimodo, who helps her escape Notre Dame out of gratitude for defending him. She entrusts Quasimodo with a pendant containing a map to the Romani hideout called the [[Cour des miracles|Court of Miracles]]. Frollo develops an obsessive lust for Esmeralda and, upon realizing this, begs the [[Virgin Mary]] to save him from her "[[Spell (paranormal)|spell]]" and avoid eternal [[damnation]].
+
+When Frollo discovers Esmeralda's escape, he searches for her, [[bribing]] and arresting Roma and [[Arson|setting fire to]] houses while trying to find her. Phoebus defies Frollo when ordered to burn down a house with a family inside and Frollo orders him executed. Phoebus flees but is struck by an arrow and falls into the [[River Seine]], where he is found by Esmeralda and taken to Notre Dame for refuge. The gargoyles encourage Quasimodo to confess his feelings for Esmeralda, but he is heartbroken to discover she and Phoebus have fallen in love. Realizing that Quasimodo helped Esmeralda escape, Frollo tells him he knows about the Court of Miracles and plans to attack it at dawn. Using the map Esmeralda gave him, Quasimodo and Phoebus find the court to warn the Roma, only for Frollo to follow them and capture all the Roma present.
+
+When Esmeralda again rejects Frollo's advances, he attempts to burn her at the stake at [[Parvis Notre-Dame – Place Jean-Paul II|Place du Parvis]], but Quasimodo swoops down and carries her to the cathedral tower, crying "Sanctuary!" from the ledge. When Frollo attempts to seize the cathedral, Phoebus releases the Roma and rallies the Paris citizens against Frollo's guards. Quasimodo and the gargoyles pour molten lead onto the streets to prevent anyone entering, but Frollo himself manages to break into the cathedral beforehand. Violating the tradition of sanctuary, he pursues Quasimodo and Esmeralda to the bell tower with the intent of killing them both. He and Quasimodo fight, eventually both falling from a ledge. Frollo plummets to his death in the molten lead while Quasimodo is saved by Phoebus. Afterwards, Quasimodo accepts Phoebus and Esmeralda's love, and he gives them his blessing. They encourage him to leave the cathedral; when he does so, the people of Paris hail him as a hero.

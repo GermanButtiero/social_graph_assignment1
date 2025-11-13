@@ -1,0 +1,22 @@
+{{Infobox film
+| name           = The Castaway Cowboy
+| image	         = The Castaway Cowboy FilmPoster.jpeg
+| caption        = Theatrical release poster
+| director       = [[Vincent McEveety]]
+| producer       = [[Ron W. Miller|Ron Miller]]<br>[[Winston Hibler]]
+| writer         = Don Tait
+| starring       = [[James Garner]]<br>[[Vera Miles]]<br>[[Eric Shea]]<br>[[Robert Culp]]
+| music          = Robert F. Brunner
+| cinematography = Andrew Jackson
+| editing        = [[Cotton Warburton]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{Film date|1974|08|01}} 
+| runtime        = 91 minutes
+| country        = United States
+| language       = English
+| budget         =
+}}
+
+==Plot==
+Texas [[cowboy]], Lincoln Costain ([[James Garner]]), gets "[[Shanghaiing|shanghaied]]" in San Francisco, then jumps ship and washes ashore on the Hawaiian island of [[Kauai]], right into the arms of widow Henrietta MacAvoy ([[Vera Miles]]) and her son ([[Eric Shea]]) who are struggling to make a living as farmers.  A lot of wild cattle often trample their crops, so Costain gets the idea to start cattle ranching instead. The Hawaiian farm hands don't readily take to the American [[cowboy]] culture, and Calvin Bryson ([[Robert Culp]]), is a banker with eyes to grab Henrietta's land and maybe Henrietta herself.

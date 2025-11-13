@@ -1,0 +1,53 @@
+{{Infobox film
+| image          = Race to witch mountain film.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Andy Fickman]]
+| screenplay     = {{Plainlist|
+* Matt Lopez
+* [[Mark Bomback]]
+}}
+| story          = Matt Lopez
+| based_on       = {{Based on|''[[Escape to Witch Mountain]]''|[[Alexander Key]]}}
+| producer       = [[Andrew Gunn (producer)|Andrew Gunn]]
+| starring       = {{Plainlist|
+* [[Dwayne Johnson]]
+* [[AnnaSophia Robb]]
+* [[Carla Gugino]]
+* [[Ciarán Hinds]]
+* [[Alexander Ludwig]]
+* [[Tom Everett Scott]]
+* [[Chris Marquette|Christopher Marquette]]
+}}
+| cinematography = [[Greg Gardiner]]
+| editing        = [[David Rennie (film editor)|David Rennie]]
+| music          = [[Trevor Rabin]]
+| studio         = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Gunn Films]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]
+| released       = {{Film date|2009|03|11|Egypt|2009|03|13|United States}}
+| runtime        = 98 minutes<!-- U.S. theatrical release -->
+| country        = United States
+| language       = English
+| budget         = $50 million<ref>{{cite news|url=https://www.nytimes.com/2009/03/08/movies/08barn.html?pagewanted=all&_r=0|title=Yep, He's Big |work=[[The New York Times]] |date=5 March 2009 |access-date=2013-12-29 |last1=Barnes |first1=Brooks}}</ref>
+| gross          = $106.4 million<ref name="numbers">{{cite web|url=https://www.the-numbers.com/movie/Race-to-Witch-Mountain#tab=summary|title=Race to Witch Mountain (2009)|work=The Numbers|access-date=2013-12-29|archive-date=2023-03-01|archive-url=https://web.archive.org/web/20230301175657/https://www.the-numbers.com/movie/Race-to-Witch-Mountain#tab=summary|url-status=live}}</ref>
+}}
+
+== Plot ==
+An [[UFO|alien spacecraft]] crashes near [[Searchlight, Nevada]], 45 miles outside of [[Las Vegas, Nevada|Las Vegas]]. Project Moon Dust, a secret [[United States Department of Defense|Defense Department]] unit led by Henry Burke, reach the scene of the crash in [[black helicopters]]. Men in black seize the spaceship and search for its passengers to harness their [[DNA]] and powers.
+
+In Vegas, former mob getaway driver Jack Bruno works as a [[taxi cab driver]] to avoid returning to jail. One of his passengers is failed [[astrophysicist]] Dr. Alex Friedman, who has come to Vegas to speak at a UFO convention at the [[Planet Hollywood hotel]].
+
+After fending off two thugs who seek his services for mob boss Andrew Wolfe, Bruno finds two teenagers, Sara and Seth, in his cab. They offer $15,000 to drive them to an unknown destination. Burke's men track down the teenagers (who turn out to be the spaceship's passengers) through various discoveries such as stolen clothes, a car being burglarized, a bus heading to Las Vegas, and an [[Automated teller machine|ATM]] being deprived of all of its contents, which eventually pinpoints their location in Bruno's taxi. They engage Bruno in a chase. Mistaking the government agents for more mob thugs, he tries to evade them. Seth's ability to vary his molecular density, as well as Sara's [[telepathy]] and [[telekinesis]], helps the group to escape.
+
+When they arrive at an abandoned house, Bruno follows them out of concern and curiosity. The teenagers retrieve the device they were looking for within a hidden underground laboratory, but the three are attacked by the "Siphon", an armored alien assassin. The Siphon pursues them until its spaceship crashes into a train and the creature is wounded.
+
+Bruno brings Seth and Sara to Friedman at the UFO convention. Despite initially dismissing Bruno's story, she believes him after Seth and Sara show off their powers and narrate their current situation: they are aliens from a dying planet located 3,000 [[light year]]s from [[Earth]] and can travel by using wormholes on their spaceships. Their government intends to invade Earth so that their kind may survive, despite the majority of their race being fully opposed to the plan. Seth and Sara's parents are scientists who sought a way to save their planet without invasion, but were arrested before completing their experiment. The teenagers came to retrieve the successful results, but the alien military (who prefer the solution of invading Earth rather than trying to save their home planet) sent the Siphon to stop them. To prevent the invasion from happening and save both worlds, they must retrieve their spaceship and return home with the results.
+
+Realizing that the teenagers are what she has been searching for, Friedman joins the group. They meet fellow [[UFOlogist]] and conspiracy theorist Dr. Donald Harlan, who reveals that the spaceship was taken to Witch Mountain, a secret US government base. Harlan and his men distract the soldiers with Bruno's taxi while the others escape to Witch Mountain in Harlan's RV after evading the Siphon. The group arrives at the base, but are captured by Burke. He orders that the teenagers be prepared for [[vivisection]], but frees the adults, confident that nobody will believe them.
+
+The Siphon attacks Witch Mountain and engages the soldiers, allowing Bruno and Friedman to infiltrate the base and free Seth and Sara. They launch the ship, escape through the mountain's tunnels, and kill the Siphon, who had stowed away on the spaceship. The teenagers give Bruno and Friedman a tracking device that will allow the aliens to always find them. They tearfully wish them farewell, but not before Sara gives her telepathic powers to Bruno.
+
+Weeks later, Bruno and Friedman become successful authors of a book named ''Race to Witch Mountain: A True Story''. They promote their book and knowledge on the UFO convention circuit, explaining that the publicity protects them from government reprisal. As they leave the convention, the alien device activates, implying that the alien teenagers may be returning to Earth.

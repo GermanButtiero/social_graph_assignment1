@@ -1,0 +1,25 @@
+{{Infobox film
+| name           = Smith!
+| image          = Smith! 1969.jpg
+| caption        =
+| director       = [[Michael O'Herlihy]]
+| producer       = [[Bill Anderson (producer)|Bill Anderson]]
+| screenplay     = [[Louis Pelletier]]
+| based_on       = ''Breaking Smith's Quarter Horse'' <br> by [[Paul St. Pierre]]
+| starring       = [[Glenn Ford]]
+| music          = Robert F. Brunner
+| cinematography = Robert C. Moreno
+| editing        = Robert Stafford
+| color_process  = [[Technicolor]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{Film date|1969|3|21}}
+| runtime        = 102 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          = $1.3 million (US/ Canada rentals)<ref>"Big Rental Films of 1969", ''Variety'', January 7, 1970 p 15</ref>
+}}
+
+==Plot==
+Native American Jimmyboy flees to a ranch owned by Smith, a white man raised by a Native American. Jimmyboy has been accused of a crime by a white man and fears he will not receive a fair trial. Smith helps Jimmyboy deal with a cruel sheriff and persuades him to surrender to the local authorities, promising him he will act as a defense witness during court proceedings.

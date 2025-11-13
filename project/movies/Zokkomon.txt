@@ -1,0 +1,22 @@
+{{Infobox film
+| name                 = Zokkomon
+| image                = Zokkomon.jpg
+| caption              = Theatrical release poster
+| director             = [[Satyajit Bhatkal]]
+| producer             =
+| screenplay           = {{Unbulleted_list|Satyajit Bhatkal|Lancy Fernandes|Svati Chakravarty Bhatkal}}
+| starring             = {{Unbulleted_list|[[Darsheel Safary]]|[[Manjari Fadnis]]|[[Anupam Kher]]}}
+| music                = '''Songs:'''<br/>[[Shankar–Ehsaan–Loy]]<br/>'''Background Score:'''<br/>[[Hitesh Sonik]]
+| cinematography = Keshav Prakash
+| editing              = Suresh Pai
+| production_companies = [[The Walt Disney Company India]]
+| distributor          = [[UTV Motion Pictures]]
+| released             = {{Film date|df=y|2011|04|22}}
+| country              = India
+| language             = Hindi
+| runtime              = 109 minutes
+}}
+
+==Plot==
+{{More plot|date=September 2024}}
+Kunal (Safary), an orphaned boy, discovers how cruel life is when he is abandoned by his heartless uncle, Deshraj Kumar (Kher). Left to fend for himself, Kunal soon realizes the hero within himself and begins his epic journey of adventure and transformation to become Zokkomon.

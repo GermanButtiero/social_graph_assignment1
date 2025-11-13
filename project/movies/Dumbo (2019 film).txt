@@ -1,0 +1,54 @@
+{{Infobox film
+| name           = Dumbo
+| image          = Dumbo (2019 film).png
+| caption        = Theatrical release poster
+| director       = [[Tim Burton]]
+| screenplay     = [[Ehren Kruger]]
+| based_on       = {{idp|
+* {{based on|[[Walt Disney Animation Studios|Disney]]'s ''[[Dumbo]]''|Otto Englander<br />[[Joe Grant]]<br />[[Dick Huemer]]<ref name="PressKit"/>}}
+* {{based on|''Dumbo, the Flying Elephant''|Helen Aberson<br />Harold Pearl}}
+}}
+| producer       = {{Plainlist|
+* Justin Springer
+* Ehren Kruger
+* Katterli Frauenfelder
+* [[Derek Frey]]
+}}
+| starring       = {{Plainlist|<!--Per billing block-->
+* [[Colin Farrell]]
+* [[Michael Keaton]]
+* [[Danny DeVito]]
+* [[Eva Green]]
+* [[Alan Arkin]]
+}}
+| cinematography = [[Ben Davis (cinematographer)|Ben Davis]]
+| editing        = [[Chris Lebenzon]]
+| music          = [[Danny Elfman]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Tim Burton Productions]]
+* Infinite Detective Productions
+* Secret Machine Entertainment
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br /> Motion Pictures]]
+| released       = {{Film date|2019|3|11|[[Los Angeles]]|2019|3|29|United States}}
+| runtime        = 112 minutes<!--111:48--><ref>{{cite news|title=DUMBO (2D)|url=https://www.bbfc.co.uk/releases/dumbo-film|website=[[British Board of Film Classification]]|date=March 15, 2019|access-date=March 25, 2019|archive-url=https://web.archive.org/web/20190325175814/https://www.bbfc.co.uk/releases/dumbo-film|archive-date=March 25, 2019|url-status=dead}}</ref>
+| country        = United States
+| language       = English
+| budget         = $170 million<ref name="LAbudget"/><ref>{{Cite web|url=https://variety.com/2019/film/news/dumbo-box-office-opening-weekend-below-expectations-1203177003/|title=Why 'Dumbo' Didn't Soar at the Box Office|date=April 1, 2019|website=Variety|access-date=November 28, 2019|archive-url=https://web.archive.org/web/20190929114842/https://variety.com/2019/film/news/dumbo-box-office-opening-weekend-below-expectations-1203177003/|archive-date=September 29, 2019|url-status=live}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2019/03/31/movies/dumbo-box-office-us.html|title='Dumbo' Falls Short of Box-Office Expectations but Still Comes in First|first=Gabe|last=Cohn|newspaper=The New York Times |date=March 31, 2019|access-date=November 28, 2019|archive-url=https://web.archive.org/web/20190527184353/https://www.nytimes.com/2019/03/31/movies/dumbo-box-office-us.html|archive-date=May 27, 2019|url-status=live}}</ref>
+| gross          = $353.3 million<ref name = BOM>{{Cite Box Office Mojo|id=3861390|title=Dumbo (2019)|access-date=April 19, 2021|archive-url=https://web.archive.org/web/20210419235826/https://www.boxofficemojo.com/title/tt3861390/|archive-date=April 19, 2021|url-status=live}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, the plot summary should be 400-700 words. -->
+In 1919 [[Sarasota, Florida]], equestrian performer Holt Farrier returns after [[World War I]] to his previous employer, the Medici Brothers' [[Circus]]. The circus has run into financial troubles; [[Ringmaster (circus)|Ringmaster]] Medici reveals he was forced to sell his horses after Holt's wife, Annie, died from the [[Spanish flu|Spanish flu outbreak]]. After Holt reveals that he lost his arm in the [[Battle of the Argonne]], Medici instead hires him as the caretaker for Mother Ella Jumbo, the circus' pregnant [[Indian elephant]]. She gives birth to a calf with unusually large ears, and Medici orders Holt to hide them, fearing how the public might react to such a deformity.
+
+However, the calf accidentally reveals his ears in his debut performance in [[Joplin, Missouri]], and the crowd laughs and mockingly calls the calf "Dumbo" while pelting him with objects. Mrs. Jumbo, angered by her son's abuse, rampages into the ring, causing extensive damage, collapsing the [[wikt:big top|big top]], and accidentally killing Rufus, a sadistic handler. Anticipating public outrage over the incident, Medici sells Mrs. Jumbo. Holt's son and daughter, Joe and Milly Farrier, comfort Dumbo and discover that he can fly by flapping his ears and that feathers benefit his willingness to fly.
+
+Dumbo is then forced to play the role of a [[firefighter]] [[clown]] tasked to put out a fire with water sprayed from his trunk, but the performance goes awry, and Dumbo is trapped on a high platform surrounded by flames. Milly delivers a feather to Dumbo, giving him the confidence to fly to safety. The audience is astounded, and word of his talent begins to spread. V. A. Vandevere, the wealthy owner of the [[Bohemian style|Bohemian]] amusement park [[Dreamland (Coney Island, 1904)|Dreamland]], approaches Medici and proposes a collaboration: If Medici becomes Vandevere's business partner, the Medici Brothers' Circus' troupe will permanently be employed to perform at Dreamland.
+
+Dumbo's debut performance at Dreamland with Vandevere's star performer, French [[trapeze]] artist Colette Marchant, quickly goes wrong when he nearly falls off a high platform and starts trumpeting in panic after realizing that there is no safety net available to prevent possible injuries and fatalities. Hearing his mother's response to his call and realizing that she was placed in an exhibit at Dreamland called Nightmare Island after being sold, he flies out of the circus ring and reunites with her, greatly disappointing the audience. Annoyed by Dumbo's disobedience and fearing the possibility of his mother becoming a distraction to him, Vandevere fires the Medici troupe and orders Mrs. Jumbo's exhibit to be shuttered to secure his sterling reputation.
+
+When Holt and the Medici troupe learn that Vandevere intends to have Dumbo's mother killed and that it is no longer safe for the two elephants to live with them, they make plans to free both of them. The circus performers utilize their various talents to break Mrs. Jumbo out of her enclosure, while Holt and Colette guide Dumbo to fly out of the circus. Vandevere attempts to stop them but starts a fire by mishandling Dreamland's electrical system, which spreads and destroys the park. After Dumbo saves Holt and his family from the fire, they are joined by Colette and the rest of the troupe to bring Dumbo and his mother to the harbor, where they board a ship back to their native home in [[India]].
+
+Sometime later, the renamed Medici Family Circus is reestablished and flourishes with Colette as the newest troupe member, Milly as host of a science lecture exhibition, and performers dressed as animals, in line with the circus's new policy of not using wild animals in captivity for entertainment. It is implied that Vandevere was convicted of [[insurance fraud|burning down his own park for the insurance money]]. Meanwhile, Dumbo and his mother reunite with a herd of wild elephants, who applaud Dumbo as he flies with joy.

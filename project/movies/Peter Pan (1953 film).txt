@@ -1,0 +1,59 @@
+{{Infobox film
+| name           = Peter Pan
+| image          = Peter Pan (1953 poster).jpg
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Hamilton Luske]]
+* [[Clyde Geronimi]]
+* [[Wilfred Jackson]]
+}}
+| story          = {{Plainlist|
+* [[Ted Sears]]
+* [[Erdman Penner]]
+* [[Bill Peet]]
+* [[Winston Hibler]]
+* Joe Rinaldi
+* Milt Banta
+* [[Ralph Wright]]
+* Bill Cottrell
+}}
+| based_on       = {{Based on|''[[Peter Pan (play and novel)|Peter Pan]]''|[[J. M. Barrie]]}}
+| producer       = [[Walt Disney]]
+| starring       = {{Plainlist|<!--Per opening credits-->
+* [[Bobby Driscoll]]
+* [[Kathryn Beaumont]]
+* [[Hans Conried]]
+* [[Bill Thompson (voice actor)|Bill Thompson]]
+* [[Heather Angel (actress)|Heather Angel]]
+* [[Paul Collins (actor)|Paul Collins]]
+* Tommy Luske
+* [[Candy Candido]]
+* [[Tom Conway]]
+* Roland Dupreee
+* [[Don Barclay (actor)|Don Barclay]]
+}}
+| editing        = Donald Halliday
+| music          = [[Oliver Wallace]]
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[RKO Radio Pictures]]
+| released       = {{Film date|1953|2|5}}
+| runtime        = 77 minutes
+| country        = United States
+| language       = English
+| budget         = $4 million<ref name="mojo">{{cite web|title=Peter Pan|website=[[Box Office Mojo]]|url=https://www.boxofficemojo.com/title/tt0046183/|access-date=January 5, 2012}}</ref>
+| gross          = $87.4 million (United States and Canada)<ref name="mojo"/>
+}}
+
+==Plot==
+<!--Per WP:FILMPLOT, plot should be between 400 and 700 words. Please check word count before adding anything. Current count 567-->
+In [[Edwardian]] [[Bloomsbury|London]] 1904, George and Mary Darling's preparations to attend a party are disrupted by the antics of their boys, John and Michael, who are acting out a [[Peter Pan (character)|Peter Pan]] story told them by their elder sister [[Wendy Darling|Wendy]]. An irritated George demands that Wendy drop the stories and move out of the nursery, since "sooner or later, people have to grow up" and also chains Nana the female dog outside because she is a dog not a nurse. Later that night, Peter himself arrives in the nursery to find his lost shadow. He persuades Wendy to come to [[Neverland|Never Land]], where she will never have to grow up, and she and the boys fly there with the begrudging help of the pixie [[Tinker Bell (Disney character)|Tinker Bell]].
+
+A ship of [[pirate]]s is anchored off Never Land, led by [[Captain Hook]] and his first mate, [[Mr. Smee (Disney)|Mr. Smee]]. Hook wants revenge on Peter for cutting off his hand, but fears the crocodile which consumed the hand, knowing it is eager to eat the rest of him. When Pan and the Darlings arrive, Hook shoots at them with a cannon, and Peter sends the Darlings off to safety while he baits the pirates. Tinker Bell, who is jealous of Pan's attention to Wendy, convinces the [[Lost Boys (Peter Pan)|Lost Boys]] that Pan has ordered them to shoot down Wendy. Tinker Bell's treachery is soon found out, and Peter [[banishment|banishes]] her for a week. John and Michael set off with the Lost Boys to find the island's [[Indigenous peoples|Natives]]; however, the Natives capture the group, believing them to be responsible for taking the chief's daughter, [[Tiger Lily (Peter Pan)|Tiger Lily]].
+
+Meanwhile, Peter takes Wendy to see the [[mermaid]]s, who flee in terror when Hook arrives on the scene. Peter and Wendy see that Hook and Smee have captured Tiger Lily, to force her to disclose the location of Peter's hideout. Peter frees Tiger Lily and returns her to the Chief, and the tribe honors Peter. Meanwhile, Hook takes advantage of Tinker Bell's jealousy of Wendy, tricking the fairy into revealing Peter's secret hideout instead.
+
+Wendy and her brothers eventually grow homesick and plan to return to London. They invite Peter and the Lost Boys to join them and be adopted by the Darlings. The Lost Boys agree, but Peter does not want to grow up and refuses. The pirates lie in wait, and capture the Lost Boys and the Darlings as they exit the lair, leaving behind a [[time bomb]] to kill Peter. Hook attempts to persuade his captives to join the crew, threatening to make them [[walk the plank]] if they refuse. Tinker Bell learns of the plot, just in time to snatch the bomb from Peter as it explodes.
+
+Peter rescues Tinker Bell from the rubble, and together they rescue Wendy, confronting the pirates and releasing the children. Peter engages Hook in combat as the children fight off the crew, and defeats him. Hook falls into the sea and swims away, pursued by the crocodile. Peter commandeers the deserted ship and, assisted by Tinker Bell's pixie dust, flies it to London with the children aboard although the Lost Boys choose to stay with Peter Pan in Neverland.
+
+George and Mary Darling return home and find Wendy sleeping at the nursery's open window. Wendy awakens and excitedly tells about their adventures and that she's ready to grow up but her father who has softened up tells her she can stay in the nursery and even brings Nana back inside. The parents look out the window and see what appears to be a pirate ship in the clouds. George, recognizing the ship from his own childhood, hints that he himself went to Neverland when he was a boy.

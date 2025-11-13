@@ -1,0 +1,56 @@
+{{Infobox film
+| name                 = The Little Mermaid
+| image                = The Little Mermaid (Official 1989 Film Poster).png
+| alt                  = 
+| caption              = Theatrical release poster by [[John Alvin]]
+| director             = {{plainlist|
+* [[John Musker]]
+* [[Ron Clements]]
+}}
+| producer             = {{plainlist|
+* [[Howard Ashman]]
+* John Musker
+}}
+| writer               = {{plainlist|
+* John Musker
+* Ron Clements
+}}
+| based_on             = {{based on|"[[The Little Mermaid]]"|[[Hans Christian Andersen]]}}
+| starring             = 
+{{plainlist|<!--From the opening credits.-->
+* [[René Auberjonois]]
+* [[Christopher Daniel Barnes]]
+* [[Jodi Benson]]
+* [[Pat Carroll]]
+* [[Paddi Edwards]]
+* [[Buddy Hackett]]
+* Jason Marin
+* [[Kenneth Mars]]
+* [[Ben Wright (English actor)|Ben Wright]]
+* [[Samuel E. Wright]]
+}}
+| music                = [[Alan Menken]]
+| editing              = Mark Hester
+| production_companies = [[Walt Disney Feature Animation]]
+| distributor          = [[Buena Vista Pictures Distribution, Inc.]]{{efn|name=Disney|Distributed by [[Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner with funding by [[Silver Screen Partners IV]].}}
+| released             = {{film date|1989|11|17}}
+| runtime              = 83 minutes<!--Theatrical runtime: 82:40--><ref name="bbfc">{{cite web |title=''The Little Mermaid'' (U) |url=https://www.bbfc.co.uk/releases/little-mermaid-film |url-status=dead |work=[[British Board of Film Classification]] |date=December 28, 1989 |access-date=April 2, 2016 |archive-url=https://web.archive.org/web/20160416033626/http://www.bbfc.co.uk/releases/little-mermaid-film |archive-date=April 16, 2016}}</ref>
+| country              = United States
+| language             = English
+| budget               = $40&nbsp;million<ref name=disneywar>{{cite book |last=Stewart |first=James B. |author-link=James B. Stewart |title=DisneyWar |url=https://archive.org/details/disneywar00jame_0 |url-access=registration |publisher=[[Simon & Schuster]] |location=New York |year=2005 |page=104 |isbn=0-684-80993-1}}</ref>
+| gross                = {{US$|235 million|long=no}}<ref name="DisneyWW"/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films are 400 to 700 words. -->
+Under the Atlantic Ocean, in the kingdom of Atlantica, [[Ariel (The Little Mermaid)|Ariel]], a [[mermaid]] is fascinated by the human world and collects human artifacts in her [[grotto]]. With her best friend [[List of Disney's The Little Mermaid characters#Flounder|Flounder]], they both visit [[List of Disney's The Little Mermaid characters#Scuttle|Scuttle]], a seagull who gives inaccurate information about humans. However, her father [[List of Disney's The Little Mermaid characters#King Triton|King Triton]], the ruler of Atlantica, says contact between merpeople and humans is forbidden. 
+
+One night, Ariel, Flounder, and [[Sebastian (The Little Mermaid)|Sebastian]], a crab who serves as Triton's adviser and court composer, travel to the surface to watch a birthday celebration for Prince Eric. Ariel falls in love with Eric at first sight. A storm wrecks the ship and knocks Eric overboard. Ariel rescues Eric and brings him to shore. She sings to him, but leaves just as he regains consciousness to avoid being discovered. Discovering a change in Ariel's behavior, Triton questions Sebastian and learns of her love for Eric. Outraged, Triton travels to Ariel's grotto and destroys her collection of artifacts in a misguided attempt to protect her, causing Ariel to break down in tears. 
+
+After a remorseful Triton leaves, Ariel is approached by two [[eel]]s named [[List of Disney's The Little Mermaid characters#Flotsam and Jetsam|Flotsam and Jetsam]], who take her to [[Ursula (The Little Mermaid)|Ursula]] the [[Sea witch (folklore)|sea witch]]. Ursula makes a deal with Ariel to transform her into a human for three days in exchange for Ariel's voice, which Ursula puts in a nautilus shell. If Ariel receives a "[[true love's kiss]]" within that time, she will remain a human permanently. Otherwise, she will turn back into a mermaid and become Ursula's property. After accepting, Ariel is given human legs and taken to the surface by Flounder and Sebastian.
+
+Eric finds Ariel on the beach and takes her to his castle, unaware that she is the one who rescued him earlier. Ariel spends time with Eric, and at the end of the second day, they almost kiss but are thwarted by Flotsam and Jetsam. Furious at Ariel's close success, Ursula disguises herself as a young woman named Vanessa and uses Ariel's voice to cast a hypnotic enchantment on Eric that makes him forget about Ariel. The next day, Ariel discovers that Eric will be married to Vanessa. Scuttle discovers Vanessa's true identity and informs Ariel, who pursues the wedding barge. Sebastian informs Triton, and Scuttle disrupts the wedding with the help of various sea animals. In the chaos, Ursula's shell is destroyed, restoring Ariel's voice and breaking the enchantment over Eric. Realizing that Ariel is the girl who saved his life, Eric rushes to kiss her, but the sun sets and Ariel transforms back into a mermaid. 
+
+Turning back into her true form, Ursula kidnaps Ariel. Triton confronts Ursula and demands Ariel's release, but the deal is inviolable. At Ursula's urging, Triton agrees to take Ariel's place as Ursula's prisoner, giving up his trident. Ariel is released as Triton transforms into a [[Polyp (zoology)|polyp]] and loses his authority over Atlantica. With her true goal complete, Ursula declares herself the Queen of Atlantica, and claims Triton's trident when Eric appears with a harpoon. Ursula attempts to kill Eric, but Ariel intervenes, causing Ursula to inadvertently kill Flotsam and Jetsam. Enraged, Ursula uses the trident to grow in size. Ariel and Eric reunite on the surface just before a gigantic Ursula separates them. She then gains full control of the ocean, creating a storm and bringing sunken ships to the surface. Just as Ariel is about to be killed, Eric commandeers a wrecked ship and impales Ursula with its splintered [[bowsprit]]. With Ursula dead, Triton and the other polyps in her garden revert to their original forms. 
+
+Realizing that Ariel truly loves Eric, Triton turns her into a human and approves her marriage to Eric. Ariel and Eric marry on a ship and depart, with all of Ariel's friends and family watching them as well.

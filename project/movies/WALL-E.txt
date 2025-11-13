@@ -1,0 +1,54 @@
+{{Infobox film
+| name           = WALL-E
+| image          = WALL-E poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Andrew Stanton]]
+| producer       = [[Jim Morris (film producer)|Jim Morris]]
+| screenplay     = {{Plainlist|
+* Andrew Stanton
+* [[Jim Reardon]]
+}}
+| story          = {{Plainlist|
+* Andrew Stanton
+* [[Pete Docter]]
+}}
+| starring       = {{Plainlist|
+* [[Ben Burtt]]
+* [[Elissa Knight]]
+* [[Jeff Garlin]]
+* [[Fred Willard]]
+* [[John Ratzenberger]]
+* [[Kathy Najimy]]
+* [[Sigourney Weaver]]
+}}
+| music          = [[Thomas Newman]]
+| cinematography = {{Plainlist|
+* Jeremy Lasky
+* [[Danielle Feinberg]]
+}}
+| editing        = [[Stephen Schaffer]]
+| production_companies = [[Pixar Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner}}<!--Text wrap is used in this link to ensure correct formatting at all screen resolutions.-->
+| released       = {{Film date|2008|6|23|[[Greek Theatre (Los Angeles)|Greek Theatre]]|2008|6|27|United States}}
+| runtime        = 97 minutes<ref>{{cite web|url=https://catalog.afi.com/Film/55499-WALL-E?sid=8f622ebf-dcd2-4b1f-8a28-be9c4d211c86&sr=4.0206413&cp=1&pos=4|title=WALL-E|publisher=[[American Film Institute]]|access-date=March 11, 2019|archive-date=December 22, 2020|archive-url=https://web.archive.org/web/20201222081924/https://catalog.afi.com/Film/55499-WALL-E?sid=8f622ebf-dcd2-4b1f-8a28-be9c4d211c86&sr=4.0206413&cp=1&pos=4|url-status=live}}</ref>
+| country        = United States
+| language       = English
+| budget         = $180&nbsp;million<ref>{{cite news|author=Brooks Barnes|title=Disney and Pixar: The Power of the Prenup|work=[[The New York Times]]|date=June 1, 2008|url=https://www.nytimes.com/2008/06/01/business/media/01pixar.html|access-date=January 12, 2009|archive-date=January 29, 2019|archive-url=https://web.archive.org/web/20190129133239/https://www.nytimes.com/2008/06/01/business/media/01pixar.html|url-status=live}}</ref>
+| gross          = $532.5&nbsp;million<!-- When updating this figure, please update the access-date field in the following citation --><ref name="BOM">{{cite web|url=https://www.boxofficemojo.com/movies/?id=wall-e.htm|title=WALL-E (2008)|publisher=Box Office Mojo|access-date=December 30, 2020|archive-date=August 6, 2010|archive-url=https://web.archive.org/web/20100806015631/http://www.boxofficemojo.com/movies/?id=wall-e.htm|url-status=live}}</ref><ref name="NUM">{{cite web|url=https://www.the-numbers.com/movie/WALL-E#tab=summary|title=WALL-E|publisher=The Numbers|access-date=December 1, 2017|archive-date=November 23, 2018|archive-url=https://web.archive.org/web/20181123154257/https://www.the-numbers.com/movie/WALL-E#tab=summary|url-status=live}}</ref>
+}}
+
+== Plot ==
+<!-- Per [[WP:FILMPLOT]], plot summaries for feature film articles should be between 400 and 700 words. -->
+In the 29th century, Earth is a garbage-strewn wasteland due to an [[ecocide]] caused by rampant [[consumerism]], corporate greed, and environmental neglect. Humanity was evacuated to space by the [[megacorporation]] Buy n Large on giant spaceships 700 years earlier, leaving trash-compacting "WALL-E" robots to clean up the planet. All but one of the robots have stopped functioning; the last remaining active [[WALL-E (character)|WALL-E]] has developed a personality. WALL-E remains active by salvaging parts from inactive robots, with his pet cockroach Hal as his only companion.
+
+One day, WALL-E's routine of compressing trash and collecting interesting objects is broken by the arrival of a robot called EVE, which scans the planet for sustainable life. WALL-E is smitten by the sleek, futuristic robot, and the two begin to connect, until EVE goes into standby mode when WALL-E shows her his most recent find: a living seedling. EVE is collected by a large [[unmanned]] rocket; with WALL-E clinging on, it returns to its mothership, the starliner ''Axiom''.
+
+In the centuries since the ''Axiom'' left Earth, its passengers have degenerated into helpless obesity due to [[microgravity]] and laziness, with robots catering to their every whim. Captain B. McCrea sits back while his robotic [[Artificial Intelligence|AI]] autopilot helm, nicknamed AUTO, pilots the ship. McCrea is unprepared for the positive probe response, but discovers that placing the plant in the ship's Holo-Detector will trigger a [[warp drive|hyperjump]] back to Earth so that humanity can begin recolonization. When McCrea inspects EVE's storage compartment, the plant is missing, and EVE blames WALL-E for its disappearance.
+
+EVE is deemed faulty and taken to diagnostics. WALL-E intervenes and inadvertently releases the other faulty bots, causing him and EVE to be designated rogue robots. EVE tries sending WALL-E home in an escape pod, but the two witness McCrea's first mate robot, GO-4, stowing the plant in a pod set to self-destruct. WALL-E enters the pod to retrieve the plant just as it launches, and he and the plant survive the pod's destruction. EVE catches up to him and they reconcile, celebrating with a dance in space around the ''Axiom''.
+
+EVE brings the plant to McCrea, who watches her recordings of Earth, concluding that they must save it. AUTO reveals his secret no-return directive [[A113]], which orders them to not return to Earth on account of toxicity levels making Earth unlivable. When McCrea tries overriding the directive, AUTO electrocutes WALL-E, throws him and EVE down a garbage chute, and confines McCrea to his quarters. EVE and WALL-E are nearly ejected into space with the ''Axiom's'' garbage, but a cleaning robot named M-O inadvertently jams the airlock and rescues them.
+
+As humans and robots help to secure the plant, McCrea and AUTO fight for control of the ''Axiom''. AUTO crushes WALL-E using the Holo-Detector, but McCrea overpowers and deactivates AUTO. EVE inserts the plant into the Holo-Detector, initiating the hyperjump back to Earth. Arriving on Earth, EVE repairs WALL-E, but his memory and personality have been erased. Heartbroken, EVE gives WALL-E a "kiss", which releases a static electricity shock, restoring him. WALL-E and EVE reunite as the ''Axiom'' inhabitants take their first steps on Earth. 
+
+During the credits, humans and robots work to restore the ravaged planet, and the plant grows into a tree, beneath which WALL-E and EVE rest.

@@ -1,0 +1,36 @@
+{{Infobox film
+| name        = The Fox and the Hound 2
+| image       = The Fox and the Hound 2 Coverart.png
+| caption     = DVD cover
+| director    = [[Jim Kammerud]]
+| producer    = Ferrell Barron
+| screenplay  = Rich Burns<br>[[Roger S.H. Schulman]]
+| starring    = {{Plainlist|
+<!-- In order of how it was presented onscreen -->
+* [[Reba McEntire]]
+* [[Patrick Swayze]]
+* [[Jonah Bobo]]
+* Harrison Fahn
+* [[Jeff Foxworthy]]
+* [[Vicki Lawrence]]
+* [[Stephen Root]]}}
+| music       = [[Joel McNeely]]
+| editing     = {{Plainlist|
+* Jennifer Dolce
+* Ron Price}}
+| studio      = [[DisneyToon Studios]]<ref name="BFI">{{Cite web|url=https://www.bfi.org.uk/films-tv-people/4ce2b8c126c0f|archive-url=https://web.archive.org/web/20160527190942/http://www.bfi.org.uk/films-tv-people/4ce2b8c126c0f|url-status=dead|archive-date=May 27, 2016|title=The Fox and the Hound 2 (2006) |website=British Film Institute}}</ref>
+| released    = {{Film date|2006|12|12}}
+| distributor = [[Buena Vista Home Entertainment]]<ref>{{cite web | url=https://catalog.northloganlibrary.org/Record/18768 | title=The fox and the hound 2 | date=2006 }}</ref>{{efn|name=Disney|Distributed through the [[Walt Disney Pictures]] banner.<ref name="BFI"/>}}
+| runtime     = 69 minutes
+| language    = English
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries should be between 400 and 700 words. Current length is 518 words. -->
+The film opens with Tod and Copper chasing a cricket together. They see a line of trucks bringing the county fair to town, and Copper is mesmerized by the sound of dogs singing together in an old school bus with "The Singin' Strays" painted on the side. The pair are eager to go see the fair, but when Copper's clumsy tracking disappoints his master Amos Slade yet again, the pup is tied up in the yard while Slade and Chief go to the fair without him. Tod arrives and pulls Copper's collar off, and the pair head to the fair.
+
+Tod and Copper get to meet The Singin' Strays. The band has five members: Dixie (a [[Saluki]]), Cash (a [[Sabueso Español|Spanish Hound]]), Granny Rose, and twin brothers Waylon and Floyd ([[Bloodhound]]s). It is important that they perform well because a talent scout from the [[Grand Ole Opry]] will be at the fair. Cash and Dixie get into an argument, and Dixie walks off before their performance, forcing them to go on stage without her. During the show, Copper sings along, and Cash invites the pup up on stage to sing with them. The musical number is a success. Cash invites Copper to join the band, and he does so after Tod lies that Copper is a stray. Copper spends the entire day with Cash, forgetting his promise to watch fireworks with Tod.
+
+Dixie finds Tod and sympathizes with his feelings of abandonment. During their conversation, Tod lets it slip that Copper is not a stray. Dixie then hatches a plan to get Copper kicked out of the band. Tod sneaks into Chief's barrel, luring him and Slade to the fair in a wild chase. The chase leads to widespread mayhem in the fair, and the Singin' Strays' performance is sabotaged right in front of the talent scout Mr. Bickerstaff. Copper is fired from the band and returns home with Slade. Granny Rose and the rest of the members of Cash's band feel quite sorry for Copper, and the band breaks up, prompting Cash to lambast Dixie for the impact of her actions. Copper ends his friendship with Tod for ruining everything, but Dixie admits to him that blowing Copper's cover was her idea, not Tod's. Tod is brought home by his owner, Widow Tweed. Along the way, Tweed narrowly avoids being hit by the talent scout's car, and Bickerstaff's hat flies off his head and lands on Tod.
+
+The following day, Tod and Copper reconcile. Hoping to atone for his doings, Tod gives Bickerstaff's hat to Copper, who uses it to track down the talent scout at a local diner. Tod tricks Cash and Dixie into thinking the other is in trouble, and the entire band end up meeting up at the diner. Copper convinces the band of the importance of harmony, and The Singin' Strays howl a reprise of their song ''We're in Harmony'', attracting the attention of the talent scout and reuniting the band. Impressed with the band, he arranges for the dogs to perform at the Grand Ole Opry. The film ends with Copper choosing to leave the band and play with Tod again.

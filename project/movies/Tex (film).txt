@@ -1,0 +1,35 @@
+{{Infobox film
+| name           = Tex
+| image          = Poster of Tex (film).jpg
+| caption        = Theatrical release poster
+| director       = [[Tim Hunter (director)|Tim Hunter]]
+| screenplay     = {{Plainlist|
+* [[Charles S. Haas]]
+* Tim Hunter
+}}
+| based_on       = {{Based on|''[[Tex (novel)|Tex]]''|[[S. E. Hinton]]}}
+| producer       = [[Tim Zinnemann]]
+| starring       = {{Plainlist|
+* [[Matt Dillon]]
+* [[Jim Metzler]]
+* [[Meg Tilly]]
+* [[Bill McKinney]]
+* [[Ben Johnson (actor)|Ben Johnson]]
+}}
+| cinematography = [[Ric Waite]]
+| editing        = Howard E. Smith
+| music          = [[Pino Donaggio]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution Company]]
+| released       = {{Film date|1982|07|30}}
+| runtime        = 103 minutes
+| country        = United States
+| language       = English
+| budget         = $5 million<ref>{{cite web|url=https://www.nytimes.com/1982/10/10/movies/oddball-who-brought-tex-disney-stephen-farber-freelance-writer-based-los-angeles.html|title=THE 'ODDBALL' WHO BROUGHT 'TEX' TO DISNEY|last=Farber|first=Stephen|date=October 10, 1982|website=[[The New York Times]]|access-date=July 1, 2020}}</ref>
+| gross          = $7.4 million<ref>{{Cite Box Office Mojo|id=0084783|title=Tex|access-date=December 22, 2022}}</ref>
+}}
+
+== Plot ==
+Two brothers, Tex and Mason McCormick, struggle to make it on their own when their mother dies and their father leaves them in their Oklahoma home.
+
+Fifteen-year-old Tex McCormick and his 17-year-old brother Mason are trying to make it on their own in the absence of their rodeo-riding father. Mason takes over running the household and, to make ends meet, sells Tex's beloved horse, Rowdy. Tex gets mad at Mason and heedlessly tumbles into scrape after scrape. When his Pop comes home, Tex is shocked to learn that he isn't his real father. But Tex realizes that Mason and Pop do love him, and it is time to start growing up.

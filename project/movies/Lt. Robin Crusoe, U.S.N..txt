@@ -1,0 +1,36 @@
+{{Infobox film
+| name           = Lt. Robin Crusoe, U.S.N.
+| image          = Lt. Robin Crusoe, U.S.N. FilmPoster.jpeg
+| caption        = Original theatrical poster
+| director       = Byron Paul
+| story          = [[Walt Disney]]
+| screenplay     = {{plainlist|
+* [[Don DaGradi]]
+* [[Bill Walsh (producer)|Bill Walsh]]
+}}
+| based_on       = {{Based on|''[[Robinson Crusoe]]''|[[Daniel Defoe]]}}
+| producer       = [[Ron W. Miller]]<br>Bill Walsh<br>Walt Disney (uncredited)
+| starring       = [[Dick Van Dyke]]<br>[[Nancy Kwan]]
+| cinematography = William E. Snyder
+| editing        = [[Cotton Warburton]]
+| music          = Robert F. Brunner
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{film date|1966|6|29|Premiere|ref1=<ref name="afi" />|1966|7|29|U.S.|ref2=<ref name="afi" />}}
+| runtime        = 114 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          = $22,565,634<ref name="numbers">{{Cite web|url=http://www.the-numbers.com/movies/1966/00241.php|publisher=The Numbers|title=Lt. Robin Crusoe, U.S.N., Box Office Information|access-date=May 22, 2012|archive-date=September 29, 2013|archive-url=https://web.archive.org/web/20130929001601/http://www.the-numbers.com/movies/1966/00241.php|url-status=live}}</ref>
+}}
+
+==Plot==
+While flying a routine mission for the [[U.S. Navy]] from his aircraft carrier, an emergency causes [[Lieutenant (United States)|Lieutenant]] Robin "Rob" Crusoe (Van Dyke), a [[Naval Aviator]], to eject from his [[Vought F-8 Crusader|F-8 Crusader]] into the ocean. Crusoe drifts on the ocean in an emergency life raft for several days and nights until landing on an uninhabited island. He builds a shelter for himself, fashions new clothing out of available materials, and begins to scout the island, discovering an abandoned Japanese [[submarine]] from [[World War II]]. Scouring the submarine, Crusoe also discovers a NASA [[Monkeys and apes in space|chimpanzee astronaut]] named Floyd, played by Dinky.<ref>{{cite magazine|url=http://www.newyorker.com/talk/2010/12/13/101213ta_talk_goodyear|title=Supercalifragilistic|magazine=[[The New Yorker]]|date=6 December 2010|access-date=19 December 2010|archive-date=25 May 2014|archive-url=https://web.archive.org/web/20140525195822/http://www.newyorker.com/talk/2010/12/13/101213ta_talk_goodyear|url-status=live}}</ref>
+
+Using tools and blueprints found in the submarine, Crusoe and Floyd construct a Japanese [[pavilion]], a [[golf course]], and a mail delivery system for sending bottles containing missives to his [[fiancee]] out to sea.
+
+Soon after, the castaway discovers that the island is not entirely uninhabited when he encounters a beautiful island girl ([[Nancy Kwan]]), whom he names Wednesday. Wednesday recounts that due to her unwillingness to marry, her [[chieftain]] father, Tanamashuhi ([[Akim Tamiroff]]), plans to [[sacrifice]] her and her sisters to Kaboona, an immense [[effigy]] on the island with whom he pretends to communicate.
+
+The day Tanamashu arrives on the island, Crusoe uses paraphernalia from the submarine to combat him, culminating in the destruction of the Kaboona statue.
+
+After the battle, Crusoe and Tanamashu make peace. When Crusoe makes it known that he does not wish to marry Wednesday, he is forced to flee to avoid her wrath. Pursued by a mob of irate island women, he is spotted by a [[U.S. Navy]] helicopter and he and Floyd narrowly escape with their lives. Large crowds turn out for their arrival on an [[aircraft carrier]] deck, but Floyd steals all the limelight.

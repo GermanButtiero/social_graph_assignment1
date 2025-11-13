@@ -1,0 +1,30 @@
+{{Infobox film
+| name           = In Search of the Castaways
+| image          = In Search of the Castaways.jpg
+| caption        = Theatrical release poster
+| director       = [[Robert Stevenson (filmmaker)|Robert Stevenson]]
+| producer       = [[Walt Disney]]
+| screenplay     = [[Lowell S. Hawley]]
+| based_on       = {{Basedon|''[[In Search of the Castaways]]''|[[Jules Verne]]}}
+| starring       = [[Maurice Chevalier]]<br/>[[Hayley Mills]]<br/>[[George Sanders]]<br/>[[Wilfrid Hyde-White]]<br/>[[Michael Anderson Jr.]]<br/>Keith Hamshere<br/>[[Antonio Cifariello]]
+| music          = '''Music Composed by:'''<br/>[[William Alwyn]]<br/>'''Musical Director:'''<br/>[[Muir Mathieson]]<br/>'''Songs:'''<br/>[[Richard M. Sherman]]<br/>[[Robert B. Sherman]]
+| cinematography = [[Paul Beeson]]
+| editing        = Gordon Stone
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1962|11|14|London, premiere|1962|12|19|US}}
+| runtime        = 98 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $21,745,500<ref name="box office">[http://www.worldwideboxoffice.com/movie.cgi?title=In%20Search%20of%20the%20Castaways&year=1962 Box Office Information for ''In Search of the Castaways'']. Worldwide Box Office. Retrieved June 13, 2013.</ref>
+}}
+
+==Plot==
+In Britain in 1858, Professor Paganel, a scientifically thinking French geography professor, finds a bottle containing a note which he believes to have been written by the missing Captain John Grant. Paganel and Grant's two teenaged children, Mary and Robert, approach John Glenarvan and his father, the wealthy shipping magnate Lord Glenarvan, the owner of Captain Grant's ship, and persuade them to finance a search expedition. The expedition sets sail and ventures halfway around the world to South America.
+
+In the Andes, an earthquake sends them down a mountain on a glacier. A giant [[condor]] snatches up Robert but Thalcave, an Indian chief, rescues him. He later claims to know the whereabouts of Captain Grant. After surviving a tidal wave and a lightning storm, the group discovers that the well-meaning Thalcave was mistaken. But they do free three prisoners who are grateful enough to join their expedition. Meanwhile, a budding romance develops between young Mary Grant and Lord Glenarvan's son John.
+
+They then depart for Australia, where Paganel feels sure they will find Captain Grant. In Melbourne they meet a treacherous [[gunrunner]], Thomas Ayerton, who produces evidence that Captain Grant is in New Zealand. Unaware that Ayerton is the [[third mate]] who caused a [[mutiny]] on Grant's ship, the search party once more sets sail. Ayerton causes another mutiny and sets the group adrift. They are captured by Maori cannibals, and are imprisoned along with Captain Grant's shipmate, Bill Gaye, who helps them escape to a volcano. They evade their pursuers by starting an avalanche which triggers an eruption.
+
+They finally find Captain Grant, overcome Ayerton and his mutineers, and sail for home. As they all sit around talking, the note that Professor Paganel initially found (and that was supposedly in Captain Grant's handwriting) is brought up. Captain Grant states that he never wrote any note, to which Bill says: "The voice be the voice of a God-fearing man. But the hands are the hands of a forger," implying that he imitated Captain Grant's handwriting and wrote the note himself. In the final scene, the Professor points out John and Mary stargazing out at the railing, clearly falling for one another.

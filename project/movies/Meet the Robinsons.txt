@@ -1,0 +1,59 @@
+{{Infobox film
+| name           = Meet the Robinsons
+| image          = Meet the robinsons.jpg
+| alt            = <!-- See WP:ALT -->
+| caption        = Theatrical release poster
+| director       = [[Stephen Anderson (artist)|Stephen Anderson]]
+| producer       = [[Dorothy McKim]]
+| screenplay     = {{Plainlist|
+* Jon Bernstein
+* Michelle Spitz
+* [[Don Hall (filmmaker)|Don Hall]]
+* [[Nathan Greno]]
+* Aurian Redson
+* Joe Mateo
+* Stephen Anderson
+}}
+| based_on       = {{Based on|''[[A Day with Wilbur Robinson]]''|[[William Joyce (writer)|William Joyce]]}}
+| starring       = {{Plainlist|
+* Daniel Hansen
+* Jordan Fry
+* [[Wesley Singerman]]
+* [[Angela Bassett]]
+* [[Tom Selleck]]
+* [[Harland Williams]]
+* [[Laurie Metcalf]]
+* [[Nicole Sullivan]]
+* [[Adam West]]
+* [[Ethan Sandler]]
+* [[Tom Kenny]]
+* Stephen Anderson
+}}
+| music          = [[Danny Elfman]]
+| editing        = Ellen Keneshea
+| production_companies = [[Walt Disney Animation Studios]]
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2007|03|25|[[El Capitan Theatre]]|2007|03|30|United States}}
+| runtime        = 95 minutes<ref>{{cite web|title=Meet the Robinsons|url=https://www.classification.gov.au/titles/meet-robinsons-0|publisher=Australian Classification|access-date=22 July 2023}}</ref><ref>{{cite web|last1=Simon|first1=Ben|title=Meet The Robinsons|url=http://animatedviews.com/2007/meet-the-robinsons-dvd-review/|publisher=Animated Views|access-date=November 19, 2014|date=October 24, 2007}}</ref>
+| country        = United States
+| language       = English
+| budget         = $150 million<ref>{{Cite web|url=https://bombreport.com/yearly-breakdowns/2007-2/meet-the-robinsons/|title = Meet the Robinsons: 60% of the Movie was Redone}}</ref>
+| gross          = $170.5 million<ref name="thenumbers">{{cite web|title=Meet the Robinsons|website=[[The Numbers (website)|The Numbers]] |url=https://the-numbers.com/movie/Meet-the-Robinsons#tab=summary|access-date=January 5, 2012}}</ref>
+}}
+
+==Plot==
+In 2007, Lewis, an orphaned 12-year-old boy who is an aspiring scientist and inventor, wants to get adopted. However, his energetic behavior and malfunctioning inventions frequently scare off prospective parents, so he embarks on a mission to locate his birth mother, who left him at the orphanage when he was an infant. To do so, he conceives an invention that will scan his memories and help him identify her.
+
+Lewis takes his Memory Scanner to his school's [[science fair]], where he meets Wilbur Robinson, a mysterious boy who claims to be from the future, warning him about a tall man wearing a sentient robotic [[bowler hat]] (nicknamed the "Bowler Hat Guy") who stole a time machine. During Lewis' presentation, the Bowler Hat Guy's hat robot, Doris, secretly causes the Memory Scanner to malfunction, throwing the science fair into chaos. After Lewis leaves the fair, the Bowler Hat Guy steals the Memory Scanner, intending to pitch it as his own to an invention company called InventCo. Labs, but fails when he doesn't know how it works.
+
+Back at the orphanage, Wilbur attempts to motivate Lewis into fixing the Memory Scanner by taking him in a second time machine to 2037, which is highly advanced technologically. Lewis, however, theorizes that he can simply use the time machine to go back and prevent his mother from giving him up; an ensuing argument between the boys leads to the time machine crashing. Wilbur asks Lewis to fix the time machine, and Lewis agrees on the condition that Wilbur take him to see his mother afterwards.
+
+At the Robinsons' house, Lewis meets the rest of the family, except for Cornelius, Wilbur's father and the inventor of the time's technologies, who is on a business trip. Throughout the visit, the Robinsons emphasize the "Keep Moving Forward" motto, encouraging Lewis to learn from his mistakes. Meanwhile, the Bowler Hat Guy, having followed Lewis, tries to kidnap him by bringing a dinosaur from the past, but it is foiled by the Robinsons. The family later offers to adopt Lewis, but change their mind when they learn that he is from the past. Wilbur admits lying to Lewis about taking him back to see his mother, causing Lewis to run off in disgust.
+
+Lewis meets the Bowler Hat Guy, who offers to take him to his mother. Shortly after, the Bowler Hat Guy reveals that Lewis is Wilbur's father, and that he himself is the adult version of Lewis' roommate, Goob, who developed a grudge against Lewis after his constant work on the Memory Scanner indirectly caused a tired Goob to lose a [[Little League Baseball]] game. Eventually, Goob met Doris, who was a failed and abandoned Robinson invention, and the two decided to team up and ruin Lewis' life.
+
+Leaving Lewis in the future, they return to the past and enact their plan, successfully pitching the Memory Scanner and mass-producing Helping Hats. However, Doris disposes of Goob and uses the Helping Hats to enslave humanity, erasing Wilbur from existence and turning the future into a dystopia. Lewis repairs the second time machine and confronts Goob and Doris in the past, invalidating her existence by vowing never to invent her, which restores the future and Wilbur. Lewis and Wilbur try to offer Goob to join the family but he leaves in shame for his actions.
+
+In Wilbur's time, Lewis finally meets Cornelius, who explains how the Memory Scanner started their successful career and persuades Lewis to return to the science fair. Wilbur takes Lewis in the time machine but surprises him by taking him back to the night when his mother left him at the orphanage. Lewis attempts to interact with her, but ultimately decides against it, content with the knowledge of his future family.
+
+Back in his own time, Lewis heads to the baseball field to wake Goob up just in time for him to make the winning catch, averting his future. At the science fair, Lewis demonstrates the Memory Scanner again, which succeeds this time. He is adopted by Dr. Lucille Krunklehorn, one of the science fair judges and a scientist from InventCo. Labs, and her husband, Bud Robinson, who nicknames him "Cornelius". Emboldened by his future family's credo of "Keep Moving Forward," Lewis moves in with his new parents and begins his inventing career.

@@ -1,0 +1,35 @@
+{{Infobox film
+| name           = Savage Sam
+| image          = File:Savage Sam - theatrical poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Norman Tokar]]
+| producer       = [[Bill Anderson (producer)|Bill Anderson]]<br>(co-producer)
+| writer         = {{plainlist|
+* Fred Gipson
+* William Turberg
+}}
+| based_on       = {{based_on|''[[Savage Sam (novel)|Savage Sam]]''|[[Fred Gipson]]}}
+| starring       = {{plainlist|
+* [[Brian Keith]]
+* [[Tommy Kirk]]
+* [[Marta Kristen]]
+* [[Kevin Corcoran]]
+* [[Dewey Martin (actor)|Dewey Martin]]
+* [[Jeff York]]
+* [[Rafael Campos (actor)|Rafael Campos]] 
+}}
+| music          = [[Oliver Wallace]]
+| cinematography = [[Edward Colman (cinematographer)|Edward Colman]]
+| editing        = Grant K. Smith
+| color_process  = [[Technicolor]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{film date|1963|6|1|}}
+| runtime        = 103 minutes
+| country        = United States
+| language       = English
+| gross          = $3,000,000 (U.S./Canada)<ref>"Top Rental Features of 1963", ''Variety'', 8 January 1964 p 71. Please note figures are rentals as opposed to total gross.</ref>
+}}
+
+==Plot==
+In 1870, 18-year-old Travis Coates is left in charge of his precocious 12-year-old brother, Arliss, on the family farm in Southwest Texas, while their parents visit an ailing grandmother. While Arliss and his dog, Savage Sam, are tracking a [[bobcat]], Travis is warned by Bud Searcy that renegade [[Apache]]s are in the area. When Travis joins Bud's 17-year-old granddaughter, Lisbeth, in a search for Arliss, all three are captured by a band of Apaches led by a [[Comanche]]. The boys' Uncle Beck Coates witnesses the scene and manages to wound the leader, but Beck's horse is shot by one of the braves, allowing the Comanche and his followers to escape with the captives. Beck alerts the U. S. Cavalry, but the Indians split into three groups and ride for the hills; in the confusion, Travis escapes but is knocked unconscious and left to die. Beck and his posse of five find Travis and his dog, set out in pursuit of the other captives, and eventually find the Indians in a valley fighting over Lisbeth. Although posse member Pack Underwood, bent on revenge for the massacre of his family, fires a shot that alerts the Indians to their planned ambush, the youngsters are saved and the renegades captured.

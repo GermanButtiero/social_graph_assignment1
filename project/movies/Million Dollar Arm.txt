@@ -1,0 +1,39 @@
+{{Infobox film
+| name           = Million Dollar Arm
+| image          = Million Dollar Arm poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Craig Gillespie]]
+| producer       = Michael Mandt<br/>Neil Mandt<br/>[[Joe Roth]]<br />[[Mark Ciardi]]<br />Gordon Gray
+| writer         = [[Tom McCarthy (director)|Tom McCarthy]]
+| starring       = [[Jon Hamm]]<br />[[Aasif Mandvi]]<br/>[[Bill Paxton]]<br />[[Suraj Sharma]]<br />[[Lake Bell]]<br />[[Alan Arkin]]<br />[[Madhur Mittal]]
+| music          = [[A. R. Rahman]]
+| cinematography = [[Gyula Pados]]
+| editing        = [[Tatiana S. Riegel]]
+| studio         = [[Walt Disney Pictures]]<br />[[Roth/Kirschenbaum Films|Roth Films]]<br />Mayhem Pictures
+| distributor    = [[Walt Disney Studios Motion Pictures]]
+| released       = {{Film date|2014|05|06|[[El Capitan Theatre]]|2014|05|16|United States}}
+| runtime        = 124 minutes<!--Theatrical runtime: 123:55--><ref>{{cite web|title=''MILLION DOLLAR ARM'' (PG)|url=https://www.bbfc.co.uk/releases/million-dollar-arm-film|archive-url=https://web.archive.org/web/20140529052220/http://www.bbfc.co.uk/releases/million-dollar-arm-film|url-status=dead|archive-date=May 29, 2014|work=[[Walt Disney Studios Motion Pictures]]|publisher=[[British Board of Film Classification]]|date=May 28, 2014|access-date=May 28, 2014}}</ref>
+| country        = United States
+| language       = {{ubl|
+* English
+* Hindi
+}}
+| budget         = $25 million<ref>{{cite news |last=Lang |first=Brent |title=Disney Throws a Box Office Curve with 'Million Dollar Arm' |url=https://variety.com/2014/film/news/disney-throws-a-box-office-curve-with-million-dollar-arm-1201180903/|access-date=May 15, 2014|newspaper=[[Variety (magazine)|Variety]] |date=May 14, 2014}}</ref>
+| gross          = $38.4 million<ref>{{cite web |url=https://boxofficemojo.com/movies/?id=milliondollararm.htm |title=Million Dollar Arm (2014) |publisher=[[Box Office Mojo]] |access-date=November 28, 2015}}</ref>
+}}
+
+==Plot==
+[[Sports agent]] [[J. B. Bernstein]] and his business partner Ash Vasudevan have formed their own struggling company in [[Los Angeles]], but all J. B.'s clients have retired, and he is unable to reel in star [[NFL]] player Popo Vanuatu. Desperate for new clients, J. B. realizes the potential for untapped [[baseball]] talent among [[cricket]] players in [[India]]. He and Ash approach investor Mr. Chang with a proposal — "Million Dollar Arm", an Indian talent contest to find two winning [[pitcher]]s who will be flown to the U.S. and coached to become [[Major League Baseball]] prospects. J. B. secures Chang's funding by agreeing that the winners will be ready for a major league tryout in one year.
+
+Veteran [[Pitch (baseball)|pitching]] coach [[Tom House]] warns that baseball is too different from [[Bowling (cricket)|cricket bowling]], but J. B. convinces him to take on the challenge of coaching the winners. In [[Mumbai]], J. B. is guided by local businessman Vivek and hires enthusiastic Amit Rohan as his interpreter, and bonds over [[Skype]] with his tenant back home, Brenda. Joined by Ray Poitevint, a curmoudgeonly major league scout, they hold tryouts in numerous cities until two winners emerge — [[Rinku Singh (wrestler)|Rinku Singh]] and [[Dinesh Patel]].
+
+Vivek reminds J. B. that this is a life-changing opportunity for the boys, who bid an emotional farewell to their families. They and Amit are flown to the U.S., and J. B. is disappointed to learn Brenda has a boyfriend. Rinku, Dinesh, and Amit are kicked out of their hotel after being overwhelmed by the elevator, forcing J. B. to invite them to stay at his home. Never having played baseball before, the boys struggle with House's training and feel neglected by J. B. as he tries to keep his company afloat.
+
+Invited to a party thrown by Popo, J. B. takes the boys and Amit, but is forced to them home when Amit gets drunk after mistaking a margarita for punch and Rinku becomes sick from [[overeating]]; they both vomit inside J. B.'s [[Porsche]], and by the time he gets back to the party, Popo has already signed with someone else. Brenda helps him realize he needs to invest in the boys' wellbeing, and he trades his car in for a [[Dodge Caravan]]. Spending more time with the boys as their English and baseball skills improve, J. B. and a newly single Brenda share a kiss.
+
+Under pressure from Chang, who demands that the boys demonstrate their progress at a well-publicized tryout, J. B. lashes out at Brenda. Various media outlets, including [[ESPN]] and ''[[Sports Illustrated]]'', join major league scouts to see the boys pitch in [[Tempe, Arizona]], with their families and Vivek watching in India. The tryout is a disaster as Rinku and Dinesh, nervous and underprepared, fail to impress anyone. Chang congratulates J. B. on a successful publicity stunt and extends their deal, but declares that Rinku and Dinesh are done.
+
+Refusing to abandon Rinku and Dinesh for the sake of Million Dollar Arm's success, J. B. organizes another tryout, without Chang's support. J. B. is unable to interest any scouts, but Ray arranges for him to meet the head scout for the [[Pittsburgh Pirates]], who missed the first tryout and agrees to come. Amit, Dinesh, and Rinku prepare a romantic backyard date for Brenda and J. B., who insists the boys relax and have fun with their second chance. Amit delivers an inspiring speech to Rinku and Dinesh, who impress Chang and the scouts with accurate 90+&nbsp;mph [[fastballs]].
+
+An epilogue reveals footage of the real Rinku and Dinesh, who were offered contracts by the Pirates, becoming the first Indian athletes signed by a major American sports league; Amit returned to India to coach baseball; and J. B. and Brenda started a family, and continued Million Dollar Arm.

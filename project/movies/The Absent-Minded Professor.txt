@@ -1,0 +1,44 @@
+{{Infobox film
+| name           = The Absent-Minded Professor
+| image          = The Absent-Minded Professor - 1963 - Poster.png
+| caption        = Theatrical release poster
+| director       = [[Robert Stevenson (filmmaker)|Robert Stevenson]]
+| screenplay     = [[Bill Walsh (producer)|Bill Walsh]]
+| based_on       = {{based on|"A Situation of Gravity"|[[Samuel W. Taylor]]}}
+| producer       = {{Plainlist|
+* [[Walt Disney]]
+}}
+| starring       = {{Plainlist|<!-- PER BILLING BLOCK -->
+* [[Fred MacMurray]]
+* [[Nancy Olson]]
+* [[Keenan Wynn]]
+* [[Tommy Kirk]]
+* [[Leon Ames]]
+* [[Elliott Reid]]
+* [[Edward Andrews]]
+* [[Wally Brown]]
+* [[Alan Carney]]
+* [[Forrest Lewis]]
+* [[James Westerfield]]
+* [[Ed Wynn]]
+}}
+| cinematography = [[Edward Colman (cinematographer)|Edward Colman]]
+| editing        = [[Cotton Warburton]]
+| music          = [[George Bruns]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = {{Film date|1961|03|16|ref1=<ref>{{cite web |url=https://d23.com/a-to-z/absent-minded-professor-the-film/ |title=Absent-Minded Professor, The (film) |work=[[Disney A to Z]] |access-date=September 8, 2016 |archive-date=September 6, 2015 |archive-url=https://web.archive.org/web/20150906122128/https://d23.com/a-to-z/absent-minded-professor-the-film/ |url-status=live}}</ref>}}
+| runtime        = 97 minutes
+| country        = United States
+| language       = English
+| gross          = $25.3 million<ref name="numbers">[https://www.the-numbers.com/movie/Absent-Minded-Professor-The#tab=summary Box Office Information for ''The Absent Minded Professor''.] The Numbers. Retrieved February 16, 2023.</ref>
+}}
+
+==Plot==
+Professor Ned Brainard is an [[absent-minded professor]] of [[physical chemistry]] at Medfield College who invents a substance that gains energy when it strikes a hard surface. This discovery follows some blackboard scribbling in which he reverses a sign in the equation for [[enthalpy]] to energy plus pressure times volume. Ned names his discovery ''Flubber'', a [[portmanteau]] of "flying rubber". In the excitement of his discovery, he misses his own wedding to Betsy Carlisle, not for the first time, but the third. Subplots include Shelby Ashton, another professor, wooing the disappointed Betsy; Biff Hawk, Medfield's best basketball player,who  is ineligible to play in the game against archrival Rutland due to failing Professor Brainard's class; Biff's father, businessman Alonzo P. Hawk's schemes to gain wealth by means of Flubber; the school's financial difficulties and debt to Alonzo, and Ned's attempts to interest the government and military in uses for Flubber. Ned takes his revenge on Shelby by repeatedly jumping on the top of Shelby's car until it crashes into a police car, where a now-manic Shelby is given a [[Field sobriety testing|field sobriety test]].
+
+Looking for backers, Ned bounces his Flubber ball for an audience, but his investment pitch proves so long-winded that most of the crowd has left before they notice that the ball bounced higher on its second bounce than on its first. For a more successful demonstration, he makes his [[Ford Model T|Model T]] fly by bombarding Flubber with radioactive particles. After Medfield trails Rutland at the half by a large margin, Ned puts Flubber on the soles of the Medfield team's shoes, giving them tremendous jumping ability which causes them to make a furious comeback, winning by a buzzer beater; he also uses the substance on his own shoe soles to augment his skills during a school dance.
+
+Alonzo becomes aware of Ned's flying car and, at Biff's suggestion, switches it for a fake Model T with squirrels and pigeons under the hood. Ned's debut turns into a mockery when he finds himself with Alonzo's fake car, and plays on Alonzo's greed by pointing out that, in the 1960s, only 8% of the world's population uses cars, but nearly everyone wears shoes. Ned gives Hawk a pair of Flubber shoes to cause Alonzo to bounce endlessly and become blackmailed into revealing where he hid the real car. Alonzo soon attracts everyone's attention, even a news crew, who interviews a physicist who remarks "by 7 tonight, he's going to be in serious trouble!". The police escort the Medfield football team to tackle Alonzo on his way down, stopping his bounces.
+
+Alonzo and Biff then chase after Ned, who by then has recovered his car from Alonzo's warehouse. Alonzo crashes into the same squad car Shelby did, and gets arrested for illegal firearms possession. Ned convinces Betsy to accompany him to [[Washington, D.C.]] Having never seen a flying car, the military considers it an attack and is ready to open fire until one junior officer recommends against it, as Ned is atop the [[United States Capitol]] building. Now able to convince the government of the merits of Flubber, Ned finally marries Betsy. The two fly away from a cheering crowd in Ned's Model T.

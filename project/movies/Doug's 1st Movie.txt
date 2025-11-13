@@ -1,0 +1,40 @@
+{{Infobox film
+| name           = Doug's 1st Movie
+| image          = Doug's 1st Movie Poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Maurice Joyce]]
+| writer         = Ken Scarborough
+| based_on       = {{Based on|''[[Doug (TV series)|Doug]]''|[[Jim Jinkins]]}}
+| producer       = Jim Jinkins<br />[[David Ray Campbell|David Campbell]]<br />Melanie Grisanti<br />Jack Spillum
+| starring       = {{Plainlist|
+* Tom McHugh
+* [[Fred Newman (actor)|Fred Newman]]
+* [[Chris Phillips (voice actor)|Chris Phillips]]
+* [[Constance Shulman]]
+* [[Frank Welker]]
+* [[Doug Preis]]
+* Guy Hadley
+* [[Alice Playten]]
+* [[Doris Belack]]
+}}
+| editing        = Alysha Cohen<br />Christopher Gee
+| music          = [[Mark Watters]]
+| studio         = [[Walt Disney Television Animation]]<br>[[Jumbo Pictures]]
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|Distributed under the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|1999|3|26}}
+| runtime        = 83 minutes
+| country        = United States
+| language       = English
+| budget         = $5 million{{citation needed|date=May 2025}}
+| gross          = $19.4 million<ref name=mojo>{{mojo title|dougsfirstmovie}}</ref>
+}}
+
+==Plot==
+BluffCo has been dumping waste into Lucky Duck Lake under the command of CEO Bill Bluff. This pollution [[Mutants in fiction|creates a friendly creature]] that is discovered by Doug Funnie and Skeeter Valentine. They bring the creature in Doug's house, where they name him [[Herman Melville]] after he tries to eat a copy of ''[[Moby-Dick]]''. Not wanting him to be discovered, they disguise him as a foreign exchange student called Hermione, causing Doug's love interest Patti Mayonnaise to become jealous from all the attention he gives him, leading school paper reporter Guy Graham to make a move on her. Meanwhile, Roger Klotz and his cronies, after learning about Herman, build a robot to kidnap him, but instead it becomes very overbearing toward Roger.
+
+Doug and Skeeter show Herman to Mayor Tippy Dink, who warns them that Bluff will kill the story if they try to get it into the press. After being mocked by Guy in front of Patti, Doug calls a press announcement where he promises to expose what Bluff is doing to the lake. While initially dismissive, Guy finds a picture of Herman and realizes Doug is telling the truth. He notifies Bluff, who sends BluffCo agents to Doug's announcement posing as reporters to capture Herman. Doug sees through the ruse and calls off the conference, but Herman ends up being captured and Patti now believes Doug to be a liar. Doug realizes everything was his fault because he put Herman out of his own selfishness. 
+
+The next morning, in the school newspaper office, Doug finds an article by Guy detailing how Herman attacked students at the upcoming Valentine's Day dance and was killed by BluffCo agents. Realizing Guy and Bluff's plan to cover up the pollution, Doug and Skeeter recruit Roger and Al and Moo Sleech to help thwart it. On the night of the dance, Doug gave up his last chance to win Patti back in order to save Herman. The Sleech's reprogram Roger's robot to act like the monster in Guy's article, distracting everyone while Doug and Skeeter find Herman and sneak him out of the school in a giant Valentine's decoration.
+
+Doug and Skeeter bring Herman to lake and release him into the fresh waters, where they are confronted and threatened by Bluff. However, Bluff's  daughter Beebe and Mayor Dink overheard Bluff's tirade, and Beebe defends both Doug and Skeeter while Mayor Dink hints on revealing Bluff's practices to the government unless he discuss things over with her. Threatened with a potential lawsuit that could bankrupt him, Bluff concedes defeat by agreeing to have his company clean up Lucky Duck Lake. Herman reveals himself to Patti, who realized that Doug was telling the truth before dumping Guy for lying to her. After the gang says goodbye to Herman, Doug tries to reveal his feelings for Patti, only for Roger to suddenly appear, thanking him for reprogramming his robot, which then chases him away. The movie ends with everyone going back to the dance except for Doug, Patti, Skeeter, and Beebe, who dances with each other by the lake.

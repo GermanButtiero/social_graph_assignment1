@@ -1,0 +1,45 @@
+{{Infobox film
+| name           = Mars Needs Moms
+| image          = Mars Needs Moms! Poster.jpg
+| caption        = Theatrical release poster
+| alt            = Milo sees the spaceship in fount of the door.
+| director       = [[Simon Wells]]
+| screenplay     = {{Plainlist|
+* Simon Wells
+* Wendy Wells 
+}}
+| based_on       = {{Based on|''Mars Needs Moms!''|[[Berkeley Breathed]]}}
+| producer       = {{Unbulleted list|[[Robert Zemeckis]]|[[Jack Rapke]]|[[Steve Starkey]]|Steven Boyd}}
+| starring       = {{Plainlist|<!-- PER BILLING BLOCK -->
+* [[Seth Green]]
+* [[Dan Fogler]]
+* [[Elisabeth Harnois]]
+* [[Mindy Sterling]]
+* [[Joan Cusack]]
+}}
+| music          = [[John Powell (composer)|John Powell]]
+| cinematography = Robert Presley
+| editing        = Wayne Wahrman
+| studio         = [[Walt Disney Pictures]]<br />[[ImageMovers Digital]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]
+| released       = {{Film date|2011|3|06|[[El Capitan Theatre]]|2011|3|11|United States}}
+| runtime        = 88 minutes
+| country        = United States
+| language       = English
+| budget         = $150 million<ref name="mojo" /><ref name="LABox" />
+| gross          = $39.2 million<ref name="mojo" />
+}}
+
+==Plot==
+<!-- Per [[WP:FILMPLOT]], plot summaries should be between 400-700 words -->
+Unbeknownst to humans, there is a technologically sophisticated society of [[Martians]] living below the surface of Mars. The Martians' Supervisor, while observing Earth, sees a mother persuading her son, Milo, to do his chores. The Martians decide to bring her to Mars, where her "mom-ness" will be extracted and implanted into the next-generation of nanny-bots. 
+
+Milo, who does not like to follow house rules and do chores, upsets his mother by stating that his life would be better without her. Later, when Milo goes to apologize, he finds his mother being captured by the Martians and stows away on their spaceship. On Mars, Milo is taken to a prison cell, but escapes. While being chased by the Supervisor's henchmen, Milo follows a voice that tells him to jump down a chute and lands in a lower level. There, he sees a trash-covered landscape that is inhabited by furry creatures.
+
+Milo is whisked away by the creatures to meet Gribble, also known as George Ribble, the adult human who told him to jump down the chute. Gribble explains that the Martians plan to extract the memories of Milo's mom at sunrise, using a process that will kill her. Gribble, who is lonely and does not want Milo to leave, pretends to help Milo find his mother. His plan goes awry, leading to Gribble being captured and Milo being chased by the Supervisor's henchmen. Milo is rescued by Ki, one of the supervisors who raise Martian babies. Milo mentions his search for his mom and what a human relationship with a mom is like, as Ki and her kin were mentored by only nanny-bots and supervisors and do not know of love.
+
+Milo returns to Gribble's home but finds him missing. Gribble's robotic spider, Two-Cat, takes Milo to the Martian compound where Gribble is being prepared for [[execution]]. Milo is captured by his henchmen, but Ki tosses him a laser gun, allowing him to escape. Milo and Gribble retreat to a lower uninhabited level, where Gribble describes his own mom's abduction and murder by the Martians twenty years before. Milo convinces Gribble to actually help him just as Ki finds them. They discover an ancient mural of a Martian family and realize that Martian children were not always raised by machines. Martian female babies are currently raised by nanny-bots, while the male babies are sent down below to be raised by adult male Martians, the furry creatures.
+
+Milo, Gribble, and Ki save Milo's mom before sunrise, causing the energy of the extraction device to short out the electronic locks to the control room. This lets the adult males and babies enter and run amok, attacking the guards and robots. Milo and his mom steal oxygen helmets and try to escape across the Martian surface. The Supervisor, while attempting to kill them, causes Milo to trip and his helmet shatters. Milo's mom gives him her own helmet, saving Milo but causing herself to suffocate in Mars's air. The Martians are awed, as this is the first time they have seen love. Gribble finds his own mother's helmet and gives it to Milo's mom, saving her. Milo apologizes to his mom for his earlier words and the two reconcile. Ki brings a ship for them to escape in, but the Supervisor intervenes. Ki argues that Martians were meant to be raised in families, with love. The Supervisor insists that the current situation is better because, to her, it is more efficient. The henchmen arrest the Supervisor, deciding that they now prefer the loving vision of family life. The other Martians celebrate.
+
+Milo, his mom, Gribble, Ki, and Two-Cat travel back to Earth. Gribble decides not to stay because he wants to pursue a relationship with Ki on Mars. Milo and his mom return home just before Milo's dad arrives.

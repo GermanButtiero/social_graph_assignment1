@@ -1,0 +1,47 @@
+{{Infobox film
+| name           = Newsies 
+| image          = Newsies-Poster.jpg 
+| caption        = Theatrical release poster by [[John Alvin]]
+| director       = [[Kenny Ortega]]
+| producer       = [[Michael Finnell]]
+| writer         = {{Plainlist|
+* [[Bob Tzudiker]]
+* [[Noni White]]
+}}
+| starring       = {{Plainlist|
+* [[Christian Bale]]
+* [[Bill Pullman]]
+* [[Ann-Margret]]
+* [[Robert Duvall]]
+}}
+| music          = {{Plainlist|
+* [[Alan Menken]]
+* [[J.&nbsp;A.&nbsp;C. Redford]]<!-- LIST COMPOSERS ONLY -->
+}}
+| cinematography = [[Andrew Laszlo]]
+| editing        = [[William Reynolds (film editor)|William H. Reynolds]]
+| studio         = {{plainlist|
+* [[Walt Disney Pictures]]
+* [[Touchwood Pacific Partners|Touchwood Pacific Partners I]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{Film date|1992|4|10}}
+| runtime        = 121 minutes<!--Submitted theatrical runtime: 121:19--><ref name="bbfc">{{cite web|title=''The News Boys'' (PG/CUT)|url=http://www.bbfc.co.uk/releases/news-boys-1970-0|archive-url=https://web.archive.org/web/20150527060802/http://www.bbfc.co.uk/releases/news-boys-1970-0|url-status=dead|archive-date=May 27, 2015|work=[[British Board of Film Classification]]|date=July 30, 1992|access-date=July 6, 2013}}</ref>
+| country        = United States
+| language       = English
+| budget         = $15 million
+| gross          = $2.8 million
+}}
+
+==Plot==
+In 1899, 17-year-old Jack "Cowboy" Kelly lives with other struggling [[newspaper hawker]]s ("newsies") in New York City, selling copies of the ''[[New York World]]'' on the [[Manhattan]] streets ("Carrying the Banner"). When David Jacobs and his younger brother Les join the group, Jack notices David's intelligence and Les's marketable cuteness, and egotistically takes them under his wing. Unlike most newsies, the brothers work to financially support their family, as their father Mayer lost his factory job after being injured. Invited to the Jacobs' home for dinner, Jack becomes enamored with their sister Sarah. He later laments his isolation due to lacking his own family and fantasizes about traveling to [[New Mexico]] ("Santa Fe").
+
+After ''New York World'' publisher [[Joseph Pulitzer]] raises the prices required for newsies to buy newspapers from his distribution centers, Jack and David angrily galvanize the other Manhattan newsies to go on [[strike action|strike]] ("The World Will Know"). While the others notify newsies in [[Boroughs of New York City|New York's other boroughs]], Jack and Les confront Pulitzer, who ejects them from his office. Bryan Denton, a reporter for ''[[The Sun (New York City)|The Sun]]'', takes an interest in the boys' story. Jack and David inform the [[Brooklyn]] newsies, whose leader, "Spot" Conlon, reluctantly opposes the strike. David motivates the dejected Manhattan newsies ("Seize the Day"), who consequently ambush the distribution center and destroy the newspapers. Pulitzer's enforcers, brothers Oscar and Morris Delancey, capture disabled newsie "Crutchy", who is placed in an [[orphanage]] and [[juvenile detention center]] called the Refuge, where the corrupt Warden Snyder neglects the orphans to embezzle money the city provides for their care.
+
+The newsies attempt to deter [[strikebreaker]]s, but the violent struggle is revealed as a trap set by the Delancey brothers. Before the newsies can be arrested, Spot Conlon arrives with the Brooklyn newsies and the two groups repel the mob. After Denton puts the story on the front page of ''The Sun'', the ecstatic newsies imagine potential fame ("King of New York") before planning a rally. Snyder informs Pulitzer that Jack is an escapee from the Refuge, inspiring Pulitzer to have Jack arrested. During breakfast with Sarah atop the Jacobs' apartment building, Jack explains his desire to flee to Santa Fe, and wonders if she would miss him.
+
+At sympathetic performer Medda Larkson's Bowery, Jack, David, and Spot encourage the gathered newsies from across the city to stick together for their cause. Before they return to their own boroughs, Medda cheers them up with a song ("High Times, Hard Times"). The police arrive and arrest the newsies, but Denton pays their legal fines. Snyder testifies against Jack, revealing that his real name is Francis Sullivan, his mother is deceased, and his father incarcerated. Jack is sentenced to four years of rehabilitation in the Refuge, while Denton is reassigned as a [[war correspondent]], unable to report on the strike. Pulitzer offers to waive Jack's sentence and pay him a salary if he works despite the strike; otherwise, he will have the other newsies thrown into the Refuge. The boys attempt to rescue Jack, who tells them to leave.
+
+Though the newsies are shocked and dismayed to see Jack at work the next day, he rescues the Jacobs brothers when the Delanceys attack their sister, knowingly breaking his deal with Pulitzer. Denton notifies the newsies that their strike has not swayed public opinion, since the city thrives on [[child labor]] and Pulitzer has warned newspapers against reporting on the strike. Using an old printing press of Pulitzer's, they publish a "Newsie Banner" which they distribute to child laborers citywide ("Once and For All"). Denton shares the paper with Governor [[Theodore Roosevelt]], exposing the mistreatment of children at the Refuge. Numerous child laborers join the strike, stalling the city's workforce. Jack and David confront Pulitzer, who finally concedes.
+
+Roosevelt has Snyder arrested, releases the children from the Refuge, and thanks Jack for alerting him to the situation. He offers Jack a ride, and Jack asks to be taken to the train yards so he can head to Santa Fe. The newsies are disheartened by this, but Jack returns shortly, with Roosevelt having convinced him that he belongs in New York. As the newsies celebrate his return, Sarah and Jack kiss, and Roosevelt returns Spot to Brooklyn.

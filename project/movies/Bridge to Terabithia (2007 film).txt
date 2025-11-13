@@ -1,0 +1,55 @@
+{{Infobox film
+| name           = Bridge to Terabithia
+| image          = Bridgetoterabithiaposter.jpg
+| alt            = A boy standing beside a girl who is crouched before a small river and holding a lamp.
+| caption        = Theatrical release poster
+| director       = [[Gábor Csupó]]
+| screenplay     = {{Plainlist|
+* [[David L. Paterson]]
+* Jeff Stockwell
+}}
+| based_on       = {{based on|''[[Bridge to Terabithia (novel)|Bridge to Terabithia]]''|[[Katherine Paterson]]}}
+| producer       = {{Plainlist|
+* David L. Paterson
+* Lauren Levine 
+* [[Hal Lieberman]]
+}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Josh Hutcherson]]
+* [[AnnaSophia Robb]]
+* [[Robert Patrick]]
+* [[Zooey Deschanel]]
+}}
+| cinematography = [[Michael Chapman (cinematographer)|Michael Chapman]]
+| editing        = [[John Gilbert (film editor)|John Gilbert]]
+| music          = [[Aaron Zigman]]
+| production_companies =<!--Disney had no involvement with the film's production - they only handled North American and Australian distribution, so please do not add Walt Disney Pictures to this section--> {{plainlist|
+* [[Walden Media]]<ref name="afi">{{cite web|url=http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=64176|title=Bridge to Terabithia|work=[[American Film Institute]]|access-date=February 26, 2017|archive-date=February 27, 2017|archive-url=https://web.archive.org/web/20170227062712/http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=64176|url-status=live}}</ref>
+* Hal Lieberman Company
+* Lauren Levine Productions Inc.
+}}
+| distributor    = {{plainlist|
+* [[Walt Disney Pictures]] (through [[Buena Vista Pictures Distribution]]; North America and Australia)<ref>{{cite web | url=https://www.scoop.co.nz/stories/CU0602/S00138/bridge-to-terabithia-begins-production-in-nz.htm | title=Bridge to Terabithia Begins Production in NZ &#124; Scoop News | access-date=2024-01-11 | archive-date=2024-01-11 | archive-url=https://web.archive.org/web/20240111041527/https://www.scoop.co.nz/stories/CU0602/S00138/bridge-to-terabithia-begins-production-in-nz.htm | url-status=live }}</ref>
+* [[Summit Entertainment]] (International)
+}}
+| released       = {{film date|2007|2|16}}
+| runtime        = 95 minutes<!-- 95m 6s --><ref>{{Cite web|url=https://bbfc.co.uk/releases/bridge-terabithia-2007|title=Bridge to Terabithia|website=bbfc.co.uk|access-date=2019-10-09|archive-date=2019-10-09|archive-url=https://web.archive.org/web/20191009050904/https://bbfc.co.uk/releases/bridge-terabithia-2007|url-status=dead}}</ref>
+| country        = United States<ref name=afi/>
+| language       = English
+| budget         = $17 million<ref name="moviejungle">{{cite web|title=Movie Jungle Interviews&nbsp;- ''Bridge to Terabithia'' Interviews&nbsp;- Gabor Csupo & David Paterson|publisher=Movie Jungle|url=http://www.moviejungle.com/interviews/csupopaterson/|access-date=April 27, 2009|archive-url=https://web.archive.org/web/20070403014342/http://www.moviejungle.com/interviews/csupopaterson/|archive-date=April 3, 2007}}</ref><ref name="numbers">{{cite web | url=http://www.the-numbers.com/movies/2007/TERAB.php | title=Bridge to Terabithia | work=[[The Numbers (website)|The Numbers]] | publisher=Nash Information Services | access-date=July 26, 2014 | archive-date=August 10, 2014 | archive-url=https://web.archive.org/web/20140810011522/http://www.the-numbers.com/movies/2007/TERAB.php | url-status=live }}</ref>
+| gross          = $137.6 million<ref name=numbers/>
+}}
+
+==Plot==
+<!--- PLOTS SHOULD BE BETWEEN 400–700 WORDS PER [[WP:FILMPLOT]] --->
+Jess Aarons is a 12-year-old aspiring artist living with his financially struggling family in Lark Creek. He rides the bus to school with his younger sister, May Belle, and is often bullied by two boys named Scott Hoager and Gary Fulcher, and a girl named Janice Avery. One day, Jess meets a new student named Leslie Burke. At recess, he enters a running event, for which he has been training at home. Leslie also enters and manages to win, frustrating Jess. On the way home, Jess and Leslie learn they are next-door neighbors.
+
+Later that day, it is discovered that Jess has a difficult relationship with his father, Jack, who spends more time with May Belle. Due to their financial struggles, his mother, Mary, also forces him to wear his older sister's sneakers. One day at school, Leslie compliments Jess's drawing ability, and they become friends. After school, they venture into the woods and swing across a creek on a rope. Jess and Leslie find an abandoned treehouse on the other side and invent a new world, which they call Terabithia. For the next few days, Jess and Leslie spend their free time in the treehouse getting to know each other.
+
+Leslie gives Jess an art kit on his birthday. Jess becomes angry with Jack for his attitude towards him, and he loses his belief in Terabithia, and refuses its existence the next day at school. Later, Jess apologizes to Leslie by giving her a puppy, whom she names Prince Terrien (P.T). Once in Terabithia, they encounter various creatures, including a giant troll resembling Janice. At school, Leslie becomes frustrated by Janice's bullying. Jess and Leslie play a prank on Janice, and she is embarrassed in front of everyone on the bus. Leslie introduces Jess to her parents, and they help paint their house. At school, Leslie discovers from Janice that her bullying is due to her [[child abuse|abusive father]], and the two become friends, with Janice later befriending Jess as well. Jess and Leslie take P.T. to Terabithia, where they fight off several creatures resembling their bullies, this time with the troll as their ally.
+
+The next morning, Ms. Edmunds, the music teacher whom Jess has a crush on, calls to invite him on a one-on-one field trip to an art museum. When Jess returns home, Jack reveals that Leslie died after hitting her head and drowning in the creek when the rope she used snapped. Jess first denies it and runs to check on Leslie, but he notices the severed rope as well as emergency vehicles surrounding her house before eventually accepting her death.
+
+The following day, Jess and his parents visit the Burke family to pay their respects. Leslie's father, Bill, tells Jess she loved him and thanks him for being the best friend she ever had, since she never had friends at her old school. When he returns to school, the bus driver gives Jess his condolences, but in class, Scott makes fun of Leslie's death, and Jess punches him for it, and his teacher, Mrs. Myers, sends him out into the hall. But instead of punishing him, Mrs. Myers comforts Jess about Leslie's death when she compares it to her husband's death.
+
+After school, Gary knocks Jess down for punching Scott, and Janice sticks up for Jess by punching Scott herself. Despite this, Jess feels overwhelming guilt for Leslie's death, and thinks he's hearing her voice calling him for help, but it turns out to be May Belle who he saves from falling off a log and he tells her to go home and pushes her to the ground. He then imagines the "Dark Master" from Terabithia chasing after him before breaking down into tears, but Jack comforts and consoles him by telling him to keep Leslie's memory alive. Jess decides to re-imagine Terabithia and builds a bridge across the river to welcome a new ruler. He invites May Belle to Terabithia, and the siblings agree to rule together, with Jess as king and May Belle as the princess.

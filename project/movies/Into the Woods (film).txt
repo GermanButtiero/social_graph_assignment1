@@ -1,0 +1,54 @@
+{{Infobox film
+| name           = Into the Woods
+| image          = Into the Woods film poster.jpg
+| alt            = A witch ominously peering through a thicket of branches.
+| caption        = Theatrical release poster
+| director       = [[Rob Marshall]]
+| producer       = {{Plain list|
+* Rob Marshall
+* [[John DeLuca (producer)|John DeLuca]]
+* [[Marc Platt (producer)|Marc Platt]]
+* Callum McDougall
+}}
+| screenplay     = [[James Lapine]]
+| based_on       = {{Based on|''[[Into the Woods]]''|[[Stephen Sondheim]]<br />James Lapine}}
+| starring       = {{Plain list|
+* [[Meryl Streep]]
+* [[Emily Blunt]]
+* [[James Corden]]
+* [[Anna Kendrick]]
+* [[Chris Pine]]
+* [[Tracey Ullman]]
+* [[Christine Baranski]]
+* [[Johnny Depp]]
+}}<!--PER POSTER BILLING BLOCK-->
+| narrator       = <!--Only used in documentaries-->
+| music          = Stephen Sondheim
+| cinematography = [[Dion Beebe]]
+| editing        = Wyatt Smith
+| studio         = {{Plain list|
+* [[Walt Disney Pictures]]<ref name=afi/>
+* Lucamar Productions<ref name=afi/>
+* Marc Platt Productions<ref name=afi/>
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]<ref name=afi>{{cite web|url=https://catalog.afi.com/Film/70238-INTO-THEWOODS?sid=53755481-1571-4503-86e4-a0126ece3528&sr=9.94845&cp=1&pos=0|title=Into the Woods|work=[[American Film Institute]]|access-date=March 6, 2022}}</ref>
+| released       = {{Film date|2014|12|08|[[Ziegfeld Theatre (1969)|Ziegfeld Theatre]]|2014|12|25|United States}}
+| runtime        = 124 minutes<!--Theatrical runtime: 124:35--><ref>{{cite web | url=https://www.bbfc.co.uk/releases/woods-film | title=''INTO THE WOODS'' (PG) | work=[[British Board of Film Classification]] | date=November 11, 2014 | access-date=November 11, 2014 | archive-url=https://web.archive.org/web/20141111184659/http://www.bbfc.co.uk/releases/woods-film | archive-date=November 11, 2014 | url-status=dead }}</ref>
+| country        = United States<!--DO NOT INCLUDE FILMING LOCATIONS, COUNTRY OF NATIONAL ORIGIN ONLY-->
+| language       = English
+| budget         = $50 million<ref name="Twisted"/>
+| gross          = $213.1 million<ref name ="BOM">{{cite web |url=https://www.boxofficemojo.com/movies/?page=main&id=intothewoods.htm |title=Into the Woods |website=[[Box Office Mojo]] |access-date=November 28, 2015 |archive-url=https://web.archive.org/web/20151208072804/http://www.boxofficemojo.com/movies/?page=main&id=intothewoods.htm |archive-date=December 8, 2015 |url-status=live }}</ref>
+}}
+
+==Plot==
+<!-- NOTE: The plot summary does NOT intend to reproduce the experience of watching, nor is it meant to cover EVERY detail. It should serve as an overview of the major plot elements and events. PER WP:FILMPLOT, PLOT SUMMARIES FOR FEATURE FILMS AND TELEVISION SERIES SHOULD BE BETWEEN 400 AND 700 WORDS. See "Wikipedia:How to write a plot summary" (WP:PLOTSUM) for general guidelines. -->
+
+A Baker and his wife wish for a child but suffer under a curse laid upon their family by a [[Witchcraft|Witch]]. The Witch had found the baker's father robbing her garden when his wife was pregnant, and demanded their baby in return. Because the Baker's father also stole her magic beans, the Witch's own mother punished her with the curse of age and ugliness. The Witch can lift the curse and allow the Baker and his wife to have a child only if they obtain four items for a [[potion]] to break her curse, to restore her youth and beauty: a cow as white as milk, a cape as red as blood, hair as yellow as corn, and a slipper as pure as gold—none of which she is allowed to touch.
+
+The Witch's demands bring the Baker and his wife into contact with Jack, who is selling his beloved cow, Milky-White, and to whom the Baker offers the Witch's stolen magic beans, found in his father's coat pocket. When Jack's Mother tosses the beans away, they grow into a huge beanstalk. The Baker and his wife also encounter Red Riding Hood, who had visited to buy from their bakery on her way to her grandmother's house, and notice her red cape. The blonde Rapunzel (the Witch's adopted daughter and Baker's biological sister), is observed by the Baker's wife letting her hair down for her Prince. Cinderella runs into the Baker's wife while fleeing her Prince and whose ball outfit includes gold slippers.<ref>{{cite web | url=https://princess.disney.com/cinderellas-story | title=Cinderella's Story }}</ref>
+
+After a series of failed attempts and misadventures, the Baker and his wife are finally able to gather the necessary items. After the Witch regains her youth and beauty after drinking the potion, each of the characters receives a "[[happy ending]]". The Baker and his wife have a son; Cinderella marries the Prince; Rapunzel is freed from the Witch by the Prince's brother, whom she marries; Jack provides for his mother by stealing riches from the [[Giant]] in the sky, courtesy of the beanstalk, and kills the pursuing Giant by cutting down the beanstalk; and Red Riding Hood and her grandmother are saved from the [[Big Bad Wolf]].
+
+However, each of the characters learns that their endings don't remain happy: the Baker is worried that he is a poor father to his newborn baby; the Baker's wife lets the Prince temporarily seduce her; Cinderella is disenchanted by her cheating Prince; and the Witch lost her powers in exchange for her youth and beauty and is rejected by Rapunzel, who then runs off with her Prince. The growth of a second beanstalk from the last remaining magic bean allows the Giant's widow to climb down and threaten the kingdom if no one delivers Jack in retribution for killing her husband. The characters attempt to find and protect Jack. In the process, Red Riding Hood's mother and grandmother, as well as Jack's mother, are killed, and the Baker's wife is killed after she considers having an affair with Cinderella's Prince. The Baker, Cinderella, Jack and Red Riding Hood all blame each other for their actions that led to the tragedy, ultimately blaming the Witch for growing the beans in the first place. She curses them all for their inability to accept any responsibility, as well as their refusal to hand Jack over. Casting all the remaining beans away, the Witch begs her mother to punish her again, and she abandons the group by melting into a large pit of boiling tar.
+
+The remaining characters resolve to kill the threatening Giant's widow, though they discuss the complicated morality of retribution and revenge in the process. They lure the Giant's widow into stepping in the tar pit, where she is attacked by Cinderella's birds and rocks slung by Jack and the Baker. She trips and falls, with a tree crushing her. With the Giant's widow dead, the characters move forward with their lives. The Baker, thinking of his wife, is determined to be a good father. Cinderella decides to leave her Prince and help the Baker with Jack and Red Riding Hood, who are now orphans and will be moving into the bakery. The Baker comforts his son by retelling the film's story, as it ends with the Witch's moral, where children will listen and learn from their parents' actions and behaviors.

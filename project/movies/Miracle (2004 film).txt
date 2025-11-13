@@ -1,0 +1,38 @@
+{{Infobox film
+| name           = Miracle
+| image          = Miracle film.jpg
+| caption        = Theatrical release poster
+| director       = [[Gavin O'Connor (filmmaker)|Gavin O'Connor]]
+| producer       = {{ubl|[[Mark Ciardi]]|Gordon Gray|[[Ross Greenburg]]|[[Justis Greene]]|Jon Mone|[[Greg O'Connor]]}}
+| writer         = [[Eric Guggenheim]]
+| starring       = {{ubl|[[Kurt Russell]]|[[Patricia Clarkson]]|[[Noah Emmerich]]}}
+| music          = [[Mark Isham]]
+| cinematography = Dan Stoloff
+| editing        = [[John Gilroy (film editor)|John Gilroy]]
+| studio         = [[Walt Disney Pictures]]<br />Mayhem Pictures
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{Film date|2004|02|6}}
+| runtime        = 136 minutes
+| country        = United States
+| language       = English
+| budget         = $28 million<ref name=NUM>[http://www.the-numbers.com/movies/2004/MRACL.php "''The Miracle'' – Box Office Data, Movie News, Cast Information"]. The Numbers. Retrieved March 18, 2012.</ref>
+| gross          = $64.5 million<ref name=NUM />
+}}
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films are to be between 400 to 700 words. -->
+[[Herb Brooks]], head [[ice hockey]] coach at the [[University of Minnesota]], interviews with the [[United States Olympic & Paralympic Committee|United States Olympic Committee]] (USOC) for the [[United States men's national ice hockey team|national team]] coach's job, discussing his philosophy on how to beat the dominant Soviet team who have won the gold medal in the previous four Olympics, calling for changes to the practice schedule and strategy. The USOC is skeptical, but gives Brooks the job.
+
+Brooks meets assistant coach [[Craig Patrick]] at the tryouts in [[Colorado Springs, Colorado|Colorado Springs]]. Brooks selects a preliminary roster of 26, indifferent to the preferences of senior USOC hockey officials. USOC executive director [[Walter Bush]] believes Brooks has their best interests at heart, and reluctantly agrees to take the heat from the committee.
+
+During the initial practice, tempers flare as forward [[Rob McClanahan]] and defenseman [[Jack O'Callahan]] get into a fight based on college rivalry. After the fight, Brooks tells all the players that they are to let go of old rivalries and start becoming a team. He has each player tell their name, hometown and which team they play for. As practices continue, Brooks uses unorthodox methods to reduce the roster to 20 players. The players themselves worry about being cut at any time, knowing that Brooks himself was the last player cut from the US squad that won the [[Ice hockey at the 1960 Winter Olympics|1960 Olympic gold medal]], so he will do anything to win.
+
+During an exhibition game against [[Norway men's national ice hockey team|Norway]] in [[Oslo]] that ends in a 3–3 tie, Brooks notices the players are not playing up to their potential. After the game, he orders them back on the ice for a bag skate{{snd}}a relentless skate from one end of the ice to the other, continuing the drill even after the rink manager cuts the power, until forward and team captain [[Mike Eruzione]] re-introduces himself, but this time says that he plays for the United States. Pleased, Brooks finally allows the team to go home.
+
+With their roster finalized, the Americans play the [[Soviet Union national ice hockey team|Soviets]] in an exhibition game at [[Madison Square Garden]]. The Soviets manhandle the young Americans, winning by a score of 10–3. During the game, O'Callahan suffers a knee injury that could keep him out of the entire Olympics and starting goaltender [[Jim Craig (ice hockey)|Jim Craig]] is told he may be benched in favor of backup [[Steve Janaszak]]. Brooks tells him that he hasn't been giving his very best, but decides to keep Craig as the starter for the Olympics.
+
+As the [[1980 Winter Olympics]] begin, the Americans trail [[Sweden men's national ice hockey team|Sweden]] 2–1 in the first game. Brooks fires up the team during intermission by throwing a table and accuses McClanahan, who suffered a relatively minor leg injury, of quitting. McClanahan plays injured, which inspires the team. [[Bill Baker (ice hockey, born 1956)|Bill Baker]] scores a goal with only 27 seconds remaining in the third period for a dramatic 2–2 tie. They next earn a 7–3 win over heavily favored [[Czechoslovakia men's national ice hockey team|Czechoslovakia]]. As the Olympics continue, the team defeats minor opponents [[Norway men's national ice hockey team|Norway]], [[Romania men's national ice hockey team|Romania]], and [[Germany men's national ice hockey team|West Germany]] to earn a spot in the medal round.
+
+In the medal round, the Americans are overwhelming underdogs to the Soviets, who lost only a single Olympic game since 1964 and whose players are professionals, whereas the American players are [[amateur]]s.<ref>{{cite news|url=https://www.nytimes.com/1974/07/21/archives/soviet-amateur-athlete-a-real-pro-dr-john-nelson-washburn-is-an.html|title=Soviet Amateur Athlete: A Real Pro|work=[[The New York Times]]|author=J. N. Washburn|date=July 21, 1974}}</ref><ref>{{cite web|url=https://www.cia.gov/readingroom/docs/CIA-RDP80-00810A005900310006-0.pdf|title=Central Intelligence Agency Information Report: SOVIET CONTROL OF SPORTS ACTIVITIES AND SPORTS PROPAGANDA|website=Cia.gov|access-date=2022-02-17}}</ref> The Soviets score the first goal before O'Callahan, having healed enough from his injury, enters the game for the first time. He heavily checks [[Vladimir Krutov]] on a play that leads to a goal by [[Buzz Schneider]]. The Soviets score again to retake the lead. Soviet goalie [[Vladislav Tretiak]] stops a long shot by [[Dave Christian]], but [[Mark Johnson (ice hockey)|Mark Johnson]] gets the rebound and ties the game to end the period.
+
+During the first intermission, Soviet coach [[Viktor Tikhonov (born 1930)|Viktor Tikhonov]] replaces Tretiak with backup [[Vladimir Myshkin]]. In the second period, the Soviets score a goal to go up 3–2. Early in the third period, the Soviet team is [[penalty (ice hockey)|penalized]] for [[Slashing (ice hockey)|slashing]], and Johnson scores a [[Power play (sporting term)|power play]] goal just as the penalty is about to expire. With 10 minutes left, Eruzione puts them ahead 4–3. The Americans hold off the Soviets to win the game, completing one of the biggest upsets in sports history. Two days later, the team would go on to defeat [[Finland men's national ice hockey team|Finland]] 4–2 to win the gold medal.

@@ -1,0 +1,70 @@
+{{Infobox film
+| name           = Oliver & Company
+| image          = Oliver poster.jpg
+| caption        = Theatrical release poster
+| director       = [[George Scribner]]
+| screenplay     = {{Plainlist|
+* Jim Cox
+* [[Tim Disney]]
+* [[James Mangold]]
+}}
+| story          = {{Plainlist|
+* [[Vance Gerry]]
+* [[Mike Gabriel]]
+* [[Joe Ranft]]
+* Jim Mitchell
+* [[Chris Bailey (animator)|Chris Bailey]]
+* [[Kirk Wise]]
+* Dave Michener
+* [[Roger Allers]]
+* [[Gary Trousdale]]
+* [[Kevin Lima]]
+* Michael Cedeno
+* Pete Young
+* Leon Joosen
+}}
+| producer       = 
+| based_on       = {{based on|''[[Oliver Twist]]''|[[Charles Dickens]]}}
+| starring       = {{Plainlist|<!-- Per end credits -->
+* [[Joey Lawrence]]
+* [[Billy Joel]]
+* [[Cheech Marin]]
+* [[Richard Mulligan]]
+* [[Roscoe Lee Browne]]
+* [[Sheryl Lee Ralph]]
+* [[Dom DeLuise]]
+* [[Taurean Blacque]]
+* [[Carl Weintraub]]
+* [[Robert Loggia]]
+* [[Natalie Gregory]]
+* William Glover
+* [[Bette Midler]]
+}}
+| editing        = {{Plainlist|
+* Mark Hester
+* James Melton
+}}
+| music          = [[J. A. C. Redford]]
+| production_companies = [[Walt Disney Feature Animation]]
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner with funding by [[Silver Screen Partners III]]. In the United Kingdom, [[Warner Bros.]] distributed the film.{{sfn|Gritten|2007|p=871}} However, [[Walt Disney Studios Home Entertainment|Buena Vista Home Entertainment Ltd.]] released the film on home video.<ref name="ukhomevideorelease">{{cite magazine|url=https://books.google.com/books?id=6w4EAAAAMBAJ&q=oliver+and+company+released+on+vhs+in+the+%22uk%22+1997&pg=PA119|title=The Scene from the U.K.: Video Turns a Corner, DVD Debut Delayed|first=Sam|last=Andrews|magazine=[[Billboard (magazine)|Billboard]]|page=119|date=March 14, 1998|access-date=February 4, 2020|via=[[Google Books]]}}</ref>}}
+| released       = {{Film date|1988|11|18}}
+| runtime        = 74 minutes
+| country        = United States
+| language       = English
+| budget         = $31&nbsp;million<ref>{{cite web|url=http://powergrid.thewrap.com/project/oliver-company|title=Oliver & Company (1988)|website=[[The Wrap]]|access-date=December 14, 2016|url-status=dead|archive-url=https://web.archive.org/web/20161220223925/http://powergrid.thewrap.com/project/oliver-company|archive-date=December 20, 2016}}</ref>
+| gross          = $121&nbsp;million
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries should be between 400 and 700 words in length. Current word count is 558. -->
+Outside a shop in [[New York City]], several orphaned kittens are put up for [[Pet adoption|adoption]]; all of them manage to find homes except for an orange [[Tabby cat|tabby]], who begins wandering the streets hoping that someone will take him in. One day, the kitten meets a [[Jack Russell Terrier]] named Dodger, who helps him steal food from a [[hot dog]] [[vendor]] before fleeing with the hot dogs, prompting the kitten to pursue him.
+
+The kitten chases Dodger to a [[barge]], where he watches Dodger sharing the stolen hot dogs with his friends—Tito the [[Chihuahua (dog breed)|Chihuahua]], Einstein the [[Great Dane]], Francis the [[Bulldog]], and Rita the [[Saluki]]. Their owner, Fagin, a [[petty thief]] indebted to Sykes, a nefarious [[loan shark]], who gives him an ultimatum to repay the money in three days. After the other dogs encounter the kitten, they are confronted by Sykes' two [[Dobermann|Dobermanns]], Roscoe and DeSoto, who threaten to eat the kitten until he claws DeSoto's nose, a deed that earns the kitten respect from Fagin and the dogs. 
+
+The next day, Fagin goes to pawn some of his stolen goods, while the dogs and the kitten try to steal more money for him. Through a theatrical ruse, the animals stop a limousine belonging to the wealthy Foxworth family, but their attempt to rob the limo fails, and the kitten is discovered by the family's child Jenny, who is worried that her parents, who are on a [[Business travel|business trip]], won't be able to return home in time for her eighth [[birthday]]. Jenny adopts the kitten, whom she names Oliver, and bonds with him, much to the jealousy of Georgette, the Foxworths' spoiled prize-winning [[poodle]]. 
+
+Meanwhile, Dodger and the other dogs believe that Oliver has been kidnapped, and they go to the Foxworths' house to "rescue" him. With the help of Georgette, the group take Oliver back to their barge, but Oliver tells them that he wants to stay with Jenny, making Dodger feel betrayed. As Oliver attempts to return home, Fagin picks him up and recognizes from Oliver's new collar and gold name tag that he has been adopted by a wealthy family; seeing this as an opportunity to repay his debt, Fagin decides to hold Oliver for [[ransom]], and he informs Sykes of his plan.  
+
+Having found Fagin's ransom note, Jenny and a reluctant Georgette set out to get Oliver back. She meets with Fagin, who is shocked to be dealing with a child; bothered by his conscience, Fagin gives Oliver back to Jenny freely. However, Sykes, who was watching the events take place, abducts Jenny with the intention of [[Blackmail|blackmailing]] her family, while ending his deal with Fagin. Oliver, Georgette, and the other dogs sneak into Sykes' warehouse to rescue Jenny with Fagin helping them escape via his [[Scooter (motorcycle)|scooter]]. Sykes, Roscoe, and DeSoto chase the group into the subway tunnels where Roscoe and DeSoto are fatally [[Electrocution|electrocuted]] on the [[third rail]] of the subway following a battle between Oliver and Dodger, while Sykes is killed after his car collides with a train on the [[Brooklyn Bridge]]. 
+
+Following the incident, Jenny and Oliver are reunited. They later celebrate Jenny's birthday with the dogs, Fagin, and the Foxworths' [[butler]], Winston, who learns that Jenny's parents are returning home tomorrow. Oliver opts to stay with Jenny but promises to remain in contact with Dodger and the gang.

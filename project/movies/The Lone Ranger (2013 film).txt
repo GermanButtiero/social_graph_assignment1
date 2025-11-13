@@ -1,0 +1,63 @@
+{{Infobox film
+| image          = TheLoneRanger2013Poster.jpg
+| caption        = Theatrical release poster
+| alt            = A man with his face painted white and a black bird on his head, beside a man in a black mask and white cowboy hat.
+| director       = [[Gore Verbinski]]
+| screenplay     = {{Plainlist|
+* [[Justin Haythe]]
+* [[Ted Elliott (screenwriter)|Ted Elliott]]
+* [[Terry Rossio]]
+}}
+| story          = {{Plainlist|
+* Ted Elliott
+* Terry Rossio
+* Justin Haythe
+}}
+| based_on       = {{Based on|''[[The Lone Ranger]]''|[[Fran Striker]]|[[George W. Trendle]]}}
+| producer       = {{Plainlist|
+* [[Jerry Bruckheimer]]
+* Gore Verbinski
+}}
+| starring       = {{Plainlist|
+* [[Johnny Depp]]
+* [[Armie Hammer]]
+* [[Tom Wilkinson]]
+* [[William Fichtner]]
+* [[Barry Pepper]]
+* [[James Badge Dale]]
+* [[Helena Bonham Carter]] <!-- PER POSTER BILLING BLOCK-->
+}}
+| cinematography = [[Bojan Bazelli]]
+| editing        = {{Plainlist|
+* [[James Haygood]]
+* [[Craig Wood (film editor)|Craig Wood]]
+}}
+| music          = [[Hans Zimmer]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Jerry Bruckheimer Films]]
+* [[Gore Verbinski|Blind Wink Productions]]
+* [[Infinitum Nihil]]<!-- PER FILM POSTER CREDITS -->
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]
+| released       = {{Film date|2013|6|22|[[Hyperion Theatre]]|2013|7|3|United States}}<!-- Do not add more dates here, see [[WP:FILMRELEASE]] -->
+| runtime        = 149 minutes<!-- 149m 21s --><ref>{{Cite web |date=June 4, 2013 |title=''The Lone Ranger'' (12A) |url=https://www.bbfc.co.uk/release/the-lone-ranger-q29sbgvjdglvbjpwwc0znzc2nju |url-status=live |archive-url=https://web.archive.org/web/20250314013001/https://www.bbfc.co.uk/release/the-lone-ranger-q29sbgvjdglvbjpwwc0znzc2nju |archive-date=March 14, 2025 |access-date=November 2, 2025 |website=[[British Board of Film Classification]] |language=en |quote=Cinema 2D "149m 21s"}}</ref>
+| country        = United States
+| language       = English
+| budget         = $225–250 million<ref name="Variety1">{{cite news|last=Graser|first=Marc|title=Disney, Bruckheimer See 'Lone Ranger' as New Genre-Bending Superhero|url=https://variety.com/2013/film/news/disney-bruckheimer-see-lone-ranger-as-new-genre-bending-superhero-1200501501/|access-date=June 26, 2013|newspaper=[[Variety (magazine)|Variety]]|date=June 25, 2013|quote=The picture cost approximately $250 million to produce, and more than $150 million to market and distribute around the globe ... Pre-production was halted until the filmmakers could wrangle the cost down to a more manageable $215 million ... Despite all the strife over the budget, the ultimate cost of “The Lone Ranger” ballooned during production. Bruckheimer says he and Disney were responsible for covering the film’s overages. Studio reps say the pic cost around $225 million, but sources say it was considerably higher.}}</ref>
+| gross          = $260.5 million<ref name="mojo">{{cite web|url=https://www.boxofficemojo.com/movies/?id=loneranger.htm |title=The Lone Ranger (2013) |publisher=[[Box Office Mojo]] |access-date=August 18, 2013}}</ref>
+}}
+
+== Plot ==
+<!--per WP:FILMPLOT, plots should be between 400 and 700 words only-->
+In 1933, at a [[San Francisco]] [[funfair]], a boy named Will who idolizes the legendary [[Lone Ranger]] encounters [[Tonto]], an elderly [[Comanche]] who [[Frame story|starts recounting]] his experiences with the [[Old West]] adventurer, 64 years earlier.
+
+In 1869, lawyer John Reid returns home to Colby, [[Texas]] via the uncompleted [[First transcontinental railroad|Transcontinental Railroad]], managed by railroad tycoon Latham Cole. Unknown to Reid, the train also carries Tonto and outlaw Butch Cavendish, who is being transported to his [[hanging]] after being captured by Dan Reid, John's [[Texas Ranger Division|Texas Ranger]] brother. Cavendish's gang rescues Butch and derails the train. Tonto is subsequently jailed. Dan deputizes John as a Texas Ranger, giving him a [[silver star]] badge that belonged to their late father, and with six others they go after the Cavendish gang. Cavendish's men ambush and kill their pursuers while Cavendish slays Dan and [[Human cannibalism|devours his heart]] as revenge for his imprisonment. Tonto escapes from jail, comes across the dead men and buries them. However, a [[horse]] awakens John as a "spirit walker", and Tonto explains John cannot be killed in battle. Tonto also tells him Collins, one of the Rangers, betrayed Dan and is working with Cavendish. Now thought to be dead, John wears a mask to protect his identity from enemies. Tonto gives John a silver [[bullet]] made from the fallen Rangers' badges and tells him to use it on Cavendish, whom he believes to be a mythical beast called a [[wendigo]].
+
+At a [[brothel]] Collins recently visited, Red Harrington informs the two about Dan and Collins' fight over a cursed silver rock. Meanwhile, Cavendish's men, disguised as Comanches, raid frontier settlements. John and Tonto arrive after raiders abduct Dan's widow and son, Rebecca and Danny. Regretting his earlier actions, Collins attempts to help Rebecca and Danny escape, but is shot dead by Cole, who rescues them. Claiming the raiders are Comanches, Cole announces the continued construction of the railroad and dispatches [[United States Cavalry|US Cavalry]] Captain Jay Fuller to wipe out the Comanches. A Comanche tribe captures John and Tonto after the pair finds railroad tracks in Native territory. The leader tells John of Tonto's past: As a boy, Tonto rescued Cavendish and another man from near-death and showed them a [[mountain]] full of [[silver]] ore in exchange for a [[pocket watch]]. The men murdered the tribe to keep the location a secret, leaving Tonto with guilt which led to him believing the two were wendigos.
+
+Tonto and John escape as the cavalry attack the Comanche. At the silver mine, the duo captures Cavendish. Tonto demands John use the silver bullet to kill Cavendish, but John refuses. Upon returning Cavendish to Cole and Fuller's custody, Cole is revealed to be Cavendish's partner and brother. Fuller, fearful of being labeled a [[war criminal]] for slaughtering the tribe unprovoked, sides with Cole. Rebecca is held hostage, and John is returned to the mine to be executed. Tonto rescues him and the two flee. Realizing Cole is too powerful to be taken down lawfully and regretful since his arrogance in ignoring Tonto led to the slaughter of the Comanches and the kidnapping of his loved ones, John dons the mask again.
+
+At [[Promontory, Utah|Promontory Summit]], during the railroad's [[golden spike|union ceremony]], Cole reveals his true plan: to take control of the railroad company and use the mined silver to gain more power. John and Tonto steal [[nitroglycerin]] and use it to destroy a railroad bridge. With Red's help, Tonto steals the train with the silver, and Cole, Cavendish and Fuller pursue him in a second train on which Rebecca and Dan Jr. are being held captive. On horseback, John pursues both trains. After fights on both trains, John kills Cavendish and Fuller, and rescues Rebecca and Dan Jr. Tonto hands back Cole the pocket watch, before the train drives off the destroyed bridge, drowning him underneath all the silver.
+
+The town recognizes John as a hero and offers him a law-enforcement position, but John declines and rides off with Tonto. Back in 1933, Will questions the truth of the story. Tonto gives Will a silver bullet, tells him to decide for himself and leaves in the form of a crow. Inspired, Will puts on a mask.

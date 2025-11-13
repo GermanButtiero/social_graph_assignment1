@@ -1,0 +1,61 @@
+{{Infobox film
+| name           = Fun and Fancy Free
+| image          = funfanposter.jpg
+| caption        = Original theatrical release poster
+| director       = {{indented plainlist|
+* [[Jack Kinney]] (animation)
+* Bill Roberts (animation)
+* [[Hamilton Luske]] (animation)
+* [[William Morgan (director)|William Morgan]] {{nowrap|(live action)}}
+}}
+| producer       = {{plainlist|
+*[[Walt Disney]]
+*[[Ben Sharpsteen]]}}
+| story          = {{Plainlist|
+* [[Homer Brightman]]
+* [[Eldon Dedini]]
+* Lance Nolley
+* Tom Oreb
+* Harry Reeves
+* [[Ted Sears]]
+}}
+| based_on       = {{Based on|"[[Little Bear Bongo]]"|[[Sinclair Lewis]] (''Bongo'')|"[[Jack and the Beanstalk]]" (''[[Mickey and the Beanstalk]]'')}}
+| starring       = {{Plainlist|<!--Per poster-->
+* [[Edgar Bergen]]
+* [[Dinah Shore]]
+}}
+| music          = {{Plainlist|
+* [[Oliver Wallace]]
+* [[Paul Smith (composer)|Paul Smith]]
+* [[Eliot Daniel]]
+* [[Charles Wolcott]]
+}}
+| editing        = Jack Bachom
+| studio         = [[Walt Disney Animation Studios|Walt Disney Productions]]
+| distributor    = [[RKO Radio Pictures]]
+| released       = {{Film date|1947|09|27}}
+| runtime        = 73 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $3.165 million (worldwide rentals)<ref name="Jewell">{{cite journal|last=Sedgwick|first=John|title=Richard B. Jewell's RKO Film Grosses, 1929–51: The C. J. Trevlin Ledger: A comment.|journal=Historical Journal of Film, Radio and Television|volume=14|issue=1|pages=51–58|year=1994|doi=10.1080/01439689400260041}}</ref>
+}}
+
+== Plot ==
+[[Jiminy Cricket]] appears inside a large house, exploring and singing "I'm a Happy-go-Lucky Fellow" until he comes across a doll, a teddy bear, and a record player. Among the records, he finds one titled ''Bongo'', a musical [[romance film|romance story]] narrated by [[Dinah Shore]], and decides to play it.
+
+=== ''Bongo'' ===
+The story follows Bongo, a circus bear who longs for freedom. Though celebrated in the circus ring, he is mistreated offstage. While traveling by circus train, he acts on his instincts and escapes into the wild. Initially optimistic about his new life, Bongo quickly realizes the harsh realities of the wilderness.
+
+The next morning, Bongo meets a female bear named Lulubelle, and the two fall in love. However, a burly rogue bear named Lumpjaw misinterprets Lulubelle’s playful slap as affection and claims her for himself. Bongo later learns that slapping is the bears’ way of showing love and returns to challenge Lumpjaw. After a fierce fight ending in a plunge down a waterfall, Lumpjaw is swept away, and Bongo and Lulubelle are happily united.
+
+After the story ends, Jiminy notices an invitation to a birthday party for [[Luana Patten]] at the house across the street. He hops over and quietly joins the festivities, where [[Charlie McCarthy]], [[Mortimer Snerd]], and [[Edgar Bergen]] entertain Luana. Edgar decides to tell a story.
+
+=== ''Mickey and the Beanstalk'' ===
+{{anchor|beanstalk}}In a parody of ''[[Jack and the Beanstalk]]'', the kingdom of Happy Valley, sustained by a singing golden [[harp]], falls into despair when the harp is stolen. The story focuses on three poor farmers — [[Mickey Mouse|Mickey]], [[Donald Duck|Donald]], and [[Goofy]] — are down to a single loaf of bread and one bean. Driven mad by hunger, Donald nearly kills their pet cow, prompting Mickey to trade the cow for “magic beans.” Enraged, Donald throws the beans through a hole in the floor. Overnight, the beans sprout into a gigantic beanstalk that lifts their house to the sky.
+
+The next morning, the trio climbs the beanstalk and finds themselves in a land of giants. They sneak into a castle where they discover the golden harp, who reveals she was kidnapped by [[Willie the Giant]]. While the friends feast, Willie appears, showing off his powers of [[flight]], [[invisibility]], and [[shapeshifting]]. When Mickey sneezes inside Willie’s sandwich, he is caught. Pretending to be a fortune-teller, Mickey tries to trick Willie into becoming a [[fly]] but fails when Willie transforms into a bunny instead and catches Donald and Goofy, locking them in the harp’s chest. Mickey escapes and frees them while the harp sings Willie to sleep.
+
+The trio flees with the harp, but Willie awakens and chases them down the beanstalk. Mickey stalls Willie long enough for Donald and Goofy to cut the beanstalk, causing Willie to fall to his presumed death.
+
+Back at Edgar Bergen’s home, he concludes the tale by explaining that the return of the harp restored happiness to Happy Valley. Mortimer mourns Willie’s fate, but just as Edgar reassures him that Willie is fictional, the giant appears in Hollywood, having survived the fall, and inquires about the whereabouts of Mickey. The film ends with Jiminy Cricket leaving the house as Willie continues his search.

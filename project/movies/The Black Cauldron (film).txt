@@ -1,0 +1,66 @@
+{{Infobox film
+| name           = The Black Cauldron
+| image          = The Black Cauldron poster.jpg
+| alt            = <!-- See WP:ALT -->
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Ted Berman]]
+* [[Richard Rich (filmmaker)|Richard Rich]]
+}}
+| producer       = Joe Hale
+| story          = {{Plainlist|
+* David Jonas
+* Al Wilson
+* [[Vance Gerry]]
+* Roy Morita
+* Ted Berman
+* Peter Young
+* Richard Rich
+* [[Art Stevens]]
+* [[Joe Hale (producer)|Joe Hale]]
+}}
+| based_on       = {{Plainlist|
+* ''[[The Book of Three]]'' and
+* ''[[The Black Cauldron (novel)|The Black Cauldron]]'' by
+* [[Lloyd Alexander]]
+}}
+| starring       = {{Plainlist|<!--Per end credits-->
+* Grant Bardsley
+* [[Susan Sheridan]]
+* [[Freddie Jones]]
+* [[Nigel Hawthorne]]
+* [[Arthur Malet]]
+* [[John Byner]]
+* [[Eda Reiss Merin]]
+* Adele Maus-Morey
+* [[Billie Hayes]]
+* [[Phil Fondacaro]]
+* [[John Hurt]]
+}}
+| music          = [[Elmer Bernstein]]
+| editing        = {{Plainlist|
+* James Melton
+* Jim Koford
+* Armetta Jackson
+}}
+| studio         = [[Walt Disney Animation Studios|Walt Disney Productions]]<ref name="AFI">{{cite web|title=The Black Cauldron|url=https://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=55771|publisher=American Film Institute|access-date=September 22, 2016|archive-date=October 19, 2016|archive-url=https://web.archive.org/web/20161019100153/http://www.afi.com/members//catalog/DetailView.aspx?s=&Movie=55771|url-status=live}}</ref><ref>{{cite news|last1=Hughes|first1=William|title=Disney Animation might be returning to the series that nearly killed it 30 years ago|url=https://www.avclub.com/disney-animation-might-be-returning-to-the-series-that-1798245285|access-date=April 3, 2017|work=The A.V. Club|date=March 17, 2016|archive-date=November 4, 2019|archive-url=https://web.archive.org/web/20191104045601/https://news.avclub.com/disney-animation-might-be-returning-to-the-series-that-1798245285|url-status=live}}</ref>
+| distributor    = [[Buena Vista Distribution]]<ref name="AFI" />{{efn|name=Disney|Distributed by [[Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner with funding by [[Silver Screen Partners II]].<ref name="AFI" />}}
+| released       = {{Film date|1985|7|24|ref1=<ref name=BO/>}}
+| runtime        = 80 minutes<!--Theatrical runtime: 80:00--><ref>{{cite web | url=https://www.bbfc.co.uk/releases/black-cauldron-1970-3 | title=''THE BLACK CAULDRON'' (U) | work=[[British Board of Film Classification]] | date=July 24, 1985 | access-date=February 9, 2016 | archive-date=February 15, 2016 | archive-url=https://web.archive.org/web/20160215225127/http://bbfc.co.uk/releases/black-cauldron-1970-3 | url-status=dead }}</ref>
+| country        = United States
+| language       = English
+| budget         = $44 million<ref name=WSBBudget /><ref name=SFGSleepingBeauty />
+| gross          = $21.3 million<ref name=BO>{{cite web |title=The Black Cauldron (1985) |url=https://www.boxofficemojo.com/title/tt0088814/?ref_=bo_se_r_1 |website=[[Box Office Mojo]] |access-date=October 23, 2010 |archive-date=October 26, 2020 |archive-url=https://web.archive.org/web/20201026031855/https://www.boxofficemojo.com/title/tt0088814/?ref_=bo_se_r_1 |url-status=live }}</ref>
+}}
+
+== Plot ==
+<!--Per WP:FILMPLOT, plot summary should be between 400 and 700 words. Current word count is 634 words.-->
+In the land of Prydain, [[Taran (character)|Taran]], a teenage "assistant pig-keeper" on the farm of Caer Dallben, home of Dallben the Enchanter, dreams of becoming a famous warrior. Dallben learns that the evil [[The Chronicles of Prydain#The Book of Three|Horned King]] is searching for the Black Cauldron, a mystical relic that can create an invincible army of undead warriors known as the Cauldron-Born. Dallben fears that the Horned King might use his pig, Hen Wen, who has [[oracle|oracular powers]], to locate the cauldron. He directs Taran to take Hen Wen to safety, but the pig is captured by Gwythaints, the Horned King's wyvern-like creatures.
+
+Taran follows them to the Horned King's castle and meets the pestering creature, [[Gurgi]], who wants to be his friend. Taran helps Hen Wen escape but is captured and thrown into the dungeon. Another captive named [[Princess Eilonwy]] frees him. In the catacombs, Taran and Eilonwy discover the ancient burial chamber of a king. Taran arms himself with [[Dyrnwyn|the king's sword]], which contains magic that allows him to fight the Horned King's minions. Along with a third prisoner, comical bard Fflewddur Fflam, they escape and are found by Gurgi. The Horned King sends the Gwythaints to capture Taran and his friends.
+
+Following Hen Wen's trail, the group stumbles into the underground kingdom of the [[Fairy|Fair Folk]], who have Hen Wen under their protection. When the kindly King Eidilleg reveals the cauldron's location, Taran decides to destroy it. Eidilleg's obnoxious right-hand man Doli is assigned to lead the friends to the Marshes of Morva while the Fair Folk escort Hen Wen back to Dallben. At Morva, they learn the cauldron is held by three witches—leader Orddu, greedy Orgoch, and benevolent Orwen. Orddu agrees to trade the cauldron for Taran's sword and he reluctantly agrees. The witches reveal the cauldron is indestructible, and its power can only be broken when someone willingly climbs into it, which will kill them. Taran feels foolish for trading the sword for nothing but his companions show their belief in him. They are captured by the Horned King's minions and Gurgi flees. The Horned King uses the cauldron to raise the dead and his Cauldron-born army begins to pour out into the world.
+
+Gurgi, deciding not to abandon his friends this time, rescues them. Taran decides to jump into the cauldron to save everyone, but Gurgi jumps in instead, killing the Cauldron-born and himself. The cauldron begins consuming anything within its vicinity. Taran is confronted by the Horned King, who attempts to sacrifice him to the Cauldron. Before he can succeed, the Horned King is dragged into the Cauldron and violently ripped apart, which destroys the castle.
+
+The three witches arrive to recover the now-inert Black Cauldron. Taran has realized Gurgi's true friendship, and asks them to revive his friend in exchange for the cauldron, choosing to give up his sword. The witches honor the request and Gurgi is resurrected, much to everyone's joy. Taran and Eilonwy kiss and the four friends journey back home to Dallben. Dallben and Doli watch them in a vision created by Hen Wen, and Dallben finally praises Taran for his heroism.

@@ -1,0 +1,64 @@
+{{Infobox film
+| name           = Hercules
+| image          = Hercules (1997 film) poster.jpg
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[John Musker]]
+* [[Ron Clements]]
+}}
+| producer       = {{Plain list|
+* Alice Dewey Goldstone
+* John Musker
+* Ron Clements
+}}
+| screenplay     = {{Plainlist|
+* Ron Clements
+* John Musker
+* Donald McEnery
+* Bob Shaw
+* [[Irene Mecchi]]
+}}
+| story          = {{Plainlist|
+* [[Kaan Kalyon]]
+* Kelly Wightman
+* [[Randy Cartwright]]
+* John Ramirez
+* Jeff Snow
+* [[Vance Gerry]]
+* Kirk Hanson
+* [[Francis Glebas]]
+* Mark Kennedy
+* Bruce M. Morris
+* Don Dougherty
+* Thom Enriquez
+}}
+| based_on       = {{based on|"[[Heracles]]"}}
+| starring     = {{Plainlist|
+* [[Tate Donovan]]
+* [[Danny DeVito]]
+* [[James Woods]]
+* [[Susan Egan]]
+}}
+| music          = [[Alan Menken]]
+| editing        = Tom Finan
+| production_companies = [[Walt Disney Feature Animation]]{{efn|The 2014 reissue was produced under its current name, [[Walt Disney Animation Studios]].}}
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner. The 2014 reissue was distributed under its current name, Walt Disney Studios Motion Pictures.}}
+| released       = {{Film date|1997|06|13|United States}}
+| runtime        = 93 minutes<ref>{{cite web |title=Hercules |url=http://bbfc.co.uk/releases/hercules-1997 |archive-url=https://web.archive.org/web/20121130030214/http://www.bbfc.co.uk/releases/hercules-1997 |url-status=dead |archive-date=November 30, 2012 |publisher=[[British Board of Film Classification]] |access-date=July 21, 2015}}</ref>
+| country        = United States
+| language       = English
+| budget         = $85&nbsp;million<ref name=Mojo>{{cite web |title=Hercules (1997) |url= https://www.boxofficemojo.com/title/tt0119282/?ref_=bo_rl_ti |website=[[Box Office Mojo]] |access-date=February 3, 2008}}</ref>
+| gross          = $252.7&nbsp;million<ref name=Mojo/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, the plot summary should be 400-700 words. -->
+In [[Ancient Greece]], the gods [[Zeus]] and [[Hera]] have a son named [[Hercules (Disney character)|Hercules]]. While the other gods are joyful, Zeus' wicked brother [[Hades (Disney)|Hades]] plots to overthrow Zeus and rule [[Mount Olympus]]. Through [[List of Disney's Hercules characters#Other Greek myths|the Fates]], Hades learns that in eighteen years, a [[Syzygy (astronomy)|planetary alignment]] will allow him to free the [[Titans]] to conquer Olympus, but only if Hercules does not interfere. Hades sends his minions, [[Pain and Panic]], to murder Hercules, providing them with a potion that can strip a god of immortality. The two kidnap the baby and feed him the potion, but a married farmer couple pass nearby, causing the demons to flee before Hercules could drink every last drop; therefore he is only stripped of immortality but retains his god-like strength. The couple adopt Hercules and Pain and Panic decide not to report their failure to Hades.
+
+Years later, the teenage Hercules becomes an outcast for his inability to control his strength. Wondering about his origins, he decides to visit the [[Temple of Zeus, Olympia|Temple of Zeus]] for answers. There, a [[statue of Zeus]] comes to life and reveals all to Hercules, telling him that he can earn back his godhood by becoming a "true hero." Zeus sends Hercules and his forgotten childhood friend [[List of Disney's Hercules characters#Pegasus|Pegasus]] to the [[satyr]] [[List of Disney's Hercules characters#Phil|Philoctetes]] ("Phil") who is known for training heroes. After completing the training, Phil and Hercules travel to [[Ancient Thebes (Boeotia)|Thebes]], so he can prove himself there as a hero. On the way, they meet [[Megara (Disney character)|Megara]] ("Meg"), a sarcastic damsel whom Hercules saves from the centaur [[Nessus (centaur)|Nessus]]. Unbeknownst to Hercules, Meg is Hades' slave due to selling her soul to him to save her boyfriend, who eventually left her for another woman. When Meg mentions Hercules to Hades, he realizes Pain and Panic's failure and plots to finish off Hercules properly.
+
+Hades stages an accident with the disguised Pain and Panic to lure Hercules into a fight with the [[Lernaean Hydra|Hydra]]. Hercules defeats the monster, earning the respect and admiration of the Thebans. He defeats many other monsters afterward, each of them sent by Hades, and becomes a celebrated hero. However, Zeus tells him that he is not yet a "true" hero but refuses to explain what that means. Saddened and frustrated, Hercules spends a day out with Meg, during which they fall in love with each other. Realizing this, Hades, on the eve of his takeover, holds Meg hostage and offers her freedom in exchange for Hercules surrendering his strength. On the condition that Meg will be unharmed, Hercules accepts but is heartbroken after learning that Meg was working for Hades all along.
+
+Hades unleashes the Titans, who defeat the gods on Olympus, while the [[Cyclopes|Cyclops]] goes to Thebes to kill Hercules. Hercules uses his wits to defeat the Cyclops. During the battle, Meg is mortally injured while saving Hercules from a falling [[Column|pillar]]. This breaks Hades's deal, so Hercules regains his strength. Hercules and Pegasus fly to Olympus, free the gods and vanquish the Titans, but Meg dies from her injuries.
+
+To recover Meg's soul, Hercules goes to the [[Greek underworld|underworld]] and risks his life by leaping into the [[River Styx]]. This act restores his godhood and immortality, so he is able to reach Meg's soul and climb out alive. Hercules punches Hades into the Styx, and he is dragged to its depths by vengeful souls. After  Hercules revives Meg, he is summoned to Olympus, where Zeus and Hera welcome him home, saying he has proven himself a "true hero" through the "strength of his heart". However, rather than joining the gods, Hercules chooses to remain with Meg, living on Earth as a demigod. Returning to Thebes, they watch Zeus form a [[Hercules (constellation)|constellation]] in Hercules' honor, much to Phil's happiness.

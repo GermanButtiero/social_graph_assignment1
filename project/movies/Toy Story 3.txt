@@ -1,0 +1,57 @@
+{{Infobox film
+| image          = Toy Story 3 poster.jpg
+| alt            = All of the toys packed close together, holding up a large numeral '3', with Buzz, who is putting a friendly arm around Woody's shoulder, and Woody holding the top of the 3. The release date "June 18" is displayed on the bottom.
+| caption        = Theatrical release poster
+| director       = [[Lee Unkrich]]
+| screenplay     = [[Michael Arndt]]
+| story          = {{plainlist|
+* [[John Lasseter]]
+* [[Andrew Stanton]]
+* Lee Unkrich
+}}
+| producer       = [[Darla K. Anderson]]
+| starring       = {{plainlist|
+* [[Tom Hanks]]
+* [[Tim Allen]]
+* [[Joan Cusack]]
+* [[Don Rickles]]
+* [[Wallace Shawn]]
+* [[John Ratzenberger]]
+* [[Estelle Harris]]
+* [[Ned Beatty]]
+* [[Michael Keaton]]
+* [[Jodi Benson]]
+* [[John Morris (American actor)|John Morris]]
+<!-- No billing block in poster. These eleven cast members (Hanks, Allen, Cusack, Rickles, Shawn, Ratzenberger, Harris, Beatty, Keaton, Benson, Morris) are the only top-billed actors in the end credits. -->
+}}
+| cinematography = {{plainlist|
+* Jeremy Lasky
+* Kim White
+}}
+| editing        = [[Ken Schretzmann]]
+| music          = [[Randy Newman]]
+| production_companies = [[Pixar Animation Studios]]<!-- Credited as "Pixar Animation Studios", per WP:NOTBROKEN; do NOT change. -->
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]{{efn|name=Disney|Distributed under the [[Walt Disney Pictures]] banner.}}<!-- Piping is used in this link to ensure correct formatting at all screen resolutions. -->
+| released       = {{film date|2010|6|12|[[Taormina Film Fest]]|2010|6|18|United States}}
+| runtime        = 103 minutes<ref name="mojo1"/>
+| country        = United States
+| language       = English<!-- As others have said here, do not add "Spanish" as a language. While Buzz may briefly speak Spanish, this doesn't mean the film is officially bilingual. As per Template:Infobox_film, only the primary language used in the film should be included.-->
+| budget         = $200&nbsp;million<ref name="mojo1">{{cite Box Office Mojo |id=0435761 |title=Toy Story 3 |access-date=January 24, 2021}}</ref>
+| gross          = <!-- Please do not change this unless it says on Box Office Mojo! Further, if you update, update the access-date, too. -->$1.067&nbsp;billion<ref name="mojo1"/>
+}}
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+Andy Davis, who has not played with his toys in years, is leaving for college, and intends to take [[Sheriff Woody|Woody]] with him. [[Buzz Lightyear]], [[Jessie (Toy Story)|Jessie]], and the others are put in a bag to be stored in the attic, but Andy's mother mistakenly takes the bag to the curb for garbage pickup. The toys escape and, believing Andy intended to throw them away, join [[Barbie (Toy Story)|Barbie]] in a donation box bound for Sunnyside Daycare. Woody pursues the others and fails to convince them of the truth.
+
+Andy's toys are welcomed by the other toys at Sunnyside, and are given a tour of the seemingly perfect play-setting by [[Lots-O'-Huggin' Bear]] ("Lotso"), [[Big Baby (Toy Story)|Big Baby]], and [[Ken (Toy Story)|Ken]], with whom Barbie falls in love. All the toys choose to stay, except Woody, who attempts to return home. A Sunnyside child named [[Bonnie (Toy Story)|Bonnie]] finds Woody and takes him to her house, playing with him and her other toys.
+
+After Andy's toys endure a rough playtime with the toddlers, Buzz asks Lotso to have himself and his friends moved to the older children's room, but is instead captured. Lotso is revealed to be running a [[police state]] among the daycare's toys; he tells Buzz he sends all newly arrived toys to the toddler room for his gang's safety, regardless of whether the new toys are age-appropriate or get broken. Seeing promise in Buzz, Lotso has him switched to demo mode, brainwashing him into believing Lotso is his commander. Meanwhile, [[Mrs. Potato Head (Toy Story)|Mrs. Potato Head]], who lost an eye in Andy's room, sees an upset Andy searching for his toys. Andy's toys realize their mistake and attempt to leave, but are captured and imprisoned by Buzz on Lotso's order.
+
+At Bonnie's house, Woody meets a toy clown named [[List of Toy Story characters#Chuckles|Chuckles]], and learns that Chuckles, Lotso, and Big Baby were once owned by a girl named Daisy. When the three toys were accidentally lost during a road trip, they traveled back to Daisy's house on foot, only to find that Daisy's parents had replaced Lotso. After convincing Big Baby that Daisy had replaced them, Lotso led the toys to Sunnyside, taking it over as a [[dictator]].
+
+Woody returns to Sunnyside and reunites with his friends. That night, Andy's toys initiate an escape plan, accidentally resetting Buzz to Spanish mode in the process. "Spanish Buzz" immediately befriends Woody and begins a relationship with Jessie. The toys escape the building, getting as far as Sunnyside's dumpster, but Lotso and his gang thwart them. As a trash truck approaches, Woody reveals Lotso's deception to Big Baby, who promptly throws Lotso into the dumpster. Andy's toys attempt to escape, but Lotso pulls Woody in with him. Andy's other toys jump in to help, and fall into the truck, where a junked television hits Buzz and restores him to his normal persona.
+
+The toys are brought to a local trash center, and most of them are dumped on a conveyor belt leading to an [[incinerator]]. Woody and Buzz help Lotso avoid a shredder, and later to reach an [[emergency stop]] button, but once he is safe, Lotso abandons them. As Woody and his friends accept their impending fate, Andy's [[Squeeze Toy Aliens|Aliens]] rescue them with an industrial claw. A trash truck driver later finds Lotso and straps him to his truck's radiator [[Grille (car)|grille]]. Woody and his friends ride another garbage truck, driven by an adult [[Sid (Toy Story)|Sid Phillips]], back to Andy's house. Andy discovers a note from Woody and, assuming it is from his mother, donates the toys to Bonnie, who lives nearby. Andy introduces the toys individually to Bonnie, and is surprised to find Woody at the bottom of the donation box. After Bonnie recognizes Woody, an initially hesitant Andy passes him on to her. Andy plays with Bonnie before leaving; Woody bids him a quiet farewell, and the toys begin their new life with Bonnie.
+
+Later, Woody and the other toys learn that Barbie, Ken, and Big Baby have improved the lives of the toys at Sunnyside.

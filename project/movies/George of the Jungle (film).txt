@@ -1,0 +1,57 @@
+{{Infobox film
+| name           = George of the Jungle
+| image          = George Of The Jungle.jpg
+| caption        = Theatrical release poster
+| alt            = A tree trunk with a person shaped hole in it, with a scared George looking through it
+| director       = [[Sam Weisman]]
+| producer       = {{plainlist|
+* [[David Hoberman]]<ref name=afi>{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/60746|title= George of the Jungle (1997)|work=[[AFI Catalog of Feature Films]]|accessdate=October 9, 2021}}</ref>
+* [[Jordan Kerner]]<ref name=afi/>
+* [[Jon Avnet]]<ref name=afi/>
+}}
+| screenplay     = {{plainlist|
+* [[Dana Olsen]]<ref name=afi/>
+* [[Audrey Wells]]<ref name=afi/>
+}}
+| story          = Dana Olsen<ref name=afi/>
+| based_on       = {{Based on|''[[George of the Jungle]]''|[[Jay Ward]]|[[Bill Scott (voice actor)|Bill Scott]]}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Brendan Fraser]]
+* [[Leslie Mann]]
+* [[Thomas Haden Church]]
+* [[Holland Taylor]] 
+* [[Richard Roundtree]] 
+* [[John Cleese]]
+}}
+| music          = [[Marc Shaiman]]<ref name=afi/>
+| cinematography = [[Thomas E. Ackerman]]<ref name=afi/>
+| editing        = {{plainlist|
+* Stuart Pappé<ref name=afi/>
+* Roger Bondelli<ref name=afi/>
+}}
+| studio         = [[Walt Disney Pictures]]<ref name=afi/>
+| distributor    = [[Buena Vista Pictures Distribution]]<ref name=afi/>
+| released       = {{film date|1997|7|16}}
+| runtime        = 92 minutes<ref name=afi/>
+| country        = United States<ref name=afi/>
+| language       = English<ref name=afi/>
+| budget         = $55 million<ref>{{cite news|title=COMPANY TOWN; The Heat Was On; Sun Shines on Studios This Summer After All|work=[[The Los Angeles Times]]|date=1997-08-12|url=https://pqasb.pqarchiver.com/latimes/access/13445515.html?dids=13445515:13445515&FMT=ABS&FMTS=ABS:FT&type=current&date=Aug+12,+1997&author=CLAUDIA+ELLER&pub=Los+Angeles+Times&desc=COMPANY+TOWN;+The+Heat+Was+On;+Sun+Shines+on+Studios+This+Summer+After+All&pqatl=google|access-date=2010-11-12|first=Claudia|last=Eller|archive-date=2012-11-04|archive-url=https://web.archive.org/web/20121104114955/http://pqasb.pqarchiver.com/latimes/access/13445515.html?dids=13445515:13445515&FMT=ABS&FMTS=ABS:FT&type=current&date=Aug+12,+1997&author=CLAUDIA+ELLER&pub=Los+Angeles+Times&desc=COMPANY+TOWN;+The+Heat+Was+On;+Sun+Shines+on+Studios+This+Summer+After+All&pqatl=google|url-status=dead}}</ref><ref name="numbers" />
+| gross          = $174.4 million<ref name="numbers">{{cite web |title=George Of The Jungle (1997) - Financial Information |url=https://www.the-numbers.com/movie/George-Of-The-Jungle#tab=summary |website=The Numbers}}</ref>
+}}
+
+==Plot==
+On a flight to the Bukuvu, a baby named George becomes stranded after a plane crash and is raised by the jungle, becoming the "White Ape".
+
+Twenty-five years later, while touring Burundi with local guide Kwame and a trio of porters, San Francisco heiress Ursula Stanhope encounters her spoiled fiancé Lyle van de Groot, who wishes to take her home and has hired two poachers, Max and Thor, to track her down. Ursula refuses to go home until she sees an ape, so Lyle enters the jungle to find them. The two encounter a lion, and while Lyle knocks himself unconscious while fleeing to get help, Ursula is saved by George.
+
+After taking Ursula to his tree house home and caring for her, George introduces her to his three animal friends: Ape, the sapient talking gorilla who raised him; Shep, his pet African forest elephant that acts like a dog; and Tookie, a toco toucan who gives him news involving the jungle's animals. George is smitten with Ursula and attempts to woo her; Ursula soon reciprocates his attraction, and her time spent with George makes her fonder of him.
+
+Lyle, Max, and Thor soon arrive at the treehouse, but Ursula berates Lyle for trying to abandon her during the lion attack. Max and Thor try to shoot Shep for his ivory, and Ape shouts at Shep to run. Everyone is stunned by the sight of the talking ape, and Max and Thor decide to tranquilize and capture him. George runs to stop them, and is accidentally shot by Lyle, who thought the gun was his novelty lighter that he had planned to scare George with. Lyle is imprisoned after being identified as the shooter by the porters. Max and Thor are deported but resolve to return to the treehouse to capture Ape and make a fortune off of him in Las Vegas. Meanwhile, Ursula takes George to San Francisco to get medical help for his gunshot wound and to show him the human world, which he has not seen since infancy.
+
+While Ursula is at work, George explores San Francisco on his own and uses his vine-swinging skills to rescue a man whose paraglider has become caught on the suspension cables of the [[San Francisco–Oakland Bay Bridge|Bay Bridge]]. Ursula admits what happened in Africa to her parents and intends to break off the wedding, but her overbearing mother, Beatrice, objects. At a party intended to celebrate Ursula's engagement, Beatrice takes George aside. She tells him that Ursula's marriage to Lyle must proceed as planned and threatens to harm George if he interferes. In Burundi, Max and Thor tranquilize Ape; before he falls unconscious and is captured, Ape sends Tookie to find George. Tookie flies to San Francisco and informs George of Ape's capture, forcing George to leave Ursula and return to Burundi. While confused by George's unexplained departure, Ursula realizes she loves George and goes to find him, despite her mother's protests.
+
+Max and Thor, having returned to the treehouse after getting turned around by a phony shortcut trail, are confronted by George. He fights and defeats them with help from Ursula and the animals. Lyle then appears, revealed to have escaped from prison and become a legally ordained minister able to perform marriage ceremonies. Lyle has George subdued by a group of mercenaries and forcibly takes Ursula to a boat waiting on the Ape River to perform their marriage rites. However, the ceremony is interrupted by a series of harsh rapids that put them both in danger. George is rescued from the mercenaries with help from Shep and the gorillas, and swings in to reach Ursula and Lyle, but crashes painfully into a massive tree. As the tree falls over the river, George manages to pull Ursula to safety while the rapids lead Lyle into a dark cave. Lyle, thinking Ursula is still in the boat, proclaims their wedding vows, but to his horror and chagrin, he discovers that he has just married himself to a gorilla, who kisses him.
+
+George and Ursula declare their love for each other and marry, with the people of San Francisco, Africa, and the jungle's animals in attendance. Sometime later, the two live in their treehouse and raise a son, George Jr., whom they present to the animals from atop Pride Rock (a parody of another Disney film ''[[The Lion King]]'').
+
+The beginning of the end credits stops to show that Ape has moved to Las Vegas and has become a famous singer, with a humiliated Max and Thor forced to be part of his performance.

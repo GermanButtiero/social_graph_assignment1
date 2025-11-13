@@ -1,0 +1,55 @@
+{{Infobox film
+| image          = Finding Nemo.jpg
+| alt            = Various fish gather under the waters of Sydney Harbour (with the Sydney Skyline seen from above), with Marlin (a clownfish) and Dory (a regal blue tang) gathered close together with other sharks and a giant whale behind them.
+| caption        = Theatrical release poster
+| director       = [[Andrew Stanton]]
+| screenplay     = {{Plainlist|
+* Andrew Stanton
+* [[Bob Peterson (filmmaker)|Bob Peterson]]
+* [[David Reynolds (screenwriter)|David Reynolds]]
+}}
+| story          = Andrew Stanton
+| producer       = Graham Walters
+| starring       = <!-- ORDER IS BASED ON THE BILLING BLOCK -->{{Plainlist|
+* [[Albert Brooks]]
+* [[Ellen DeGeneres]]
+* [[Alexander Gould]]
+* [[Willem Dafoe]]
+* [[Geoffrey Rush]]
+* [[Bill Hunter (actor)|Bill Hunter]]
+}} <!-- ORDER IS BASED ON THE BILLING BLOCK -->
+| cinematography = {{Plainlist|
+* [[Sharon Calahan]]
+* Jeremy Lasky
+}}
+| editing        = [[David Ian Salter]]
+| music          = [[Thomas Newman]]
+| production_companies = [[Pixar Animation Studios]]
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed under the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2003|05|18|[[Los Angeles]]|2003|05|30|United States}}
+| runtime        = 100 minutes<ref name="BOM">{{cite web |url=https://www.boxofficemojo.com/movies/?id=findingnemo.htm |title=Finding Nemo (2003) |website=Box Office Mojo |access-date=January 11, 2014 |archive-date=July 31, 2012 |archive-url=https://web.archive.org/web/20120731071424/http://www.boxofficemojo.com/movies/?id=findingnemo.htm |url-status=live }}</ref> 
+| country        = United States
+| language       = English
+| budget         = $94&nbsp;million<ref name="BOM"/>
+| gross          = $940.3&nbsp;million<ref name="BOM"/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. Word count 692 -->
+Marlin and Coral, a clownfish couple who are waiting for their eggs to hatch, live on the edge of the [[Great Barrier Reef]]. After a [[barracuda]] knocks Marlin unconscious, Marlin awakens to find Coral and all but one of the eggs gone. Marlin names the surviving child Nemo and vows to keep him safe. 
+
+Years later, Marlin and Nemo live in a secluded [[sea anemone]]. Nemo is eager to start school and explore the outside world. While dropping Nemo off at school, Marlin warns the teacher of Nemo's deformed pelvic fin. After discovering Nemo's class will be visiting the "drop-off", where the reef meets the open sea, Marlin panics and tries to withdraw Nemo from school. Nemo defiantly swims to a nearby speedboat and is captured by a pair of scuba divers.
+
+Marlin races after the boat and meets Dory, a [[Paracanthurus|blue tang]] with [[anterograde amnesia|short-term memory loss]] who offers to help him. The pair encounter Bruce, a [[Great White Shark]] who is part of a support group of sharks trying to abstain from eating fish. At the meeting, Marlin finds a diver's mask from the boat with an address written on it. When Marlin accidentally injures Dory, Bruce smells her blood and relapses into a rampage that sets off old [[naval mines]]. As they escape, Dory recalls that she can read the address.
+
+Meanwhile, Nemo is placed in a fish tank in dentist Philip Sherman's office in [[Sydney, Australia|Sydney]]. He meets the "Tank Gang", led by Gill, a scarred [[Moorish idol]]. They inform him that Sherman plans to gift Nemo to his niece, Darla, who has an infamous history of killing her pet fish. To prevent this, Gill hatches an escape plan: Nemo, the smallest of the gang, will clog the tank's filter, forcing Sherman to clean it and bag the fish. Then, they can roll their bags out the window and into the harbour. Nemo attempts the plan but is nearly killed by the filter's machinery in the process, causing Gill to feel deeply regretful.
+ 
+Dory accidentally drops the mask into an abyss and encourages Marlin to help her search for it. They find the mask but are attacked by an [[anglerfish]]. Dory exploits the anglerfish's light to read the address while Marlin traps the anglerfish with the mask. Their victory boosts Marlin's confidence and helps Dory remember the address. Marlin tries to continue his search without Dory until she convinces a school of [[Monodactylidae|moonfish]] to give them directions to the [[East Australian Current]]. On their way, Marlin and Dory become trapped in a forest of jellyfish. While trying to escape, they are both stung by jellyfish and fall unconscious.
+
+Marlin and Dory awaken in the East Australian Current with a large group of [[sea turtle]]s, including Crush and his son, Squirt. Crush teaches Marlin to relax and be less worried about Nemo. News of Marlin's journey spreads across the ocean and reaches Nigel, a [[pelican]] who regularly converses with the Tank Gang. Nigel informs Nemo of Marlin's efforts; inspired, Nemo successfully clogs the filter and the tank quickly becomes covered in [[green algae]]. 
+
+After leaving the current, Marlin and Dory become lost and are consumed by a [[blue whale]]. Marlin fears the worst, but Dory urges him to trust the whale, which safely expels them through its [[Blowhole (anatomy)|blowhole]] into the [[Port Jackson|Sydney Harbour]]. Nigel rescues Marlin and Dory from a flock of [[Gull|seagulls]] and delivers them to Sherman's office, where Nemo is playing dead to fake out Darla. Sherman forces Nigel out and Gill helps Nemo escape down the sink drain and into the harbour. 
+
+Believing Nemo is genuinely dead, Marlin says goodbye to Dory and leaves, but Dory soon finds Nemo and reunites them. A [[fishing trawler]] captures Dory and a school of [[grouper]]s. Nemo persuades Marlin to let him swim into the [[Fishing net|net]] and lead the groupers down: the fish in turn break the trawler and frees Dory. Marlin praises Nemo's bravery and tells him about his own journey.
+
+Weeks later, Marlin drops Nemo off at school, and Dory arrives shortly afterward. Nemo and Marlin share a warm hug before Marlin waves goodbye to Nemo and tells him to "go have an adventure".

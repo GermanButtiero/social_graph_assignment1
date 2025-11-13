@@ -1,0 +1,75 @@
+{{Infobox film
+| name           = Tarzan
+| image          = Tarzan (1999 film) - theatrical poster.jpg
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Kevin Lima]]
+* [[Chris Buck]]
+}}
+| producer       = [[Bonnie Arnold]]
+| screenplay     = {{Plainlist|
+* [[Tab Murphy]]
+* [[Bob Tzudiker]]
+* [[Noni White]]
+}}
+| story          = {{Plainlist|
+* [[Stephen Anderson (artist)|Stephen Anderson]]
+* Mark D. Kennedy
+* [[Carole Holliday]]
+* [[Paul and Gaëtan Brizzi|Gaëtan Brizzi]]
+* [[Paul and Gaëtan Brizzi|Paul Brizzi]]
+* Don Dougherty
+* Ed Gombert
+* Randy Haycock
+* [[Don Hall (filmmaker)|Don Hall]]
+* Kevin L. Harkey
+* [[Glen Keane]]
+* [[Burny Mattinson]]
+* Frank Nissen
+* John Norton
+* Jeff Snow
+* Michael Surrey
+* Christopher J. Ure
+* [[Mark Walton (story artist)|Mark Walton]]
+* [[Stevie Wermers]]
+* Kelly Wightman
+* John Ramirez
+}}
+| based_on       = {{Based on|''[[Tarzan of the Apes]]''|[[Edgar Rice Burroughs]]}}
+| starring       = {{Plainlist|
+* [[Tony Goldwyn]]
+* [[Minnie Driver]]
+* [[Glenn Close]]
+* [[Alex D. Linz]]
+* [[Rosie O'Donnell]]
+* [[Brian Blessed]]
+* [[Nigel Hawthorne]]
+* [[Lance Henriksen]]
+* [[Wayne Knight]]
+}}
+| music          = [[Mark Mancina]]
+| editing        = Gregory Perler
+| production_companies = [[Walt Disney Feature Animation]]
+| distributor    = [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|1999|06|12|[[El Capitan Theatre]]|1999|06|18
+|United States|ref2=<ref name="Mojo" />}}
+| runtime        = 88 minutes<ref>{{cite web |url=https://www.bbfc.co.uk/release/tarzan-q29sbgvjdglvbjpwwc0zmdewntg |title=Tarzan |publisher=[[British Board of Film Classification]] |access-date=August 5, 2024}}</ref>
+| country        = United States
+| language       = English
+| budget         = $130 million<ref name="Mojo">{{cite web |url=https://boxofficemojo.com/movies/?id=tarzan.htm |title=Tarzan (1999) |publisher=[[Box Office Mojo]] |access-date=November 11, 2011 |archive-date=December 2, 2002 |archive-url=https://web.archive.org/web/20021202144444/https://boxofficemojo.com/movies/?id=tarzan.htm |url-status=live }}</ref>
+| gross          = $448.2 million<ref name="Mojo"/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for films are 400 to 700 words only. -->
+In the 1880s, a British couple and their infant son are shipwrecked in [[Equatorial Africa]]. The couple build a treehouse, but are killed by a [[leopard]] named [[Sabor (Tarzan)|Sabor]]. [[Kala (Tarzan)|Kala]], a local [[Western gorilla|gorilla]] whose son was also killed by Sabor, finds the human infant and adopts him, naming him [[Tarzan]].
+
+As a child, Tarzan befriends Kala's niece Terk and the paranoid [[African forest elephant|elephant]] [[Tantor]]. Because of his different appearance and unorthodox behaviors, Tarzan finds himself treated differently by the other gorillas, and by [[Kerchak]], the troop's leader and Kala's mate. Tarzan makes valiant efforts to improve himself as he grows. Several years later, Sabor attacks the gorillas, but Tarzan kills it, gaining Kerchak's reluctant respect.
+
+Meanwhile, British explorer Archimedes Q. Porter, his daughter [[Jane Porter (Tarzan)|Jane]], and their hunter escort [[William Cecil Clayton]] arrive in Africa to study the gorillas. Jane accidentally becomes separated, and is chased by baboons, until a curious Tarzan rescues her. After comparing her to himself, he realizes they are from the same species. Jane leads Tarzan back to their camp, where Porter and Clayton both take interest in him. The former in terms of scientific progress, while the latter hopes to have Tarzan lead the group to the gorillas. Despite Kerchak's warnings to avoid the strangers, Tarzan repeatedly returns to the camp. The Porters and Clayton teach him how to speak English, and tell him what the human world is like. Tarzan and Jane begin a romantic relationship, though Jane has difficulty convincing Tarzan to lead the humans to the gorillas, as Tarzan fears Kerchak's fury.
+
+As the explorers ship returns to retrieve them, Jane asks Tarzan to travel to England with her. However, when she says it is unlikely they will return to Africa, Tarzan tries persuading Jane to stay with him instead. Clayton tricks Tarzan into believing Jane will stay in Africa in exchange for her seeing the gorillas. Tarzan persuades Terk and Tantor to lure Kerchak away, and leads the trio to the nesting grounds. The Porters excitedly mingle with the gorillas, but Kerchak returns to attack the humans. Tarzan restrains Kerchak while the humans escape, disappointing Kerchak. Taking Tarzan to the treehouse where she found him, Kala reveals his heritage and says she wants him to be happy whatever he decides.
+
+Tarzan boards the ship, accompanied by the Porters, but Clayton and his traitorous group of stowaway poachers ambush them. Now aware of the location of the nesting grounds, Clayton plans to capture and sell all the gorillas for a fortune, and imprisons Tarzan and the Porters to prevent their interference. Terk and Tantor hear Tarzan’s yell, and they head to the ship to free Tarzan. That night, Clayton and his henchmen arrive at the jungle and capture the gorillas, but Tarzan arrives with his friends just in time, rallying the other animals to free the gorillas and help fight Clayton's henchmen. Clayton fatally wounds Kerchak and enters the [[canopy (biology)|rainforest canopy]] to fight Tarzan, but inadvertently falls and hangs himself on a vine. Before dying, Kerchak finally accepts Tarzan as his son and names him the gorilla troop's leader.
+
+The next day, the Porters prepare to leave on the ship, while Tarzan stays behind with the gorillas. As the ship's rowboat leaves shore, Porter encourages his daughter to stay with the man she loves, and Jane jumps overboard, followed soon after by her father. The Porters reunite with Tarzan and his family and together they embark on a new life in the jungle.

@@ -1,0 +1,41 @@
+{{Infobox film
+| name           = Iron Will
+| image          = Iron will poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Charles Haid]]
+| writer         = [[John Michael Hayes]]<br />Djordje Milicevic <br />Jeff Arch
+| producer       = Patrick Palmer<br />Robert Schwartz
+| starring       = {{Plainlist| 
+* [[Mackenzie Astin]]
+* [[Kevin Spacey]]
+* [[David Ogden Stiers]]
+}}
+| cinematography = William Wages
+| editing        = Andrew Doerfer
+| music          = [[Joel McNeely]]
+| studio         = [[Walt Disney Pictures]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{Film date|1994|01|14}}
+| runtime        = 109 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          = $21 million<ref name="mojo">{{cite web |url=https://boxofficemojo.com/movies/?id=ironwill.htm |title=Iron Will |website=[[Box Office Mojo]] |publisher=IMDb.com, Inc.}}</ref>
+}}
+
+==Plot==
+In 1917, 17-year-old Will Stoneman ([[Mackenzie Astin]]) is a mail-runner for his small [[South Dakota]] town and an apprentice carpenter for his father Jack ([[John Terry (actor)|John Terry]]), who creates furniture and runs the family farm.  After delivering the town mail one day, Will opens a college letter and sees that he was accepted to his desired school. Despite his happiness at being accepted, he hesitates to leave his family responsibilities behind and worries about how the family will pay for it; Jack, however, encourages Will to chase his dreams. 
+
+While returning with Will from a lumber run with their sled dogs, Jack drowns in a [[mushing]] accident when his sled overturns into a river. As the only son, now responsible for his mother Maggie ([[Penelope Windust]]) and his family's bill-indebted farm, Will despairs college but protests when his mother plans to sell their valuable sled dogs. Knowing that his father was thinking of competing in an international [[Dogsled racing|dog-sled race]] with a cash prize (to cover Will's college tuition), Will insists on attempting.
+
+After a month of rigorous training from Native American farm hand Ned Dodd ([[August Schellenberg]]), Will travels to [[Winnipeg]], [[Manitoba]], Canada, to enter the race. The principal sponsor, railroad magnate J.W. Harper ([[David Ogden Stiers]]), refuses his entry as too late.  American news reporter Harry Kingsley ([[Kevin Spacey]]) sees the youngster as his opportunity to win headlines and gives Will the money to pay the late fee.
+
+During the race, Will's energy and determination win the grudging respect of the international mushers, as well as Harper, who starts a wager between himself and one of the race's co-sponsors, Angus McTeague ([[Brian Cox (actor)|Brian Cox]]) over whether Will will finish the race. Kingsley, meanwhile, writes admiring articles gushing about Will's courage and competitive zeal (nicknaming him "Iron Will"), but his stories initially languish on back pages while the world focuses on the [[World War I|European War]]. Will becomes increasingly tired and sick, especially after he sacrifices his lead to save an Icelandic competitor who was felled by influenza.
+
+McTeague, even more skeptical of Will's chances than Harper, offers a bribe to brutal Swedish competitor Borg Guillarson ([[George Gerdes]]) to do whatever it takes to force the kid out of the race. Will stands up against this attempted sabotage, though he earns a new enemy in Borg. Will also realizes that Kingsley is using him as a pawn to justify embellished articles which the veteran reporter hopes will win him front-page status and a promotion from the cold North to his paper's headquarters. Will ends up punching Kingsley in the face when the two meet during a stopover due to what the articles might do to his worried mother. That act actually earns Will the reporter's real respect. When McTeague repeatedly tries to bribe Will to drop out of the race, Kingsley defends Will's honor and throws McTeague out.
+
+Meanwhile, Kingsley's stories, as well as other reporters writing about Will, finally start capturing the attention of the nation. When another reporter arrives in Will's hometown and discovers the real reason for Will's participation in the race, he not only reports the story, but he arranges for Maggie, Ned, and some of Will's friends to travel up to Canada to surprise Will at the finish line. Harper, who admits that he sees something of himself and his own youthful days in Will, suggests to McTeague that whoever wins the wager should send some of the winnings to help Will's family, though McTeague is still unimpressed by the young man. Will's determination also has an impact on Kinglsey, who tells a colleague that Will has inspired the reporter to remember why he got into journalism.
+
+On the last day of the race, Kingsley becomes concerned when he sees how serious Will's physical condition is. Kingsley urges him to drop out of the race and see a doctor, but Will insists on finishing the race. He finds himself following Borg on a dangerous shortcut to the finish line. This hazardous frosty course alongside runs a turbulent river, just like the trail that took the life of Will's father. Will remembers Ned's advice and finds the courage to trust his dog team and risk the water hazards. Borg takes the lead by continually whipping his dogs, but they quit from exhaustion and attack him when he attempts to brutalize them into continuing.  Will sees Borg being savaged by his team and scares them off of Borg as he races by on the dangerous shortcut.
+
+Will's sled overturns near the finish line and he collapses, exhausted. Then Ned awakens the spirit of his father's dog Gus with a familiar whistle with the crowd following suit. While the other racers close in, Will struggles to stand up and cross the finish line just ahead of the others. Falling to the ground, unable to stand, he is helped up by his fellow competitors and falls into his mother's arms. Both Kingsley and Harper applaud with pride at Will's triumph, as does even McTeague. The film ends with spectators surrounding Will, shouting out "Iron Will" applauding his and the dogs' heroic victory.

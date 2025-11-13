@@ -1,0 +1,48 @@
+{{Infobox film
+| name           = A Christmas Carol
+| image          = ChistmasCarol2009-Poster.jpg
+| caption        = Theatrical release poster
+| alt            = Film poster showing Ebenezer Scrooge (Carrey) flying past the Big Ben tower under construction.
+| director       = [[Robert Zemeckis]]
+| screenplay     = Robert Zemeckis
+| producer       = {{Plainlist|
+* [[Steve Starkey]]
+* Robert Zemeckis
+* [[Jack Rapke]]
+}}
+| based_on       = {{Based on|''[[A Christmas Carol]]''|[[Charles Dickens]]}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Jim Carrey]]
+* [[Gary Oldman]]
+* [[Colin Firth]]
+* [[Bob Hoskins]]
+* [[Robin Wright Penn]]
+* [[Cary Elwes]]
+}}
+| music          = [[Alan Silvestri]]
+| cinematography = Robert Presley
+| editing        = Jeremiah O'Driscoll
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[ImageMovers Digital]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]
+| released       = {{Film date|2009|11|03|[[London]]|2009|11|06|United States}}
+| runtime        = 96 minutes<!-- 95m 40s --><ref>{{cite web|title=''A CHRISTMAS CAROL'' (PG)|url=https://www.bbfc.co.uk/AFF261239/|work=[[British Board of Film Classification]]|date=October 7, 2009|access-date=November 24, 2012|archive-date=November 20, 2020|archive-url=https://web.archive.org/web/20201120005512/https://www.bbfc.co.uk/release/a-christmas-carol-film-qxnzzxq6vlgtoty3nzmw|url-status=dead}}</ref>
+| country        = United States
+| language       = English
+| budget         = $175–200 million<ref>{{cite news | url=https://www.nytimes.com/2009/10/26/business/media/26carol.html | title=Disney Hopes ''Christmas Carol'' Lives Up to Its Blockbuster Marketing | work=New York Times | access-date=October 25, 2009 | first=Brooks | last=Barnes | date=October 26, 2009 | archive-url=https://web.archive.org/web/20111125154815/http://www.nytimes.com/2009/10/26/business/media/26carol.html | archive-date=November 25, 2011 | url-status=live | df=mdy-all }}</ref><ref name="bom">{{cite web  |url=https://www.boxofficemojo.com/movies/?id=christmascarol09.htm | title=A Christmas Carol (2009) | work=[[Box Office Mojo]] | access-date=November 28, 2009| archive-url= https://web.archive.org/web/20091129033829/http://www.boxofficemojo.com/movies/?id=christmascarol09.htm| archive-date= November 29, 2009| url-status= live }}</ref>
+| gross          = $325.3 million<ref>{{Cite web |title=A Christmas Carol |url=https://www.boxofficemojo.com/title/tt1067106/ |access-date=2023-12-22 |website=Box Office Mojo}}</ref>
+}}
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words. Current word count 490. -->
+[[Ebenezer Scrooge]] is a greedy and miserly moneylender living in [[Victorian era|Victorian]] [[London]] who refuses to partake in the merriment of Christmas. On [[Christmas Eve]] in 1843, he declines his cheerful nephew Fred's invitation to the annual [[Christmas dinner]] party and dismisses two gentlemen who are collecting money for charity. His loyal employee [[Bob Cratchit]] requests to not work on Christmas Day so he can spend time with his family, to which Scrooge reluctantly agrees. That night, Scrooge encounters the shackled ghost of his seven years dead business partner [[Jacob Marley]] in his home. Marley warns Scrooge to repent his ways or suffer a worse fate, stating that three spirits will visit him over three nights.
+
+At one o'clock, Scrooge is visited by the candle-like [[Ghost of Christmas Past]], who shows him visions of his early life, such as his lonely [[boarding school]] days, his relationship with his beloved sister Fan, and his time as an apprentice under the benevolent [[Mr. Fezziwig|Fezziwig]]. The young Scrooge met a young woman named Belle, with whom he falls in love, but his focus on accruing wealth drives them apart. Overwhelmed, Scrooge extinguishes the Ghost's flame and returns home.
+
+Scrooge next meets the merry [[Ghost of Christmas Present]], who shows how others find joy on Christmas Day. Scrooge and the Ghost visit Bob's house, learning his family is content with their small dinner and meagre home. Scrooge takes pity on Bob's ill son [[Tiny Tim (A Christmas Carol)|Tiny Tim]], whom the rapidly aging Ghost comments might not survive until next Christmas. They next visit Fred's house, where Fred insists the guests raise a toast to Scrooge in spite of his stinginess and general ill will. Before the Ghost withers away, he shows Scrooge the evils of "Ignorance" and "Want".
+
+The [[Ghost of Christmas Yet to Come]] takes Scrooge into the future where a recent death elicits no sympathy from London's inhabitants. After being shrunk and chased across London by the Ghost, Scrooge sees his [[charwoman]] Mrs. Dilber trade the deceased's possessions to a [[Fence (criminal)|fence]] named Old Joe. Scrooge sees the deceased's body but refuses to see his face. After being shown a couple relieved of the death, Scrooge asks to see tenderness connected to death; the Ghost shows Scrooge the Cratchits' home, where he sees Bob and his family mourning the death of Tiny Tim. Clarifying for the identity of the dead man, Scrooge is taken to a cemetery, where the Ghost points out a neglected grave, bearing the name of Scrooge and that he will die on Christmas Day of an unknown (possibly imminent) year. Scrooge desperately vows to change his ways before falling into his empty coffin above the flames of [[Hell]], only to find himself returned to his bedroom in the present.
+
+Discovering it is Christmas Day, a gleeful Scrooge begins spreading happiness and joy around London, anonymously sending the Cratchits a turkey dinner, providing charity to one of the portly gentleman, and attending Fred's Christmas dinner, where he is warmly welcomed. The next day, Scrooge raises Bob's salary and pledges his support for the Cratchits. Scrooge becomes a father figure to Tiny Tim, who overcomes his ailments and is restored to health, treating everyone with kindness, generosity, and compassion, thus embodying the Christmas spirit.

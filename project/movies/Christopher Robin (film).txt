@@ -1,0 +1,56 @@
+{{Infobox film
+| name           = Christopher Robin
+| image          = Christopher Robin poster.png
+| alt            = A man wearing a hat and coat, holding a satchel and an umbrella. Around him are Pooh Bear, Piglet, Tigger, and Eeyore.
+| caption        = Theatrical release poster
+| director       = [[Marc Forster]]
+| producer       = {{Plainlist|
+* [[Brigham Taylor]]
+* [[Kristin Burr]]
+}}
+| screenplay     = {{Plainlist|
+* [[Alex Ross Perry]]
+* [[Tom McCarthy (director)|Tom McCarthy]]
+* [[Allison Schroeder]]
+}}
+| story          = {{Plainlist|
+* [[Greg Brooker (screenwriter)|Greg Brooker]]
+* [[Mark Steven Johnson]]
+}}
+| based_on       = {{based on|Characters from [[Walt Disney Animation Studios|Disney's]] ''[[Winnie the Pooh (franchise)|Winnie the Pooh]]''|[[A. A. Milne]]|[[E. H. Shepard]]<ref name="prodnotes"/>}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Ewan McGregor]]
+* [[Hayley Atwell]]
+* [[Jim Cummings]]
+* [[Nick Mohamed]]
+* [[Brad Garrett]]}}
+<!--Only the principal cast based on the poster should be credited.-->
+| music          = {{Plainlist|
+* [[Geoff Zanelli]]
+* [[Jon Brion]]
+}}
+| cinematography = Matthias Koenigswieser
+| editing        = [[Matt Chessé]]
+| released       = {{Film date|2018|7|30|[[Burbank, California|Burbank]]|2018|8|3|United States}}
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* 2DUX² Productions
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]
+| runtime        = 104 minutes<ref>{{cite web|url=https://www.amctheatres.com/movies/disney-s-christopher-robin-49546|title=Christopher Robin|publisher=[[AMC Theatres]]|access-date=July 10, 2018|archive-date=August 22, 2018|archive-url=https://web.archive.org/web/20180822112453/https://www.amctheatres.com/movies/disney-s-christopher-robin-49546|url-status=live}}</ref>
+| country        = United States
+| language       = English
+| budget         = $65-70 million<ref>{{cite web|url=https://www.hollywoodreporter.com/news/box-office-mission-impossible-6-beats-christopher-robin-35m-1132282|first=Pamela|last=McClintock|title=Weekend Box Office: 'Mission: Impossible 6' Wins More Cuddles Than 'Christopher Robin' With $35M|website=[[The Hollywood Reporter]]|publisher=[[Prometheus Global Media]]|date=August 5, 2018|access-date=August 10, 2018|archive-date=August 5, 2018|archive-url=https://web.archive.org/web/20180805201320/https://www.hollywoodreporter.com/news/box-office-mission-impossible-6-beats-christopher-robin-35m-1132282|url-status=live}}</ref><ref>{{cite web|url=https://variety.com/2018/film/box-office/box-office-mission-impossible-fallout-disney-christopher-robin-1202895537/|title=Box Office: 'Mission: Impossible – Fallout' Cruises Past 'Christopher Robin'|website=[[Variety (magazine)|Variety]]|publisher=[[Penske Business Media]]|date=August 13, 2018|access-date=August 5, 2018|first=Rebecca|last=Rubin|archive-date=August 5, 2018|archive-url=https://web.archive.org/web/20180805231437/https://variety.com/2018/film/box-office/box-office-mission-impossible-fallout-disney-christopher-robin-1202895537/|url-status=live}}</ref>
+| gross          = $197.7 million<ref name="BOM">{{cite web |title=Christopher Robin |url=https://www.boxofficemojo.com/movies/?id=disneyfairytale2017.htm |website=[[Box Office Mojo]] |publisher=[[IMDb]] |access-date=March 24, 2023 |archive-date=October 13, 2015 |archive-url=https://web.archive.org/web/20151013023235/https://www.boxofficemojo.com/movies/?id=disneyfairytale2017.htm |url-status=live }}</ref>
+}}
+
+==Plot==
+After his living toy friends from the [[Hundred Acre Wood]] throw him a farewell party before he departs for [[boarding school]], [[Christopher Robin]] reassures [[Winnie the Pooh (Disney character)|Winnie the Pooh]] that he will never forget him. Nevertheless, his rough experiences at school and his father's death force his maturation, and he soon forgets his Hundred Acre Wood friends. He later marries [[architect]] Evelyn, has a daughter named Madeline, serves in the [[British Army]] during [[World War II]], and gets a job as Director of Efficiency at Winslow Luggages in [[London]], unintentionally neglecting his family. Christopher's superior, Giles Winslow Jr., tells him to decrease expenditures by 20%, largely by choosing which employees to lay off, and to present his plan on Monday. Christopher misses joining his family at their countryside cottage in [[Sussex]] for a summer-ending weekend.
+
+The next morning, Pooh wakes up to find his friends are missing. Looking for them, he enters a door that Christopher normally came out of, and finds himself in London. He reunites with Christopher, who is shocked to see Pooh but takes him home and, the following day, rides with him back to Sussex on the next train. Passing by the cottage, they enter the Hundred Acre Wood. Pooh, attempting to return Christopher's [[compass]], trips into Christopher's [[briefcase]], spilling his papers. Christopher angrily reminds Pooh that he has matured, before they are separated in the fog. Christopher falls into a Heffalump trap, which is flooded by rainfall.
+
+Christopher discovers [[Eeyore]] and [[Piglet (Winnie-the-Pooh)|Piglet]], who lead him to the others, hiding in a log from what they believe to be a Heffalump but is the squeaking of a rusty, fallen [[weather vane]] from [[Owl (Winnie-the-Pooh)|Owl]]'s house. Unable to convince the others of his identity, he pretends to defeat the Heffalump, winning them over. When they reunite with Pooh, Christopher apologizes for his earlier outburst and explains his dilemma. Pooh forgives and embraces him. The next day, Christopher hurries out of the Hundred Acre Wood to make his presentation after [[Tigger]] gives him his briefcase.
+
+Pooh discovers that Tigger replaced Christopher's paperwork with Hundred Acre Wood gifts when drying his briefcase and takes him, Eeyore, and Piglet through the door to return the paperwork. Madeline, wanting to dissuade her father about sending her to boarding school, recognizes them from Christopher's drawings and joins them on a train to London. Evelyn discovers a note Madeline wrote and interrupts Christopher's presentation as he discovers the gifts, inviting him to search for their daughter. Madeline's group stows away in crates, but Tigger, Eeyore and Piglet are accidentally ejected, encountering her parents. Pooh and Madeline arrive near the Winslow building, and reunite with Christopher and the others, but Madeline trips on some steps and loses all but one of the papers. Christopher assures Madeline that she is too important to him to be sent away.
+
+Using the paper Madeline saved, Christopher improvises a new plan involving selling luggage at reduced prices to ordinary people to increase demand and giving employees paid leave. Winslow Jr. dismisses the idea, but his father Giles Winslow Sr. warmly agrees to it. Christopher further humiliates Winslow Jr., who played [[golf]] all weekend and contributed nothing to the plan. Christopher finally takes his family and the quartet into the Hundred Acre Wood to meet his other friends for a picnic.

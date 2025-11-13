@@ -1,0 +1,49 @@
+{{Infobox film
+| name           = Tron
+| image          = Tron poster.jpg
+| alt            = On the center of a circle, a man releasing a disc upwards into the air, with a woman standing next to him. A beam of light descends upon the disk with another light coming out from the background. A caption reads: "A world inside the computer where man has never been. Never before now."
+| caption        = Theatrical release poster
+| director       = [[Steven Lisberger]]
+| producer       = [[Donald Kushner]]
+| screenplay     = Steven Lisberger
+| story          = {{Plainlist|
+* Steven Lisberger
+* [[Bonnie MacBird]]
+}}
+| based_on       = 
+| starring       = {{Plainlist|
+* [[Jeff Bridges]]
+* [[Bruce Boxleitner]]
+* [[David Warner (actor)|David Warner]]
+* [[Cindy Morgan]]
+* [[Barnard Hughes]]
+}}
+| music          = [[Wendy Carlos]]
+| cinematography = [[Bruce Logan (filmmaker)|Bruce Logan]]
+| editing        = [[Jeff Gourson]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures|Walt Disney Productions]]
+* Lisberger-Kushner Productions
+}}
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1982|07|09}}
+| runtime        = 96 minutes
+| country        = United States
+| language       = English
+| budget         = $17 million
+| gross          = $50 million<ref name=gross>{{cite magazine|magazine=[[Daily Variety]]|date=February 24, 1984|page=31|title=Disney Sets 'Tron' B.O. Record Straight}}</ref>
+}}
+
+== Plot ==
+<!-- Plot summaries should be 400-700 words. See WP:FILMPLOT. Please refrain from adding unnecessary detail. -->
+Kevin Flynn is a leading [[Software|software engineer]], formerly employed by large technology corporation ENCOM. He now runs a [[video game arcade]], and attempts to [[Security hacker|hack]] into ENCOM's [[Mainframe computer|system]] with a program called CLU. However, ENCOM's [[Master Control Program (Tron)|Master Control Program]] (MCP) halts his progress and CLU is deleted. Within ENCOM, programmer Alan Bradley and his girlfriend, engineer Lora Baines, discover that the MCP has closed off their access to projects. When Alan confronts the senior executive vice president, Ed Dillinger, he asserts the security measures are an effort to stop the hacking attempts. However, when Dillinger privately questions the MCP through his computerized desk, he realizes the MCP has expanded into a powerful [[virtual intelligence]] and has been illegally appropriating personal, business, and government programs to increase its own capabilities. As Dillinger rose to the top of ENCOM by presenting Flynn's games as his own, the MCP blackmails Dillinger by threatening to expose his plagiarism if he does not comply with its directives.
+
+Lora deduces that Flynn is the hacker, and she and Alan go to his arcade to warn him. Flynn reveals that he has been trying to locate evidence proving Dillinger's plagiarism. Together, the three form a plan to break into ENCOM and unlock Alan's "Tron" program, a self-governing security measure designed to protect the system and counter the functions of the MCP. Once inside ENCOM, the three split up, and Flynn comes into direct conflict with the MCP through a laboratory terminal. Before Flynn can get the information he needs, the MCP uses an experimental [[laser]] to digitize and upload him into the ENCOM gaming grid<!-- It is a separate setting from the Grid seen in the sequel -->. There, computer programs are living entities appearing in the likeness of the human "Users" (programmers) who created them. The space is ruled by the MCP and its second-in-command, Sark, who coerce programs to renounce their belief in the Users and force those who resist to compete in deadly games.
+
+Flynn is put into the games and plays well; between matches, he befriends two other captured programs, Ram and Tron. The three escape into the system during a round of ''[[light cycle|Light Cycle]]'' (an [[arcade game]] Flynn created and is skilled at), but Flynn and Ram become separated from Tron by an MCP pursuit party. While attempting to help a badly injured Ram, Flynn learns that he can manipulate portions of the system by accessing his programmer knowledge. Just before Ram "derezzes" (dies), he recognizes Flynn as a User, and encourages him to find Tron and free the system. Using his newfound ability, Flynn rebuilds a broken vehicle and disguises himself as one of Sark's soldiers.
+
+Tron enlists help from Yori, a sympathetic program, and at an I/O tower receives information from Alan necessary to destroy the MCP. Flynn rejoins them, and the three board a hijacked solar sailer to reach the MCP's core. However, Sark's command ship destroys the sailer, capturing Flynn and Yori and presumably killing Tron. Sark leaves the command ship and orders its deresolution, but Flynn keeps it intact by manipulating the system again.
+
+Sark reaches the MCP's core on a shuttle carrying captured programs deemed powerful or useful. While the MCP attempts to absorb these programs, Tron, who is still alive, confronts Sark and critically injures him, prompting the MCP to give Sark all its functions. Realizing that his ability to manipulate the system might give Tron an opening, Flynn leaps into the beam of the MCP, distracting it. Seeing a break in the MCP's shield, Tron attacks through the gap and destroys the MCP and Sark, ending the MCP's control over the system and allowing the captured programs to communicate with users again.
+
+Flynn reappears in the real world, rematerialized at the terminal. Tron's victory in the system has released all lockouts on computer access, and a nearby printer proves that Dillinger had plagiarized Flynn's creations. The next morning, Dillinger enters his office to find the MCP deactivated and the proof of his theft publicized. Flynn is subsequently promoted to CEO of ENCOM and is happily greeted by Alan and Lora as their new boss.

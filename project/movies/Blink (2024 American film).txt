@@ -1,0 +1,39 @@
+{{Infobox film
+| name           = Blink
+| image          = Blink 2024 American poster.jpeg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* Edmund Stenson
+* [[Daniel Roher]]
+}}
+| producer       = {{Plainlist|
+* Melanie Miller
+* Diane Becker
+}}
+| writer         = 
+| starring       = 
+| music          = [[Tamar-kali]]
+| cinematography = Jean-Sébastien Francoeur
+| editing        = {{Plainlist|
+* Ryan Mullins
+* Miranda Yousef
+}}
+| production_companies         = {{Plainlist|
+* [[National Geographic (American TV channel)|National Geographic Documentary Films]]
+* Fishbowl Films
+* [[Media Rights Capital|MRC]]
+* Eyesteel Film
+}}
+| distributor    = National Geographic Documentary Films (Worldwide)<br>[[Walt Disney Studios Motion Pictures]] (United States and Canada){{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2024|8|30|[[51st Telluride Film Festival|Telluride]]|2024|10|4}}
+| runtime        = 84 minutes<ref>{{cite web|url=https://telluridecms-production.s3.amazonaws.com/assets/pdfs/51st-TFF-program-guide-FINAL.pdf|title=Blink|website=[[Telluride Film Festival]]|access-date=August 31, 2024}}</ref>
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+==Plot==
+{{expand section|January 2025|date=January 2025}}
+The film follows a family that embarks on a journey around the world after learning that their children have been diagnosed with a rare genetic disorder that will eventually cause vision loss. Aware that their children’s ability to see is limited by time, the parents take them on a global adventure to experience the beauty of different landscapes, cultures, and sights before their sight deteriorates.

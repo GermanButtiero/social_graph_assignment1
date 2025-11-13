@@ -1,0 +1,59 @@
+{{Infobox film
+| image          = The Straight Story poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[David Lynch]]
+| writer         = {{Plainlist|
+* John Roach
+* [[Mary Sweeney]]
+}}
+| producer       = {{Plainlist|
+* Mary Sweeney
+* [[Neal Edelstein]]
+* [[Alain Sarde]]
+}}
+| starring       = {{plainlist|
+* [[Richard Farnsworth]]
+* [[Sissy Spacek]]
+* [[Harry Dean Stanton]]
+}}
+| cinematography = [[Freddie Francis]]
+| editing        = Mary Sweeney
+| music          = [[Angelo Badalamenti]]
+| studio         = {{Plainlist|
+* Les Films Alain Sarde<ref name="VarietyReview">{{cite web |last1=Levy |first1=Emanuel |title=The Straight Story |url=https://variety.com/1999/film/reviews/the-straight-story-1117499811/ |website=[[Variety (magazine)|Variety]] |access-date=26 September 2025 |date=24 May 1999}}</ref>
+* [[Le Studio Canal+]]<ref name="VarietyReview"/><ref name="ACMI">{{cite web |title=The Straight Story |url=https://www.acmi.net.au/works/91314--the-straight-story/ |website=[[ACMI (museum)|ACMI]] |access-date=26 September 2025}}</ref>
+* The Picture Company<ref name="VarietyReview"/><ref name="ACMI"/>
+* [[Film4 Productions|FilmFour]]<ref name="ACMI"/>
+}}
+| distributor    = {{Plainlist|
+* [[Buena Vista Pictures Distribution]]{{efn|name=Disney|Distributed under the [[Walt Disney Pictures]] banner.<ref name="Disney"/>}} (United States)
+* FilmFour Distributors (United Kingdom)<ref>{{cite web|title=The Straight Story|url=https://variety.com/1998/film/news/film-four-canal-plus-team-on-four-pix-1117488086/|website=Variety.com}}</ref>
+* [[BAC Films]] (France)
+}}
+| released       = {{Film date|1999|5|21|[[1999 Cannes Film Festival|Cannes]]|1999|10|15|United States}}
+| runtime        = 112 minutes
+| country        = {{Plainlist|
+* United States
+* United Kingdom
+* France
+}}
+| language       = English
+| budget         = $10 million<ref name="numbers">{{cite web |title=The Straight Story (1999) – Financial information |url=https://www.the-numbers.com/movie/Straight-Story-The |website=[[The Numbers (website)|The Numbers]] |access-date=13 November 2022}}</ref>
+| gross          = $6.2 million (United States)<ref>{{mojo title|straightstory}}</ref>
+}}
+
+==Plot==
+In [[Laurens, Iowa]], elderly Alvin Straight is found lying on his kitchen floor after a fall. His daughter, Rose, takes him to see a doctor, who admonishes him to give up tobacco, improve his diet, and use a [[walker (mobility)|walker]], all of which he rejects. When Alvin's brother, Lyle, suffers a stroke, Alvin decides to visit Lyle, even though they have not spoken in ten years.
+
+Lyle lives in [[Mount Zion, Wisconsin]], 240 miles away. As neither Alvin (due to his age) nor Rose (due to an unspecified disability) have a driver's license, Alvin decides to make the trip on his [[riding mower]]. His plan surprises his family, friends, and neighbors. The mower soon breaks down, forcing Alvin to accept a ride from a passing tour bus and call for help. However, he is determined to continue the trip, and buys a used 1966 [[John Deere]] 110 lawn tractor to continue his journey.
+
+Alvin meets a variety of people on the road. He shares his dinner with a young girl hitchhiker, who ran away from home out of fear that her family would be upset with her pregnancy. Alvin reflects about the importance of family, comparing it to a bundle of sticks that is hard to break compared to a single stick. The next day, she leaves him a bundle of sticks tied together as a thank-you. Several passing [[RAGBRAI]] cyclists are amused to see him on the highway and welcome him to their campsite. He speaks with some of the cyclists about growing old. He also meets a distraught woman who hit a deer during her commute and tearfully rants about how she keeps on hitting deer despite her prayers. Alvin respectfully cooks and eats the deer.
+
+Alvin's tractor begins to fail, throwing his journey into jeopardy. His transmission fails as he travels down a steep hill, but he manages to stop. Danny, a local, invites Alvin to camp in his backyard until the tractor is repaired. He offers to drive Alvin to Mount Zion, but Alvin declines, preferring to travel his own way.  
+
+Running low on cash, Alvin calls Rose to send him his [[Social Security (United States)|Social Security]] check. Two bickering mechanics overcharge him for fixing his tractor, but he cannily bargains the price down. A fellow veteran invites Alvin for a drink, and they exchange traumatic stories about their experiences in [[World War II]]. Alvin, a sniper during the war, declines a beer but confesses that he is still haunted by killing an American in a [[friendly fire]] incident, and says that he became an alcoholic when he got back home, but is now sober.
+
+After crossing into Wisconsin, Alvin chats with a Catholic priest who knows of Lyle and his stroke. The priest says that Lyle never mentioned a brother. Alvin admits that he wants to make amends. Although the exact cause of the estrangement is never stated, only that being the one to make the effort is hard on him, Alvin says alcohol was involved.
+
+Alvin finally arrives in Mount Zion. To steel himself, he drinks his first beer in years. Tractor trouble stops him just short of Lyle's dilapidated cabin, but he persists. Lyle invites Alvin to sit together on the porch, without recrimination or bitterness. He asks if Alvin rode the tractor all the way just to see him. Alvin quietly confirms this, and Lyle's eyes well up with tears. The two men sit together silently and gaze up at the stars.

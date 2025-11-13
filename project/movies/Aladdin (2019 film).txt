@@ -1,0 +1,57 @@
+{{Infobox film 
+| name           = Aladdin
+| image          = Aladdin (Official 2019 Film Poster).png
+| caption        = Theatrical release poster
+| director       = [[Guy Ritchie]]
+| producer       = {{plainlist|
+* [[Dan Lin]]
+* Jonathan Eirich
+}}
+| screenplay     = {{plainlist|
+* [[John August]]
+* Guy Ritchie
+}}
+| based_on       = {{plainlist|
+* {{based on|[[Walt Disney Animation Studios|Disney]]'s ''[[Aladdin (1992 Disney film)|Aladdin]]''|[[Ron Clements]]|[[John Musker]]|[[Ted Elliott (screenwriter)|Ted Elliot]]|[[Terry Rossio]]}} <ref name="PressKit"/>
+* {{based on|"[[Aladdin]]" from ''[[One Thousand and One Nights]]''}}
+}}
+| starring       = {{plainlist|
+* [[Will Smith]] 
+* [[Mena Massoud]]
+* [[Naomi Scott]]
+* [[Marwan Kenzari]]
+* [[Navid Negahban]]
+* [[Nasim Pedrad]]
+* [[Billy Magnussen]]
+}}<!--Only the principal cast based on the poster should be credited.-->
+| music          = [[Alan Menken]]
+| cinematography = [[Alan Stewart (cinematographer)|Alan Stewart]]
+| editing        = James Herbert
+| production_companies = {{plainlist|
+* [[Walt Disney Pictures]]
+* [[Rideback (production company)|Rideback]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]
+| released       = {{Film date|2019|5|8|[[Grand Rex]]|2019|5|24|United States}}
+| runtime        = 128 minutes<ref>{{cite web |url=https://www.bbfc.co.uk/releases/aladdin-2019 |title=''Aladdin'' (2019) |website=[[British Board of Film Classification]] |access-date=May 7, 2019| archive-url=https://web.archive.org/web/20190508011610/https://www.bbfc.co.uk/releases/aladdin-2019| archive-date=May 8, 2019| url-status=dead}}</ref>
+| country        = United States
+| language       = English
+| budget         = $183&nbsp;million<ref name="BOM"/>
+| gross          = {{US$|1.054&nbsp;billion|long=no}}<ref name="BOM">{{cite web |url=https://www.boxofficemojo.com/movies/?id=disneyfairytale22019.htm |title=Aladdin (2019) |website=[[Box Office Mojo]] |access-date=October 26, 2019|archive-url=https://web.archive.org/web/20190526124222/https://www.boxofficemojo.com/movies/?id=disneyfairytale22019.htm|archive-date=May 26, 2019|url-status=live}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be 400 to 700 words. -->
+In the fictional city of [[Agrabah]] (based on [[Baghdad]]), an orphaned [[street urchin]] named Aladdin and his monkey, Abu, meet Princess Jasmine, who has snuck away from her sheltered life in the palace. She wishes to succeed her father as Sultan but is instead expected to marry one of her royal suitors. Jafar, the [[Grand vizier|royal vizier]], schemes to overthrow the Sultan and seeks a [[magic lamp]] from the Cave of Wonders, that only "the diamond in the rough" can retrieve.
+
+While sneaking into the royal palace to visit Jasmine, Aladdin and Abu are captured by Jafar. He offers to make Aladdin rich enough to impress Jasmine in exchange for retrieving the lamp from the Cave of Wonders. Once there, Aladdin frees a [[magic carpet]] and finds the lamp. Aladdin gives the lamp to Jafar, who double-crosses him and kicks him and Abu back into the cave, but not before Abu steals the lamp back.
+
+Trapped in the cave, Aladdin rubs the lamp, unwittingly summoning the omnipotent [[Genie (Disney)|Genie]] inside, who has the power to grant three wishes to anyone who has the lamp. Aladdin gets them out of the cave without using a wish, on a technicality. Determined to woo Jasmine, he uses his official first wish to become a prince and promises to use his third wish to free the Genie from servitude and turn him human.
+
+Aladdin makes an extravagant arrival at Agrabah as "Prince Ali of Ababwa", but he struggles to impress Jasmine. Posing as Aladdin's human attendant, the Genie is mutually smitten with Dalia, Jasmine's [[handmaiden]]. Aladdin and Jasmine bond when he takes her on a ride on the magic carpet. Tricked into revealing his true identity, he lies to her, saying that he actually is a prince and dressed like a peasant to explore Agrabah.
+
+When Jafar discovers Aladdin's identity, he kidnaps Aladdin and throws him into the palace [[moat]] and into the sea, knowing that if he survives, it will prove that he has the lamp. The Genie rescues Aladdin, costing him his second wish. Once rescued, Aladdin returns to the palace and destroys Jafar's magic [[cobra]] staff, ending his spell over the Sultan and revealing his plot. Jafar is then arrested and imprisoned in the dungeons. The Sultan allows Aladdin to marry Jasmine. Aladdin goes back on his promise to free the Genie, feeling uncertain of being able to keep up his charade without him. Dismayed that his new friend will continue living a lie, the Genie retreats to the lamp.
+
+Freed by his [[scarlet macaw|parrot]] sidekick Iago, Jafar steals the lamp and becomes the Genie's new master. He uses his first wish to become sultan and his second one to become the world's most powerful sorcerer. Jafar then exposes Aladdin, exiling him and Abu to a frozen wasteland, and tortures the Sultan and Dalia until Jasmine agrees to marry him. The Genie secretly teleports the magic carpet to rescue Aladdin and Abu behind Jafar's back. At the wedding, as Aladdin returns to Agrabah, Jasmine steals the lamp from Jafar and jumps onto the magic carpet. Jafar then uses a sand twister to recapture Aladdin and Jasmine and destroy the magic carpet.
+
+As Jafar holds Jasmine, Dalia, and the Sultan under his magic, Aladdin taunts Jafar for being second in power to the Genie, goading him into using his last wish to become "the most powerful being in the universe". Jafar turns into a genie and becomes trapped inside his own lamp, dragging Iago with him, and the Genie banishes them to the Cave of Wonders. Abu rescues the magic carpet and Genie fixes it up. Jasmine, Dalia, and the Sultan are freed from Jafar's magic. The Genie encourages Aladdin to use his third wish to regain his royal title and legally marry Jasmine. Aladdin instead keeps his promise and frees the Genie by using his last wish, allowing him to live as a human. Dalia, the Genie, and the Sultan know that Jasmine loves Aladdin. The Sultan crowns Jasmine the new [[Sultana (title)|sultana]]-[[Queen regnant|regnant]], no longer bound to marry a prince, and she and Aladdin marry. Meanwhile, the Genie marries Dalia, and they start a family as they explore the world together.

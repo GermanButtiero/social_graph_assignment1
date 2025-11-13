@@ -1,0 +1,53 @@
+{{Infobox film
+| name           = Snow White and the Seven Dwarfs
+| image          = Snow White and the Seven Dwarfs (Style B) poster.jpg
+| caption        = Theatrical release poster by [[Gustaf Tenggren]]
+| director       ='''Supervising Director'''<br />[[David Hand (animator)|David Hand]]<br />
+'''Sequence Directors'''{{Plainlist|
+* [[Perce Pearce]]
+* William Cottrell
+* [[Larry Morey]]
+* [[Wilfred Jackson]]
+* [[Ben Sharpsteen]]
+}}
+| story          = {{Plainlist|
+* [[Ted Sears]]
+* Richard Creedon
+* Otto Englander
+* Dick Rickard
+* [[Earl Hurd]]
+* [[Merrill De Maris]]
+* Dorothy Ann Blank
+* Webb Smith
+}}
+| based_on       = {{based on|"[[Snow White]]"|the [[Brothers Grimm]]}}
+| producer       = [[Walt Disney]]
+| starring       = 
+| music          = {{Plainlist|
+* [[Frank Churchill]]
+* [[Leigh Harline]]
+* [[Paul Smith (composer)|Paul Smith]]
+}}
+| studio         = [[Walt Disney Productions]]<!-- Do NOT add in the Walt Disney Animation Studios link per MOS:NOPIPE. While the animation is studio is separated from the live-action division, they were produced under the same banner, thus the redirect for the Walt Disney Productions article is Walt Disney Pictures. -->
+| distributor    = [[RKO Radio Pictures]]
+| released       = {{Film date|1937|12|21|[[Carthay Circle Theatre]]|1938|2|4|United States}}
+| runtime        = 83 minutes
+| country        = United States
+| language       = English
+| budget         = $1.5 million{{sfn|Barrier|1999|p=229}}
+| gross          = $418 million<ref name=gross/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words. The current count is 622 words. -->
+Having lost both of her parents at a young age, [[Snow White (Disney character)|Snow White]] is a princess living with her wicked and cold-hearted stepmother, the [[Evil Queen (Disney)|Queen]].{{efn|Disney publications of the 1930s, such as the film's comic strip adaptation, indicate that her actual name is Grimhilde.<ref name="EvilQueenVillainsHistory">{{cite web|last=Smith|first=Dave|url=http://disney.go.com/vault/archives/villains/queen/queen.html|title=Evil Queen Villains History|archive-url=https://web.archive.org/web/20100401004354/http://disney.go.com/vault/archives/villains/queen/queen.html|work=Disney Archives|access-date=January 7, 2023|archive-date=April 1, 2010|url-status=dead}}</ref>{{sfn|Holliss|Sibley|1994|page=81}}}} Fearing that Snow White's beauty will outshine her own, the Queen forces her to work as a [[scullery maid]] and asks her [[Magic Mirror (Snow White)|Magic Mirror]] daily "who is the fairest one of all." For years, the mirror always answers that the Queen is, pleasing her.
+
+One day, Snow White meets and falls in love with a prince who overhears her singing. That same day, the Magic Mirror deems Snow White as the fairest. The Queen orders her [[Huntsman (Snow White)|Huntsman]] to take Snow White into the forest, kill her, and bring back her heart in a jeweled box as proof. The Huntsman cannot bring himself to kill Snow White and warns her of the Queen's intentions. At his urging, Snow White flees deep into the forest.
+
+Lost and frightened, Snow White is befriended by woodland animals, who lead her to a hidden woodland cottage. Finding seven small chairs in the cottage's dining room, Snow White assumes the cottage is the untidy home of seven orphaned children. With the animals' help, she proceeds to clean the place and cook a meal. Snow White soon learns that the cottage is the home of seven [[dwarf (folklore)|dwarf]]s named Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, and Dopey, who work in a nearby mine. Returning home, they are alarmed to find their cottage clean and suspect that an intruder has invaded their home. Snow White introduces herself, and the dwarfs welcome her after she offers to clean and cook for them. Snow White keeps house for the dwarfs while they mine for jewels during the day, and at night, they all sing, play music, and dance.
+
+Back at the castle, the Magic Mirror reveals that Snow White is still living, and with the dwarfs. Enraged that the Huntsman gave her a pig's heart, the Queen uses a potion to disguise herself as an old [[peddler]] and then creates a poisoned apple that will put whoever eats it into Sleeping Death. She learns the curse can be broken by "[[True love's kiss|love's first kiss]]," but is certain Snow White will be buried alive before this can happen. The Queen goes to the cottage while the dwarfs are away. The animals see through the disguise but are unable to warn Snow White; they rush off to find the dwarfs. The Queen fools Snow White into biting into the apple, and she falls into a death-like slumber.
+
+The dwarfs return with the animals as the Queen leaves the cottage and give chase, trapping her on a cliff. She tries to roll a boulder onto them, but lightning strikes the cliff before she can do so, causing her to fall to her death. In their cottage, the dwarfs find Snow White asleep from the poison. Unwilling to bury her, they instead place her in a glass coffin in the forest. Together with the animals, they keep watch over her.
+
+The following spring, the prince learns of Snow White's eternal sleep and visits the coffin. Saddened by her apparent death, he kisses her, breaking the spell and awakening her. The dwarfs and animals rejoice as the prince takes Snow White to his castle.

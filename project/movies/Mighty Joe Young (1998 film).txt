@@ -1,0 +1,41 @@
+{{Infobox film
+| name           = Mighty Joe Young
+| image          = Mighty joe young98.jpg
+| caption        = Theatrical release poster
+| director       = [[Ron Underwood]]
+| producer       = [[Ted Hartley]]<br/>Tom Jacobson
+| screenplay     = [[Mark Rosenthal (filmmaker)|Mark Rosenthal]]<br/>[[Lawrence Konner]]
+| based_on       = {{Based on|''[[Mighty Joe Young (1949 film)|Mighty Joe Young]]''<br>1949 film|[[Merian C. Cooper]]<br/>[[Ruth Rose]]}}
+| starring       = {{Plainlist|
+* [[Bill Paxton]]
+* [[Charlize Theron]]
+* [[Rade Šerbedžija]]
+* [[Naveen Andrews]]
+* [[Regina King]]
+* [[David Paymer]]}}
+| music          = [[James Horner]]
+| cinematography = [[Donald Peterman]]<br/>[[Oliver Wood (cinematographer)|Oliver Wood]]
+| editing        = [[Paul Hirsch (film editor)|Paul Hirsch]]
+| studio         = [[Walt Disney Pictures]]<br/>[[RKO Pictures]]<br/>The Jacobson Company
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
+| released       = {{Film date|1998|12|25}}
+| runtime        = 114 minutes
+| country        = United States
+| language       = English
+| budget         = $90 million<ref name=mojo>{{cite web|url=http://www.boxofficemojo.com/movies/?id=mightyjoeyoung.htm|title=Mighty Joe Young|work=[[Box Office Mojo]]|access-date=July 28, 2016}}</ref>
+| gross          = $50.6 million <small>(US)</small><ref name=mojo/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, the plot summary should be 400-700 words. -->
+In 1986, as a child, Jill Young and her [[Primatology|primatologist]] mother, Ruth study [[mountain gorillas]] in the mountains of the [[Rwanda]]. Jill names an infant gorilla "Joe." As Andrei Strasser leads a group of [[poachers]] to storm the mountains, Ruth's friend & leader of the village, Kweli alerts her to the men as she is putting Jill to bed. Ruth heads into the mountains and Jill follows. Strasser murders Joe's mother and shoots Ruth. Joe bites off Strasser's thumb and index finger on his right hand and Strasser swears revenge. As Ruth dies, she has Jill promise to protect Joe from poachers at all costs.
+
+12 years later, Gregg O'Hara, a wildlife refuge director at a [[Los Angeles]] animal [[animal conservation|conservatory]], comes to Africa to study and catalog animals near the Pangani mountains. During his expedition, his guides help him capture a leopard for blood sampling. When the locals attempt to poach the animal, Joe, now grown nearly 15 feet tall and weighing over 2,000 lbs (known as the legendary guardian of the mountain N'gai Zamu), emerges from the jungle to free the creature. After the men regroup, they use their vehicles to pursue Joe across the plains, hoping to secure a blood sample. Joe uses his immense size to disable the vehicles and nearly kill his pursuers, after which they collect what remains of their gear and retreat, but Gregg chooses to follow Joe into the jungle further. Once inside, Joe ambushes and terrifies Gregg, until he is saved by a now grown Jill, who calms Joe. Gregg later goes to find Joe again, and witnesses his bond with Jill.
+
+While initially untrusting of Gregg, Jill is finally convinced by him to relocate Joe to the institute in Los Angeles for his own safety. At the conservatory, the refuge staff place Jill in charge of Joe once the director sees how she manages him so well. Strasser, now running a fraudulent animal preserve in [[Botswana]], secretly selling animal organs on the black market, sees Joe in a news report, and he and his South African henchman, Garth, travel to America with plans on capturing Joe. Joe recognizes one of the men after he taunts Joe at his exhibit, causing him to destroy the landscape and behave violently. Jill tries to convince the conservatory director to postpone the upcoming gala, which is set to showcase Joe to a large venue of donators, but he remains convinced she can calm Joe. Jill, meeting Strasser, does not recognize him as he poses as a conservationist, telling her that Joe would be better off in his wildlife refuge in Africa, claiming he would have more space and freedom. During the gala, Garth uses a poacher's [[noisemaker]] to enrage Joe into a frenzy once again. Joe rampages at the gala, injuring many and nearly killing Strasser, whom he recognizes. After being sedated, Joe is imprisoned in a concrete bunker. 
+
+Jill discovers that Joe is to be euthanized and accepts Strasser's offer. She and the refuge staff smuggle Joe out in a truck, and Gregg and Jill part ways in an heartfelt goodbye. Once they leave, the poacher's noisemaker is found, and Gregg realizes that Strasser and Garth are poachers, and that Jill and Joe are in danger, as he races after them. On the way to the airport, while being followed by Gregg, Jill notices Strasser's missing fingers and recognizes him as the same poacher who murdered both her mother and Joe's mother 12 years earlier. She jumps from the truck and tumbles onto [[Hollywood Boulevard]] as Joe tilts the truck onto its side and flees, chased by helicopters, before arriving at a carnival at the [[Santa Monica Pier]].
+
+Gregg finds Jill and they track Joe to the carnival where he is unknowingly wreaking havoc. Strasser arrives and attempts to shoot Jill, but Garth turns against Strasser and knocks the gun, causing Strasser to instead shoot a spotlight, which starts a fire that spreads to game stands and the [[Ferris wheel]]. Gregg helps evacuate its riders, but a young boy named Jason is stranded at the top. After knocking Garth unconscious, Strasser again attempts to kill Jill, but Joe appears behind him and throws Strasser onto a powerline, electrocuting him to death, avenging their mothers. Joe then sees the boy stuck in the burning Ferris wheel, and climbs up the wheel to successfully rescue the boy, only for the wheel to collapse from the fire and his weight, forcing Joe to jump and hit the ground as the wheel tips over, knocking himself unconscious. After several moments of Jill and the onlookers fearing and believing him dead, Joe eventually awakens, to everyone's relief. Jill remarks that they still need to raise money in order for Joe to be safe, prompting the crowd to begin donating on the spot, as thanks for what Joe had done. 
+
+Joe is returned to Rwanda where Jill and Gregg open the "Joe Young Wildlife Reserve." The film ends with Joe running off into the jungle.

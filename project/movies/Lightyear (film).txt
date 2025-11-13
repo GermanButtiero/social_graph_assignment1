@@ -1,0 +1,59 @@
+{{Infobox film
+| image          = Lightyear (film) poster.jpg
+| caption        = Theatrical release poster
+| alt            = Buzz Lightyear in the space ranger suit sees the outer space on the right. "Lightyear" is written in the bottom middle corner with the release date "June 17" on the bottom.
+| director       = [[Angus MacLane]]
+| screenplay     = {{Plainlist|
+* Jason Headley
+* Angus MacLane
+}}
+| story          = {{Plainlist|
+* Angus MacLane
+* Matthew Aldrich
+* Jason Headley
+}}
+| producer       = Galyn Susman
+| starring       = {{Plainlist|
+<!-- Order per end credits crawl -->
+* [[Chris Evans (actor)|Chris Evans]]
+* [[Keke Palmer]]
+* [[Peter Sohn]]
+* [[Taika Waititi]]
+* [[Dale Soules]]
+* [[James Brolin]]
+* [[Uzo Aduba]]
+}}
+| cinematography = {{Plainlist|
+* Jeremy Lasky (camera)
+* Ian Megibben (lighting)
+}}
+| editing        = Anthony J. Greenberg
+| music          = [[Michael Giacchino]]
+| production_companies = [[Pixar Animation Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|2022|6|8|[[El Capitan Theatre]]|2022|6|17|United States}}
+| runtime        = 105 minutes<!--Theatrical runtime: 104:56--><ref>{{Cite web |date=June 7, 2022 |title=''Lightyear'' (PG) |url=https://web.archive.org/web/20220610141526/https://www.bbfc.co.uk/release/lightyear-q29sbgvjdglvbjpwwc0xmdawmzyy |archive-url=https://www.bbfc.co.uk/release/lightyear-q29sbgvjdglvbjpwwc0xmdawmzyy |archive-date=June 10, 2022 |access-date=September 13, 2025 |website=[[British Board of Film Classification]] |language=en}}</ref>
+| country        = United States
+| language       = English
+| budget         = $200 million
+| gross          = $226.4 million<ref name="BOM" /><ref name="NUM" />
+}}
+
+== Plot ==
+{{quote box
+| width = 30%
+| align = left
+| quote = "In 1995, a boy named [[Andy Davis (Toy Story)|Andy]] got a [[Buzz Lightyear]] toy for his birthday. It was from his favorite movie. This is that movie."
+| source = The statement that opens the film, clarifying ''Lightyear'' to be a [[Story within a story|film within a film]] of the [[Toy Story (franchise)|''Toy Story'' franchise]].
+}}
+A Star Command exploration vessel filled with hypersleeping personnel changes course to investigate signs of life on the unknown world T'Kani Prime. Awakened from hibernation by the ship AI, Space Ranger [[Buzz Lightyear]] and his commanding officer and best friend Alisha Hawthorne explore the planet with a new recruit in tow. They are forced to retreat to their exploration vessel after discovering that the planet hosts hostile lifeforms. While attempting to leave, Buzz accidentally damages their vessel, causing them and their many shipmates to be marooned on T'Kani Prime. After surveying the damage, they find that the fuel for the ship was destroyed.  Buzz volunteers to be the test pilot for the [[hyperspace (science fiction)|hyperspace]] fuel crystal they will need to develop to power the ship home.
+
+One year later, the crew has constructed a colony to extract resources from the planet and conduct repairs. However, after a four-minute test flight, Buzz finds that four years have passed on T'Kani Prime due to [[twin paradox|the effects]] of [[time dilation]] from travelling at [[Special relativity|relativistic]] speeds. Alisha gifts Buzz with Sox, a robotic feline companion, and Buzz decides to continue testing the hyperspace fuel. With every test, four more years pass on T'Kani Prime, until eventually over 66 years have passed. During this time, the colony develops, with Alisha raising a son with her wife Kiko, subsequently dying of old age, while Sox improves the fuel's composition, allowing the ship to obtain faster-than-light speeds.
+
+Against the orders of Alisha's successor Commander Cal Burnside, Buzz, accompanied by Sox, uses the new fuel composition for a successful hyperspace test. However, he and Sox skip 22 years into the future during which T'Kani Prime has been invaded by Zyclops robots led by Zurg, the robots' commander. Buzz and Sox meet up with members of the colony's defense forces: Alisha's now-adult granddaughter Izzy Hawthorne; Mo Morrison, a fresh, naïve recruit; and Darby Steel, an elderly paroled convict. While initially reluctant to work with them, Buzz eventually warms to them after they escape from a nest of insects and investigate a mining facility to repair their ship. Together, they plan to destroy the invading force at Zurg's mothership.
+
+As they head back to the ship, Zurg intervenes and captures Buzz, then reveals himself to be an older version of Buzz from an alternate timeline, which split upon Buzz's return to the planet after the successful hyperspace test: without the robot army to detain them, soldiers from the colony attempted to arrest Buzz under Burnside's orders, forcing him to flee into space. This Buzz and his Sox escaped at full speed and, via time dilation, flew hundreds of years into the far future, where he encountered and stole extremely advanced technology, and eventually developed a way to travel back in time to prevent himself from stranding the Star Command crew upon the planet. Having worn out his own fuel, Zurg needs fresh fuel to travel further into the past and complete his mission, so he requests it from his younger self. Realizing this would erase Alisha and Kiko's life together, along with Izzy and the lives of all the other colonists, Buzz refuses.
+
+Aided by Zurg's Sox, Buzz and the cadets escape Zurg's ship and set it to self-destruct. On their return to the planet via a crash landing, Zurg attacks and takes the fuel for himself. Buzz ejects to shoot the fuel, causing an explosion that seemingly kills Zurg. With the fuel gone, Buzz finally accepts T'Kani Prime as his home. Burnside arrests the group with the intention of detaining them for their actions, but relents in light of Buzz's bravery against the robot armada. Allowed to revive the Space Ranger Corps, Buzz selects Izzy, Mo, Darby, and Sox as his team. With a new fuel crystal, Buzz and his team embark on a mission to investigate an unknown signal from the Gamma Quadrant of sector 4.
+
+In a post-credits scene, Zurg is shown to have survived the explosion.<ref>{{Cite web|date=June 18, 2022 |title=Here's why 'Lightyear' has a post-credits scene. It involves a sequel and Disney+ |url=https://www.latimes.com/entertainment-arts/movies/story/2022-06-17/lightyear-post-credits-scene-explained |url-status=live |archive-url=https://web.archive.org/web/20220620151934/https://www.latimes.com/entertainment-arts/movies/story/2022-06-17/lightyear-post-credits-scene-explained |archive-date=June 20, 2022 |access-date=June 20, 2022 |website=Los Angeles Times}}</ref>

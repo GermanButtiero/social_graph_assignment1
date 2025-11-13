@@ -1,0 +1,38 @@
+{{Infobox film
+| name           = Return to Oz
+| image          = Return to Oz poster.jpg
+| caption        = Theatrical release poster by [[Drew Struzan]]
+| director       = [[Walter Murch]]
+| producer       = [[Paul Maslansky]]
+| screenplay     = Walter Murch <br/> [[Gill Dennis]]
+| based_on       = {{based on|''[[The Marvelous Land of Oz]]'' and ''[[Ozma of Oz]]''|[[L. Frank Baum]]}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Nicol Williamson]]
+* [[Jean Marsh]]
+* [[Piper Laurie]]
+* [[Fairuza Balk]]
+}}
+| music          = [[David Shire]]
+| cinematography = [[David Watkin (cinematographer)|David Watkin]]<br />[[Freddie Francis]] (uncredited)
+| editing        = Leslie Hodgson
+| studio         = [[Walt Disney Pictures]]<br />[[Silver Screen Partners]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution Co.]]
+| released       = {{film date|1985|6|21|United States}}
+| runtime        = 113 minutes
+| country        = United States<br/>United Kingdom
+| language       = English
+| budget         = $28 million<ref>{{cite news|title= Disasters Outnumber Movie Hits|work= [[South Florida Sun-Sentinel]]|url= http://articles.sun-sentinel.com/1985-09-04/features/8502060585_1_ticket-million-box-office|access-date= 5 June 2012|archive-date= 2013-06-16|archive-url= https://web.archive.org/web/20130616110125/http://articles.sun-sentinel.com/1985-09-04/features/8502060585_1_ticket-million-box-office|url-status= dead}}</ref>
+| gross          = $11.1 million (USA)
+}}
+
+==Plot==
+<!--DO NOT EXPAND. Per WP:FILMPLOT, plots are 400-700 words only-->
+[[Dorothy Gale]]'s continued obsession with the [[Land of Oz]], which she believes she visited after [[The Wonderful Wizard of Oz#Plot|her house was blown away by a tornado]] six months prior, concerns her [[Aunt Em]] and [[Uncle Henry (Oz)|Uncle Henry]] that she may be delusional. They take Dorothy to a [[sanatorium]], where Dr. Worley intends to perform [[electrotherapy]] on her, but she is rescued by a young girl, who warns her that Worley damages his patients. Worley's assistant, Nurse Wilson, pursues them as they escape in the middle of a [[storm]] to a nearby river, where Dorothy loses sight of the girl as she floats downstream aboard a chicken coop.
+
+Dorothy wakes up in Oz with her chicken, [[Billina]], who can now talk. Following the damaged [[yellow brick road]] they reach the [[Emerald City]], which is in ruins and all its citizens, including the [[Tin Woodman|Tin Man]] and [[Cowardly Lion]], turned to stone. They are seized by the Wheelers - creatures with wheels at the ends of their limbs - but are saved by [[Tik-Tok (Oz)|Tik-Tok]], a mechanical man who explains that he was told by [[Scarecrow (Oz)|Scarecrow]], the king of Oz, to await Dorothy's return. In search of Scarecrow, they visit the castle of Princess [[Mombi]], who wears the different heads of the women of Oz. After revealing that Scarecrow is being held prisoner by the [[Nome King]], the one responsible for the devastation of Oz, she imprisons the group, intending to take Dorothy's head for her collection.
+
+Locked in a tower, the group encounters [[Jack Pumpkinhead]], who explains that he was brought to life by Mombi's [[Land of Oz#Powder of Life|Powder of Life]]. To escape, the group constructs a flying creature from furniture and the head of [[the Gump]], a moose-like animal, and Dorothy steals the powder from Mombi to bring him to life. Discovering them, Mombi has the Wheelers pursue the Gump as he flies the group cross the [[Deadly Desert]] to the Nome King's mountain. The Gump eventually tires and crashes on the mountain, where Dorothy is briefly reunited with Scarecrow, before the Nome King turns him into an ornament. The Nome King offers each member of the group three attempts to identify which one in a room full of ornaments, but The Gump, Jack and Tik-Tok all fail and are turned into ornaments themselves. Before Dorothy begins her turn the Nome King reveals he has her lost [[ruby slippers]], which he used to conquer Oz, and offers to use them to send her home instead, but Dorothy refuses.
+
+Dorothy enters the ornament room and makes two guesses as Mombi reaches the mountain. With her final guess Dorothy selects a green gem, which turns into Scarecrow; realising that the inhabitants of Oz become green objects, Dorothy finds and restores Jack and the Gump. Enraged, the Nome King imprisons Mombi for allowing Dorothy's escape, then grows to gigantic size and attempts to eat the group until Billina, who was hiding in Jack’s head, lays an egg in his mouth, poisoning and killing him. Dorothy retrieves the ruby slippers and hurriedly puts them on as the subterranean Nome kingdom collapses and wishes for the group to return to a restored Emerald City, where she finds a green medal on the Gump's left antler and restores into Tik-Tok. Dorothy is subsequently asked to be the Queen of Oz, but she desires to return home. [[Princess Ozma]] - the girl from the sanitarium and rightful ruler of Oz, who was imprisoned in a mirror by Mombi - is then freed and ascends the throne. Dorothy gives Ozma the ruby slippers and she uses them to send Dorothy home, promising that she can return to Oz again if she wishes, while Billina chooses to remain.
+
+Dorothy is found beside a riverbank in [[Kansas]] by Toto and Aunt Em, who tells her the clinic burned down and everyone except Worley survived, while Nurse Wilson was arrested for assisting in Worley's experiments. Dorothy returns home and sees Ozma and Billina through her bedroom mirror; she calls for Aunt Em, but they signal for her to keep Oz a secret.

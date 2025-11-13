@@ -1,0 +1,53 @@
+{{Infobox film
+| name           = Haunted Mansion
+| image          = The Haunted Mansion (2023) poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Justin Simien]]
+| producer       = {{Plainlist|
+* [[Dan Lin]]
+* Jonathan Eirich
+}}
+| screenplay     = [[Katie Dippold]]
+| story          = 
+| based_on       = {{Based on|[[The Haunted Mansion]]|[[Walt Disney]]}}
+| starring       = {{Plainlist|
+<!-- ORDER PER POSTER -->
+* [[LaKeith Stanfield]]
+* [[Tiffany Haddish]]
+* [[Owen Wilson]]
+* [[Danny DeVito]]
+* [[Rosario Dawson]]
+* [[Dan Levy (Canadian actor)|Dan Levy]]
+* [[Jamie Lee Curtis]]
+* [[Jared Leto]]
+<!-- ORDER PER POSTER -->
+}}
+| music          = [[Kris Bowers]]
+| cinematography = [[Jeffrey Waldron]]
+| editing        = [[Phillip J. Bartell]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Rideback (production company)|Rideback]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures]]
+| released       = {{Film date|2023|7|15|[[Disneyland]]|2023|7|28|United States}}
+| runtime        = 123 minutes<ref>{{cite web |title=''Haunted Mansion'' (12A) |url=https://www.bbfc.co.uk/release/haunted-mansion-q29sbgvjdglvbjpwwc0xmdexnjcz |access-date=2023-07-10 |website=[[British Board of Film Classification]] |archive-date=July 10, 2023 |archive-url=https://web.archive.org/web/20230710170203/https://www.bbfc.co.uk/release/haunted-mansion-q29sbgvjdglvbjpwwc0xmdexnjcz |url-status=live }}</ref>
+| country        = United States
+| language       = English
+| budget         = $150 million<ref name="opening" />
+| gross          = $117.5 million<ref name="BOM" /><ref name="NUM" />}}
+
+==Plot==
+<!-- Per MOS:FILMPLOT, plot summaries should contain between 400 and 700 words -->
+In [[New Orleans]], Ben Matthias, an astrophysicist developing a camera to detect dark matter, marries Alyssa, a tour guide for the city's famously haunted places. Following Alyssa's death in a car crash, a despondent Ben gives up his career and continues to run her tour, despite his disbelief in the supernatural. Meanwhile, widowed doctor Gabbie and her son Travis move into the abandoned Gracey Manor, planning to turn the mansion into a [[bed and breakfast]], only to discover that it is infested with [[ghost]]s.
+
+Father Kent, an [[exorcism|exorcist]] helping Gabbie, hires Ben to photograph Gracey Manor's ghosts. Unable to find any evidence of ghosts, Ben returns home and is haunted by a ghost of a [[Sailor|mariner]], forcing him to return to the mansion as he learns that the others have fallen victim to hauntings as well. They recruit psychic Harriet and steal the mansion's blueprints from historian Professor Bruce Davis. The group finds a hidden [[séance]] room where Harriet contacts the spirit of William Gracey, who writes a message instructing them to talk to legendary medium Madame Leota. A malevolent entity forces Harriet out of the house, while Bruce arrives and is forced out as well.
+
+The group stays at the mansion, searching for Leota. In the attic, Ben runs afoul of ghostly bride Constance Hatchaway and finds a locked trunk containing a [[crystal ball]] holding Leota herself. She discloses that Gracey recruited her to contact the spirit of his late wife every night for an entire year, resulting in the mansion's ghosts taking up residence. A malevolent spirit later tricked Gracey into committing suicide and trapped Leota inside her crystal ball; having acquired 999 souls throughout the years, the spirit needs one more in order to escape from the mansion. When Harriet performs an [[astral projection]], Ben is sent out of his body instead and encounters Gracey's ghost and the malevolent spirit, [[Hatbox Ghost|whose head disappears and reappears within a hat box they carries]].
+
+A [[Facial composite|police sketch]] artist draws the ghost, allowing the group to identify him as Alistair Crump, a wealthy heir who was shunned by his father and high society; after his father's mysterious death, a vengeful Crump lured his fellow socialites to their deaths while developing an obsession with the [[occult]], until he was assassinated by his much-abused staff. Crump seals the mansion but Ben, Kent and Travis escape to his family home, where the mariner leads them to Crump's hat to use in a banishment ritual.
+
+Returning to Gracey Manor, Kent confesses that he is actually a con man, but he and Ben soon rescue their friends. Crump incinerates his hat and, having been impersonating Travis' late father, plots to make him his final soul. Ben convinces Travis not to give in to his grief and they and Gabbie confront Crump in the mansion's graveyard. Kent rallies the ghosts to rebel against Crump, while Harriet frees Leota and Bruce recovers the remnants of the hat to carry out the banishment ritual. Crump tempts Ben to become his final soul and be reunited with Alyssa, but Ben makes his peace with losing her as Crump is sent back to the netherworld upon the ritual's completion.
+
+Ben continues to move on with his life and discovers the cat staying by his door is named [[Tater tot|Tater Tot]], a nod to his wife's love for the food. The group reunites at the mansion for a [[Halloween]] [[Halloween party|party]]; Ben has returned to teaching, Harriet has regained confidence in her psychic abilities, Kent has been ordained, Travis is elected class vice president, Gabbie has been hired at the local hospital, Bruce maintains his newfound friendships and many of the ghosts have chosen to stay at the mansion, now in harmony with the living residents around here.

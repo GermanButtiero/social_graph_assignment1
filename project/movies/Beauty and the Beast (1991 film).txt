@@ -1,0 +1,63 @@
+{{Infobox film
+| name           = Beauty and the Beast
+| image          = Beauty and the Beast (1991 film) poster.jpg
+| alt            = A silhouette of the Beast dancing with Belle behind warm light. The film's tagline reads "The most beautiful love story ever told" with each word stacked vertically.
+| caption        = Theatrical release poster by [[John Alvin]]<ref>{{cite news|first=Jocelyn|last=Stewart|title=Artist created many famous film posters|url=https://www.latimes.com/news/printedition/california/la-me-alvin10feb10,1,5113268.story|archive-url=https://web.archive.org/web/20100314184353/http://articles.latimes.com/2008/feb/10/local/me-alvin10|archive-date=March 14, 2010|work=[[Los Angeles Times]]|date=February 10, 2008|access-date=February 10, 2008}}</ref>
+| director       = {{Plainlist|
+* [[Gary Trousdale]]
+* [[Kirk Wise]]
+}}
+| producer       = [[Don Hahn]]
+| screenplay     = [[Linda Woolverton]]
+| story          = {{Plainlist|
+* [[Brenda Chapman]]
+* [[Chris Sanders]]
+* [[Burny Mattinson]]
+* Kevin Harkey
+* [[Brian Pimental]]
+* Bruce Woodside
+* [[Joe Ranft]]
+* Tom Ellery
+* [[Kelly Asbury]]
+* Robert Lence
+}}
+| based_on       = "[[Beauty and the Beast]]"
+| starring       = {{Plainlist|
+* [[Paige O'Hara]]
+* [[Robby Benson]]
+* [[Richard White (actor)|Richard White]]
+* [[Jerry Orbach]]
+* [[David Ogden Stiers]]
+* [[Angela Lansbury]]
+* [[Rex Everhart]]
+* [[Jesse Corti]]
+* [[Jo Anne Worley]]
+}}
+| narrator       = <!-- per infobox instructions which say "Note: This field is only to be used for the narrator of documentaries" -->
+| music          = [[Alan Menken]] <!-- Do not add Howard Ashman; this field only calls for music composers. -->
+| editing        = [[John Carnochan]]
+| production_companies = {{Plainlist|
+<!-- * [[Walt Disney Pictures]] presents<ref name=afi>{{cite web|url=http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=55212|title=Beauty and the Beast|work=[[American Film Institute]]|access-date=March 28, 2017|archive-date=April 1, 2017|archive-url=https://web.archive.org/web/20170401061205/http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=55212|url-status=live}}</ref> -->
+* [[Walt Disney Feature Animation]]<ref>{{cite web|url=https://www.the-numbers.com/movie/Beauty-and-the-Beast-(1991)#tab=summary|title=Beauty and the Beast (1991)|work=[[The Numbers (website)|The Numbers]]|access-date=April 3, 2017|archive-date=April 4, 2017|archive-url=https://web.archive.org/web/20170404043146/http://www.the-numbers.com/movie/Beauty-and-the-Beast-(1991)#tab=summary|url-status=live}}</ref>
+<!-- * In association with [[Silver Screen Partners IV]]<ref name=afi/> -->
+}}
+| distributor    = [[Buena Vista Pictures Distribution, Inc.]]{{efn|name=Disney|Distributed by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]] through the [[Walt Disney Pictures]] banner.}}
+| released       = {{Film date|1991|9|29|[[New York Film Festival]]|1991|11|22|United States}}
+| runtime        = 84 minutes<!--Theatrical runtime: 84:16--><ref>{{cite web|url=https://www.bbfc.co.uk/releases/beauty-and-beast-film|title=''Beauty and the Beast'' (U)|work=[[British Board of Film Classification]]|date=February 5, 1992|access-date=September 28, 2016|archive-date=October 2, 2016|archive-url=https://web.archive.org/web/20161002071613/http://www.bbfc.co.uk/releases/beauty-and-beast-film|url-status=dead}}</ref>
+| country        = United States
+| language       = English
+| budget         = $25&nbsp;million<ref name="box office">{{cite web |url= https://www.boxofficemojo.com/title/tt0101414/ |title= Beauty and the Beast (1991) |work= [[Box Office Mojo]] |access-date= September 17, 2020 |archive-date= August 3, 2020 |archive-url= https://web.archive.org/web/20200803181044/https://www.boxofficemojo.com/title/tt0101414/ |url-status= live }}</ref>
+| gross          = $451.2&nbsp;million<ref name="box office" />
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films are to be between 400 to 700 words only. -->
+An [[magician (fantasy)|enchantress]] disguised as an old beggar woman arrives at a castle and offers a cruel and selfish [[Beast (Disney character)|prince]] an enchanted rose in exchange for shelter from a storm. When he scornfully declines, she reveals her true form and transforms him into a beast and his servants into household objects as punishment for his cruelty. To break the curse, the prince must learn to love someone and gain that person's love before the last petal of the rose falls on his 21st birthday; otherwise, he will remain a beast forever.
+
+Several years later, in a nearby village, [[Belle (Disney character)|Belle]], the bookworm daughter of eccentric inventor Maurice, dreams of adventure while constantly rejecting advances from [[Gaston (Beauty and the Beast)|Gaston]], an arrogant hunter. One day, Maurice travels to a local fair to present his latest invention, a wood-chopping machine, but becomes lost in the forest. Upon seeking refuge in the Beast's castle, he is eventually detained for trespassing. After Belle finds Maurice locked in the castle dungeon, she offers to take his place as a prisoner; the Beast agrees, though Maurice does not.
+
+Belle meets the castle's servants, including [[candelabra]] Lumière (who believes that Belle has come to undo the spell), [[mantel clock]] Cogsworth, teapot [[Mrs. Potts]], and her son [[Chip Potts|Chip]], a teacup. When she finds the enchanted rose, the Beast angrily forces her to flee outside. Wolves ambush Belle, and the Beast rescues her, getting injured in the process. As she nurses his wounds, they develop a rapport.
+
+In the village, Maurice fails to convince the townsfolk of the Beast. Hearing Maurice's statements, Gaston bribes Monsieur D'Arque, the warden of the local [[insane asylum]], to have Maurice declared insane and locked up, which Gaston will use to blackmail Belle into marrying him in exchange for Maurice's release. Before they can act, Maurice leaves to attempt a rescue alone. Belle discovers Maurice's predicament via a magic mirror. Out of his love for her, the Beast releases Belle to rescue him. Returning to town, Belle reveals the Beast via the mirror, shocking the townsfolk and proving her father's sanity. Realizing she has fallen for the Beast, Gaston jealously has her thrown into the cellar with Maurice and rallies the villagers to kill the Beast. Chip, who stowed away when Belle left, frees the two with Maurice's machine.
+
+As the castle's servants defeat the villagers, Gaston attacks the depressed Beast, who regains his spirit upon seeing Belle return and spares Gaston's life, but Gaston fatally stabs him before losing his footing and falling to his demise.{{refn|Speaking together, with some crosstalk, [[Gary Trousdale]], [[Kirk Wise]], [[Don Hahn]], and [[Alan Menken]] confirmed on the audio commentary that Gaston died after he fell off the rooftops. Additionally, a frame where Gaston falls reveals skulls in his irises.<ref name="dvdcommentary"/>|group=lower-alpha}} Belle tearfully professes her love to a dying Beast as the last petal falls, which undoes the curse, reviving the Beast, restoring him and his servants to their human forms, and restoring the castle to its true appearance. The prince and Belle later host a ball for the kingdom.

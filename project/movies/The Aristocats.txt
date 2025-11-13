@@ -1,0 +1,63 @@
+{{Infobox film
+| name           = The Aristocats
+| image          = aristoposter.jpg
+| caption        = Original theatrical release poster
+| director       = [[Wolfgang Reitherman]]
+| producer       = [[Winston Hibler]]<br/>Wolfgang Reitherman
+| story          = {{Plainlist|
+* [[Larry Clemmons]]
+* [[Vance Gerry]]
+* [[Frank Thomas (animator)|Frank Thomas]]
+* [[Julius Svendsen]]
+* [[Ken Anderson (animator)|Ken Anderson]]
+* Eric Cleworth
+* [[Ralph Wright]]
+}} 
+| starring       = {{Plainlist|<!--As per opening credits and [[Wikipedia:WikiProject Film]] guidance with infoboxes-->
+* [[Phil Harris]]
+* [[Eva Gabor]]
+* [[Sterling Holloway]]
+* [[Scatman Crothers]]
+* [[Paul Winchell]]
+* [[Lord Tim Hudson]]
+* [[Thurl Ravenscroft]] 
+* [[Vito Scotti]] 
+* Dean Clark 
+* Liz English
+* [[Gary Dubin]]
+* [[Nancy Kulp]]
+* [[Pat Buttram]]
+* [[George Lindsey]]
+* [[Monica Evans]]
+* [[Carole Shelley]]
+* [[Charles Lane (actor, born 1905)|Charles Lane]]
+* [[Hermione Baddeley]]
+* [[Roddy Maude-Roxby]]
+* [[Bill Thompson (voice actor)|Bill Thompson]]
+}}
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| music          = [[George Bruns]]
+| editing        = Tom Acosta
+| released       = {{Film date|1970|12|11|premiere|1970|12|24|United States}} <!-- First and Country of Origin releases per WP:FILMRELEASE. -->
+| runtime        = 79 minutes
+| country        = United States
+| language       = English
+| budget         = $4 million<ref>{{cite news|last=Scott|first=Vernon|url=https://www.newspapers.com/clip/42762710/the_logansport_press/|title=News from Hollywood|newspaper=[[Pharos-Tribune|The Logansport Press]]|page=6|via=[[Newspapers.com]]|date=February 17, 1971|access-date=January 21, 2020|archive-date=February 18, 2023|archive-url=https://web.archive.org/web/20230218002302/https://www.newspapers.com/clip/42762710/the-logansport-press/|url-status=live}} {{Open access}}</ref>
+| gross          = $191 million<ref name="DisneyWW">{{cite magazine |last=D'Alessandro |first=Anthony |title=Cartoon Coffers – Top-Grossing Disney Animated Features at the Worldwide B.O. |url=https://www.thefreelibrary.com/Tooned+in%3A+Disney%27s+ani+classics+set+the+bar+and+lit+the+way+for...-a0110473946 |date=October 27, 2003 |magazine=[[Variety (magazine)|Variety]] |page=6 |access-date=November 5, 2021 |archive-date=November 4, 2020 |archive-url=https://web.archive.org/web/20201104215642/https://www.thefreelibrary.com/Tooned+in%3a+Disney%27s+ani+classics+set+the+bar+and+lit+the+way+for...-a0110473946 |url-status=live |via=TheFreeLibrary.com}}</ref>
+}}
+
+==Plot==
+<!--Per WP:FILMPLOT, plot length should be between 400 and 700 words. Current count is 528 words.-->
+
+In 1910, mother cat Duchess and her three [[kitten]]s, Berlioz, Marie, and Toulouse, live in [[Paris]] with retired opera diva Madame Adelaide Bonfamille, and her English butler, Edgar. The cats are pampered pets that live a luxurious lifestyle and are very cultured in art and music, like their owner.
+
+While preparing her [[will (law)|will]] with elderly lawyer Georges Hautecourt, Madame declares that her vast fortune will be first left to her cats, then revert to Edgar once they all die. Edgar overhears this through a [[speaking tube]] and, after erroneously calculating that he will die before he can claim his inheritance, plots to eliminate the cats. He sedates them by putting [[Hypnotic|sleeping pills]] in a dish of cream, then drives them on his motorcycle out to the countryside in a basket. There, he is ambushed by two [[hound]]s named Napoleon and Lafayette, losing his hat, [[sidecar]], umbrella, shoes, and the basket before escaping. The cats are left stranded in the countryside, while Madame Adelaide, Roquefort the [[mouse]], and Frou-Frou the [[horse]] discover their absence.
+
+The next morning, Duchess meets a [[feral cat]] named Thomas O'Malley, who offers to guide her and the kittens to Paris. The group briefly [[hitchhiking|hitchhikes]] in a milk truck before being chased out by the driver. Later, while crossing a railroad [[Trestle bridge|trestle]], the cats narrowly avoid an oncoming train, and Marie falls into a river. O'Malley immediately dives in and rescues her, and is himself rescued by Amelia and Abigail Gabble, two English [[Goose|geese]] on holiday. The geese lead the cats to the outskirts of Paris, then depart to reunite with their inebriated Uncle Waldo. Meanwhile, Edgar returns to the countryside to retrieve his possessions (the only evidence that can incriminate him) from Napoleon and Lafayette and, after some difficulty, ultimately succeeds.
+
+Traveling across the rooftops of the city, the cats meet up with O'Malley's friend Scat Cat who performs the song "Ev'rybody Wants to Be a Cat" with several other cat musicians. After the band has departed, O'Malley and Duchess converse on a nearby rooftop while the kittens listen at a windowsill. Duchess' loyalty to Madame prompts her to decline O'Malley's [[marriage proposal]]. The next day, Duchess and the kittens return to Madame's mansion. Edgar finds them before Madame does, and places them in a sack, deciding to ship them to [[Timbuktu]].
+ 
+Roquefort catches up with O'Malley at Duchess' instruction, and O'Malley returns to the mansion, sending Roquefort to find Scat Cat and his gang. Though he struggles to explain the situation to the alley cats, Roquefort successfully brings them to O'Malley's aid. O'Malley, the alley cats, and Frou-Frou fight Edgar, while Roquefort frees Duchess and the kittens. At the end of the fight, Edgar is locked in his own packing-case and sent to Timbuktu.
+
+The Aristocats return to Madame Adelaide, who, unaware of the reason for Edgar's departure, rewrites her will to exclude him. After adopting O'Malley into the family, Adelaide establishes a charity foundation, housing stray cats in the mansion. Scat Cat and his gang are the first to move in, and reprise their song so loudly that the two hound dogs can hear it out in the countryside.

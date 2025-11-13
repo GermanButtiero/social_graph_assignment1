@@ -1,0 +1,31 @@
+{{Infobox film
+| name           = Oceans
+| image          = Disney-Nature-Oceans2.jpg
+| caption        = French theatrical release poster
+| director       = [[Jacques Perrin]]<br />Jacques Cluzaud <small>(co-director)</small> 
+| producer       = Jacques Perrin<br />Romain Legrand<br />Nicolas Mauvernay<br />[[Jake Eberts]]
+| writer         = Christophe Cheysson<br />Jacques Cluzaud<br />Laurent Debas<br />Stéphane Durand<br />[[Laurent Gaudé]]<br />Jacques Perrin<br />François Sarano
+| narrator       = Jacques Perrin <small>(French)</small><br />[[Pierce Brosnan]] <small>(English)</small>
+| starring       = 
+| music          = [[Bruno Coulais]]
+| cinematography = David Reichert
+| editing        = Catherine Mauchain<br />Vincent Schmidt
+| studio         = [[Pathé]]<br/>[[Participant Media]]<br />Galatée Films<br />Notro Films<br />[[France 2|France 2 Cinéma]]<br />[[France 3|France 3 Cinéma]]<br />[[Groupe Canal+|Canal+]]<br />[[TPS Star]]<br />[[Alfred P. Sloan Foundation]]<br />[[Census of Marine Life]]<!-- Do not add Disneynature here, please; see WP:FILMRELEASE. -->
+| distributor    = Pathé Distribution<!-- Do not add the US distributor here, please; see WP:FILMRELEASE. -->
+| released       = {{Film date|2009|10|17|[[Tokyo International Film Festival]]|2010|1|24|France}}
+| runtime        = 104 minutes (Original cut)<br />84 minutes (Disney cut)
+| country        = France
+| language       = French
+| budget         = {{Plainlist|
+* €57.1 million<ref>{{Cite web |date=16 March 2011 |title=Liste des 25 films documentaires agréés en 2010 |url=https://www.cnc.fr/documents/36995/151812/les+co%C3%BBts+de+production+des+films+en+2010.pdf/af247311-00ca-27e4-0d33-8edfe2d4428f?t=1532440963092 |website=[[Centre national du cinéma et de l'image animée|CNC]] |page=91 |language=fr}}</ref>
+* (US$80 million)<ref>{{Cite web |title=Oceans (2010) |url=https://www.the-numbers.com/movie/Oceans#tab=summary |website=The Numbers |access-date=24 April 2024}}</ref>
+}}
+| gross          = $82.7 million<ref>{{cite web | url=https://boxofficemojo.com/movies/?id=oceans.htm | title=Oceans (2010) | work=[[Box Office Mojo]] | publisher=[[Internet Movie Database]]}}</ref> <!-- Please do not change the number unless it says so on Box Office Mojo! Furthermore, if you change the number, also update the access date! -->
+}}
+
+== Plot ==
+''Oceans'' presents details and facts about the journey of the ocean. The film begins on a beach with children running to the ocean, one particular boy stops to wonder what the ocean is. The scene cuts to the Galápagos where a clan of [[marine iguana]]s and [[horseshoe crab]]s wander. Then at night an [[Ariane (rocket family)|Ariane]]<ref name="ESA">{{cite web |title=The long-awaited Oceans movie premieres |url=https://www.esa.int/Applications/Observing_the_Earth/The_long-awaited_i_Oceans_i_movie_premieres |website=www.esa.int |publisher=ESA |access-date=25 February 2023 |language=en |date=2010-01-27}}</ref> rocket takes off and surprises the two clans. Meanwhile, the rocket takes off to outer space. Then goes to the trench where the larvae of [[sea urchin]] and the crustacean egg lie. Then comes to a swarm of moon [[jellyfish]]. Then at day, a different type of jellyfish float along the current.
+
+Later at the coast of South Africa, a hungry mob of common [[dolphin]]s, [[gannet]]s, [[bronze whaler shark]]s, and [[brydes whale]]s hunt [[sardine]]s. After the feast, [[manta ray]]s gobble down a few sardines. Moments later, a [[blanket octopus]] swims quietly along the current. Meanwhile, the sardines start making odd shapes. At a beach, [[sea lion]]s rest in the sun. In deeper water, a [[humpback whale]] and her calf start to flipper slap, spyhop, and breach. Meanwhile, the sea lions start hunting. The others on the beach watch sally lightfoot [[crab]]s crawl on the sand. The hunting sea lions are returning home, but some are eaten by a [[great white shark]] and a [[killer whale]]. In the deeper waters, a [[blue whale]] feasts on some [[krill]]. At twilight, birds are flying back to their nests. At night carnivores are out to hunt on the reef including the [[mantis shrimp]] who kills a crab. In Australia, a [[Spanish dancer]] comes out of its home. At day, [[bottlenose dolphin]]s are leaping on the waves. Meanwhile, a [[dugong]] and green [[sea turtle]] are feasting on [[sea grass]]. On the beach, baby sea turtles have to make it to the ocean without being eaten by [[frigatebird]]s, which only one baby turtle survives. In the sea, [[sailfish]] are feasting on fish.
+
+At a [[coral reef]], creatures are minding their own business. Beyond the reef, a [[cuttlefish]] is eating crabs. After that, [[garden eel]]s and [[Centriscidae|razorfish]] act really smooth. After that, [[spider crabs]] start war. Meanwhile, [[humpback whales]], blue whales, [[Molidae|sunfish]], [[blue shark]]s, [[sperm whale]]s and [[whale shark]]s migrate. Then a bunch of [[spinner dolphin]]s, [[yellowfin tuna]], and [[manta ray]]s swim for a long time. Far away, an [[Asian sheepshead wrasse]] is mating. Miles away, a [[sea otter]] is smashing [[clam]]s. In Alaska, the humpback whales have made it to the feeding grounds. The scene cuts to netted sea animals including tuna, whale sharks, sailfish, sea turtles, and sunfish. Along the way, a fishing boat has a hard time fighting the waves. Then a satellite shows the trash in the ocean. Underwater, tons of trash is destroying a [[fur seal]]'s home. The scene cuts to the 2 polar regions, Arctic and Antarctica. Then, divers are discovering the ocean, and one of them swims with a great white shark. At the end, the narrator says "we shouldn't ask what exactly is the ocean, we should ask what exactly are we".

@@ -1,0 +1,63 @@
+{{Infobox film
+| image          = A Goofy Movie poster.jpg
+| alt            = Goofy and Max dance over a blue background.
+| caption        = Theatrical release poster
+| director       = [[Kevin Lima]]
+| producer       = Dan Rounds
+| screenplay     = {{Plainlist|
+* [[Jymn Magon]]
+* [[Chris Matheson (screenwriter)|Chris Matheson]]
+* [[Brian Pimental]]
+}}
+| story          = Jymn Magon
+| based_on       = {{Plainlist|
+{{based on|''[[Goof Troop]]''|[[Robert Taylor (animator)|Robert Taylor]]|[[Michael Peraza|Michael Peraza Jr.]]}}
+{{based on|''[[Goofy]]''|[[Art Babbitt]]|Frank Webb}}
+}}
+| starring = {{Plainlist|
+* [[Bill Farmer]]
+* [[Jason Marsden]]
+* [[Jim Cummings]]
+* [[Kellie Martin]]
+* [[Rob Paulsen]]
+* [[Wallace Shawn]]
+* [[Jenna von Oÿ]]
+* [[Frank Welker]]
+* Kevin Lima
+* [[Florence Stanley]]
+* [[Jo Anne Worley]]
+* [[Matisse (singer)|Brittany Alyse Smith]]
+* Robyn Richards
+* [[Julie Brown]]
+* Klée Bragger
+* [[Joey Lawrence]]
+* [[Pat Buttram]]
+* [[Wayne Allwine]]
+* Herschel Sparber}}
+| music          = [[Carter Burwell]]
+| editing        = Gregory Perler
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]<ref name="afi">{{Cite web |title=A Goofy Movie |url=https://catalog.afi.com/Catalog/MovieDetails/59905 |url-status=live |archive-url=https://web.archive.org/web/20210709190856/https://catalog.afi.com/Catalog/MovieDetails/59905 |archive-date=July 9, 2021 |access-date=May 18, 2020 |website=[[AFI Catalog of Feature Films]]}}</ref>
+* [[Disney Television Animation|Walt Disney Television Animation]]<ref>{{Cite news
+|date=June 7, 1995 |title=Report: Top Disney TV Animation Exec Plans to Leave |url=https://apnews.com/article/a1e2dc9126b36d0e5cac71d2bc482824 |url-status=live |archive-url=https://web.archive.org/web/20210114005420/https://apnews.com/article/a1e2dc9126b36d0e5cac71d2bc482824 |archive-date=January 14, 2021 |access-date=December 10, 2020 |work=[[Associated Press]]}}</ref>{{efn|Animation services handled by [[Disneytoon Studios|Disney MovieToons]], [[Walt Disney Animation France]], and [[Walt Disney Animation Australia]].<ref name="Variety" /><ref name="vf 25th" />}}
+}}
+| distributor    = [[Buena Vista Pictures Distribution]]<ref name=afi/>
+| released       = {{Film date|1995|04|07|ref1=<ref name=afi/>}}
+| runtime        = 78 minutes<!--Theatrical runtime: 77:46--><ref>{{Cite web |date=May 14, 1996 |title=''A Goofy Movie'' (U) |url=https://www.bbfc.co.uk/releases/goofy-movie-1970-2 |url-status=dead |archive-url=https://web.archive.org/web/20160827210228/http://www.bbfc.co.uk/releases/goofy-movie-1970-2 |archive-date=August 27, 2016 |access-date=August 19, 2016 |website=[[British Board of Film Classification]]}}</ref>
+| country        = United States<ref name=afi/> 
+| language       = English
+| budget         = $18 million
+| gross          = $37.6 million<ref name="ww">{{Cite magazine |last=Klady |first=Leonard |date=February 19, 1996 |title=B.O. with a Vengeance: $9.1 Billion Worldwide |magazine=[[Variety (magazine)|Variety]] |page=1}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+[[Max Goof]] is an average teenager who pines after his classmate Roxanne, idolizes the pop star Powerline, and has a tense relationship with his clumsy, old-fashioned father [[Goofy]], whom he fears he may end up taking after when he grows up, having already inherited his laugh. On the last day of school before summer vacation, Max, with help from his friends [[Pete Junior|P.J.]] and Bobby, hijacks a school assembly and dances while [[lip syncing]] to a Powerline song. The performance succeeds in making Max a school celebrity, and he invites Roxanne with him to a viewing party of a live broadcast of Powerline's upcoming concert in [[Los Angeles]].
+
+Goofy, after school principal Mazur warns him about Max's potential [[juvenile delinquency]], immediately plans a fishing trip to Lake Destiny, [[Idaho]], to curb his son's behavior. Max attempts to cancel his date with Roxanne, but panics and tells her that not only are he and Goofy traveling to Los Angeles to attend the concert, but that Powerline has invited them onstage.
+
+Goofy and Max hit the road, visiting a run-down [[opossum|possum]]-themed [[amusement park]] where Goofy embarrasses Max. The next day, they run into P.J. and his father, [[Pete (Disney)|Pete]], while camping. Goofy takes his son fishing and shows him the "Perfect Cast" fishing technique, accidentally luring [[Bigfoot]] to their camp and forcing Goofy and Max to spend the night in the car with Bigfoot outside. While Goofy sleeps, Max alters the map's route to Los Angeles.
+
+The next morning, Goofy makes Max the navigator of the trip, and the two enjoy several stops together. That night, while staying at the same motel, Pete overhears a conversation between Max and P.J. and informs Goofy that Max has tricked him into traveling to Los Angeles. Goofy still believes Max will do the right thing, but the next morning, Max chooses the route to California, and Goofy stops the car at the [[Grand Canyon]] and storms off. With the brake loose, the car drives off on its own; Goofy and Max chase after it and end up riding the car down the [[Colorado River]]. After a brief argument, Goofy says no matter how old Max gets he will always be his son, and the two finally reconcile. After learning about Max's promise to Roxanne, Goofy decides to take him to the concert. The two nearly plummet down a waterfall, but Max rescues Goofy using the Perfect Cast technique.
+
+In Los Angeles, Goofy and Max arrive at the concert, sneak on to the stage, and dance with Powerline, delighting Roxanne. Max and Goofy return home in their barely functioning car and Max tells Roxanne the truth; she admits she always liked him and they make plans to go out. The car explodes, ejecting Goofy into the porch roof of Roxanne's house, and Max proudly introduces his father to his new girlfriend.

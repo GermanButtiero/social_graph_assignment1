@@ -1,0 +1,46 @@
+{{Infobox film
+|name           = Inspector Gadget 2
+|image          = Inspectorgadget2-1-.jpg
+|caption        = American DVD cover
+|director       = [[Alex Zamm]]
+|writer         = {{Plain list|
+*Ron Anderson
+*William Robertson
+*Alex Zamm
+}}
+|based_on = {{basedon|''[[Inspector Gadget (1983 TV series)|Inspector Gadget]]''|[[Andy Heyward]]<br>[[Jean Chalopin]]<br>[[Bruno Bianchi (cartoonist)|Bruno Bianchi]]}}
+|producer       = {{Plain list|
+*[[Charles Hirschhorn]]
+*Peter M. Green
+}}
+|starring       = {{Plain list|
+*[[French Stewart]]
+*[[Elaine Hendrix]]
+*[[Tony Martin (Australian actor)|Tony Martin]]
+}}
+|studio         = [[Walt Disney Pictures]]<br>Fountain Productions
+|distributor    = [[Buena Vista Home Entertainment]]
+|music          = Chris Hajian
+|cinematography = Geoffrey Wharton
+|editing        = Jimmy Hill
+|country        = United States
+|released       = {{Film date|2003|3|11}}
+|runtime        = 88 minutes
+|budget         = $12 million
+|language       = English
+}}
+
+==Plot== 
+Crime in Riverton has ceased ever since Dr. Claw was arrested and sent to prison, and [[Inspector Gadget]] and his Gadgetmobile are having problems in their line of work, mostly because Gadget, out of boredom, is overreacting to and sending people to jail for unintentional and minor transgressions by them against the law (such as sending a group of [[Girl Scouts of the USA|Girl Scouts]] to jail for selling cookies that were barely past the expiration date). To make things worse, he has been having problems with glitches that cause the wrong weapon to be activated whenever he says "Go go gadget…".
+
+Tired of Gadget overfilling his jail unit for ridiculous reasons, Chief Quimby angrily puts Gadget on probation after Quimby's mother is charged for going slightly above the speed limit on a mostly-deserted highway. At this time, Dr. Claw escapes from prison, seeking to exact revenge on Gadget for putting him in prison and to restart his multi-million-dollar empire. Mayor Wilson takes this opportunity to create and unveil an upgraded female Gadget-type robot, Gadget Model #2 (G2 for short), believing that the malfunctioning Gadget will soon be undone. Gadget begins to fall in love with G2, though she does not reciprocate as she prefers to work alone, viewing him as a nuisance but simultaneously appreciating his determination to fight crime.
+
+Dr. Claw hatches a new plan to steal five trillion dollars' worth of gold from the Federal Reserve. Gadget repeatedly attempts to stop him, but is continually foiled by his own bumbling and gadgetry glitches, which allow Claw's henchmen, Brick and McKibble, and their three additional recruits (Squint, Jungle Bob, and The Ninja) to steal components for the scheme unnoticed; his antics also prevent G2 from stopping Claw. Increasingly frustrated, Quimby eventually fires Gadget after Claw's men install a circuit override chip on Gadget at a science convention, allowing Claw to control him like a puppet and cause significant damage, despite that Gadget has enough evidence from scientists, including his scientist friend Baxter, to prove that it wasn't his fault. Gadget's niece Penny, who had been desiring to help Gadget with the case in spite of Gadget being against it due to her age, offers to help, but Gadget again refuses. Dejected at first, Penny quickly resolves to help Gadget and solve the case herself, and sets out to do so with the assistance of her dog Brain.
+
+Following several unsuccessful jobs, Gadget is hired as a parking valet. Claw infiltrates a fundraiser hosted by Wilson and activates a bowling pin containing laughing gas to distract the guests as he steals a 50,000-karat ruby on loan from the Rajah of India, before trapping G2, who is immune to the gas, with a magnet. Afterwards, Claw and his minions escape, but Gadget fails to recognize them. Wilson orders Quimby to deactivate G2 and terminate the Gadget program for good in order to distract the public from the police's incompetence in stopping Claw.
+
+Meanwhile, Penny and Brain's investigation leads them to find and infiltrate Claw's hideout at the abandoned Bowl-Rite factory outside the city, but Penny is captured by Claw and his minions. Gadget ventures to Baxter's laboratory to reactivate G2, who realizes that Gadget truly cares for her. Brain, having escaped Claw's men, tells them through Baxter's bark-translating device that Claw has kidnapped Penny and has used the three stolen supplies (ionic fuel cells, a protoid laser, and a ruby) to build a super-weapon. Upon realizing that Claw is based in the Bowl-Rite factory, Gadget finally connects the evidence Penny previously presented to him, and G2 agrees to help him save her and foil Claw's scheme.
+
+The next day, Claw activates his machine: a laser that freezes time in Riverton, allowing Claw and his henchmen to easily rob the Federal Reserve, while planning to use the laser on the entire world so that he can rob other valuables. The Gadgets manage to avoid the weapon's blast and confront the group there. Claw orders his other minions to attack the pair so he, Brick, and McKibble can escape, but the pair decide to switch chips so that Gadget can function perfectly; despite glitches, G2 successfully captures Claw's hired goons. Gadget pursues Claw, who drops Penny off the truck in a go-kart loaded with explosives. After he rescues her, both reunite with G2 and the Gadgetmobile. At a bridge, Gadget stops Claw's truck with a puddle of bubble gum. Brick and McKibble attempt escape, but get stuck in the puddle and are arrested. Claw escapes in a rocket-like pod, vowing that he'll get Gadget "next time", and Penny and the Gadgets reverse the effects of the laser and unfreeze Riverton.
+
+Wilson and Quimby congratulate the Gadgets for their heroic efforts, with Gadget, having been happily reinstated by Quimby, also giving credit to Penny, admitting he is proud to have her as a partner and awarding her a Junior Inspector Medal for her meritorious conduct. As Gadget and G2 share a kiss outside the city hall, fireworks emerge from Gadget's hat. A firecracker lands right near Quimby and Wilson and explodes shortly afterwards, causing both of them to angrily yell out to Gadget.

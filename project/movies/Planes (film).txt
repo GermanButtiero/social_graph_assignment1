@@ -1,0 +1,35 @@
+{{Infobox film
+| name           = Planes
+| image          = Planes_FilmPoster.jpeg
+| caption        = Theatrical release poster
+| alt            = Ripslinger, Dusty and El Chupacabra flying along in the cloudy sky.
+| director       = [[Klay Hall]]
+| producer       = Traci Balthazor-Flynn
+| screenplay     = Jeffrey M. Howard
+| story          = {{ubl|[[John Lasseter]]|Klay Hall|Jeffrey M. Howard}}
+| starring       = {{ubl|[[Dane Cook]]|[[Stacy Keach]]|[[Priyanka Chopra]]|[[Teri Hatcher]]|[[Brad Garrett]]|[[Julia Louis-Dreyfus]]|[[Roger Craig Smith]]|[[John Cleese]]|[[Carlos Alazraqui]]|[[Anthony Edwards (actor)|Anthony Edwards]]|[[Sinbad (comedian)|Sinbad]]|[[Val Kilmer]]}}
+| music          = [[Mark Mancina]]
+| editing        = Jeremy Milton
+| studio         = [[Walt Disney Pictures]]<br />[[Disneytoon Studios]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]<!-- Text formatting is used in this link to ensure correct formatting at all screen resolutions. -->
+| released       = {{Film date|2013|08|02|[[EAA AirVenture Oshkosh]]|2013|08|09|United States}}
+| runtime        = 92 minutes<!--Theatrical runtime: 91:38--><ref>{{cite web|title=''PLANES'' (U)|url=https://www.bbfc.co.uk/releases/planes-8|work=[[British Board of Film Classification]]|date=July 16, 2013|access-date=July 16, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131005142443/http://www.bbfc.co.uk/releases/planes-8|archive-date=October 5, 2013|df=mdy-all}}</ref>
+| country        = United States
+| language       = English
+| budget         = $50 million<ref name=bom>{{cite web|url= https://www.boxofficemojo.com/title/tt1691917/ |title=Planes (2013)|website=[[Box Office Mojo]]|access-date=May 3, 2023}}</ref>
+| gross          = $240.2 million<ref name=bom/>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, the plot summary should be 400-700 words. -->
+Dusty Crophopper, a young [[Aerial application|crop duster]] plane, works at a cornfield in Propwash Junction, [[Minnesota]], and practices [[aerobatic maneuver]]s in his spare time. He dreams of becoming a racer but is scorned by his boss, Leadbottom, and his [[Forklift truck|forklift]] mechanic friend, Dottie. However, he is supported by his fuel truck friend, Chug; Dusty and Chug train for qualifiers for the upcoming Wings Around the Globe Rally. On the night before the qualifiers, Dusty asks an elderly navy war plane named Skipper Riley to teach him to fly well, but Skipper declines. The next day, Dusty barely qualifies on a [[legal technicality]].
+
+Skipper eventually decides to mentor Dusty, and discovers Dusty has a [[acrophobia|fear of heights]]. With training complete, Dusty travels to [[New York City]] for the race. There, he befriends a Mexican racer named El [[Chupacabra]], who falls in love with a French-Canadian racer named Rochelle but consistently fails to woo her. Three-time defending champion Ripslinger dismisses Dusty. Dusty falls in love with an Indian plane named Ishani, who becomes supportive of him. During the first leg of the race from New York to [[Iceland]], Dusty's refusal to fly high causes him to finish in last place.
+
+During the second leg of the race to Germany, Dusty shows good sportsmanship by saving another racer, [[De Havilland DH.88 Comet|Bulldog]], from crashing, gaining his respect but finishing last again. After the third leg of the race to [[Agra]] in [[India]], Ishani invites Dusty to fly around the [[Taj Mahal]] and advises him to fly low through the [[Himalayas]] by following some railroad tracks. After flying through a tunnel, Dusty is in first place at [[Upper Mustang]] in [[Nepal]], but he is upset to discover that Ishani set him up in exchange for a new propeller from Ripslinger's team, and he shuns her.
+
+The fifth leg is over [[the Hump]] (the mountains between northeast India and south China) to [[Shanghai]], where Dusty gets into first place again. He manages to help El Chupacabra win over Rochelle with a romantic song. In the sixth leg of the race across the Pacific, Ripslinger has his sidekicks Ned and Zed break off Dusty's navigation antenna. Lost and low on fuel, Dusty comes across the USS ''Dwight D. Flysenhower'', the naval base of Skipper's squadron, the Jolly Wrenches, which allows him to land. On the carrier, Dusty discovers that contrary to Skipper's own descriptions, he only flew one mission during war. Before he can obtain answers, a thunderstorm strikes, and he is forced to depart by the carrier crew. However, he ends up crashing into the Pacific Ocean and is severely damaged.
+
+Dusty is salvaged and transported to [[Mexico]] where his concerned friends are also present. Skipper confesses his entire squadron perished when he was coaxed to lead an attack by one of his fighters on a recon mission; he never flew again after the navy salvaged him. Dusty considers dropping out of the race, but is encouraged to continue by many of his fellow competitors, who donate parts to repair the damage he sustained. Ishani also gives Dusty her new propeller, reconciling their friendship.
+
+Racing back to New York, Ripslinger plots to finish off Dusty again but is thwarted by Skipper, who regains his courage to fly. Dusty conquers his acrophobia when he rides a [[jetstream]]. Nearing the finish line, Ripslinger slows for the cameras, which allows Dusty to pass him at the last second and win. Dusty is congratulated by his friends, and Skipper thanks him for giving him the confidence to fly again. Dusty and Skipper visit the ''Flysenhower'', where the former is inducted as an honorary Jolly Wrench in recognition of his victory. The two are launched off and decide to race back to Propwash Junction.

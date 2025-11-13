@@ -1,0 +1,63 @@
+{{Infobox film
+| name           = Alice Through the Looking Glass
+| image          = Alice Through the Looking Glass (2016 film) poster.png
+| caption        = Theatrical release poster
+| director       = [[James Bobin]]
+| producer       = {{Plainlist|
+* [[Joe Roth]]
+* [[Suzanne Todd]]
+* [[Jennifer Todd]]
+* [[Tim Burton]]
+}}
+| writer         = [[Linda Woolverton]]
+| based_on       = {{Plainlist|
+* {{Based on|''[[Through the Looking-Glass]]''|[[Lewis Carroll]]}}
+* {{Based on|[[Alice in Wonderland (1951 film)|''Alice in Wonderland'']]|[[Walt Disney]]}}
+}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Johnny Depp]]
+* [[Anne Hathaway]]
+* [[Mia Wasikowska]]
+* [[Rhys Ifans]]
+* [[Helena Bonham Carter]]
+* [[Sacha Baron Cohen]]
+* [[Alan Rickman]]
+* [[Stephen Fry]]
+* [[Michael Sheen]]
+* [[Timothy Spall]]
+}}
+<!--Only the principal cast based on the poster should be credited.-->| music          = [[Danny Elfman]]
+| cinematography = [[Stuart Dryburgh]]
+| editing        = [[Andrew Weisblum]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Roth/Kirschenbaum Films|Roth Films]]
+* Team Todd
+* [[Tim Burton Productions]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]
+| released       = {{Film date|2016|05|10|[[London]]|2016|5|27|United States}}
+| runtime        = 113 minutes<ref name=BOM/>
+| country        = United States
+| language       = English
+| budget         = $170 million<ref>{{cite web|url=http://mobile.nytimes.com/2016/05/22/movies/alice-through-the-looking-glass-director-james-bobin.html?rref=collection%2Fsectioncollection%2Fmovies&action=click&contentCollection=movies&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront&referer=https://www.nytimes.com/section/movies|title=Alice in Wonderland, With Even More British Whimsy|author=Brooks Barnes|work=[[The New York Times]]|date=May 17, 2016|access-date=May 18, 2016|archive-date=January 30, 2018|archive-url=https://web.archive.org/web/20180130151102/https://mobile.nytimes.com/2016/05/22/movies/alice-through-the-looking-glass-director-james-bobin.html?rref=collection%2Fsectioncollection%2Fmovies&action=click&contentCollection=movies&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront&referer=https://www.nytimes.com/section/movies|url-status=live}}</ref>
+| gross          = $299.5 million<ref name="BOM">{{cite web|url=https://www.boxofficemojo.com/movies/?id=alice2.htm|title=Alice Through the Looking Glass (2016)|work=[[Box Office Mojo]]|access-date=December 10, 2016|archive-date=May 14, 2019|archive-url=https://web.archive.org/web/20190514195348/https://www.boxofficemojo.com/movies/?id=alice2.htm|url-status=live}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, please keep the world count reasonable. The plot summary should be under 700 words. -->
+For three years, [[Alice (Alice's Adventures in Wonderland)|Alice Kingsleigh]] has been following her father's footsteps and sailing the high seas. Returning to [[19th-century London|London]] from [[Qing dynasty|China]], she learns that her ex-fiancé Hamish Ascot has taken over his deceased father's company and plans to have Alice sign over her father's ship in exchange for her family home.
+
+Alice follows a butterfly she recognizes as [[Caterpillar (Alice's Adventures in Wonderland)|Absolem]], who was previously a caterpillar, and returns to [[Wonderland (fictional country)|Wonderland]] through a mirror. Alice is greeted by the [[White Queen (Through the Looking-Glass)|White Queen]], the [[White Rabbit]], the [[Tweedledum and Tweedledee#2010|Tweedles]], the [[The Dormouse|Dormouse]], the [[March Hare]], the [[Puppy (Alice's Adventures in Wonderland)|Bloodhound]] and the [[Cheshire Cat]], who reveal that the [[Hatter (Alice's Adventures in Wonderland)|Mad Hatter]] is acting madder than usual because his family is gone.
+
+Alice tries to console the Hatter, but he remains certain that his family is still alive. Seeing it as the only way to restore his health, the White Queen sends Alice to consult Time and convince him to save the Hatter's family in the past. The Queen warns Alice that history will be destroyed if a person's past and present selves meet. In Time's Castle of Eternity lies the Chronosphere, an object that controls all of time in Wonderland. After Time tells Alice that altering the past is impossible, she steals the Chronosphere and travels back in time. 
+
+The exiled [[Red Queen (Through the Looking-Glass)|Red Queen]] orders Time to pursue Alice, who accidentally travels to the Red Queen's crowning. There, a younger Mad Hatter mocks the Red Queen when the crown does not fit her abnormal head. When her father deems her unfit to rule, the Red Queen throws a tantrum that causes her head to swell and vows revenge on the Hatter. Alice learns of an event in both the Queens' pasts that causes friction between the two and travels back in time again, hoping to change the Red Queen's character.
+
+The young White Queen steals a [[tart]] from her mother and leaves crumbs under her sister's bed. When confronted by their mother, the White Queen lies and lets her sister take the blame, causing the young Red Queen to run out of the castle in tears. Alice sees her about to run into a clock being carried across the square; believing this to be the event that changes her head, she pushes the clock out of the way. However, the young Red Queen still falls and hits her head. Alice is confronted by a weakened Time, who berates her for putting all of time in danger. She runs into a nearby mirror and back into the real world, where she wakes up in a mental hospital, diagnosed with [[female hysteria]]. With the help of her mother, she returns to Wonderland, travels to the [[Jabberwocky]] attack and discovers that the Hatter's family was captured by the Red Queen's [[List of minor characters in the Alice series#The Playing Cards|Red Knights]].
+
+Returning to the present, Alice sees that the Mad Hatter is at the brink of death. After Alice tearfully says she believes him, the Hatter awakens and reforms back to his normal self. The Wonderlanders go to the Red Queen's second castle and find the Hatter's family shrunk and trapped in an ant farm. The Red Queen apprehends them and steals the Chronosphere from Alice, taking her sister back to the day she lied about the tart to hide behind a door and listen to the scene. The White Queen whispers "No," as her younger self denies stealing the tart; the Red Queen furiously bursts through the door and screams at her sister's younger self. The young Red Queen sees her older self, creating a time paradox, and their faces and bodies rust. All of Wonderland then begins to be taken over by the rust.
+
+Using the Chronosphere, Alice and the Hatter race back to the present, where Alice runs for her life to place the Chronosphere back in its original place. Initially, she outruns the rust, but is stopped with her hand just above the stand. Sparks make the connection and the rust dissolves. The Mad Hatter reunites with his family, while the White Queen apologizes to the redeemed Red Queen for lying. Alice bids her friends farewell and returns to the real world.
+
+Upon Alice's return, her mother refuses to turn Alice's ship over to Hamish. Alice and her mother start their own company and travel on its behalf.

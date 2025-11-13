@@ -1,0 +1,53 @@
+{{Infobox film
+| image          = Freakier Friday (film poster).png
+| caption        = Theatrical release poster
+| director       = [[Nisha Ganatra]]
+| screenplay     = [[Jordan Weiss]]
+| story          = {{Plainlist|
+* Elyse Hollander
+* Jordan Weiss
+}}
+| based_on       = {{Based on|''[[Freaky Friday]]''|[[Mary Rodgers]]}}
+| producer       = {{Plainlist|
+* [[Kristin Burr]]
+* [[Andrew Gunn (film producer)|Andrew Gunn]]
+* [[Jamie Lee Curtis]]
+}}
+| starring       = {{Plainlist|<!-- order per poster -->
+* Jamie Lee Curtis
+* [[Lindsay Lohan]]
+* [[Julia Butters]]
+* [[Sophia Hammons]]
+* [[Manny Jacinto]]
+* [[Mark Harmon]]
+}}
+| cinematography = Matthew Clark
+| editing        = Eleanor Infante
+| music          = [[Amie Doherty]]
+| studio         = {{Plainlist|<!-- per poster billing -->
+* [[Walt Disney Pictures]]
+* Gunn Films
+* Burr! Productions
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures]]
+| released       = {{Film date|2025|07|22|[[El Capitan Theatre]]|2025|08|8|United States}}
+| runtime        = 111 minutes<ref>{{Cite web |date=June 25, 2025 |title=''Freakier Friday'' [PG] |url=https://www.classification.gov.au/titles/freakier-friday |access-date=June 27, 2025 |publisher=[[Australian Classification Board]]|archive-date=June 27, 2025|archive-url=https://web.archive.org/web/20250627192802/https://www.classification.gov.au/titles/freakier-friday|url-status=live}}</ref>
+| country        = United States
+| language       = English
+| budget         = $42–45 million<ref name="VAR">{{Cite web |last=Rubin |first=Rebecca |date=August 6, 2025 |title=Box Office: 'Freakier Friday' and 'Weapons' Battle for First Place Over 'Fantastic Four' |url=https://variety.com/2025/film/box-office/freakier-friday-weapons-opening-weekend-projections-1236477840/ |access-date=August 6, 2025 |archive-date=August 6, 2025 |archive-url=https://web.archive.org/web/20250806230618/https://variety.com/2025/film/box-office/freakier-friday-weapons-opening-weekend-projections-1236477840/ |url-status=live|magazine=[[Variety (magazine)|Variety]]}}</ref><ref name=opening/>
+| gross          = $153.2 million<ref name=BOM>{{Cite Box Office Mojo |title=Freakier Friday |id=tt31956415/ |access-date=November 3, 2025 |publisher_hide=yes}}</ref><ref name=NUM>{{Cite The Numbers |title=Freakier Friday  – Financial Information |id=Freakier-Friday-(2025) |access-date=November 3, 2025 |publisher_hide=yes}}</ref>
+}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summary should be between 400 to 700 words. -->
+Twenty-two years after the body swapping incident, a now adult Anna Coleman works as a music producer and is a single parent by choice, raising her teenage daughter Harper with the occasional help of her mother Tess. At school, Harper is constantly annoyed by her new classmate, British immigrant Lily Reyes, due to her snobbish personality.
+
+When Harper and Lily cause an incident in chemistry class, Anna is called to the principal's office, meets Lily's father Eric, and they fall in love. Six months later, they are engaged, and the soon-to-be stepsisters are dissatisfied with their predicament. Harper also worries that her mother will consider moving them to London as Lily wants to return there to attend a fashion academy in honor of her late mother. During Anna's [[bachelorette party]], Anna and Tess and later Harper and Lily have separate [[palm reading]]s from the supposed psychic Madame Jen, who tells Harper and Lily a fortune about their fractured lives. An earthquake then occurs, which only the four feel. The next morning, they discover that they switched bodies; Anna with Harper, and Tess with Lily.
+
+The experienced Anna and Tess advise Harper and Lily to pretend to be each other rather than telling anyone about the switch until they can change back. Realizing their new identities could help them break their parents apart, Harper and Lily lie about Madame Jen giving them a reading to delay the reverse. Anna and Tess go to school and spend time in detention for a [[food fight]] Harper and Lily caused at a [[bake sale]], while Harper and Lily enjoy the advantages of being adults and come up with a sabotage plan to cancel the wedding. At a photoshoot of Anna's client Ella, Harper and Lily help the young singer overcome her recent breakup. They learn about Anna's abandoned rock star dreams and find a love song, which they assume Anna wrote about her high school ex-boyfriend Jake Austin. They seek Jake, and Harper embarrasses herself when unsuccessfully trying to seduce him in Anna's body to disrupt the relationship with Eric.
+
+After escaping detention, Anna and Tess find Madame Jen, who reveals Harper and Lily's fortune but warns them that all the four of them need to "change their hearts" in order to change back. Meanwhile, Harper, as Anna, goes to an [[United States Citizenship and Immigration Services|immigration interview]] with Eric, and finds out how much he knows about and loves her mother. Eric also says that he thinks it would be the best for their families to stay in Los Angeles, causing Harper to have second thoughts about their sabotage plan. Lily, however, remains determined. She invites Jake to the rehearsal dinner and makes a scene by criticizing the Colemans, leading to a heated public argument. Eric decides he cannot continue this way, and calls off the wedding.
+
+Following a heartfelt conversation with Tess about her homesickness and the loss of her mother, Lily starts to realize the error of her ways. As Tess, she tries to convince her father not to give up on Anna. At the same time, Anna, followed by Harper, is called to Ella's concert, learning that Ella invited her old band, the Pink Slip, so they could perform together again. Although happy for the reunion, Anna tells Harper she never regretted abandoning her musical aspirations because Harper is the best decision she ever made, and the love song was actually written about her. Mother and daughter reconnect as they play the song together on stage. Tess and Lily arrive in time to see it, with Lily happily stating she wants to be a part of this family. Having a change of heart, they all return to their original bodies. Eric arrives to the concert, and he and Anna rekindle their relationship.
+
+The wedding is held the next day. Some time later, the family attends the launch event of Tess's latest book. Tess is shocked to learn that Lily, while she was in Tess's body, took an unflattering picture of her for the book's cover after applying [[lip plumper]].

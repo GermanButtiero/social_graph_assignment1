@@ -1,0 +1,55 @@
+{{Infobox film
+| name           = Pinocchio
+| image          = Pinocchio 2022 film poster.png
+| alt            = An elderly human man, Geppetto, speaks to a living wooden puppet, Pinocchio, in a house filled with cuckoo clocks. A bluish light shines through a window on Geppetto and Pinocchio.
+| caption        = Official release poster
+| director       = [[Robert Zemeckis]]
+| screenplay     = {{Plainlist|
+* Robert Zemeckis
+* [[Chris Weitz]]
+}}
+| based_on       = {{Based on|[[Walt Disney Animation Studios|Disney]]'s ''[[Pinocchio (1940 film)|Pinocchio]]''}}<br /> {{Based on|''[[The Adventures of Pinocchio]]''|[[Carlo Collodi]]}}
+| producer       = {{Plainlist|
+* Andrew Milano
+* Chris Weitz
+* Robert Zemeckis
+* Derek Hogue
+}}
+| starring       = {{Plainlist|<!--Per end credits-->
+* [[Tom Hanks]]
+* [[Benjamin Evan Ainsworth]] 
+* [[Joseph Gordon-Levitt]]
+* [[Keegan-Michael Key]]
+* [[Lorraine Bracco]]
+* [[Cynthia Erivo]]
+* [[Luke Evans]]
+}}
+| cinematography = [[Don Burgess (cinematographer)|Don Burgess]]
+| editing        = {{Plainlist|
+* Jesse Goldsmith
+* [[Mick Audsley]]
+}}
+| music          = [[Alan Silvestri]]
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]
+* Depth of Field
+* [[ImageMovers]]
+}}
+| distributor    = [[Disney+]]
+| released       = {{Film date|2022|9|8}}
+| runtime        = 105 minutes
+| country        = United States
+| language       = English
+| budget         = $150 million<ref>{{Cite web |last=Robb |first=David |date=November 22, 2022 |title=California's Film Incentives Program Sees Growth In Jobs & Production Spending, But "Lack Of Available Funds" Still Leads Many Projects To Flee The State |url=https://deadline.com/2022/11/california-runaway-production-tax-incentives-program-1235179658/ |url-status=live |archive-url=https://web.archive.org/web/20221122160117/https://deadline.com/2022/11/california-runaway-production-tax-incentives-program-1235179658/ |archive-date=November 22, 2022 |access-date=March 16, 2023 |website=[[Deadline Hollywood]]}}</ref>
+}}
+
+== Plot ==
+In a small [[Kingdom of Italy|Italian]] village in 1900, a vagrant cricket named [[Jiminy Cricket]] enters the home of a widowed elderly woodcarver named [[Geppetto]], who lives with his pet kitten Figaro and goldfish Cleo. Geppetto has completed work on a [[puppet]] based on his young deceased son, which he names [[Pinocchio]]. Before falling asleep, Geppetto makes a [[When You Wish Upon a Star|wish on a star]]. Later that night, the star magically brings Pinocchio to life and he is soon visited by the [[Fairy with Turquoise Hair|Blue Fairy]] who tells him that if he acts brave, truthful and selfless, he can be a real boy. The Blue Fairy appoints Jiminy the responsibility of being Pinocchio's conscience to teach him right from wrong. When Geppetto awakens and finds Pinocchio alive, he is at first shocked, but becomes overjoyed.
+
+After a few days, Geppetto sends Pinocchio to school. The fox con-artist, [[The Fox and the Cat|"Honest" John, and his cat partner, Gideon]], soon approach Pinocchio. He convinces Pinocchio that he should live a life of fame to truly be a real boy when he really plans to sell him to the puppet master [[Mangiafuoco|Stromboli]]. With the help of a [[Gull|seagull]] named Sofia, Jiminy convinces Pinocchio to go to school, but the [[head teacher|headmaster]] throws Pinocchio out of the school because he is a puppet. Pinocchio decides to go to Stromboli's after all while Honest John places a glass jar over Jiminy. Geppetto, Figaro, and Cleo go out to look for Pinocchio when he fails to come home for dinner. At Stromboli's theater, Pinocchio befriends one of Stromboli's employees, Fabiana and her puppet Sabina. Pinocchio puts on a good show for the crowd, but Stromboli locks him in a [[bird cage]] to prevent him from ever leaving. Stromboli's coach ends up freeing Jiminy from the jar and Pinocchio has him reach the keys for the cage's lock by telling lies to make his nose grow longer.
+
+Soon, Pinocchio is swiped up by a coach full of children driven by a charismatic [[The Coachman|Coachman]], who is taking them to [[Land of Toys|Pleasure Island]], where misbehavior is encouraged. Once there, Pinocchio is disturbed by some of the brutality the kids display, but befriends an irresponsible boy named [[Candlewick (character)|Lampwick]] and manages to enjoy some of the attractions. Later on, Jiminy finds that all of the children have turned into donkeys and that the Coachman sells them to the salt mines with help from his [[Ghosts|Vapor Monsters]]. Pinocchio witnesses Lampwick's transformation at a [[billiard hall]] as Pinocchio gains a donkey's ears and tail. Pinocchio and Jiminy escape the island before the Coachman and his goons can get them.
+
+Pinocchio and Jiminy make it back to Geppetto's, but find that Sofia gave him a flyer of Pleasure Island to let him know where Pinocchio was and that he sold all of his clocks to buy a boat to go there. Pinocchio reunites with Fabiana and Sabina who tell him that Stromboli has been arrested by the [[Carabinieri]] last night for cruelty against his employees, and they have taken over his puppet show. They offer Pinocchio to join them, but Pinocchio declines, wanting to save his father, which makes his donkey parts disappear. Sofia pulls a rope for Pinocchio to hold out to the [[Mediterranean Sea]], where they soon find Geppetto in his boat. Just as they reunite, they are swallowed by a giant [[sea monster]] named [[The Terrible Dogfish|Monstro]]. They take refuge in a giant boat in Monstro's stomach and Pinocchio gets the idea to make him sneeze by starting a fire within him. The plan works, and Monstro sneezes them out, but he gives chase that ends with the group crashing on dry land and apparently killing Geppetto.
+
+Believing his father has died, Pinocchio mourns over him and a magical tear falls from his eye on Geppetto, reviving him. Geppetto tells Pinocchio that despite being a puppet, he has proven himself to be a true boy at heart. As Pinocchio and Geppetto depart for home, Jiminy narrates that stories have been told of Pinocchio becoming a real boy, but does not confirm them, stressing that, in his heart, Pinocchio is already a real boy.
