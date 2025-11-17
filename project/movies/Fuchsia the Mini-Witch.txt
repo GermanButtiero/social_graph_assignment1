@@ -35,5 +35,4 @@
 | gross          = $2.5 million<ref name="BOM">{{Cite Box Office Mojo |id=1382720|title=Fuchsia the Mini-Witch (2010)|access-date=August 21, 2024}}</ref>
 }}
 
-==Plot==
-{{No plot|date=August 2024}}
+PLOT: 

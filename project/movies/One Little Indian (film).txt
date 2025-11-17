@@ -26,5 +26,4 @@
 | gross          = $2 million
 }}
 
-==Plot==
-A cavalry soldier's misadventures with a camel and a little boy.
+PLOT: A cavalry soldier's misadventures with a camel and a little boy.

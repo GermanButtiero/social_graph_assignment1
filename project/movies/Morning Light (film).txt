@@ -18,14 +18,4 @@
 | gross = $275,776<ref>{{Cite web|url=https://boxofficemojo.com/movies/?id=morninglight.htm|title = Morning Light}}</ref>
 }}
 
-== Plot ==
-''Morning Light''  is a documentary that follows the youngest crew (by average age)<ref name="sailingworld"/> to compete in the Transpac. All crew members were between 18 and 23 at the time. The film follows the formation of the ''Morning Light'' sailing team, their six months of training in advance of the yacht race, and finally the weeklong Los Angeles to Honolulu race itself.
-
-The crew numbered 15 young sailors of varied experience: Chris Branning, Graham Brant-Zawadzki, Chris Clark, [[Charlie Enright]], Jesse Fielding, Robbie Kane, Steve Manson, Chris Schubert, Kate Theisen, Mark Towill (at 18, the youngest crew member), Genny Tulloch, navigator Piet van Os, Chris Welch, Kit Will and the 21-year-old skipper, Jeremy Wilmot.<ref>{{cite news 
-  | last = Roberts
-  | first = Rich
-  | title = Jeremy Wilmot chosen as Morning Light skipper
-  | publisher = Sail World
-  | date = April 26, 2007
-  | url = http://www.sail-world.com/pda.cfm?Nid=33026&RequestTimeOut=180
-  | accessdate = 2008-08-06}}</ref>
+PLOT: ''Morning Light''  is a documentary that follows the youngest crew (by average age)

@@ -33,5 +33,4 @@
 | budget         = 
 }}
 
-==Plot==
-In the vast forests of India, a female Bengal tiger named Ambar has recently birthed an unusually large litter of four cubs. She will need to feed and protect her cubs for months before they can eat solid foods or hunt on their own. She will also need to hunt for meat to keep up her milk supply, leaving her cubs alone at times. The cubs are in regular danger from other predators, including the king of the jungle, male tiger Shankar. Through it all, Ambar navigates her environment and Shankar, as the cubs grow to full size.
+PLOT: In the vast forests of India, a female Bengal tiger named Ambar has recently birthed an unusually large litter of four cubs. She will need to feed and protect her cubs for months before they can eat solid foods or hunt on their own. She will also need to hunt for meat to keep up her milk supply, leaving her cubs alone at times. The cubs are in regular danger from other predators, including the king of the jungle, male tiger Shankar. Through it all, Ambar navigates her environment and Shankar, as the cubs grow to full size.

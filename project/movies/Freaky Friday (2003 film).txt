@@ -4,11 +4,11 @@
 | director       = [[Mark Waters]]
 | producer       = [[Andrew Gunn (film producer)|Andrew Gunn]]
 | based_on       = {{Based on|''[[Freaky Friday]]''|[[Mary Rodgers]]}}
-| screenplay     = {{Plainlist|
+| screenplay     = {{plainlist|
 * [[Heather Hach]]
 * [[Leslie Dixon]]
 }}
-| starring       = {{Plainlist|
+| starring       = {{plainlist|
 * [[Jamie Lee Curtis]]
 * [[Lindsay Lohan]]
 * [[Harold Gould]]
@@ -18,12 +18,12 @@
 | music          = [[Rolfe Kent]]
 | cinematography = [[Oliver Wood (cinematographer)|Oliver Wood]]
 | editing        = [[Bruce Green]]
-| studio         = {{Plainlist|
+| studio         = {{plainlist|
 * [[Walt Disney Pictures]]
-* Gunn Films
+* [[Gunn Films]]
 }}
-| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]
-| released       = {{Film date|2003|08|4|[[Los Angeles]]|2003|08|6|United States}}
+| distributor    = [[Buena Vista Pictures Distribution]]
+| released       = {{Film date|2003|8|4|Los Angeles|2003|8|6|United States}}
 | runtime        = 97 minutes<ref>{{Cite web |date=August 20, 2003|title=''Freaky Friday'' (PG) |url=https://www.bbfc.co.uk/release/freaky-friday-q29sbgvjdglvbjpwwc0zndmwodg|access-date=April 22, 2024 |website=[[British Board of Film Classification|BBFC]]}}</ref>
 | country        = United States
 | language       = English
@@ -31,16 +31,15 @@
 | gross          = $160.8 million<ref name=BoxOfficeMojo/>
 }}
 
-==Plot==
-15-year-old Teenage musician Anna Coleman lives in [[Los Angeles]] with her 9-year-old younger brother Harry, their widowed psychologist mother Tess, and grandfather Alan. Tess is engaged to Ryan Volvo, but Anna has not accepted the engagement, still coping with the death of her father three years earlier. At school, Anna contends with unsympathetic teachers, bullying from her former best friend Stacey Hinkhouse, and an infatuation with a classmate named Jake Austin, whom Tess disapproves of. Anna plays guitar in a band, Pink Slip, which is preparing to audition for a spot in the [[Wango Tango]] showcase. However, the audition coincides with Tess and Ryan's wedding rehearsal, preventing Anna from attending.
+PLOT: 15-year-old teenage musician Anna Coleman lives in Los Angeles with her 9-year-old younger brother Harry, their widowed psychologist mother Tess, and grandfather Alan. Tess is engaged to Ryan Volvo, but Anna has not accepted the engagement, still coping with the death of her father three years earlier. At school, Anna contends with unsympathetic teachers, bullying from her former best friend Stacey Hinkhouse, and an infatuation with a classmate named Jake Austin, whom Tess disapproves of. Anna plays guitar in a band, Pink Slip, which is preparing to audition for a spot in the Wango Tango showcase. However, the audition coincides with Tess and Ryan's wedding rehearsal, preventing Anna from attending.
 
-During dinner at Pei-Pei's [[Chinese restaurant]], Anna and Tess argue. Pei-Pei's mother overhears them arguing and gives them [[fortune cookie]]s, which they open while reading the fortunes aloud simultaneously. An earthquake then occurs, which only Anna and Tess feel. The next morning, they discover they have switched bodies.
+During dinner at Pei-Pei's Chinese restaurant, Anna and Tess argue. Pei-Pei's mother overhears them arguing and gives them fortune cookies, which they open while reading the fortunes aloud simultaneously. An earthquake then occurs, which only Anna and Tess feel. The next morning, they discover they have switched bodies.
 
 Tess attends high school as Anna and experiences firsthand the challenges her daughter faces, including targeted mistreatment by English teacher Elton Bates, who holds a grudge after Tess rejected him at their prom decades earlier. Tess threatens to report him unless he treats Anna fairly. Meanwhile, Anna, inhabiting Tess's body, struggles to manage her mother's patients and the responsibilities of adulthood. They return to the restaurant, where Pei-Pei explains that only an act of selfless love can reverse the switch.
 
-While attending Harry's [[parent–teacher conference]], Anna reads a heartfelt essay he wrote about her, prompting her to treat him more kindly. Tess, attempting to reconcile with Stacey, is framed for cheating and sent to detention. Jake helps her complete the test, leading Tess to reevaluate her opinion of him; then punishes Stacey by sabotaging her exam. However, her personality in Anna's body disappoints Jake. At the same time, Anna—still in Tess's body—is surprised with an impromptu live TV interview about Tess's latest book. Having not read it, she improvises a monologue about aging. Tess and Jake watch the segment, which mortifies the former and amuses the latter.
+While attending Harry's parent–teacher conference, Anna reads a heartfelt essay he wrote about her, prompting her to treat him more kindly. Tess, attempting to reconcile with Stacey, is framed for cheating and sent to detention. Jake helps her complete the test, leading Tess to reevaluate her opinion of him; then punishes Stacey by sabotaging her exam. However, her personality in Anna's body disappoints Jake. At the same time, Anna—still in Tess's body—is surprised with an impromptu live TV interview about Tess's latest book. Having not read it, she improvises a monologue about aging. Tess and Jake watch the segment, which mortifies the former and amuses the latter.
 
-Anna later visits Jake at work, where they connect over music. At the [[rehearsal dinner]], her bandmates get caught attempting to sneak her out for the audition. Ryan allows her to leave, hoping to build trust. Tess and Anna switch roles at the audition, with Anna playing guitar offstage while Tess pretends to perform. After seeing Anna playing guitar, Tess commits to being more supportive. Jake, unaware of the switch, is impressed by the performance.
+Anna later visits Jake at work, where they connect over music. At the rehearsal dinner, her bandmates get caught attempting to sneak her out for the audition. Ryan allows her to leave, hoping to build trust. Tess and Anna switch roles at the audition, with Anna playing guitar offstage while Tess pretends to perform. After seeing Anna playing guitar, Tess commits to being more supportive. Jake, unaware of the switch, is impressed by the performance.
 
 Returning to the rehearsal dinner, Tess tells Anna to ask Ryan to postpone the wedding until they switch back. Instead, Anna delivers a heartfelt toast, acknowledging Ryan's role in her mother's happiness. With this act of selflessness, the two return to their original bodies.
 
