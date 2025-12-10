@@ -1,0 +1,39 @@
+{{Infobox film
+| name           = Rise
+| image          = Rise (2022 film).jpg
+| caption        = Release poster
+| director       = [[Akin Omotoso]]
+| producer       = Bernie Goldmann
+| writer         = [[Arash Amel]]
+| based_on       =
+| starring       = {{plainlist|
+* Uche Agada
+* Ral Agada
+* Jaden Osimuwa
+* Elijah Shomanke
+* [[Yetide Badaki]]
+* [[Dayo Okeniyi]]
+}}
+| music          = Ré Olunuga
+| cinematography = Kabelo Thathe
+| editing        = Vuyani Sondlo
+| production_companies = {{plainlist|
+* [[Walt Disney Pictures]]
+* [[Faliro House Productions]]
+}}
+| distributor    = [[Disney+]]
+| released       = {{Film date|2022|06|24}}
+| runtime        = 111 minutes
+| country        = United States<br>Greece
+| language       = English<br>Greek
+| budget         = 
+| gross          = 
+}}
+
+PLOT: In 1990, Charles and Veronica "Vera" Antetokounmpo are forced to leave their eldest son Francis in Nigeria while they travel to Greece for a better life. They are unable to get visas due to the political climate and thus have no identification and must remain in hiding. By 2004, they are settled and have four more sons, Thanasis, Giannis, Kostas and Alexandros. Despite being born in Greece, they are not granted legal citizenship due to ''jus sanguinis'' nationality laws; putting their family at risk of deportation and separation. Their Yoruba surname is ''hellenized'' to Antetokounmpo amidst immigration processing after the family escapes refugee round-ups in Turkey. Charles tries to get documentation, but the double standard, in that he needs a visa for work, but he cannot get a job necessary to get a visa, frustrates the whole family.
+
+Thanasis and Giannis begin playing basketball in the park. While Thanasis shows natural skill, Giannis has difficulty learning the game, but displays potential. They are invited to go to Filathlitikos to use the gym for free where they meet the coach Takis Zivas who sees promise in the two. By 2007, Thanasis is a star player and Giannis has improved significantly. The Antetokounmpos continue to face adversity when Thanasis is offered a check by a promising college team, only for it to get denied when his family history is looked into. Charles buys a car for the family, but are nearly kicked out of their apartment despite having the money for the next two weeks.
+
+While playing a match, Giannis and Thanasis are scouted by drafters, particularly a young one named Haris Eleftheriou who is trying to convince the scout manager Paco to recruit the brothers. During the game Thanasis injures his leg; leaving Giannis to finish the game. Paco is unwilling to commit to them due to their status and Haris convinces Giannis to sign with him. True to their fears, none of the major teams are willing to sign Giannis; forcing him to have to play for recruitment. A Spanish league is willing to sign to him and will even grant Giannis citizenship, but he asks that his family also get recognized as well. Paco attempts to usurp Haris by offering them money, citizenship and immediate acceptance, but Haris will be dropped. Not willing to let go the person who fought for them, the Antetokounmpos turn down his offer.
+
+Haris reveals that the Spanish team will not sign him to them, but they will grant him eligibility to try out for the 2013 NBA draft. If he succeeds his whole family will be relocated to America. Giannis asks that Thanasis come with him as they and Haris arrive in New York City to meet with American agent Kevin Stefanides. Haris and Kevin continue to try and pitch Giannis to various recruiters and manage to speak with John Hammond who appears apprehensive, though they do manage to intrigue a representative from Nike. Giannis is nervous after hearing that he might not be good enough, but Thanasis supports him. At the draft, Giannis is thrilled to hear that the Milwaukee Bucks chose him as their fifteenth pick; securing his family's future.
